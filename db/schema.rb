@@ -10,10 +10,29 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_10_26_145832) do
+ActiveRecord::Schema.define(version: 2019_10_26_155327) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "episodes", force: :cascade do |t|
+    t.string "title", null: false
+    t.text "description"
+    t.text "link_to_website"
+    t.string "guid"
+    t.datetime "publication_date"
+    t.string "enclosure_url"
+    t.string "enclosure_length"
+    t.string "enclosure_type"
+    t.boolean "itunes_explicit"
+    t.integer "itunes_duration"
+    t.string "itunes_image"
+    t.string "itunes_episode_type"
+    t.bigint "podcast_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["podcast_id"], name: "index_episodes_on_podcast_id"
+  end
 
   create_table "podcasts", force: :cascade do |t|
     t.string "title", null: false
