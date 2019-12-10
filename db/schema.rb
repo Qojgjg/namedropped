@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_12_10_195721) do
+ActiveRecord::Schema.define(version: 2019_12_10_203800) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -55,7 +55,7 @@ ActiveRecord::Schema.define(version: 2019_12_10_195721) do
     t.string "website"
     t.string "rss", null: false
     t.string "country"
-    t.string "itunes_image", null: false
+    t.string "itunes_image"
     t.boolean "itunes_explicit"
     t.boolean "itunes_complete"
     t.string "itunes_author"
