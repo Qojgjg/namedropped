@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_12_10_203800) do
+ActiveRecord::Schema.define(version: 2020_01_07_082009) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -68,6 +68,8 @@ ActiveRecord::Schema.define(version: 2019_12_10_203800) do
     t.datetime "updated_at", null: false
     t.integer "rating_count"
     t.float "average_rating"
+    t.integer "itunes_id"
+    t.index ["itunes_id"], name: "index_podcasts_on_itunes_id", unique: true
   end
 
   add_foreign_key "categories", "categories", column: "parent_id"
