@@ -1,0 +1,2294 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Inside The Exorcist",
+        "rss_feed_url": "https://rss.art19.com/inside-the-exorcist",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 1648,
+        "average_rating": 4.6,
+        "description": "In 1973 Hell came home and invaded the body of a young girl. This is the story of a movie and its makers. It's a tale of dark and light, of loss and love. A story of faith and fury, of causes and curses, of horrors real and imagined, of unbridled ego and brute force filmmaking. It's the movie critics called \"religious pornography\" and \"occultist claptrap.\" The movie that left audiences...hysterical. Decades later, it remains perhaps the most frightening movie we will ever see. From Wondery, this is a seven-part deep dive inspired by the story behind an unforgettable, classic movie. This is...Inside The Exorcist.",
+        "itunes_id": "1272973183",
+        "content_rating": "clean",
+        "artist_name": "Wondery",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-the-exorcist/id1272973183",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1272973183",
+        "website": "http://wondery.com/insidetheexorcist"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Unspooled",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/9298412b-3686-41ef-ae8e-aaa80008d149/97a99509-3667-475e-b2f0-aaa80008d14e/podcast.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 2382,
+        "average_rating": 4.6,
+        "description": "Paul Scheer is a lifelong movie buff, but he's never seen many of the all time greats. On Unspooled, his team-up with film critic Amy Nicholson, he's remedying that by watching the AFI's top 100 movies of all time, to find out what makes classics like Citizen Kane and Taxi Driver so special. Paul & Amy will dissect iconic scenes, talk to artists and industry experts, and discover just how these films got made.",
+        "itunes_id": "1381507437",
+        "content_rating": "explicit",
+        "artist_name": "Earwolf, Paul Scheer & Amy Nicholson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/unspooled/id1381507437",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1381507437",
+        "website": "https://earwolf.com/show/unspooled"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside Psycho",
+        "rss_feed_url": "https://rss.art19.com/inside-psycho-wondery",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 721,
+        "average_rating": 4.7,
+        "description": "A deep dive into the mysterious and peculiar happenings that occurred during the filming of the legendary film Psycho. \n\nMark Ramsey Media and Wondery create a magical mix of fact and fiction which transports you into the world of Hitchcock. Psycho is among the greatest thrillers in movie history--and it nearly didn't happen!",
+        "itunes_id": "1207876943",
+        "content_rating": "clean",
+        "artist_name": "Wondery",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-psycho/id1207876943",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1207876943",
+        "website": "http://www.wondery.com/shows/InsidePsycho"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside Jaws",
+        "rss_feed_url": "https://rss.art19.com/inside-jaws",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 1411,
+        "average_rating": 4.5,
+        "description": "From the creators of Inside Psycho and Inside the Exorcist comes a new story about a classic movie and its inspirations. A tale of a modest thriller that became an ordeal and then a disaster and then a phenomenon and then a classic. A story of one man, a fresh-faced, inexperienced director who nearly wrecked his promising career and became the most important filmmaker of our era. This is Inside JAWS.",
+        "itunes_id": "1387670973",
+        "content_rating": "clean",
+        "artist_name": "Wondery",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-jaws/id1387670973",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1387670973",
+        "website": "https://art19.com/shows/inside-jaws"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "/Film Daily",
+        "rss_feed_url": "https://daily.slashfilm.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Daily News"
+        ],
+        "rating_count": 519,
+        "average_rating": 4.6,
+        "description": "Movie, television news, discussion and analysis from the writers at slashfilm.com.",
+        "itunes_id": "1254073246",
+        "content_rating": "clean",
+        "artist_name": "SlashFilm.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/film-daily/id1254073246",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1254073246",
+        "website": "http://daily.slashfilm.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside Star Wars",
+        "rss_feed_url": "https://rss.art19.com/inside-star-wars",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 1108,
+        "average_rating": 4.3,
+        "description": "From the creators of Inside Psycho, Inside the Exorcist, and Inside Jaws, comes a new immersive audio biopic about the making of the original 1977 Star Wars. It was a movie made on a shoestring and dumped into a handful of movie theaters. And then it changed the world. This is the story of George Lucas and his dream. We take you inside the stories of the people who struggled to make the original classic and the people who did their very best to stop it dead. Now playing in all galaxies.",
+        "itunes_id": "1459899343",
+        "content_rating": "clean",
+        "artist_name": "Wondery",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-star-wars/id1459899343",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459899343",
+        "website": "https://art19.com/shows/inside-star-wars"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SinCast - Presented by CinemaSins",
+        "rss_feed_url": "http://cinemasins.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 758,
+        "average_rating": 4.7,
+        "description": "From the co-creators of CinemaSins: Chris Atkinson and Jeremy Scott, who provide your favorite movie and culture nitpicking, are joined by Barrett Share from Music Video Sins, and other guests to discuss, analyze, and ridicule the world of entertainment.",
+        "itunes_id": "1073364619",
+        "content_rating": "explicit",
+        "artist_name": "CinemaSins",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sincast-presented-by-cinemasins/id1073364619",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1073364619",
+        "website": "http://cinemasins.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Projection Booth Podcast",
+        "rss_feed_url": "http://www.spreaker.com/show/1268202/episodes/feed",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Interviews"
+        ],
+        "rating_count": 346,
+        "average_rating": 4.8,
+        "description": "The Projection Booth has been recognized as a premier film podcast by The Washington Post, The A.V. Club, IndieWire, Entertainment Weekly, and Filmmaker Magazine. With over 400 episodes to date and an ever-growing fan base, The Projection Booth regularly attracts special guest talent eager to discuss their past gems, including Elliott Gould, John Waters, Ed Harris, Luke Wilson, Chris Elliott, Ellen Burstyn, Bruce Dern, Nicholas Meyer, William Friedkin, Julie Taymor, Joe Dante, and more. The podcast features discussions of films from a wide variety of genres with in-depth critical analysis.\n\nFollow us on Twitter @proboothcast and visit us at www.projectionboothpodcast.com",
+        "itunes_id": "421863760",
+        "content_rating": "clean",
+        "artist_name": "The Projection Booth",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-projection-booth-podcast/id421863760",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=421863760",
+        "website": "https://www.spreaker.com/show/the-projection-booth-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Next Picture Show",
+        "rss_feed_url": "http://doppler.la2.hwcdn.net/f3d9q2w8/cds/FLM2375047009?dopvhost=feeds.megaphone.fm&x-hw-redirect=dop009.sj2.hwcdn.net&doppath=/FLM2375047009",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 465,
+        "average_rating": 4.8,
+        "description": "A biweekly roundtable by the former editorial team of The Dissolve examining how classic films inspire and inform modern movies. Episodes take a deep dive into a classic film and its legacy in the first half, then compare and contrast that film with a modern successor in the second. Hosted and produced by Genevieve Koski, Keith Phipps, Tasha Robinson and Scott Tobias. Part of the Filmspotting family of podcasts.",
+        "itunes_id": "1057714949",
+        "content_rating": "clean",
+        "artist_name": "Filmspotting Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-next-picture-show/id1057714949",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1057714949",
+        "website": "https://nextpictureshow.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Soundtrack Show",
+        "rss_feed_url": "https://feeds.megaphone.fm/HSW2193473754",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music History"
+        ],
+        "rating_count": 885,
+        "average_rating": 4.9,
+        "description": "The Soundtrack Show is a weekly look at film scores and soundtracks for some of the most popular movies, TV Shows, Video Games and Theater pieces of all time.",
+        "itunes_id": "1351960656",
+        "content_rating": null,
+        "artist_name": "iHeartRadio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-soundtrack-show/id1351960656",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1351960656",
+        "website": "https://www.soundtrackpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Blockbuster",
+        "rss_feed_url": "https://feeds.megaphone.fm/blockbuster",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts"
+        ],
+        "rating_count": 1300,
+        "average_rating": 4.9,
+        "description": "GetBlockbuster.com | Set in the 1970s, this hit immersive \"biopod\" miniseries tells the story of two big-dreaming filmmakers and friends, Steven Spielberg and George Lucas, and how they turned their lives upside down to lead a movie revolution.",
+        "itunes_id": "1451112935",
+        "content_rating": "clean",
+        "artist_name": "Epicleff Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/blockbuster/id1451112935",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451112935",
+        "website": "http://getblockbuster.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Based on a True Story",
+        "rss_feed_url": "http://basedonatruestory.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "History"
+        ],
+        "rating_count": 202,
+        "average_rating": 4.5,
+        "description": "We've all seen the movies that claim to be 'based on a true story', but have you ever wondered how historically accurate they are? That's what we'll aim to find out as we compare Hollywood with history.",
+        "itunes_id": "1099478699",
+        "content_rating": "clean",
+        "artist_name": "Dan LeFebvre",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/based-on-a-true-story/id1099478699",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1099478699",
+        "website": "http://www.basedonatruestorypodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dearly Departed Podcast",
+        "rss_feed_url": "https://dearlydeparted.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "True Crime"
+        ],
+        "rating_count": 230,
+        "average_rating": 4.9,
+        "description": "An irreverent journey through the dark side of Hollywood history with historian Scott Michaels (Hollywood’s Dearly Departed Tours) and filmmaker Mike Dorsey (The Six Degrees of Helter Skelter, Murder Rap: Inside the Biggie and Tupac Murders).",
+        "itunes_id": "1447769441",
+        "content_rating": "clean",
+        "artist_name": "Dearly Departed Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dearly-departed-podcast/id1447769441",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1447769441",
+        "website": "https://dearlydeparted.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cinephiliacs",
+        "rss_feed_url": "http://thecinephiliacs.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Interviews"
+        ],
+        "rating_count": 98,
+        "average_rating": 4.7,
+        "description": "The Cinephiliacs is a podcast exploring the past and future of cinephelia. Film critic Peter Labuza has interviewed critics, programmers, academics, filmmakers, and more about their relationship to film and film culture. Additionally, each guest will bring in a particular favorite film and discuss it with Labuza. Indiewire declares, \"If you want to hear film critics talk at length about their craft, there are few better places on the Internet\" and Keyframe Daily has called it \"Exhibit A\" for the future of film culture",
+        "itunes_id": "544565659",
+        "content_rating": "clean",
+        "artist_name": "Peter Labuza",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cinephiliacs/id544565659",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=544565659",
+        "website": "http://www.thecinephiliacs.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "One Heat Minute Productions",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/3795",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 57,
+        "average_rating": 4.8,
+        "description": "ONE HEAT MINUTE: Australian film journalist Blake Howard examines Michael Mann's 1995 crime opus HEATchronologically, in 60-second increments, in the aptly titled \"One HEAT Minute.\" With more than 170 episodes, a line-up including famous filmmakers (Joe Lynch, Dante Spinotti, Phil Hay, Abe Forsythe), writers (Reed Farrel Coleman, Jordan Harper), educators, major critics (Manohla Dargis, Bilge Ebiri, Matt Zoller Seitz, Walter Chaw) and film journalists (Kris Tapley, Chris Evangelista).  The finale features the legendary mastermind director, screenwriter and producer behind the film Michael Mann. \n\nTHE LAST (12 minutes) OF THE MOHICANS is a twelve-episode limited podcast series focusing on the climax of the Michael Mann's 1992 epic The Last of the Mohicans. The final episode - once again will feature Mr Mann to unpack his intentions with the film in the conception and orchestration of its grand ending.\n\nINCREMENT VICE: The podcast that explores Paul Thomas Anderson's INHERENT VICE one scene at a time, with your host, Travis Woods",
+        "itunes_id": "1274489817",
+        "content_rating": "clean",
+        "artist_name": "Blake Howard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/one-heat-minute-productions/id1274489817",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1274489817",
+        "website": "https://oneheatminute.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Matinee Movies",
+        "rss_feed_url": "http://matineemovies.rnn.libsynpro.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Kids & Family",
+          "Stories for Kids"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.5,
+        "description": "Matinee Movies takes you on a journey through film history with those great afternoon matinee movies that kept you coming back each week. How many of us saved our pennies to see our favorite stars, experience those great horror movies or journey back to the wild west with our favorite cowboy hero.",
+        "itunes_id": "252607687",
+        "content_rating": "clean",
+        "artist_name": "Humphrey-Camardella",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/matinee-movies/id252607687",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=252607687",
+        "website": "http://oldtimeradiodvd.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Halloweenies: A Freddy Krueger Podcast",
+        "rss_feed_url": "https://rss.acast.com/halloweenies",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "After Shows"
+        ],
+        "rating_count": 265,
+        "average_rating": 4.7,
+        "description": "Halloweenies is a monthly podcast for fans of all horror franchises. Each season, co-hosts McKenzie Gerber, Dan Caffrey, Justin Gerber, and Michael Roffman slice through an iconic series one movie at a time. They started in Haddonfield, Illinois with Halloween, and now they’re heading to Springwood, Ohio for A Nightmare on Elm Street. There will be tricks, there will be treats, and, yes, there will be blood.",
+        "itunes_id": "1348188941",
+        "content_rating": "explicit",
+        "artist_name": "Consequence Podcast Network",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/halloweenies-a-freddy-krueger-podcast/id1348188941",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1348188941",
+        "website": "https://consequenceofsound.net/halloweenies/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Full Cast And Crew",
+        "rss_feed_url": "https://fullcastandcrew.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Comedy"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.5,
+        "description": "(Werner Herzog voice) FULL CAST & CREW is a podcast that awards a film the coveted honor of our going down the rabbit hole of the Full Cast & Crew section of its IMDB page, coaxing forth meaning, dancing with its animal spirits, divining the divine fire that burns at its very heart, and reading, like runes, the unlikely connections, weird trivia, and strange quotes to determine where this film sits in the grand cave painting that is human culture.  All done in the patented FCAC way that has made hosts Chris and Jason household names. Or will make them household names. By March. At the latest. Maybe early April.",
+        "itunes_id": "1438276325",
+        "content_rating": "explicit",
+        "artist_name": "chuckler.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/full-cast-and-crew/id1438276325",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438276325",
+        "website": "http://fullcastandcrew.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Matinee Movies",
+        "rss_feed_url": "http://matineemovies.rnn.beta.libsynpro.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Kids & Family",
+          "Stories for Kids"
+        ],
+        "rating_count": 17,
+        "average_rating": 4,
+        "description": "Matinee Movies takes you on a journey through film history with those great afternoon matinee movies that kept you coming back each week. How many of us saved our pennies to see our favorite stars, experience those great horror movies or journey back to the wild west with our favorite cowboy hero.",
+        "itunes_id": "288415651",
+        "content_rating": "clean",
+        "artist_name": "Humphrey-Camardella",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/matinee-movies/id288415651",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=288415651",
+        "website": "http://oldtimeradiodvd.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "It Happened In Hollywood",
+        "rss_feed_url": "https://feeds.simplecast.com/Ij55OSvf",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Interviews"
+        ],
+        "rating_count": 78,
+        "average_rating": 4.3,
+        "description": "On this podcast, Seth Abramovitch, senior writer at The Hollywood Reporter, and Chip Pope, an Emmy-winning TV writer and comic, take you behind the scenes of the indelible pop culture moments that shaped Hollywood history — with special guests who were actually there. In a town where everything old is eventually new again, Seth and Chip give listeners a front-row seat to the way things were. Welcome to IT HAPPENED IN HOLLYWOOD!\n\nHosted by: Seth Abramovitch and Chip Pope\nProduced by: Matthew Whitehurst\nTheme music composed by: Paul Masvidal and Sean Malone\n\n'It Happened In Hollywood' is hosted by www.Simplecast.com",
+        "itunes_id": "1437795866",
+        "content_rating": "clean",
+        "artist_name": "The Hollywood Reporter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/it-happened-in-hollywood/id1437795866",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437795866",
+        "website": "https://www.hollywoodreporter.com/topic/it-happened-hollywood"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Evolution of Horror",
+        "rss_feed_url": "http://evolutionofhorror.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 115,
+        "average_rating": 4.9,
+        "description": "Welcome horror lovers! The Evolution of Horror is a movie discussion podcast that covers scary movies old and new, from Universal Monsters to Exploitation, from Hitchcock to Ti West. Mike the host will be joined by different guest hosts each week, and will be covering anything and everything horror related, be looking at the way horror films have changed and evolved over the last hundred years.",
+        "itunes_id": "1276042346",
+        "content_rating": "explicit",
+        "artist_name": "Mike Muncer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-evolution-of-horror/id1276042346",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1276042346",
+        "website": "http://evolutionofhorror.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hypnogoria",
+        "rss_feed_url": "http://hypnogoria.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Fiction"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.8,
+        "description": "Welcome to Hypnogoria, Britian's longest running horror podcast! \n\nComing to you from the Great Library of Dreams, Mr Jim Moon invites you to take a comfy armchair by the fireside to talk of all things weird and wonderful.   \n\nHere we discuss strange cinema and spooky television, explore weird fiction and delve into the mysteries of folklore. Plus we also regularly gather by the fireside to hear readings of some classic tales of the strange and the macabre.",
+        "itunes_id": "459436811",
+        "content_rating": "explicit",
+        "artist_name": "Hypnogoria",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hypnogoria/id459436811",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=459436811",
+        "website": "http://hypnogoria.blogspot.co.uk/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Decades of Horror 1980s",
+        "rss_feed_url": "https://decadesofhorror.com/feed/doh80s/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.5,
+        "description": "From the grue-crew behind Horror News Radio, Decades of Horror 1980s covers the horror, sci-fi and fantasy films from the Eighties. Classics from John Carpenter, Tobe Hooper, Wes Craven, David Cronenberg and more.",
+        "itunes_id": "473140281",
+        "content_rating": "explicit",
+        "artist_name": "Gruesome Magazine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/decades-of-horror-1980s/id473140281",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=473140281",
+        "website": "https://decadesofhorror.com/episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Headcanon",
+        "rss_feed_url": "https://feedpress.me/headcanon",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 108,
+        "average_rating": 5,
+        "description": "A podcast discussing narratives and the creative process in film, tv, books and video games.",
+        "itunes_id": "1038314297",
+        "content_rating": "explicit",
+        "artist_name": "Benjamin Light and Marco Sparks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/headcanon/id1038314297",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1038314297",
+        "website": "http://headcanon.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Slums of Film History",
+        "rss_feed_url": "http://www.slumsoffilmhistory.com/episodes?format=rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 80,
+        "average_rating": 5,
+        "description": "Slums of Film History is an in-depth podcast on niche film topics that aren't normally discussed in polite company. We take turns weekly discussing a single topic from everything to bodily fluids to T&A to exploding heads. If there is a film subject too taboo we haven’t found it yet. Welcome.",
+        "itunes_id": "1047470403",
+        "content_rating": "clean",
+        "artist_name": "Slate and Tom",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/slums-of-film-history/id1047470403",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1047470403",
+        "website": "http://www.slumsoffilmhistory.com/episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Decades of Horror | Movie Reviews of 1970s Classic Horror Films",
+        "rss_feed_url": "http://decadesofhorror.com/feed/podcast/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.6,
+        "description": "Doc Rotten and The Black Saint recap and review The best and worst horror movies from the 1970s. Grindhouse. Blacksploitation. Hollywood Blockbusters. B Movies. Films like Exorcist | The Car | Phantasm | Halloween | The Incredible Melting Man | The Manitou | Jaws| Vampire Circus | Dawn of the Dead | The Omen",
+        "itunes_id": "826194407",
+        "content_rating": "clean",
+        "artist_name": "Doc Rotten and The Black Saint",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/decades-horror-movie-reviews-1970s-classic-horror-films/id826194407",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=826194407",
+        "website": "https://decadesofhorror.com/episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "There's Something About Dolemite",
+        "rss_feed_url": "https://feeds.simplecast.com/yoX2vtkU",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "There's Something About Dolemite is the official podcast for the new Netflix film \"Dolemite Is My Name\". Throughout the season, host Brandon Jenkins explores how the blaxploitation era and comedian Rudy Ray Moore's \"Dolemite\" have had a lasting impact on black culture.",
+        "itunes_id": "1482675834",
+        "content_rating": "clean",
+        "artist_name": "Netflix",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/theres-something-about-dolemite/id1482675834",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482675834",
+        "website": "https://theres-something-about-dolemite.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kill By Kill",
+        "rss_feed_url": "https://feeds.simplecast.com/U7P4sZx2",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Comedy",
+          "Improv"
+        ],
+        "rating_count": 131,
+        "average_rating": 4.9,
+        "description": "In each episode, Patrick Hamilton and Gena Radcliffe unpack all the gory details of horror cinema's least discussed topic: the characters. Starting with the classic slashers, Friday the 13th and Nightmare on Elm Street, our mission is to detail each hack, slash and decapitation in the hopes that a victim's untimely end is just the beginning of the jokes we can make about them.",
+        "itunes_id": "1124379551",
+        "content_rating": "explicit",
+        "artist_name": "We Write Good",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kill-by-kill/id1124379551",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1124379551",
+        "website": "https://killbykill.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "History in Technicolor",
+        "rss_feed_url": "https://rss.acast.com/historyintechnicolour",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "History"
+        ],
+        "rating_count": 54,
+        "average_rating": 4.6,
+        "description": "Wolf and David explore the history films we love or (or sometimes, films we’d loved just a little less but find interesting). Turns out we like different things…anyway, then we given them a score for two things – how good are they as a film, and how accurate are they with their history.\nWhen you’ve listened, join us at the History of England Facebook Group – you can vote, and tell us what you think of the film, and you can even tell us (in no uncertain terms) what you think of our views (while writing to your MP in the strongest possible terms).",
+        "itunes_id": "1403428143",
+        "content_rating": "clean",
+        "artist_name": "David Crowther and Wolf O'Neill",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/history-in-technicolor/id1403428143",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1403428143",
+        "website": "https://thehistoryofengland.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Paleo-Cinema Podcast",
+        "rss_feed_url": "https://paleocinema.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.9,
+        "description": "A podcast about movies: retro, cult, gross, forgotten and interesting movies.",
+        "itunes_id": "275318497",
+        "content_rating": "explicit",
+        "artist_name": "Terry Frost",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/paleo-cinema-podcast/id275318497",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=275318497",
+        "website": "https://paleocinema.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Story Matters",
+        "rss_feed_url": "http://storymatterspodcast.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 89,
+        "average_rating": 4.9,
+        "description": "A weekly podcast with creators Curt Mega, Kim Whalen and Mike Tobias, exploring the art of storytelling with retrospectives on films and stories new and old, examining their impact, their legacy and their lessons and applying them to the world today. Each episode we will take a deep dive into stories across a wide variety of genres and mediums to gain better insight and understanding into how the stories we tell shape our lives, impact our culture and transform our world. Special guests and in-depth conversations about the creative process and the art of storytelling. New episodes every Monday. Available on iTunes/Apple Podcasts, Google Play Music, Spotify, Stitcher, Overcast or wherever you listen to podcasts! You can also find all episodes at www.storymatterspodcast.com",
+        "itunes_id": "1190662967",
+        "content_rating": "clean",
+        "artist_name": "Curt Mega",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/story-matters/id1190662967",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1190662967",
+        "website": "http://storymatterspodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Circuit Breaker! - The Awards, Film, & TV Podcast",
+        "rss_feed_url": "https://www.awardscircuit.com/feed/podcast",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.5,
+        "description": "Talking the Oscars, Emmys, and all the movies and TV shows in between.",
+        "itunes_id": "1120795055",
+        "content_rating": "clean",
+        "artist_name": "AwardsCircuit.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/circuit-breaker-the-awards-film-tv-podcast/id1120795055",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1120795055",
+        "website": "https://www.awardscircuit.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Horror Business",
+        "rss_feed_url": "http://www.cinepunx.com/feed/horrorbusiness/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 39,
+        "average_rating": 4.9,
+        "description": "Horror Business is an ongoing conversation about Horror Films. Lifelong horror fans Justin Lore and Liam O'Donnell gather monthly to discuss and dissect horror films in  a sophisticated yet accessible manner. Academic yet easily digestible. High art washed down with a healthy dose of camp. Pinkies in the air whilst sipping our root beer.  You get the picture. On Horror Business Justin and Liam will watch a double feature and go in depth about the films, and each show they will invite you, the listener, to be a part of the conversation.",
+        "itunes_id": "1078298109",
+        "content_rating": null,
+        "artist_name": "Justin Lore",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/horror-business/id1078298109",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1078298109",
+        "website": "http://www.cinepunx.com/writing/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Waffle On Podcast",
+        "rss_feed_url": "https://waffleon.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "A Podcast dedicated to classic  films and the odd tv programme from around the world.",
+        "itunes_id": "298729068",
+        "content_rating": "clean",
+        "artist_name": "Simon Meddings & Mark C Kelly",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/waffle-on-podcast/id298729068",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=298729068",
+        "website": "https://waffleon.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Disney One-by-One",
+        "rss_feed_url": "https://disney1x1.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 59,
+        "average_rating": 5,
+        "description": "Hosted by brothers Mike & David Rohlfing, Disney One-by-One is a chronological look at every Walt Disney Animation Studios film - from Snow White to Ralph Breaks the Internet… and beyond. Find us everywhere on the internet @Disney1x1.",
+        "itunes_id": "1446175746",
+        "content_rating": "clean",
+        "artist_name": "@disney1x1",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/disney-one-by-one/id1446175746",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1446175746",
+        "website": "https://disney1x1.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Baton: A John Williams Musical Journey",
+        "rss_feed_url": "https://thebatonpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music History"
+        ],
+        "rating_count": 25,
+        "average_rating": 5,
+        "description": "Take a musical journey through the 60-year career of film composer John Williams!",
+        "itunes_id": "1448263089",
+        "content_rating": "clean",
+        "artist_name": "Jeff Commings",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-baton-a-john-williams-musical-journey/id1448263089",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448263089",
+        "website": "https://thebatonpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Saturday Frights Podcast – Pop Culture Retrorama",
+        "rss_feed_url": "http://popcultureretrorama.com/category/podcasts/saturday-frights-podcast/feed/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Fiction"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.8,
+        "description": "The Saturday Frights Podcast is hosted by Vic Sage and the Projectionist, shining the spotlight on retro horror films and TV episodes. We will discuss the chosen movie or TV show of the week and give insight on the cast and crew as well as other retro related fun.",
+        "itunes_id": "800774884",
+        "content_rating": "clean",
+        "artist_name": "Saturday Frights Podcast – Pop Culture Retrorama",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/saturday-frights-podcast-pop-culture-retrorama/id800774884",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=800774884",
+        "website": "http://popcultureretrorama.com/category/saturday-frights-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Back to the Future: The Podcast",
+        "rss_feed_url": "https://www.launchpaddm.com/feed/Back-to-the-Future-The-Podcast",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Interviews"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.7,
+        "description": "A retrospective on the stories, characters, and crew responsible for one of the greatest trilogies of all time. When this podcast hits 88 mph, you're going to hear some serious sh**.",
+        "itunes_id": "983494015",
+        "content_rating": "clean",
+        "artist_name": "Brad Gilmore",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/back-to-the-future-the-podcast/id983494015",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=983494015",
+        "website": "https://www.launchpaddm.com/pd/Back-to-the-Future-The-Podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Marx Brothers Council Podcast",
+        "rss_feed_url": "http://cast.rocks/hosting/11812/feeds/EFNMQ.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 40,
+        "average_rating": 4.9,
+        "description": "A unique look at the Marx Brothers films and careers from three guys who've spent way too much time thinking about them. Hosted by Matthew Coniam (\"The Annotated Marx Brothers\", \"That's Me, Groucho!\"),  Noah Diamond (\"Gimme a Thrill: The Story of I'll Say She Is\") and Bob Gassel (he'll write a book someday). Featuring  guest appearances by Marx authors, experts and notable fans. Inspired by The Marx Brothers Council Facebook group, new episodes post monthly.\n\nCheck out our blog: https://www.marxbrotherscouncilpodcast.com\n\nFollow us on Twitter for the latest podcast info: https://twitter.com/marxbrothersco1\n\nJoin the lively discussion on Facebook: https://www.facebook.com/groups/1389369721281242\n\n...or contact us directly at: marxbrotherscouncilpodcast@gmail.com",
+        "itunes_id": "1363963113",
+        "content_rating": "clean",
+        "artist_name": "Matthew Coniam, Bob Gassel & Noah Diamond",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-marx-brothers-council-podcast/id1363963113",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363963113",
+        "website": "https://www.marxbrotherscouncilpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "James Bond & Friends",
+        "rss_feed_url": "http://feed.podbean.com/mi6/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.4,
+        "description": "007 experts and fans from around the world discuss the latest news and views on the James Bond universe. Contact the show via Twitter hashtag #askbond",
+        "itunes_id": "1455758394",
+        "content_rating": "explicit",
+        "artist_name": "MI6",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/james-bond-friends/id1455758394",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455758394",
+        "website": "https://mi6.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My So Called Podcast",
+        "rss_feed_url": "http://mscpod.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music History"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "A look back at movies and albums released in the 1990's.",
+        "itunes_id": "888679333",
+        "content_rating": "clean",
+        "artist_name": "Eric Spiegel & Gary Linton",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-so-called-podcast/id888679333",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=888679333",
+        "website": "http://mysocalledpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Serial History: The behind the scenes drama behind your favorite soap operas",
+        "rss_feed_url": "https://feed.podbean.com/serialhistory/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Serial History is the true behind the scenes drama behind the creation of your favorite soap operas.",
+        "itunes_id": "1484732892",
+        "content_rating": "clean",
+        "artist_name": "serialhistory",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/serial-history-behind-scenes-drama-behind-your-favorite/id1484732892",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484732892",
+        "website": "https://serialhistory.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tales From Stage 13",
+        "rss_feed_url": "https://talesfromstage13.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "From bizarre deaths and freak accidents, to on-set exorcists and consultation from the occult, there are some movies whose productions were more fraught than the storylines of the movies themselves. Join hosts Amelia Lewis and Katie Waldron, as they take you behind the scenes of the drama, darkness and disaster that haunt Hollywood's most cursed film productions.\n\n\"When the legend becomes fact, print the legend\" - The Man Who Shot Liberty Valance",
+        "itunes_id": "1482728442",
+        "content_rating": "clean",
+        "artist_name": "Katie Waldron and Amelia Lewis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tales-from-stage-13/id1482728442",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482728442",
+        "website": "http://talesfromstage13.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "And the Runner-Up Is",
+        "rss_feed_url": "http://oscaralmostwentto.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 37,
+        "average_rating": 4.4,
+        "description": "\"And the Runner-Up Is\" is the movie review show that highlights the film that was the probable runner-up for Best Picture at the Oscars in any given year. Host Kevin Jacobsen and special guests break down the film's merits, why it got so close to winning but ultimately came up short and whether it, in fact, deserved to win Best Picture.",
+        "itunes_id": "1358031226",
+        "content_rating": "clean",
+        "artist_name": "Kevin Jacobsen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/and-the-runner-up-is/id1358031226",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1358031226",
+        "website": "http://oscaralmostwentto.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Midnight Myth Podcast",
+        "rss_feed_url": "https://anchor.fm/s/b216b2c/podcast/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.9,
+        "description": "Derek & Laurel dish on myths, history, pop culture and more as they explore universal themes in storytelling. From Game of Thrones and Harry Potter to the Marvel Universe and Star Wars, we've been making pop culture sound smart since 2017. Support this podcast: https://anchor.fm/midnightmyth/support",
+        "itunes_id": "1199086209",
+        "content_rating": "explicit",
+        "artist_name": "Derek Jones and Laurel Hostak",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-midnight-myth-podcast/id1199086209",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1199086209",
+        "website": "https://anchor.fm/midnightmyth"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Film Stories with Simon Brew",
+        "rss_feed_url": "http://filmstories.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Film Stories with Simon Brew is a podcast that looks to dig into the stories behind popular movies.\n\nFrom troubled productions, to rights issues, to difficulties with release to films nearly falling apart, the podcast will be looking at the stories that don't always seem apparent when watching a movie!\n\nThe podcast is hosted by Simon Brew, the founder of Den Of Geek. You can find Simon at www.twitter.com/simonbrew",
+        "itunes_id": "1400296642",
+        "content_rating": "clean",
+        "artist_name": "Simon Brew",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/film-stories-with-simon-brew/id1400296642",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1400296642",
+        "website": "https://www.filmstories.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "High Camp",
+        "rss_feed_url": "https://feed.podbean.com/highcamp/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "In the 1990s, Duluth librarian Paul Roen published a two volume gay movie guide called \"High Camp\", reviewing queer cult classics from every corner of film history. 25 years later, Bryan Rucker and his special guests attempt to watch every movie listed in the books before they are forgotten!",
+        "itunes_id": "1470330489",
+        "content_rating": "explicit",
+        "artist_name": "Bryan Rucker",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/high-camp/id1470330489",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470330489",
+        "website": "https://highcamp.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Redrum Theatre",
+        "rss_feed_url": "https://pinecast.com/feed/the-redrum-theatre",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.9,
+        "description": "Two brothers talk about the movies that raised them wrong and raised them right. Along the way they laugh, get nostalgic, and have an all around awesome time.",
+        "itunes_id": "1166974610",
+        "content_rating": "clean",
+        "artist_name": "Ernesto Alaniz, Antonio Moreno",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-redrum-theatre/id1166974610",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1166974610",
+        "website": "http://www.redrumtheatre.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Casual Cinecast: Blockbuster Movies to Criterion & Classic Film",
+        "rss_feed_url": "http://casuallycriterion.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 70,
+        "average_rating": 4.9,
+        "description": "Casual Cinecast is a weekly film and TV podcast where we discuss current movies, watch through the Criterion Collection and much more! Every review has a spoiler free section!",
+        "itunes_id": "1301132213",
+        "content_rating": "clean",
+        "artist_name": "Casual Cinemedia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/casual-cinecast-blockbuster-movies-to-criterion-classic/id1301132213",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1301132213",
+        "website": "http://www.casualcinemedia.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Countdown to Skywalker: a Star Wars podcast RISE OF SKYWALKER EDITION",
+        "rss_feed_url": "https://starwarspod.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "We watch every single Star Wars movie starting with the prequels and ending with the Rise of Skywalker! We play a fun game and talk George Lucas, Jar Jar, Anakin, and the force! We are the best pod since pod-racing!",
+        "itunes_id": "1482175074",
+        "content_rating": "explicit",
+        "artist_name": "DelfinPod",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/countdown-to-skywalker-star-wars-podcast-rise-skywalker/id1482175074",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482175074",
+        "website": "http://starwarspod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cartoon Logic",
+        "rss_feed_url": "http://cartoonlogic.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Welcome to Thad Komorowski and Bob Jaques' podcast examining the best classic cartoons ever made. And just why were they the best? Cartoon Logic!\n\nThat’s just what we’ll be diving into each episode: historical overviews on a given topic, scene-by-scene analysis and highlights from classic shorts, intricate breakdowns from an animator’s POV, occasional animator and historian guests… all you could ever want to know about ancient cartoons in this modern age, from two gents who’ve done the research and are just bursting to share that knowledge with our listenership.",
+        "itunes_id": "1478579958",
+        "content_rating": "explicit",
+        "artist_name": "Cineaste-Carbunkle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cartoon-logic/id1478579958",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478579958",
+        "website": "http://cartoonlogic.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Force Material: A Star Wars Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/191780.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "A deep dive into the secrets and source material of Star Wars with hosts Rohan Williams and Baz McAlister. Discover the influences and inspirations behind the Star Wars saga, from films and folklore to history, politics and geography. These are the stories behind the prequels, the sequels, and everything in between!",
+        "itunes_id": "1290847550",
+        "content_rating": "clean",
+        "artist_name": "Force Material: A Star Wars Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/force-material-a-star-wars-podcast/id1290847550",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1290847550",
+        "website": "http://www.forcematerial.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Double Impact",
+        "rss_feed_url": "https://feeds.simplecast.com/lc4Fhd_T",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 23,
+        "average_rating": 5,
+        "description": "Tristan + Greg are a couple of 90s kids, on a mission to re-watch every movie that meant something from their childhood. Each episode they review a 'classic' film from 80s or 90s, and determine how it stacks up in the modern era. \n\nWe use the term classic very loosely.",
+        "itunes_id": "1454092516",
+        "content_rating": "explicit",
+        "artist_name": "Tristan + Greg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/double-impact/id1454092516",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454092516",
+        "website": "https://doubleimpact.simplecast.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Psychotronic Film Society",
+        "rss_feed_url": "https://psychotronicfilmsociety.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "A podcast celebrating the best cult, horror, action and sci-fi films, and the home of the Psychotronic Hall of Fame, a growing collection of the greatest genre films of all time as decided by our listeners!",
+        "itunes_id": "1117997117",
+        "content_rating": "explicit",
+        "artist_name": "Psychotronic Film Society",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/psychotronic-film-society/id1117997117",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1117997117",
+        "website": "https://psychotronicfilmsociety.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The 21st Rewrite",
+        "rss_feed_url": "https://the21strewrite.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "In-depth screenwriting podcast. Writer William Coldwell and regular co-host, actor and director Alan Vazquez guide you through the screenplays to your favorite films, with a passion and level of detail rarely found elsewhere. It's a film club and writer's group like no other. Long-form discussion, new episodes every two weeks on Mondays.",
+        "itunes_id": "1460581266",
+        "content_rating": "clean",
+        "artist_name": "W. H. A. Coldwell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-21st-rewrite/id1460581266",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460581266",
+        "website": "https://the21strewrite.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Greedo Shot First: A Star Wars podcast",
+        "rss_feed_url": "http://feedpress.me/GreedoShotFirst",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Talking Star Wars movies, books, culture, etc.",
+        "itunes_id": "578704529",
+        "content_rating": "explicit",
+        "artist_name": "Benjamin Light and Marco Sparks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/greedo-shot-first-a-star-wars-podcast/id578704529",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=578704529",
+        "website": "http://broswatchplltoo.com/gsf/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scarred For Life",
+        "rss_feed_url": "http://cast.rocks/hosting/20398/feeds/8T8FS.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 31,
+        "average_rating": 4.9,
+        "description": "On Scarred For Life, hosts Terry and Mary Beth open up old wounds by talking about the films that scared us when we were kids. They interview writers, directors, and more about that one film that gave them nightmares and how they feel about it now.\n\nNew episodes are released every other Monday.",
+        "itunes_id": "1481506203",
+        "content_rating": "explicit",
+        "artist_name": "Scarred For Life",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scarred-for-life/id1481506203",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481506203",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "There Will Be Porn",
+        "rss_feed_url": "https://feeds.megaphone.fm/therewillbeporn",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Health & Fitness",
+          "Sexuality"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Vintage porn recapped by millennial women who are mostly ok with butt stuff. Cait and Murda are going through the top 100 adult films to see if they're any good, if porn can even remotely be for women, and is there room to get better.",
+        "itunes_id": "1367002506",
+        "content_rating": "explicit",
+        "artist_name": "More Banana",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/there-will-be-porn/id1367002506",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1367002506",
+        "website": "https://morebananaproductions.com/category/podcasts/tech/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Industry",
+        "rss_feed_url": "https://industrypodcast.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.8,
+        "description": "The Industry is a podcast that takes a closer look at some of the lesser know (and sometimes intentionally forgotten) stories of Hollywood. Insane productions, scandalous lawsuits, victories from the jaws of defeat (and vice versa), and maybe the occasional crime are the order of the day here. Each episode takes one topic and attempts to answer \"What were they thinking?\"\nFeel free to contact me with questions (or complaints) at dan@theindustrypodcast.com",
+        "itunes_id": "1402868957",
+        "content_rating": "explicit",
+        "artist_name": "Dan Delgado",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-industry/id1402868957",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1402868957",
+        "website": "https://industrypodcast.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Caped Wonder Superman Podcast",
+        "rss_feed_url": "https://www.spreaker.com/show/3256379/episodes/feed",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Fiction",
+          "Science Fiction"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Our Mission is to Honor and Celebrate Christopher Reeve’s legacy and the Directors, Filmmakers, Writers, Cast and Crew of the classic Superman movie series.",
+        "itunes_id": "1444758667",
+        "content_rating": "clean",
+        "artist_name": "CapedWonder.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-caped-wonder-superman-podcast/id1444758667",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444758667",
+        "website": "https://www.iheart.com/podcast/512-the-caped-wonder-superman-30202758/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Of Course You Realize THIS Means Podcast - A Looney Tunes Discussion",
+        "rss_feed_url": "https://feed.podbean.com/thismeanspodcast/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Leisure",
+          "Video Games"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Welcome to Looneyland! This is where you'll find fans of Bugs Bunny, Daffy Duck and the rest of the gang talking about the history of the franchise known as Looney Tunes. In this exploration of Wacky Wabbits, Screwy Ducks and the artistry of all classic Looney Tunes shorts we will also find ourselves in uncharted territories where we discover re-imaginings of these beloved characters and motion picture appearances you may not know about. This podcast will also give you weekly updates on the Scopely game, Looney Tunes: World of Mayhem including future character releases and features. Come along with us and join in on the conversation! Subscribe and follow along on all social media @ThisMeansPodcast because That’s NOT All Folks!",
+        "itunes_id": "1478960893",
+        "content_rating": "clean",
+        "artist_name": "thismeanspodcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/course-you-realize-this-means-podcast-looney-tunes/id1478960893",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478960893",
+        "website": "https://thismeanspodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Around the World in 80s Movies",
+        "rss_feed_url": "https://around80s.blubrry.net/feed/podcast/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Join film writer Vince Leo of qwipster.net as he takes a look back at the classics, cult films, foreign cinema and obscurities of one of the great decades for film lovers, the 1980s.",
+        "itunes_id": "1289060513",
+        "content_rating": "clean",
+        "artist_name": "Vince Leo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/around-the-world-in-80s-movies/id1289060513",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1289060513",
+        "website": "https://around80s.blubrry.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sundays With Cate",
+        "rss_feed_url": "https://feeds.buzzsprout.com/603976.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.9,
+        "description": "A Cate Blanchett podcast series. The acting, the costumes, the awards but mostly: the Blanchett of it all. Hosted by Murtada Elfadl.",
+        "itunes_id": "1480860366",
+        "content_rating": "clean",
+        "artist_name": "Murtada Elfadl",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sundays-with-cate/id1480860366",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480860366",
+        "website": "http://SundaysWithCate.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pods and Monsters: A Monster Movie Podcast",
+        "rss_feed_url": "https://feed.podbean.com/podsandmonsters/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Pods and Monsters: A Monster Movie Podcast is hosted by Robert and Inthia. Join us as we journey through classic and contemporary monster/horror pictures where we dive deep into movie recaps, production history, film lore, and more! From the classics of Frankenstein and Dracula to the terror of The Exorcist and Alien, we’ll cover them all!",
+        "itunes_id": "1458989046",
+        "content_rating": "clean",
+        "artist_name": "podsandmonsters",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pods-and-monsters-a-monster-movie-podcast/id1458989046",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458989046",
+        "website": "https://podsandmonsters.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Oz Network - TV & Film Recaps",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1525",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.7,
+        "description": "The most entertaining TV & Film podcast on the internet! Subscribe now to get the latest episodes to your speakers each week. Currently covering Nip/Tuck, Third Watch & Lost. Also providing weekly movie recaps from classic movies as well as weekly movie reviews on recently released films. Everything you need as a TV & Film fan is all under one roof!",
+        "itunes_id": "1212734488",
+        "content_rating": "clean",
+        "artist_name": "Ben Waterworth",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-oz-network-tv-film-recaps/id1212734488",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1212734488",
+        "website": "http://www.theoznetwork.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ghoulish Cast",
+        "rss_feed_url": "http://somethingghoulish.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Welcome to Ghoulish Cast, a horror movie-focused talk show that deep dives into genre media with creators across the industry. Join your hosts, Anthony Derington, and Danielle Million, every week as they chat with everyone from authors to directors and everyone in between. Don't scream... you'll wanna hear this.",
+        "itunes_id": "1449765010",
+        "content_rating": "explicit",
+        "artist_name": "Something Ghoulish",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ghoulish-cast/id1449765010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449765010",
+        "website": "http://www.youtube.com/c/somethingghoulish"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Screenplay Archaeology Podcast",
+        "rss_feed_url": "https://screenplayarchaeology.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "We discuss unproduced screenplays and early drafts.",
+        "itunes_id": "1116441089",
+        "content_rating": "explicit",
+        "artist_name": "screenplayarchaeology",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/screenplay-archaeology-podcast/id1116441089",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1116441089",
+        "website": "https://screenplayarchaeology.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dorky Geeky Nerdy Trivia Podcast",
+        "rss_feed_url": "https://dorkygeekynerdy.com/feed/podcast",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Leisure",
+          "Games"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Join us every week for thirty dorky, geeky, nerdy trivia questions. This podcast allows you to play a trivia game at home, at work, in the car, and with your friends. How well do you know pop culture, movies, comics, TV, books, and more? Join hosts Brian Rollins and Blaine Dowler for a fun-filled, weekly challenge.",
+        "itunes_id": "1451204865",
+        "content_rating": "clean",
+        "artist_name": "Brian Rollins",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dorky-geeky-nerdy-trivia-podcast/id1451204865",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451204865",
+        "website": "https://dorkygeekynerdy.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Retro Movie Roundtable",
+        "rss_feed_url": "https://retromovieroundtable.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.8,
+        "description": "Join hosts Bryan Frye, Chad Robinson & Russell Guest for the Retro Movie Roundtable. They rewatch classic movies spanning a vast array of genres from a decade ago and beyond then break them down. If you love movies, you will love these guys. Do these flashback films hold up? Find out on the Retro Movie Roundtable.",
+        "itunes_id": "1439985015",
+        "content_rating": "clean",
+        "artist_name": "Russell Guest, Bryan Frye, Chad Robinson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/retro-movie-roundtable/id1439985015",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439985015",
+        "website": "https://retromovieroundtable.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Dollar Late Fee",
+        "rss_feed_url": "https://www.twodollarlatefee.com/?format=rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "Two Dollar Late Fee is a celebration of the greatest decade of entertainment, the 1980s! Zak Shaffer and Dustin Rubin pick a movie and corresponding song from the 80s to discuss and champion! Along the way they discuss moments in history during the movies release. Celebrities from the 80s are also profiled and interviewed!",
+        "itunes_id": "1478561777",
+        "content_rating": "clean",
+        "artist_name": "Zak Shaffer & Dustin Rubin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-dollar-late-fee/id1478561777",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478561777",
+        "website": "https://www.twodollarlatefee.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Retro Movie Roundtable",
+        "rss_feed_url": "https://retromovieroundtable.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.8,
+        "description": "Join hosts Bryan Frye, Chad Robinson & Russell Guest for the Retro Movie Roundtable. They rewatch classic movies spanning a vast array of genres from a decade ago and beyond then break them down. If you love movies, you will love these guys. Do these flashback films hold up? Find out on the Retro Movie Roundtable.",
+        "itunes_id": "1439985015",
+        "content_rating": "clean",
+        "artist_name": "Russell Guest, Bryan Frye, Chad Robinson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/retro-movie-roundtable/id1439985015",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439985015",
+        "website": "https://retromovieroundtable.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Dollar Late Fee",
+        "rss_feed_url": "https://www.twodollarlatefee.com/?format=rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "Two Dollar Late Fee is a celebration of the greatest decade of entertainment, the 1980s! Zak Shaffer and Dustin Rubin pick a movie and corresponding song from the 80s to discuss and champion! Along the way they discuss moments in history during the movies release. Celebrities from the 80s are also profiled and interviewed!",
+        "itunes_id": "1478561777",
+        "content_rating": "clean",
+        "artist_name": "Zak Shaffer & Dustin Rubin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-dollar-late-fee/id1478561777",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478561777",
+        "website": "https://www.twodollarlatefee.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Black Case Diaries Movie/TV Podcast",
+        "rss_feed_url": "https://blackcasediaries.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 29,
+        "average_rating": 5,
+        "description": "We're three old friends dedicated to learning everything we can about TV and Film. We cover everything from classic Nickelodeon shows to the basics of cinematography. We're bound to have something for everyone, so grab a drink (wine, tea, whatever you prefer) and come learn with us!",
+        "itunes_id": "1448553462",
+        "content_rating": "explicit",
+        "artist_name": "Adam, Marci, and Robin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-black-case-diaries-movie-tv-podcast/id1448553462",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448553462",
+        "website": "https://blackcasediaries.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Verbal Diorama",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5c685ae6dd9eee224bc0dd9b",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.9,
+        "description": "Hi. I'm Em. I love movies and tv. I also talk a lot. A podcast was therefore inevitable...\nJoin me on my journey through the history and legacy of movies you know, and movies you don't.",
+        "itunes_id": "1453296967",
+        "content_rating": "clean",
+        "artist_name": "Verbal Diorama",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/verbal-diorama/id1453296967",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453296967",
+        "website": "https://shows.pippa.io/verbal-diorama/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "30something Movie Podcast",
+        "rss_feed_url": "https://the30podcast.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "A group of friends discuss movies that have reached their 30th anniversary this year.",
+        "itunes_id": "966608311",
+        "content_rating": "clean",
+        "artist_name": "John W. Reid",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/30something-movie-podcast/id966608311",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=966608311",
+        "website": "https://the30podcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Harmless Phosphorescence",
+        "rss_feed_url": "https://harmlessphosphorescence.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "Harmless Phosphorescence is your weekly superhero movie podcast where we watch every superhero movie ever made in chronological order and break them down for you while having a lot of fun.",
+        "itunes_id": "1477931849",
+        "content_rating": "explicit",
+        "artist_name": "Harmless Entertainment",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/harmless-phosphorescence/id1477931849",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477931849",
+        "website": "http://harmlessphosphorescence.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Replay Value",
+        "rss_feed_url": "http://replayvalue.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Replay Value is a cinema podcast where brothers Phil & Warren deep dive into the films we all love to watch over and over again. Focusing on movies at least five years old, they breakdown how these classics have stood the test of time. New episodes every other Tuesday.",
+        "itunes_id": "1378612045",
+        "content_rating": "explicit",
+        "artist_name": "Waldo Pickles Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/replay-value/id1378612045",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1378612045",
+        "website": "http://replayvalue.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Those Who Can't Watch, Listen",
+        "rss_feed_url": "https://thosewhocantwatchlisten.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Comedy"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Welcome to \"Those Who Can't Watch, Listen\" - the podcast where one person who loves horror (that's Angie!) tells one who doesn't (that's Kelsey!) a detailed summary of exactly what happens in all kinds of popular horror films. Do you hate watching horror movies but want to know what happens in them? This is the podcast for you! Thanks for listening. (Or not!)",
+        "itunes_id": "1447865142",
+        "content_rating": "explicit",
+        "artist_name": "Those Who Can't Watch, Listen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/those-who-cant-watch-listen/id1447865142",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1447865142",
+        "website": "http://thosewhocantwatchlisten.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Movie Melt! Grindhouse and Exploitation Podcast",
+        "rss_feed_url": "https://media.zencast.fm/movie-melt/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Comedy"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Grindhouse, exploitation, sleaze, and trash from the 70s, 80s, 90s, and beyond! Movies that melt your coconut!",
+        "itunes_id": "1458025439",
+        "content_rating": "explicit",
+        "artist_name": "Compañeros",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/movie-melt-grindhouse-and-exploitation-podcast/id1458025439",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458025439",
+        "website": "http://gogocompaneros.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Awesome Movie Year",
+        "rss_feed_url": "https://feeds.podcastmirror.com/awesomemovieyear",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "Awesome Movie Year is a podcast co-hosted by film critic Josh Bell and filmmaker and comedian Jason Harris. Each season looks at why a certain year was an awesome movie year. Each episode focuses on a different film from the year being investigated. Produced by David Rosen of the Piecing It Together Podcast for the All Points West Podcast Network",
+        "itunes_id": "1467982091",
+        "content_rating": "explicit",
+        "artist_name": "Awesome Movie Year",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/awesome-movie-year/id1467982091",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467982091",
+        "website": "https://awesomemovieyear.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Zobo With A Shotgun Podcast",
+        "rss_feed_url": "https://feed.podbean.com/zobowithashotgun/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Podcast focused on the extreme horror film genre. Hosted by Zoë Rose Smith aka Zobo With A Shotgun. New episodes and guests every month.New podcast weblog",
+        "itunes_id": "1459039935",
+        "content_rating": "explicit",
+        "artist_name": "Zobo With A Shotgun",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/zobo-with-a-shotgun-podcast/id1459039935",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459039935",
+        "website": "https://zobowithashotgun.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Morning Geekdom",
+        "rss_feed_url": "https://themorninggeekdom.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 23,
+        "average_rating": 5,
+        "description": "A place where friends congregate to discuss all things pop culture",
+        "itunes_id": "1441932423",
+        "content_rating": "explicit",
+        "artist_name": "Anthony Matulin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-morning-geekdom/id1441932423",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441932423",
+        "website": "https://themorninggeekdom.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Star Wars Toy Podcast",
+        "rss_feed_url": "https://blueharvest.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 1,
+        "average_rating": 1,
+        "description": "The Star Wars Toy Podcast\nI mainly talk about vintage but keep you up to date on modern too.\nReviews, discussions and interviews on Star Wars collecting.\nEmail me:mailto:blueharvesttoys@gmail.com?subject=%20Listener%20Email&body=Dear%20Darth%20Marc,%20%20 and follow me on YouTube: https://www.youtube.com/channel/UCRhzuzySKE08oe4FHg34hGAhttps://www.patreon.com/Blueharvest",
+        "itunes_id": "1469987375",
+        "content_rating": "clean",
+        "artist_name": "Darth Marc",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-star-wars-toy-podcast/id1469987375",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469987375",
+        "website": "http://blueharvest.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storybored",
+        "rss_feed_url": "https://feeds.buzzsprout.com/218869.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.8,
+        "description": "Join Laurs and Meg as they dive into overlooked films and series, and pitch original stories that need to be made.",
+        "itunes_id": "1440438919",
+        "content_rating": "clean",
+        "artist_name": "Storybored Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storybored/id1440438919",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440438919",
+        "website": "https://storybored.buzzsprout.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Final Girls",
+        "rss_feed_url": "https://feeds.transistor.fm/the-final-girls",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "A weekly podcast dedicated to exploring the intersections of horror film and feminism.",
+        "itunes_id": "1484614975",
+        "content_rating": "explicit",
+        "artist_name": "The Final Girls",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-final-girls/id1484614975",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484614975",
+        "website": "http://www.thefinalgirls.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Podcast Directed By",
+        "rss_feed_url": "https://feed.podbean.com/apodcastdirectedby/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Mike and Dave examine the best directors in film, one every month, by watching 10 of their films and deciding on their masterpiece.",
+        "itunes_id": "1467295216",
+        "content_rating": "explicit",
+        "artist_name": "Michael Denniston and David Giannini",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-podcast-directed-by/id1467295216",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467295216",
+        "website": "https://apodcastdirectedby.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pop Culture Retrorama Podcast – Pop Culture Retrorama",
+        "rss_feed_url": "https://popcultureretrorama.com/category/pop-culture-retrorama-podcast/feed/",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Leisure",
+          "Video Games"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "A pop culture celebration hosted by Vic Sage. On the show, Vic dives into and discusses various pop culture topics.",
+        "itunes_id": "1450140052",
+        "content_rating": "clean",
+        "artist_name": "Pop Culture Retrorama Podcast – Pop Culture Retrorama",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pop-culture-retrorama-podcast-pop-culture-retrorama/id1450140052",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450140052",
+        "website": "https://popcultureretrorama.com/category/pop-culture-retrorama-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "What's in the Basket",
+        "rss_feed_url": "https://www.spreaker.com/show/4066626/episodes/feed",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "What's in the Basket is a female-hosted film history podcast that combines research, humour, and progressive politics to deliver the absolute hottest of takes on Old Hollywood, modern movies, and fan culture. Updated Tuesdays at 8 PM Eastern.",
+        "itunes_id": "1480178861",
+        "content_rating": "explicit",
+        "artist_name": "What's in the Basket",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/whats-in-the-basket/id1480178861",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480178861",
+        "website": "https://www.spreaker.com/show/whats-in-the-basket"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Off the Highway",
+        "rss_feed_url": "https://feeds.buzzsprout.com/218829.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 76,
+        "average_rating": 4.9,
+        "description": "Off the Highway is a podcast that is recorded literally, right on top of a highway. Despite this, and the many vehicular puns within the show, it's not about traffic safety it's about movies and pop culture. With so much content,  and so little time, these guys are looking for any excuse possible to discuss and ramble about movies and pop culture. @offhighwaycast on Twitter & Instagram, offthehighwaycast@gmail.com. Presented by Freeway Productions",
+        "itunes_id": "1444935774",
+        "content_rating": "explicit",
+        "artist_name": "Freeway Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/off-the-highway/id1444935774",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444935774",
+        "website": "https://www.freeway.productions"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spook Show",
+        "rss_feed_url": "https://www.spreaker.com/show/3503624/episodes/feed",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 2,
+        "average_rating": 3,
+        "description": "Husband & Wife talking about anything \"Horror\" related. We talk about movies, serial killers & anything spooky.",
+        "itunes_id": "1475432779",
+        "content_rating": "explicit",
+        "artist_name": "Spook Show",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spook-show/id1475432779",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475432779",
+        "website": "https://www.spreaker.com/show/spook-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Get Soft With Dr Snuggles",
+        "rss_feed_url": "https://media.zencast.fm/get-soft-with-dr-snuggles/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Comedy"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Every two weeks, Dr Snuggles is joined by a cast of friends, family, internet weirdos and special guests to guide you through the wild and wooly world of erotic thrillers and softcore films! Everything from 'Alien Abduction: Intimate Secrets' to 'Zorrita: Passion's Avenger', and all points in between.",
+        "itunes_id": "1457678006",
+        "content_rating": "explicit",
+        "artist_name": "Companeros Radio Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/get-soft-with-dr-snuggles/id1457678006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457678006",
+        "website": "https://get-soft-with-dr-snuggles.zencast.website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Watch And Talk Top 101 | Film Podcast",
+        "rss_feed_url": "https://thewatchandtalktop101.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "A spin off of the podcast The Watch and Talk, which reviews current theatrical films. Listeners submitted lists of their top movies of all time, and we combined the lists together to make the ultimate top 101 movies, and are counting down from 101 one movie a week.",
+        "itunes_id": "1474542681",
+        "content_rating": "explicit",
+        "artist_name": "The Watch and Talk Film & TV Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-watch-and-talk-top-101-film-podcast/id1474542681",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474542681",
+        "website": "http://TheWatchAndTalk.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Literary License Podcast",
+        "rss_feed_url": "https://literarylicense.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.5,
+        "description": "The Literary License Podcast Explores the Book to Screen and Everything Inbetween",
+        "itunes_id": "1275942080",
+        "content_rating": "explicit",
+        "artist_name": "Literary License Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-literary-license-podcast/id1275942080",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1275942080",
+        "website": "https://literarylicense.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cemetery Cinema",
+        "rss_feed_url": "https://feeds.buzzsprout.com/662326.rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Offering insight in selected films considered best suited for viewing in the middle of the night.",
+        "itunes_id": "1483406269",
+        "content_rating": "clean",
+        "artist_name": "Y",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cemetery-cinema/id1483406269",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483406269",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Oeuvre Busters",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5bd718567438762130b4f175",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "Talking good movies like they're bad movies ",
+        "itunes_id": "1441968602",
+        "content_rating": "explicit",
+        "artist_name": "George Fragopoulos and Liam Billingham",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/oeuvre-busters/id1441968602",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441968602",
+        "website": "http://www.oeuvrebusters.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bill and Ted Minute",
+        "rss_feed_url": "https://pinecast.com/feed/bill-and-ted-minute",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Your hosts John S. Brigg Esquire, Rocky Theodore Logan, and the Royal Ugly Dude go through the Bill and Ted film franchise one most triumphant minute at a time.\n\nPlease be warned this podcast contains explicit content from minute 0 onward.",
+        "itunes_id": "1450346206",
+        "content_rating": "explicit",
+        "artist_name": "Woco Media",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bill-and-ted-minute/id1450346206",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450346206",
+        "website": "http://billandtedminute.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cine-Maya",
+        "rss_feed_url": "https://static.adorilabs.com/feed/cine-maya.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Interviews"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "भारतीय सिनेमा के इतिहास को अगर भारतीय सिनेमा का पुरुष इतिहास कहा जाए तो कुछ ग़लत नहीं होगा. सिनेमा और ओरतें...ये ज़िक्र छेड़ा जाए तो आमतौर पर दिमाग़ में उभरते हैं पर्दे पर नज़र आने वाले चंद किरदार, कुछ चकाचौंध करने वाले चेहरे और ग्लैमर का बाज़ार. फ़िल्म निर्देशकों का ज़िक्र हो तो क्या आपको कोई महिला निर्देशिका एकदम से याद आती है? चलिए एक कोशिश करते हैं हमारे आस पास मौजूद होकर भी नज़र ना आने वाली इन महिला निर्देशिकाओं के सिनेमाई मायाजाल को समझने की.\n\nसिने-माया सिर्फ़ एक पॉडकास्ट नहीं, एक पहल है. हम भारत की 8 महिला निर्देशकों की कला, नज़रिए और फ़िल्म इंडस्ट्री में उनके अनुभव पर चर्चा करेंगे. 10 जनवरी से सुनिए सिने माया स्वाति बक्शी के साथ.\n\nWhen we think about film directors in Indian cinema, do we ever think about women directors? The answer to this simple question underlines the complicated reality of film history and the invisibility of women directors. The debates and discussions around women and cinema usually tend to focus on the issues of representation and objectification but what about their authorial voice, their art and aesthetic? What about their creative drive, the decisions that they made and the obstacles that they faced as a director in the masculine world of the Indian film industry?\n\nCine-Maya is a podcast that aims to decode the work and life of women directors, their vision and film language. This special series brings 8 Indian women directors in conversation with Swati Bakshi to discuss their cinematic journey. Episode out every Thursday, starting 10th January 2019.",
+        "itunes_id": "1448844983",
+        "content_rating": "clean",
+        "artist_name": "IVM Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cine-maya/id1448844983",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448844983",
+        "website": "http://ivmpodcasts.com/cine-maya"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Presenting Hitchcock",
+        "rss_feed_url": "https://presentinghitchcock.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Gooooood evening. Alfred Hitchcock is long believed to be the Master of Suspense in film circles. His ability to craft engaging tales of espionage, murder, and debauchery - all while entrenched in the plight of the Everyman - have stood the test of time. Each month, Cory and Aaron look at a randomly drawn film of Hitch's and examine what makes it so inherently Hitchcockian.",
+        "itunes_id": "1455157759",
+        "content_rating": "clean",
+        "artist_name": "Cory Metcalfe and Aaron Peterson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/presenting-hitchcock/id1455157759",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455157759",
+        "website": "https://www.thehollywoodoutsider.com/presenting-hitchcock-a-podcast-on-the-films-of-alfred-hitchcock/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Movie Show with Joel & Ryan",
+        "rss_feed_url": "https://joelandryan.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Joel & Ryan discuss movies and television whilst seated upon a couch. Follow them @askjoelandryan (Twitter/Instagram), askjoelandryan@gmail.com",
+        "itunes_id": "1439645531",
+        "content_rating": "clean",
+        "artist_name": "Joel and Ryan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-movie-show-with-joel-ryan/id1439645531",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439645531",
+        "website": "https://joelandryan.podbean.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gone With The Bushes",
+        "rss_feed_url": "https://GWTBushes.podbean.com/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "We know you can't keep up with all the current movies and shows let alone The Classics.  Let the mother/daughter duo of Liz and Erin tell you what you missed.",
+        "itunes_id": "1278984270",
+        "content_rating": "explicit",
+        "artist_name": "Gone With The Bushes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gone-with-the-bushes/id1278984270",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1278984270",
+        "website": "https://GWTBushes.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "All The Right Movies: A Movie Podcast",
+        "rss_feed_url": "https://feed.podbean.com/alltherightmovies/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The best movie podcast around. Great stories, big laughs and interesting facts on classic and hit films. Subscribe on Apple Podcasts (iTunes), Google Podcasts, and follow us on Spotify.",
+        "itunes_id": "1471502633",
+        "content_rating": "clean",
+        "artist_name": "All The Right Movies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/all-the-right-movies-a-movie-podcast/id1471502633",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471502633",
+        "website": "https://alltherightmovies.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The FilmJerk Podcast",
+        "rss_feed_url": "https://feed.podbean.com/filmjerk/feed.xml",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "The FilmJerk Podcast is a weekly podcast covering a wide variety of aspects of 1980s cinema. From distributors barely remembered and films long forgotten (if ever known) to the biggest actors and filmmakers of the decade, The FilmJerk Podcast will carefully curate a unique journey through a cinematic decade.",
+        "itunes_id": "1474874981",
+        "content_rating": "explicit",
+        "artist_name": "Edward Havens",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-filmjerk-podcast/id1474874981",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474874981",
+        "website": "https://filmjerk.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sounds Scary",
+        "rss_feed_url": "https://pinecast.com/feed/sounds-scary",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Sounds Scary is a celebration of the horror genre, hosted by Doc Manson and GQ. Each episode focuses on a different horror movie and features recurring segments, like Behind the Fears (a behind the scenes trivia contest between the hosts), Horror Toy Review, Scream of the Week, and Two Good Scares (horror movie recommendations). Each week also features a brand new episode of a Sounds Scary Original Radio Production, introduced by our very own horror host!",
+        "itunes_id": "1476450028",
+        "content_rating": "explicit",
+        "artist_name": "Doc Manson & GQ",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sounds-scary/id1476450028",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476450028",
+        "website": "https://www.soundsscarypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Watchmen For Nixon Podcast",
+        "rss_feed_url": "https://watchmenfornixon.libsyn.com/rss",
+        "categories": [
+          "Film History",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Welcome to The Watchmen For Nixon Podcast! This podcast will break down the HBO series The Watchmen. Join us weekly with our review, thoughts and criticisms of that week's episode.",
+        "itunes_id": "1470383976",
+        "content_rating": "clean",
+        "artist_name": "Garret Wilson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-watchmen-for-nixon-podcast/id1470383976",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470383976",
+        "website": "http://watchmenfornixon.libsyn.com/website"
+      }
+    }
+  ]
+}

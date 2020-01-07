@@ -1,0 +1,1963 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "The Karel Cast",
+        "rss_feed_url": "http://www.radiokrl.com/podcasts/podcast.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Health & Fitness",
+          "Nutrition"
+        ],
+        "rating_count": 84,
+        "average_rating": 4.5,
+        "description": "He’s large, loud, funny, informed, gay and often ticked. He’s Karel, and this is his Cast. Outrageous on TV, radio, internet, on stage, on screen and in person, Entertainer and nationally syndicated talk show host, comic, actor, singer and author Karel is openly gay, straight to the point. This multi-format audio/video cast is a bottom line no-holds-barred hysterical journey through American life.",
+        "itunes_id": "84867344",
+        "content_rating": "clean",
+        "artist_name": "Karel",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-karel-cast/id84867344",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=84867344",
+        "website": "http://www.reallykarel.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Awards Chatter",
+        "rss_feed_url": "https://feeds.simplecast.com/CuF0MZ__",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 801,
+        "average_rating": 4.8,
+        "description": "'Awards Chatter' is a podcast that features in-depth interviews with the most interesting and accomplished people in show business.\n\nCreated and hosted by: Scott Feinberg \nProduced by: Matthew Whitehurst and Joshua Farnham\n\n'Awards Chatter' is hosted by www.Simplecast.com",
+        "itunes_id": "1039032256",
+        "content_rating": "clean",
+        "artist_name": "The Hollywood Reporter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/awards-chatter/id1039032256",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1039032256",
+        "website": "https://www.hollywoodreporter.com/topic/awards-chatter-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Monday Morning Critic Podcast",
+        "rss_feed_url": "https://mondaymorningcritic.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 22,
+        "average_rating": 4,
+        "description": "Monday Morning Critic podcast developed by my passion for people whose work has moved me. Guests are hand picked and purposely selected in a format where storytelling is done properly, skillfully and legitimately.  Most importantly, MMC Podcast is a podcast and host with substance, doing things the right way. Welcome to Monday Morning Critic Podcast!",
+        "itunes_id": "1210796291",
+        "content_rating": "clean",
+        "artist_name": "Darek Thomas",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/monday-morning-critic-podcast/id1210796291",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1210796291",
+        "website": "http://mondaymorningcritic.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Saturday Morning Rewind: Cartoon Podcast",
+        "rss_feed_url": "https://saturdaymorningrewind.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "TV Reviews"
+        ],
+        "rating_count": 85,
+        "average_rating": 4.7,
+        "description": "Re-live your childhood through Saturday Morning Rewind.  We interview your favorite voice actors from the 70's, 80's, 90's and today.  We discuss all of your favorite cartoons from those decades.  And grab your Nintendo Power Glove for our Video Game Rewind episodes in which we talk all about your favorite retro video games!  It's nostalgia in the form of a weekly podcast.",
+        "itunes_id": "539387481",
+        "content_rating": "clean",
+        "artist_name": "Tim Nydell / Gary Lane / Jacob Ruble",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/saturday-morning-rewind-cartoon-podcast/id539387481",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=539387481",
+        "website": "https://saturdaymorningrewind.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Man Cave Chronicles",
+        "rss_feed_url": "https://themancavechronicles.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 347,
+        "average_rating": 5,
+        "description": "Join Host Elias as he talks to various guests each week where \"Everyone Has A Story\" from the world of Pop Culture, Tv, Movies, Comedy and more. Episode Release every Tuesday!",
+        "itunes_id": "1228398652",
+        "content_rating": "clean",
+        "artist_name": "Elias Giannakopoulos",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-man-cave-chronicles/id1228398652",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1228398652",
+        "website": "https://themccpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Present Company",
+        "rss_feed_url": "https://feeds.simplecast.com/4_NYcWQP",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 65,
+        "average_rating": 4.8,
+        "description": "Present Company with Krista Smith is a weekly show bringing you dynamic conversations with the exceptional people behind your favorite shows, films, specials, and documentaries.",
+        "itunes_id": "1468510314",
+        "content_rating": "clean",
+        "artist_name": "Netflix",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/present-company/id1468510314",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468510314",
+        "website": "www.netflix.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Switchblade Sisters",
+        "rss_feed_url": "https://maximumfun.org/feeds/swsi.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 337,
+        "average_rating": 4.9,
+        "description": "Switchblade Sisters is a new podcast providing deep cuts on genre flicks from a female perspective. Every week, film critic April Wolfe sits down with a phenomenal female film-maker to slice-and-dice a classic genre movie - horror, exploitation, sci-fi and many others! Along the way, they cover craft, the state of the industry, how films get made, and more. Mothers, lock up your sons, the Switchblade Sisters are coming!",
+        "itunes_id": "1308692838",
+        "content_rating": "explicit",
+        "artist_name": "MaximumFun.org",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/switchblade-sisters/id1308692838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1308692838",
+        "website": "https://maximumfun.org/switchblade"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Score: The Podcast",
+        "rss_feed_url": "http://scorethepodcast.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 264,
+        "average_rating": 4.8,
+        "description": "The only show that takes you inside the studios of Hollywood composers, with engaging conversations and musical demonstrations. Based on the hit film SCORE: A FILM MUSIC DOCUMENTARY, the weekly SCORE: THE PODCAST celebrates the musical heartbeat and emotive power of modern storytelling. Join hosts Robert Kraft and Kenny Holmes as they open the door to the creative, musical and fascinating personalities of the men and women who create music for the world’s most popular films, TV shows and video games. Follow us @ScoreThePodcast.",
+        "itunes_id": "1357882784",
+        "content_rating": "clean",
+        "artist_name": "Epicleff Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/score-the-podcast/id1357882784",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1357882784",
+        "website": "http://score-movie.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Just Shoot It: A Podcast about Filmmaking, Screenwriting and Directing",
+        "rss_feed_url": "https://justshootitpod.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 179,
+        "average_rating": 4.8,
+        "description": "Just Shoot It is a podcast about directing hosted by directors. Each week we interview filmmakers on writing, cinematography, development and acting to learn how to build a successful career as a filmmaker in the Hollywood industry. ",
+        "itunes_id": "995859414",
+        "content_rating": "clean",
+        "artist_name": "Filmmakers Matt Enlow & Oren Kaplan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/just-shoot-it-podcast-about-filmmaking-screenwriting/id995859414",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=995859414",
+        "website": "http://www.justshootitpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Producer's Guide: Todd Garner & Hollywood's Elite",
+        "rss_feed_url": "http://www.podcastone.com/podcast?categoryID2=1542",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 155,
+        "average_rating": 4.8,
+        "description": "Todd knows movies. For 30 years, the Hollywood veteran has overseen 170 films (and counting) - including XXX, Anger Management, 13 Going on 30, Paul Blart: Mall Cop, Black Hawk Down, Punch Drunk Love, Con Air, and Hellboy. Join Todd as he shares tips and stories on the movie business and chats it up with A-list industry pals.",
+        "itunes_id": "1363232295",
+        "content_rating": "clean",
+        "artist_name": "PodcastOne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-producers-guide-todd-garner-hollywoods-elite/id1363232295",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363232295",
+        "website": "https://www.podcastone.com/the-producers-guide-todd-garner-and-hollywoods-elite"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Twin Peaks Unwrapped",
+        "rss_feed_url": "https://twinpeaksunwrapped.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "TV Reviews"
+        ],
+        "rating_count": 141,
+        "average_rating": 4.6,
+        "description": "A weekly podcast where we unwrap each and every episode of Twin Peaks, oh and lots of pie.",
+        "itunes_id": "1005628280",
+        "content_rating": "clean",
+        "artist_name": "Ben Durant & Bryon Kozaczka",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/twin-peaks-unwrapped/id1005628280",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1005628280",
+        "website": "https://twinpeaksunwrapped.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Behind The Screen",
+        "rss_feed_url": "https://feeds.simplecast.com/YEMoEC9d",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Technology"
+        ],
+        "rating_count": 33,
+        "average_rating": 4.6,
+        "description": "In this podcast series, Carolyn Giardina, Tech Editor for The Hollywood Reporter, extends her coverage of the filmmaking crafts. She will be talking with the cinematographers, editors, production designers, composers, visual effects supervisors, and other leading artists that bring the magic of motion pictures to theaters. Subscribe now to receive episodes of this inspired new series that shines a light on the artists that spend most of their time behind the screen.\n\nHosted by: Carolyn Giardina\nProduced by: Matthew Whitehurst and Joshua Farnham\n\n'Behind the Screen' is hosted by www.Simplecast.com",
+        "itunes_id": "1437952572",
+        "content_rating": "clean",
+        "artist_name": "The Hollywood Reporter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/behind-the-screen/id1437952572",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437952572",
+        "website": "https://www.hollywoodreporter.com/topic/behind-screen-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "REALITY OF REALITY",
+        "rss_feed_url": "https://feeds.podcastmirror.com/reality-of-reality",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "After Shows"
+        ],
+        "rating_count": 252,
+        "average_rating": 4.9,
+        "description": "Every week on Reality Of Reality, TV and film producer Aliza Rosen interviews heavy hitters in unscripted content and breaks down the best shows, movies and books you want to be watching. Hear from top industry producers, directors, network execs, reality stars, authors, and agents as Aliza uncovers behind the scenes stories from the makers and shakers themselves.",
+        "itunes_id": "1103840521",
+        "content_rating": "explicit",
+        "artist_name": "ALIZA ROSEN",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/reality-of-reality/id1103840521",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1103840521",
+        "website": "https://tasteofreality.com/category/reality-of-reality/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hollywood & Levine",
+        "rss_feed_url": "http://hollywoodandlevine.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 310,
+        "average_rating": 4.9,
+        "description": "Hollywood & Levine looks at the world of entertainment, pop culture, screenwriting, and life, and takes none of it seriously.  The point is to make you laugh, although useful information might accidentally slip through.   Hosted by Emmy-winning writer/baseball announcer/talk show host, Ken Levine, Hollywood & Levine will feature commentary, war stories on Ken’s career (MASH, Cheers, Frasier, Simpsons), interviews, writing advice, movie reviews, snarky award show recaps, tall tales from his baseball and radio career, segments from old broadcasts, improv sketches, answering listener questions, and more.   It’s a fun, fast-paced hour of humor, nonsense, and God knows what.",
+        "itunes_id": "1191112800",
+        "content_rating": "explicit",
+        "artist_name": "Wave Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hollywood-levine/id1191112800",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1191112800",
+        "website": "http://hollywoodandlevine.libsyn.com/podcast"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "The Film Scene with Illeana Douglas",
+        "rss_feed_url": "https://anchor.fm/s/6DC7390/podcast/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 80,
+        "average_rating": 4.8,
+        "description": "Popcorn Talk Network, the online broadcast network that features movie discussion, news, interviews and commentary proudly presents “The Film Scene w/ Illeana Douglas”, a weekly, freewheeling discussion show where industry veteran Illeana Douglas interviews Hollywood's most important voices in TV and Film, discussing some of Cinema's most important films, scenes, and shots. Produced by Ryan Nilsen and co-hosted by Jeff Graham, this show is essential listening for serious and casual fans of film!",
+        "itunes_id": "1169112310",
+        "content_rating": "clean",
+        "artist_name": "Popcorn Talk Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-film-scene-with-illeana-douglas/id1169112310",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1169112310",
+        "website": "https://popcorntalknetwork.com/i-blame-dennis-hopper/"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "The Good, The Bad, And The Sequel",
+        "rss_feed_url": "https://anchor.fm/s/8a65204/podcast/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 50,
+        "average_rating": 4.9,
+        "description": "Hosts Doug and Jamie are talking sequels and they do it in 2 parts. The first, an interview with an actor or someone involved that made the film worth watching. They provide us some insight and talk about their career. Trust me they have some amazing stories that you're going to want to hear. And the second, a discussion of the sequel; What they got right, what they got wrong and how it could’ve been better. Follow us on twitter,instagram, and facebook @sequelsonly",
+        "itunes_id": "1456268043",
+        "content_rating": "explicit",
+        "artist_name": "Doug and Jamie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-good-the-bad-and-the-sequel/id1456268043",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456268043",
+        "website": "https://anchor.fm/sequelsonly"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ghostbusters Interdimensional Crossrip",
+        "rss_feed_url": "http://www.ghostbustershq.net/the-ghostbusters-interdimensional-crossrip?format=rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 59,
+        "average_rating": 5,
+        "description": "A podcast on everything Ghostbusters by two long-time fansite webmasters Troy Benjamin (of Ghostbusters HQ) and Chris Stewart (of Proton Charging). Join us for in-depth analysis of the latest news, commentary on goings on, and interviews with some familiar faces.",
+        "itunes_id": "1016295072",
+        "content_rating": "clean",
+        "artist_name": "Still Playing with Toys - Troy Benjamin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ghostbusters-interdimensional-crossrip/id1016295072",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1016295072",
+        "website": "http://www.ghostbustershq.net/the-ghostbusters-interdimensional-crossrip/"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Someone Else's Movie",
+        "rss_feed_url": "https://www.someoneelsesmovie.com/feed/podcast/",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.6,
+        "description": "SOMEONE ELSE'S MOVIE is just what it says on the label: Each week, an actor, director, screenwriter, critic or industry observer will discuss a film that he or she admires, but had no hand in making. Hosted by Norm Wilner, senior film writer for NOW Magazine.",
+        "itunes_id": "976729350",
+        "content_rating": "explicit",
+        "artist_name": "Norm Wilner/Frequency Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/someone-elses-movie/id976729350",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=976729350",
+        "website": "https://www.someoneelsesmovie.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Really Famous with Kara Mayer Robinson",
+        "rss_feed_url": "http://reallyfamous.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture"
+        ],
+        "rating_count": 56,
+        "average_rating": 4.6,
+        "description": "Warning: You'll feel like these Hollywood A-listers are your new best friends. Eavesdrop as iconic actors and celebrities laugh, reflect and connect with journalist Kara Mayer Robinson. They do a deep dive on TV, movies, acting, life, love, family and way, way more. It's like catching up with old friends - or eavesdropping on a therapy session. Sure, they're famous. But with Kara, they're real.",
+        "itunes_id": "1231521180",
+        "content_rating": "clean",
+        "artist_name": "Kara Mayer Robinson celebrity interviews",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/really-famous-with-kara-mayer-robinson/id1231521180",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1231521180",
+        "website": "https://www.reallyfamouspodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Frames Per Second",
+        "rss_feed_url": "http://feeds.feedburner.com/FramesPerSecondPodcast",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 100,
+        "average_rating": 4.8,
+        "description": "Frames Per Second Podcast covers all the hot topics and issues related to cinema with in-depth discussions and reviews on the films and television shows we watch today.\nFor advertising opportunities please email PodcastPartnerships@Studio71us.com",
+        "itunes_id": "1453571424",
+        "content_rating": "explicit",
+        "artist_name": "Studio71",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/frames-per-second/id1453571424",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453571424",
+        "website": "https://megaphone.link/STU5698215144"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Perfect Organism: The Alien Saga Podcast",
+        "rss_feed_url": "https://perfectorganism.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 45,
+        "average_rating": 4.6,
+        "description": "Perfect Organism: The Alien Saga Podcast is a groundbreaking show exploring the world of Alien in all its aspects—the films, the expanded universe, and fandom itself. With exclusive interviews, first-look news, hilarious roundtables, and in-depth philosophical discussions, Perfect Organism has become a hub of Alien fandom worldwide.\n\nFounded in 2015 by Jaime Prater.",
+        "itunes_id": "1091474629",
+        "content_rating": "explicit",
+        "artist_name": "Perfect Organism Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/perfect-organism-the-alien-saga-podcast/id1091474629",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1091474629",
+        "website": "https://perfectorganism.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Black Mirror Cracked",
+        "rss_feed_url": "https://rss.acast.com/blackmirrorcracked",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.3,
+        "description": "Welcome to Black Mirror Cracked - the podcast for all your Black Mirror needs. We alternate between episode analysis and interviews featuring journalists, actors from the show and even Charlie Brooker himself!\n\n\nFor more Black Mirror stuff, follow our Twitter @BlackMirrorCrrr, join the conversation in our Facebook group or read more at mirror.co.uk/blackmirror Thanks for listening!\n\n\nBlack Mirror Cracked is hosted by James Ide and produced by Daniel Jackson.",
+        "itunes_id": "1330129470",
+        "content_rating": "clean",
+        "artist_name": "Daily Mirror",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/black-mirror-cracked/id1330129470",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1330129470",
+        "website": "https://www.mirror.co.uk/blackmirror"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Following Dreams",
+        "rss_feed_url": "https://feed.podbean.com/followingdreamspodcast/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Discover how people are achieving their dreams by following their passions with your host Isaac Carlson.",
+        "itunes_id": "1480055371",
+        "content_rating": "clean",
+        "artist_name": "Isaac Carlson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/following-dreams/id1480055371",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480055371",
+        "website": "https://followingdreamspodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Honey Boy Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/QCD2029111158",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "A four-part interview series with the stars and crew from the new film HONEY BOY. \n\nHoney Boy Podcast is produced by IHEARTCOMIX in association with Amazon Studios.",
+        "itunes_id": "1485444639",
+        "content_rating": "explicit",
+        "artist_name": "QCODE",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/honey-boy-podcast/id1485444639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485444639",
+        "website": "https://www.qcodemedia.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Level 20",
+        "rss_feed_url": "https://level20.podomatic.com/rss2.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.9,
+        "description": "Level 20\n\nCelebrating the lineage of annual feature ski films by Level 1.\n\n2019 rewinding back to 1999: Two decades of stories ripe for the picking. \nSecond, third and fourth generations of freestyle skiing talent. VHS to Instagram. Balance to Romance. The creators behind the imagery, (along with a few special guests), recount the behind-the-scenes history in this twenty part audio series.",
+        "itunes_id": "1471001518",
+        "content_rating": "explicit",
+        "artist_name": "Level 1 Productions",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/level-20/id1471001518",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471001518",
+        "website": "https://level20.podomatic.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "The Rough Cut",
+        "rss_feed_url": "https://theroughcut.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "The Rough Cut features in-depth interviews with the top film and television post production professionals working in the industry today.  Hosted by @MattFeury of Avid Technology.",
+        "itunes_id": "1471556007",
+        "content_rating": "clean",
+        "artist_name": "Matt Feury",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-rough-cut/id1471556007",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471556007",
+        "website": "http://theroughcutpod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Films To Be Buried With with Brett Goldstein",
+        "rss_feed_url": "https://rss.acast.com/filmstobeburiedwith",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Comedy",
+          "Comedy Interviews"
+        ],
+        "rating_count": 44,
+        "average_rating": 5,
+        "description": "A weekly podcast hosted by Brett Goldstein, talking life and death via movies in detail with an extra special different guest each episode. Tragedy and comedy in delicious harmony for your listening enjoyment.",
+        "itunes_id": "1408585620",
+        "content_rating": "clean",
+        "artist_name": "Brett Goldstein",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/films-to-be-buried-with-with-brett-goldstein/id1408585620",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1408585620",
+        "website": "https://m.facebook.com/mrbrettgoldstein/?ref=bookmarks"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Advanced TV Herstory",
+        "rss_feed_url": "http://advancedtvherstory.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "History"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.5,
+        "description": "Finally, a podcast that studies, analyzes and celebrates women in TV. Thousands of comedies, variety shows and dramas have aired, yet the presence of strong women – both in front of and behind the camera -  is an experience we need to understand better and embrace. \n\nWith an eye to aligning the leadership lesson, time capsule observation or fascinating backstory of a show’s success or failure, my goal of Advanced TV Herstory is to connect the treasures of the past to the great potential of today’s TV and online platforms.  Tomorrow’s success is rooted in understanding what has come before us. So gear up for a little sociology, economics, strategy, storytelling and fun.",
+        "itunes_id": "1014759821",
+        "content_rating": "clean",
+        "artist_name": "Cynthia Bemis Abrams, TV Scholar, Writer, Leadership/PR consultant",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/advanced-tv-herstory/id1014759821",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1014759821",
+        "website": "https://www.tvherstory.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Advanced TV Herstory",
+        "rss_feed_url": "http://advancedtvherstory.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "History"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.5,
+        "description": "Finally, a podcast that studies, analyzes and celebrates women in TV. Thousands of comedies, variety shows and dramas have aired, yet the presence of strong women – both in front of and behind the camera -  is an experience we need to understand better and embrace. \n\nWith an eye to aligning the leadership lesson, time capsule observation or fascinating backstory of a show’s success or failure, my goal of Advanced TV Herstory is to connect the treasures of the past to the great potential of today’s TV and online platforms.  Tomorrow’s success is rooted in understanding what has come before us. So gear up for a little sociology, economics, strategy, storytelling and fun.",
+        "itunes_id": "1014759821",
+        "content_rating": "clean",
+        "artist_name": "Cynthia Bemis Abrams, TV Scholar, Writer, Leadership/PR consultant",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/advanced-tv-herstory/id1014759821",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1014759821",
+        "website": "https://www.tvherstory.com/"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Kubrick's Universe - The Stanley Kubrick Podcast",
+        "rss_feed_url": "https://skas.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.1,
+        "description": "The Stanley Kubrick Appreciation Society presents a podcast about filmmaker Stanley Kubrick.",
+        "itunes_id": "1334257580",
+        "content_rating": "explicit",
+        "artist_name": "The Stanley Kubrick Appreciation Society",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kubricks-universe-the-stanley-kubrick-podcast/id1334257580",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1334257580",
+        "website": "https://skas.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cinematologists Podcast",
+        "rss_feed_url": "https://cinematologists.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 3,
+        "average_rating": 4,
+        "description": "The Cinematologists Podcast: Exploring, Analysing and Celebrating Film Culture",
+        "itunes_id": "981479854",
+        "content_rating": "clean",
+        "artist_name": "The Cinematologists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cinematologists-podcast/id981479854",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=981479854",
+        "website": "https://cinematologists.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chop It Up Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/684536.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "Chop it up is a podcast, about 2 men an there struggles of trying to become successful entrepreneurs in an over saturated market. That market bing photography/videography . Everything from our Gear to dealing / booking clients.why we do things the way we do it .",
+        "itunes_id": "1484593775",
+        "content_rating": "clean",
+        "artist_name": "Anthony Smith / Preston Brown",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chop-it-up-podcast/id1484593775",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484593775",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kung Fu Drive-In Podcast",
+        "rss_feed_url": "http://kungfudrivein.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 53,
+        "average_rating": 5,
+        "description": "This podcast discusses kung fu and martial arts cinema past, present, and future! We talk about the art of kung fu as depicted in vintage cinema and thoughout the years. Just remember ... your kung fu is good ... but MINE is BETTER!",
+        "itunes_id": "1087252154",
+        "content_rating": "clean",
+        "artist_name": "Jeof Vita",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kung-fu-drive-in-podcast/id1087252154",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1087252154",
+        "website": "http://kungfudrivein.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hollywood Remixed",
+        "rss_feed_url": "https://feeds.simplecast.com/BD2up9nz",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.6,
+        "description": "”Hollywood Remixed” is a topical, diversity-focused podcast from The Hollywood Reporter, hosted by Rebecca Sun and Rebecca Ford. Each episode will be dedicated to a single theme – a type of character or story that has been traditionally underrepresented or misrepresented in pop culture – and feature a special guest whose latest work exemplifies a new breakthrough in representation. We’ll revisit groundbreaking classics and introduce listeners to hidden gems, in order to better understand how film and television in the past has shaped progress in the present.\n\nHosted by: Rebecca Ford and Rebecca Sun\nProduced by: Matthew Whitehurst and Joshua Farnham",
+        "itunes_id": "1485462182",
+        "content_rating": "clean",
+        "artist_name": "The Hollywood Reporter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hollywood-remixed/id1485462182",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485462182",
+        "website": "https://hollywood-remixed-5ca47cef.simplecast.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Landmark Theatres Q&A Podcast",
+        "rss_feed_url": "https://feed.podbean.com/landmarktheatres/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.3,
+        "description": "Landmark Theatres presents ongoing Q&As for newly released films. Recorded live in front of a movie theatre audience, the panel discussions feature directors, writers, actors and other key players for each film.",
+        "itunes_id": "657562891",
+        "content_rating": "clean",
+        "artist_name": "Landmark Theatres",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/landmark-theatres-q-a-podcast/id657562891",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=657562891",
+        "website": "https://landmarktheatres.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "We Know Jack Show",
+        "rss_feed_url": "https://weknowjackshow.libsyn.com/weknowjackshow",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Behind the scenes stories from the making of Nightmare Before Christmas. Each episode is an in depth interview with a different crew member. Animators, artists, techies, production staff, and more all stop by to tell what it was like making this incredible film.",
+        "itunes_id": "1477289703",
+        "content_rating": "clean",
+        "artist_name": "Studio 65/45",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/we-know-jack-show/id1477289703",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477289703",
+        "website": "http://weknowjackshow.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "LA LISTA: A Latinx Writers Podcast",
+        "rss_feed_url": "https://lalista.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Join your host, Rubén Mendive, as he compiles a list of writers Hollywood needs to know about. Each episode features an in depth interview with a writer on where they've been and where they're headed.\n\nFollow us @lalistapodcast on Instagram and Twitter!\n\nlalistapodcast.com",
+        "itunes_id": "1462691469",
+        "content_rating": "explicit",
+        "artist_name": "Rubén Mendive",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/la-lista-a-latinx-writers-podcast/id1462691469",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462691469",
+        "website": "https://lalistapodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Reppin",
+        "rss_feed_url": "http://suburbanoutlawproductions.squarespace.com/reppins1?format=rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Reppin: about all things representation. Insightful conversations with notable people from all different backgrounds and professions-people you THINK you know. They'll share their stores and experiences and you'll find out who they really are, what the stand for and you'll find out what they represent.",
+        "itunes_id": "1480913421",
+        "content_rating": "clean",
+        "artist_name": "Suburban Outlaw Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/reppin/id1480913421",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480913421",
+        "website": "http://www.suburbanoutlawproductions.com/reppins1/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Conversations with Charlie",
+        "rss_feed_url": "https://feeds.captivate.fm/conversationswithcharlie/",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "\"Conversations with Charles\" is a series of in-depth conversations with the people that make up the film, broadcast and entertainment industry, including actors, directors, cinematographers, producers and other fascinating characters that inhabit this world.\n\nHosted by CHARLIE HERZFELD a veteran of the film and broadcast industry who has worked on over 100 feature film and broadcast projects with the likes of Martin Scorsese, Darren Aronofsky, Spike Lee, John Turturro and many more.",
+        "itunes_id": "1481521396",
+        "content_rating": "clean",
+        "artist_name": "THEPODMATRIX",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/conversations-with-charlie/id1481521396",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481521396",
+        "website": "https://thepodmatrix.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Into Final Space",
+        "rss_feed_url": "https://feed.podbean.com/gabewjones/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Join host and fan Gabe Jones for an all-access look into the TBS Original Series Final Space! We'll be taking a hard look at each episode of the show, analyzing, looking at theories, and hearing from Fantrexians. Buckle up those buttcheeks, and let's lightfold into Final Space!",
+        "itunes_id": "1454196846",
+        "content_rating": "clean",
+        "artist_name": "Gabe Jones",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/into-final-space/id1454196846",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454196846",
+        "website": "https://gabewjones.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mark and Me Podcast",
+        "rss_feed_url": "http://markandme.podomatic.com/rss2.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "Mark and Me is a podcast that provides a place for Mark (Skip to the End Podcast) to discuss different topics within popular culture that interests him, with special guests along for the ride to tell their story.\n\nVisit us at www.markandme.com",
+        "itunes_id": "1157152128",
+        "content_rating": "clean",
+        "artist_name": "Mark and Me Podcast",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mark-and-me-podcast/id1157152128",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1157152128",
+        "website": "https://markandme.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tungsten Originals Podcast",
+        "rss_feed_url": "https://audioboom.com/channels/4984159.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Comedy",
+          "Comedy Interviews"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.9,
+        "description": "Tungsten Originals is a multi-platform production company that celebrates and elevates the brightest young creators. Our podcast features talks about all things art with creators we love, from industry professionals to developing newcomers. Hosted by the founder of Tungsten Originals, West Givens.",
+        "itunes_id": "1449450100",
+        "content_rating": "clean",
+        "artist_name": "Tungsten Originals",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tungsten-originals-podcast/id1449450100",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449450100",
+        "website": "http://tungstenoriginals.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Shelved",
+        "rss_feed_url": "http://shelvedpodcast.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.8,
+        "description": "A Podcast dedicated to looking at and discussing un-produced or drastically changed screenplays of Hollywood. The host Jeremy Meyer sits down with a guest, or sometimes solo, to discuss one of the long lost scripts that never came to be. We also cover occasional movie news and reviews throughout the year.",
+        "itunes_id": "1182782204",
+        "content_rating": "explicit",
+        "artist_name": "Jeremy Meyer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shelved/id1182782204",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1182782204",
+        "website": "http://shelvedpodcast.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Filibuster",
+        "rss_feed_url": "https://www.spreaker.com/show/3169650/episodes/feed",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.9,
+        "description": "Each week Filibuster looks at the latest in film, pop culture, the festival circuit, and entertainment news. We also interview the talent involved in creating movies, literature, and television made all around the world.",
+        "itunes_id": "901448757",
+        "content_rating": "clean",
+        "artist_name": "The Nerd Party",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/filibuster/id901448757",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=901448757",
+        "website": "https://www.spreaker.com/show/filibuster_2"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flick Connection Podcast",
+        "rss_feed_url": "http://www.spreaker.com/show/2934588/episodes/feed",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.8,
+        "description": "Get more out of movies with discussions of hot movie topics and regular film industry guests like actors, filmmakers and more!",
+        "itunes_id": "1385121983",
+        "content_rating": "explicit",
+        "artist_name": "Flick Connection",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flick-connection-podcast/id1385121983",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1385121983",
+        "website": "https://www.spreaker.com/show/flick-connection-get-more-out-of-movies"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Protecting the Frame",
+        "rss_feed_url": "https://protectingtheframe.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 23,
+        "average_rating": 5,
+        "description": "Welcome to Protecting the Frame, a podcast that is all things cinematography. Come join us as we discuss the business, craftsmanship and life behind the camera in today's thriving film industry.",
+        "itunes_id": "1454759350",
+        "content_rating": "clean",
+        "artist_name": "Hutch",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/protecting-the-frame/id1454759350",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454759350",
+        "website": "https://www.protectingtheframe.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "St. Paul Filmcast",
+        "rss_feed_url": "https://stpaulfilmcast.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 82,
+        "average_rating": 5,
+        "description": "Classic and modern film reviews.",
+        "itunes_id": "1381271199",
+        "content_rating": "clean",
+        "artist_name": "Nick Palodichuk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/st-paul-filmcast/id1381271199",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1381271199",
+        "website": "https://stpaulfilmcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Male-Bonding: The James Bond 007 Movie Review",
+        "rss_feed_url": "https://www.moviehousememories.com/category/podcasts/james-bond/feed/",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "Male-Bonding reviews of all the James Bond movies from A to Z. Visit https://www.moviehousememories.com for more movie reviews and film summaries.",
+        "itunes_id": "857822839",
+        "content_rating": "explicit",
+        "artist_name": "Movie House Memories",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/male-bonding-the-james-bond-007-movie-review/id857822839",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=857822839",
+        "website": "https://www.moviehousememories.com/category/podcasts/james-bond/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Make-Up Artist Magazine",
+        "rss_feed_url": "https://feeds.buzzsprout.com/568420.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Fashion & Beauty"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A show where we have candid conversations with the leaders of the pro makeup world about their art, and the pain and glory of working in a creative industry. Two time Emmy award winner, Michael Key created Make-Up Artist magazine in 1996. It has become the make-up community’s top resource for innovative make-up techniques and the latest industry news and trends. Read in more than 70 countries, Make-Up Artist is a source for pros and aspiring artists working in film, fashion, TV, theater, retail and beyond.",
+        "itunes_id": "1478791105",
+        "content_rating": "clean",
+        "artist_name": "Make-Up Artist magazine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/make-up-artist-magazine/id1478791105",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478791105",
+        "website": "http://makeupmag.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Everything I Learned From Movies",
+        "rss_feed_url": "https://eilfm.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Steve and Izzy watch bad movies, drink good beer, funny third thing. Cheers!",
+        "itunes_id": "1136473128",
+        "content_rating": "explicit",
+        "artist_name": "Steve Kondrick",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/everything-i-learned-from-movies/id1136473128",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1136473128",
+        "website": "https://eilfm.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Star Wars Spelt Out Podcast",
+        "rss_feed_url": "https://starwarsspeltout.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Josh Chapman wants to get better at Star Wars, so he is getting people he knows on the mic to podcast and their ideas and stories. Some people know more, some people know less but all that really matters is they have something to say, it’s STAR WARS SPELT OUT.",
+        "itunes_id": "1361462308",
+        "content_rating": "clean",
+        "artist_name": "Star Wars Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/star-wars-spelt-out-podcast/id1361462308",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1361462308",
+        "website": "https://starwarsspeltout.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Exploration Films Podcast",
+        "rss_feed_url": "https://explorationfilms.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "A deep dive into films from around the world. Featuring conversations with producers, directors, and actors. Here they discuss the sublime to the ridiculous of film making and even give you the never heard before backstories with worldview. Hosted by Renaissance man and thinker Carl Moeller.",
+        "itunes_id": "1479798587",
+        "content_rating": "clean",
+        "artist_name": "Exploration FIlms",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/exploration-films-podcast/id1479798587",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479798587",
+        "website": "http://explorationfilms.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mój Ulubiony Film",
+        "rss_feed_url": "https://anchor.fm/s/a212b2c/podcast/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Dziennikarz Filmwebu Łukasz Muszyński dyskutuje z zaproszonymi gośćmi o ich ulubionych filmach. Konwersacja o kinie staje się punktem wyjścia do rozmowy o życiu. Albowiem sztuka i życie lubią się ze sobą przeplatać.",
+        "itunes_id": "1476062573",
+        "content_rating": "clean",
+        "artist_name": "Filmweb",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/m%C3%B3j-ulubiony-film/id1476062573",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476062573",
+        "website": "http://filmweb.pl"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The White Noise Podcast",
+        "rss_feed_url": "https://feed.podbean.com/thewhitenoisepodcastt/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "We love discussing movies and TV and that's what this podcast is about. It's our way to document our struggle to make it in entertainment while talking about movies and to other fellow artists along the way. To put it simply, it's a podcast by creators, for creators.",
+        "itunes_id": "1478493707",
+        "content_rating": "explicit",
+        "artist_name": "James Crowell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-white-noise-podcast/id1478493707",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478493707",
+        "website": "https://thewhitenoisepodcastt.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Par-Impar",
+        "rss_feed_url": "https://esradio.libertaddigital.com/par-impar/aac.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Par Impar son Juanma González y Dani Palacios, que comentan todas las películas, series y otros aspectos de cultura popular que se te puedan ocurrir.",
+        "itunes_id": "1485716639",
+        "content_rating": "clean",
+        "artist_name": "esRadio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/par-impar/id1485716639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485716639",
+        "website": "https://esradio.libertaddigital.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Backstage",
+        "rss_feed_url": "https://www.spreaker.com/show/3287251/episodes/feed",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "Going behind the scenes to bring you showbiz interviews, TV recommendations and our thoughts on the latest movie releases - from both sides of the Atlantic. Join Katie, Claire and Stevie for a fun look at the world of entertainment. Got a message for us? Email backstage@sky.uk",
+        "itunes_id": "1449619878",
+        "content_rating": "clean",
+        "artist_name": "Sky News",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/backstage/id1449619878",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449619878",
+        "website": "https://www.spreaker.com/show/backstage_17"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Restaurant Fiction : The Fictional Restaurant Expert",
+        "rss_feed_url": "https://www.launchpaddm.com/feed/Restaurant-Fiction--The-Fictional-Restaurant-Expert",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Food"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Restaurant Fiction reviews the fictional restaurants, fictional bars, and fictional clubs featured in TV & Film and talks to the writers, directors, producers, executives and other talent who had a major hand in them.",
+        "itunes_id": "1296680768",
+        "content_rating": "clean",
+        "artist_name": "Monis Rose",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/restaurant-fiction-the-fictional-restaurant-expert/id1296680768",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1296680768",
+        "website": "https://www.launchpaddm.com/pd/Restaurant-Fiction--The-Fictional-Restaurant-Expert"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cartoon Lunch",
+        "rss_feed_url": "http://cartoonlunch.com/feed/podcast",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Casual conversations with friends from Cartoon Animation. Show creators, actors, artists as well as \"behind the scene\" production people.",
+        "itunes_id": "1482344006",
+        "content_rating": "clean",
+        "artist_name": "Antoine Guilbaud",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cartoon-lunch/id1482344006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482344006",
+        "website": "http://cartoonlunch.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Geeky Retro Nerds Show - Pop Culture Pod",
+        "rss_feed_url": "https://www.spreaker.com/show/2911186/episodes/feed",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.4,
+        "description": "Join host Adam Gradwell as he talks about growing up in the 80s and early 90s and his favourite movies and TV shows. Along the way he interviews special guests from pop culture that get the nostalgia flowing. \n\nVisit my website at https://geekyretronerds.wixsite.com/geekyretronerds\n\nDo you want to be credited as EXECUTIVE PRODUCER of the show? Donate and invest in the shows growth here: https://bit.ly/2yLJyeH \n\nPromo: truffleshuffle.com for geeky t-shirts and retro gifts. Use my discount code GRNS15 to get a 15% discount on a spend of £25 or more \n\nIG & Twitter: @geekyretronerds\nFB: Geeky Retro Nerds Show",
+        "itunes_id": "1436496326",
+        "content_rating": "clean",
+        "artist_name": "Adam Gradwell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/geeky-retro-nerds-show-pop-culture-pod/id1436496326",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436496326",
+        "website": "https://www.spreaker.com/show/geeky-retro-nerdss-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pulling Your Hair Out: Conversations About The Writing Process",
+        "rss_feed_url": "http://pullingyourhairout.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "TV writer Richard Lowe talks with writers about how they write and what drives them to pull their hair out.",
+        "itunes_id": "1219147843",
+        "content_rating": "clean",
+        "artist_name": "Richard Lowe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pulling-your-hair-out-conversations-about-writing-process/id1219147843",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1219147843",
+        "website": "http://pullingyourhairout.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The St. Canard Files: A Darkwing Duck Podcast",
+        "rss_feed_url": "https://pinecast.com/feed/the-st-canard-files-a-darkwing",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "TV Reviews"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "An analysis of every Darkwing Duck episode and discussion of all things related to the masked mallard! Reviews, news, interviews and more!",
+        "itunes_id": "1476318970",
+        "content_rating": "clean",
+        "artist_name": "Will Santana",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-st-canard-files-a-darkwing-duck-podcast/id1476318970",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476318970",
+        "website": "https://the-st-canard-files-a-darkwing.pinecast.co"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "MAKE IT",
+        "rss_feed_url": "http://makeit.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "MAKE IT is a weekly conversation with Independent Film Creatives that helps aspiring professionals in Film get where they're going faster by dissecting the advice, knowledge, and insights of professional creatives in the film industry. Each week a different creative joins host and Bonsai Creative co-founder, Christopher Barkley in a one-on-one interview addressing mentorship, advice, skills, and current film projects.",
+        "itunes_id": "1406156285",
+        "content_rating": "explicit",
+        "artist_name": "Bonsai Creative",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/make-it/id1406156285",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1406156285",
+        "website": "https://bonsai.film/makeit"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My First Indie Film",
+        "rss_feed_url": "https://myfirstindiefilm.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Follow along the 90-Day journey as a first-time director, Jason Baumgardner, makes his maiden voyage into no-budget filmmaking. Hear recaps of each day as the filmmaker goes from finding an idea, writing the screenplay, directing the film, and editing the footage. \nAll in 90-DAYS!",
+        "itunes_id": "1475073331",
+        "content_rating": "clean",
+        "artist_name": "Jason Baumgardner",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-first-indie-film/id1475073331",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475073331",
+        "website": "http://myfirstindiefilm.libsyn.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Frame by Frame - Post New York Alliance",
+        "rss_feed_url": "https://feed.podbean.com/framebyframe/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film History"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Frame By Frame is a podcast series hosted by editor Isabel Sadurni, that introduces you to the most influential, respected and accomplished cinema post-production professionals working in New York today.",
+        "itunes_id": "1478579892",
+        "content_rating": "clean",
+        "artist_name": "framebyframe- Post New York Alliance",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/frame-by-frame-post-new-york-alliance/id1478579892",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478579892",
+        "website": "https://framebyframe.podbean.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Epic Briefs Podcast",
+        "rss_feed_url": "https://audioboom.com/channels/4915002.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "We are an Atlanta-based podcast produced and hosted by friends.\nWe use this platform to share and discuss our passions - comics, film, television, art, music, comedy, video games, pop culture - also, highlight local talent and creatives, as well as interview occasional special guests that inspire our nerdy lives.",
+        "itunes_id": "944770091",
+        "content_rating": "explicit",
+        "artist_name": "Epic Briefs Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/epic-briefs-podcast/id944770091",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=944770091",
+        "website": "https://www.epicbriefspodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Honest Conversations with Alex Cubis",
+        "rss_feed_url": "https://rss.acast.com/honestconversationswithalexcubis",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Alex Cubis - actor/professor/writer and business owner - speaks to people in the world of entertainment in LA and around the world to ascertain how we can distinguish our point of view in a world saturated with opinions.",
+        "itunes_id": "1337468380",
+        "content_rating": "explicit",
+        "artist_name": "Alex Cubis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/honest-conversations-with-alex-cubis/id1337468380",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1337468380",
+        "website": "https://play.acast.com/s/honestconversationswithalexcubis"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Film in Minnesota",
+        "rss_feed_url": "http://filminminnesota.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "All about Film in Minnesota as we interview those who are currently working in the industry.\nMusic Courtesy of Oni Sakti / Geodesique / Ephedream",
+        "itunes_id": "1430595556",
+        "content_rating": "clean",
+        "artist_name": "Alan Tracy & Rehana Power: Film Industry",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/film-in-minnesota/id1430595556",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1430595556",
+        "website": "http://filminminnesota.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Movies Made Me",
+        "rss_feed_url": "http://moviesmademe.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Society & Culture"
+        ],
+        "rating_count": 23,
+        "average_rating": 5,
+        "description": "Virtually every one of us has had a film experience that altered us in some way, that gave us a passion, a fear, a way of looking at the world. I task my guests with talking about the five movies that have made them, well, them! We'll explore how each movie changed them, while also looking at three other influences, from the broad spectrum of their experience, that made them who they are today.",
+        "itunes_id": "983131607",
+        "content_rating": "explicit",
+        "artist_name": "Dragon Wagon Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/movies-made-me/id983131607",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=983131607",
+        "website": "http://mmmpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Han Duo",
+        "rss_feed_url": "http://handuo.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Elias Eliot & Jacob Ege Hinchely tager fat i genrefilm, tv-serier og spil, nyheder og Top 3. Men også retrospektive dybdegående specials, med interviews med folkene bag produktionerne. Gå endelig på opdagelse i arkivet.\nHan Duo udkommer hver anden uge.",
+        "itunes_id": "872060406",
+        "content_rating": "explicit",
+        "artist_name": "Han Duo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/han-duo/id872060406",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=872060406",
+        "website": "http://www.facebook.com/HanDuoPodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Take on Flicks.com.au",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/8477",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Flicks.com.au's first movie podcast sees film critic Blake Howard tackle the biggest topics occupying the week's cinema and home entertainment conversation. Featuring a revolving crew of the world's sharpest film minds, renowned filmmakers and stars.",
+        "itunes_id": "1476108648",
+        "content_rating": "clean",
+        "artist_name": "Flicks.com.au",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-take-on-flicks-com-au/id1476108648",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476108648",
+        "website": "https://player.whooshkaa.com/shows/the-take-on-flicks-com-au"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Get 2 The Movies",
+        "rss_feed_url": "http://get2thepodcast.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "Filmmakers Nick Gambino, Neal Carson and Thiago Desouza debate films, movies and cinema as well as the occasional motion picture. From the classic to the modern, they cover everything.  \n\nWith knowledge of movies that run deep these guys do their best to not kill each other in the heat of passion. And it's all here for your listening pleasure. You're welcome. \n\nNew episodes drop every Tuesday.",
+        "itunes_id": "1211533577",
+        "content_rating": "explicit",
+        "artist_name": "Get 2 the Movies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/get-2-the-movies/id1211533577",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1211533577",
+        "website": "http://get2thepodcast.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Akkerdjie! Een podcast vol nostalgie",
+        "rss_feed_url": "https://feed.podbean.com/akkerdjie/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Mijn naam is Harald Scheerlinck. Om de twee weken blik ik vol nostalgie terug op de carrière van acteurs/actrices, schrijvers/schrijfsters, tekenaars, ... die een impact hebben gehad op de jeugd van vele Vlaamse twintigers, dertigers en veertigers.",
+        "itunes_id": "1452058206",
+        "content_rating": "clean",
+        "artist_name": "Harald Scheerlinck",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/akkerdjie-een-podcast-vol-nostalgie/id1452058206",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452058206",
+        "website": "https://akkerdjie.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Es Cine",
+        "rss_feed_url": "https://esradio.libertaddigital.com/es-cine/aac.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Toda la actualidad del séptimo arte con Andrés Arconada. Nos trae las mejores entrevistas a los protagonistas del momento y recomienda qué ver en el cine.",
+        "itunes_id": "422019717",
+        "content_rating": "clean",
+        "artist_name": "esRadio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/es-cine/id422019717",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=422019717",
+        "website": "https://esradio.libertaddigital.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Upodcast- Bollywood Edition",
+        "rss_feed_url": "https://audioboom.com/channels/4944452.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Upodcast- Bollywood Edition\nProbably the longest running Bollywood Podcast in the world!\nBollywood film reviews, the largest collection of interviews with your favourite stars on any podcast and filmy debates.",
+        "itunes_id": "1363076296",
+        "content_rating": "clean",
+        "artist_name": "Upodcast- Bollywood Edition",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/upodcast-bollywood-edition/id1363076296",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363076296",
+        "website": "https://audioboom.com/channel/upodcast--bollywood-edition"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Kasanova Podcast",
+        "rss_feed_url": "https://www.launchpaddm.com/feed/The-Kasanova-Podcast",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Leisure",
+          "Video Games"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.4,
+        "description": "The Kasanova Podcast, created and hosted by Mekel Kasanova, is a technology, video game, and interview talkshow podcast. The premise of the show is simple. We bring on guests from various backgrounds either from Hollywood with celebrities, professional wrestlers, video game and technology CEO’s and industry insiders, content creators, music composers and more and interview them to get an inside look into their journey and how they came to be in the industry they are in and how the audience can learn from them.",
+        "itunes_id": "1322251616",
+        "content_rating": "clean",
+        "artist_name": "Mekel Kasanova",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-kasanova-podcast/id1322251616",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1322251616",
+        "website": "https://www.launchpaddm.com/pd/The-Kasanova-Podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Couch Guy Hollywood",
+        "rss_feed_url": "https://couchguyhollywood.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Couch Guy Hollywood is your home for the best entertainment podcast on the market. Here, hosts Nick Schofield, Cooper Tomlinson, and Ben Nobile will talk about everything that's hot in Hollywood. The top trending movies, television, music and even some pop culture will all be broken down, discussed and debated every single week.",
+        "itunes_id": "1450269194",
+        "content_rating": "explicit",
+        "artist_name": "Couch Guy Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/couch-guy-hollywood/id1450269194",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450269194",
+        "website": "https://couchguyhollywood.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Incarnations",
+        "rss_feed_url": "https://feeds.megaphone.fm/incarnations",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "«Incarnations», c’est l’émission qui vous emmène à la frontière entre cinéma et réalité. Ça se passe comment, en vrai? D’être un flic infiltré au sein d’un gang, une astronaute perdue dans l’espace, un chercheur, une mère de famille, une victime, un bourreau, un étudiant en médecine, une exploratrice, un archéologue… Dans «Incarnations», Stéphanie Chermont et Marie Salah vont tenter de répondre à cette question. Avec une idée simple: faire se rencontrer un acteur ou une actrice et la personne qu’il ou elle incarne dans la vraie vie. Comment devient-on quelqu’un d’autre à l’écran? Cette personne, incarnée, se sent-elle bien représentée ? Le cinéma a-t-il le pouvoir de faire changer les choses?",
+        "itunes_id": "1480840548",
+        "content_rating": "clean",
+        "artist_name": "Slate.fr",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/incarnations/id1480840548",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480840548",
+        "website": "http://www.slate.fr/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ExtraTextual",
+        "rss_feed_url": "https://extratextual.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Two filmmakers share personal stories inspired my movies with a new guest every episode. An Atwoodland Production.",
+        "itunes_id": "1192079826",
+        "content_rating": "clean",
+        "artist_name": "Atwoodland Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/extratextual/id1192079826",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1192079826",
+        "website": "https://extratextual.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "What's the Score Podcast",
+        "rss_feed_url": "https://feed.podbean.com/whatsthescore1/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Explore the magic of the movies through music. Your host and guests from the film community share their favorite scores and what makes them special.",
+        "itunes_id": "1460310663",
+        "content_rating": "clean",
+        "artist_name": "whatsthescore1",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/whats-the-score-podcast/id1460310663",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460310663",
+        "website": "https://whatsthescore1.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hello Movies",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/6368",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Need a little motivation to get off the couch and into the theatre? The Hello Movies podcast gets you closer to the freshest films playing on the big screen now. Every two weeks host Lana Gay provides insights, interviews and behind the scenes features related to two top movies playing in theatres. Plus, get your fix on movie culture, trivia and more - all brought to you by Cineplex Entertainment.",
+        "itunes_id": "1457615356",
+        "content_rating": "clean",
+        "artist_name": "Cineplex",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hello-movies/id1457615356",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457615356",
+        "website": "https://www.cineplex.com/hello-movies-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "You Are Here Podcast",
+        "rss_feed_url": "https://anchor.fm/s/d34fadc/podcast/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Hosts Michael Nowicki and David Volino, and sometimes other guests, discuss a range of topics that revolve around the world of film making and acting, while connecting certain aspects of production or a role to what we feel in everyday life. Support this podcast: https://anchor.fm/youareherepodcast/support",
+        "itunes_id": "1451676243",
+        "content_rating": "explicit",
+        "artist_name": "Michael Nowicki, David Volino",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/you-are-here-podcast/id1451676243",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451676243",
+        "website": "https://youareherepodcast.co/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "90 Minutes Or Less Film Fest",
+        "rss_feed_url": "https://ninetyminfilmfest.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Sam Clements is curating a fictional film festival. He'll accept almost anything, but with one catch - the movie must not be longer than 90 minutes.\n\nThis is the 90 Minutes Or Less Film Fest podcast.",
+        "itunes_id": "1435004662",
+        "content_rating": "clean",
+        "artist_name": "90 Minutes Or Less Film Fest",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/90-minutes-or-less-film-fest/id1435004662",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435004662",
+        "website": "https://ninetyminfilmfest.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Ministry of Motion Pictures Podcast",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/5714",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "In the 1930's Minister James K. Friedrich said, \"The motion picture camera, like the printing press, is a gift from God. We can use it for God's purpose.\" The Ministry of Motion Pictures seeks to advance the Christian film movement by engaging with Christian filmmakers and examining the landscape of the Christian film genre, to understand what has shaped it in the past, and how it should be shaped in the future.",
+        "itunes_id": "1454118327",
+        "content_rating": "clean",
+        "artist_name": "Todd Shaffer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-ministry-of-motion-pictures-podcast/id1454118327",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454118327",
+        "website": "https://www.ministryofmotionpictures.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Catalina Conversaciones",
+        "rss_feed_url": "https://rss.art19.com/catalina-conversaciones",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Tómese una taza de café con leche y escuche la conversación de Cathy Areu con las estrellas VIP de Latinx más populares de la actualidad, desde música hasta películas y todo lo demás. De las páginas de la revista Catalina, a sus oídos aquí, tenga sus preguntas listas para unirse a estos chats exclusivos, solo para sus oídos ",
+        "itunes_id": "1482824924",
+        "content_rating": "clean",
+        "artist_name": "Cathy Areu",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/catalina-conversaciones/id1482824924",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482824924",
+        "website": "https://art19.com/shows/catalina-conversaciones"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "From The Dream to the Screen Podcast",
+        "rss_feed_url": "https://www.theguildhtx.com/from-the-dream-to-the-screen-podcast?format=rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "An in-depth look at the black creative process.",
+        "itunes_id": "1477771275",
+        "content_rating": "explicit",
+        "artist_name": "Creators Guild HTX",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/from-the-dream-to-the-screen-podcast/id1477771275",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477771275",
+        "website": "https://www.theguildhtx.com/from-the-dream-to-the-screen-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Real Horrorshow Podcast",
+        "rss_feed_url": "https://realhorrorshowpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.4,
+        "description": "Sam and Stormy died and they can't get into Heaven until they review every horror movie on Netflix.",
+        "itunes_id": "1231137437",
+        "content_rating": "explicit",
+        "artist_name": "realhorrorshowpodcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/real-horrorshow-podcast/id1231137437",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1231137437",
+        "website": "https://realhorrorshowpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ACTRA Spotlight",
+        "rss_feed_url": "https://actra.libsyn.com/rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Comedy",
+          "Comedy Interviews"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "ACTRA Spotlight is a podcast from ACTRA Toronto about performers, by performers. Join co-hosts Jean Yoon (star of Kim’s Convenience) and ACTRA Toronto Vice-President, David Gale (host of Loving Spoonfuls), as they chat with notable Canadian performers about their stories and work in the filmmaking industry.",
+        "itunes_id": "1452649144",
+        "content_rating": "clean",
+        "artist_name": "ACTRA Toronto",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/actra-spotlight/id1452649144",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452649144",
+        "website": "http://www.actratorontoperformers.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Galway Film Podcast",
+        "rss_feed_url": "https://www.galwayfilmfleadh.com/feed/podcast/",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "A mix of intimate interviews with filmmakers from around the world and live panel recordings from Ireland's premiere film event, the Galway Film Fleadh. \n\nWill Fitzgerald, Director of the Galway Film Fleadh, talks one-on-one with film directors, screenwriters, actors and producers about getting their films made, the things that inspire them in their work and what they do when they're not making films. The Galway Film Podcast also features panel discussions on film industry topics, with a range of contributors from across the Irish film industry and beyond.",
+        "itunes_id": "1435368240",
+        "content_rating": "clean",
+        "artist_name": "Galway Film Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/galway-film-podcast/id1435368240",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435368240",
+        "website": "https://www.galwayfilmfleadh.com/news/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "CINEMA JUDGE",
+        "rss_feed_url": "https://feeds.buzzsprout.com/270139.rss",
+        "categories": [
+          "Film Interviews",
+          "Podcasts",
+          "TV & Film",
+          "Film Reviews"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A Look inside current movies in theaters. With interviews and insights with the cast and crew.",
+        "itunes_id": "1457408010",
+        "content_rating": "clean",
+        "artist_name": "CINEMA JUDGE",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cinema-judge/id1457408010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457408010",
+        "website": null
+      }
+    }
+  ]
+}

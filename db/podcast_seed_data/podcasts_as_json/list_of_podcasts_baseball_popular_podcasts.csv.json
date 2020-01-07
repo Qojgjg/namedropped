@@ -1,0 +1,3333 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Baseball Tonight with Buster Olney",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=2386164",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2967,
+        "average_rating": 3.5,
+        "description": "ESPN MLB Insider Buster Olney leads the baseball discussion alongside other top analysts.",
+        "itunes_id": "137699414",
+        "content_rating": "clean",
+        "artist_name": "ESPN, Buster Olney",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baseball-tonight-with-buster-olney/id137699414",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=137699414",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Effectively Wild: A FanGraphs Baseball Podcast",
+        "rss_feed_url": "https://blogs.fangraphs.com/feed/effectively-wild/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1824,
+        "average_rating": 4.9,
+        "description": "Ben Lindbergh (The Ringer), Sam Miller (ESPN), Meg Rowley (FanGraphs), and an array of guests talk about baseball with an analytical bent, covering a mix of timely topics from the serious to the absurd a few times per week.",
+        "itunes_id": "545919715",
+        "content_rating": null,
+        "artist_name": "Ben Lindbergh, Sam Miller, Meg Rowley",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/effectively-wild-a-fangraphs-baseball-podcast/id545919715",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=545919715",
+        "website": "https://blogs.fangraphs.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "FanGraphs Baseball",
+        "rss_feed_url": "https://blogs.fangraphs.com/feed/podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 392,
+        "average_rating": 4.4,
+        "description": "FanGraphs Audio provides insightful baseball analysis and commentary in a round table style discussion with your favorite FanGraphs contributors.  Hosted by Meg Rowley.",
+        "itunes_id": "356200509",
+        "content_rating": null,
+        "artist_name": "FanGraphs Baseball",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fangraphs-baseball/id356200509",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=356200509",
+        "website": "https://blogs.fangraphs.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bronx Pinstripes Show - Yankees MLB Podcast",
+        "rss_feed_url": "https://rss.art19.com/bronx-pinstripes",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1814,
+        "average_rating": 4.9,
+        "description": "Hosted by Andrew Rotondi and Scott Reinen, The Bronx Pinstripes Show is a Yankees podcast focused on the weekly on-field action with a dose of raw fan emotion, media and player interviews, and an in-depth look at analytics. The show is not affiliated or associated with the New York Yankees, MLB, YES Network, or Barstool Sports.",
+        "itunes_id": "977410792",
+        "content_rating": "clean",
+        "artist_name": "Blue Wire",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bronx-pinstripes-show-yankees-mlb-podcast/id977410792",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=977410792",
+        "website": "https://art19.com/shows/bronx-pinstripes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "R2C2 is UNINTERRUPTED",
+        "rss_feed_url": "https://feeds.megaphone.fm/r2c2",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 1675,
+        "average_rating": 5,
+        "description": "CC Sabathia of the New York Yankees and co-host, Ryan Ruocco, welcome athlete and celebrity guests to the plate for wide-ranging conversations. Episodes include topical sports discussions, pop culture reviews and insightful stories with the occasional curve ball into food and parenting. With CC & Ryan on the mound, only hot takes are allowed on \"R2C2 is UNINTERRUPTED\".",
+        "itunes_id": "1384767525",
+        "content_rating": "explicit",
+        "artist_name": "UNINTERRUPTED",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/r2c2-is-uninterrupted/id1384767525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1384767525",
+        "website": "https://www.uninterrupted.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talkin' Yanks (Yankees Podcast)",
+        "rss_feed_url": "http://feeds.feedburner.com/TalkinYanks",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 1166,
+        "average_rating": 4.9,
+        "description": "We’re Talkin Yankees Baseball! Series Recaps, Weekly Awards, Interviews, Some Stats, Some Jokes, Contests and a Lot of Fun! Hosted by Jomboy and Jake.\nFor advertising opportunities please email PodcastPartnerships@Studio71us.com",
+        "itunes_id": "1257957660",
+        "content_rating": "clean",
+        "artist_name": "Jomboy Media & Studio71",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talkin-yanks-yankees-podcast/id1257957660",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1257957660",
+        "website": "https://talkinyanks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talkin' Baseball (MLB Podcast)",
+        "rss_feed_url": "http://feeds.feedburner.com/TalkinBaseball",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 631,
+        "average_rating": 4.9,
+        "description": "Every Monday and Friday we will be breaking down and recapping the series that were, the standings, the good, the bad and the angry from the MLB.\nFor advertising opportunities please email PodcastPartnerships@Studio71us.com",
+        "itunes_id": "1472939543",
+        "content_rating": "clean",
+        "artist_name": "Jomboy Media & Studio71",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talkin-baseball-mlb-podcast/id1472939543",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472939543",
+        "website": "http://www.jomboymedia.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nothing Personal with David Samson",
+        "rss_feed_url": "https://feeds.megaphone.fm/npds",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 282,
+        "average_rating": 5,
+        "description": "Nothing Personal with David Samson is a daily sports podcast hosted by David Samson. No guests. No callers. No BS. 45 minutes per day, Monday-Friday. David is dedicated to decoding the endless musings of players, owners and others in a concise, articulate and entertaining manner. Samson was in charge of a Major League Baseball team for 18 years, with winning a World Series ring, building a new ballpark, hosting an All-Star game, and buying and selling a franchise, among his many experiences and accomplishments.  His breadth of knowledge covers all aspects of sport. This podcast will be the destination for fans of sports and entertainment who want to hear the truth about real situations as they occur each day. Every segment will give his audience a unique perspective, not found anywhere else. His voice is strong and unwavering, his brand is honesty and his reach is extraordinary. And remember, it's just business...It's nothing personal!",
+        "itunes_id": "1483011704",
+        "content_rating": "clean",
+        "artist_name": "CBS Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nothing-personal-with-david-samson/id1483011704",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483011704",
+        "website": "https://www.cbssports.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talking Chop: for Atlanta Braves fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/talking-chop-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 336,
+        "average_rating": 4.6,
+        "description": "The official home for audio programming from Talking Chop, SB Nation's community for fans of the Atlanta Braves.",
+        "itunes_id": "1082214582",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talking-chop-for-atlanta-braves-fans/id1082214582",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1082214582",
+        "website": "http://www.talkingchop.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gleeman and The Geek - An Unauthorized Minnesota Twins Podcast",
+        "rss_feed_url": "http://gleemangeek.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 467,
+        "average_rating": 4.8,
+        "description": "Aaron Gleeman and John Bonnes talk about that baseball team in Minnesota over a beer at this week's favorite watering hole.\n\nMany THANKS to James Richter for his music and technical support & Kirsten Brown of kbrobaseball.com for our logo.",
+        "itunes_id": "457946327",
+        "content_rating": "clean",
+        "artist_name": "Aaron Gleeman and John Bonnes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gleeman-geek-unauthorized-minnesota-twins-podcast/id457946327",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=457946327",
+        "website": "http://gleemangeek.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ivy Envy - Chicago Cubs Fan Podcast (UNOFFICIAL)",
+        "rss_feed_url": "http://ivyenvy.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 364,
+        "average_rating": 4.8,
+        "description": "Fan coverage of the Chicago Cubs since 2009.",
+        "itunes_id": "306933992",
+        "content_rating": "clean",
+        "artist_name": "Ivy Envy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ivy-envy-chicago-cubs-fan-podcast-unofficial/id306933992",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=306933992",
+        "website": "http://ivyenvy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "White Sox Talk Podcast",
+        "rss_feed_url": "https://rss.art19.com/white-sox-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 310,
+        "average_rating": 4.8,
+        "description": "The White Sox Talk Podcast brings you unparalleled insight and access to the White Sox. Featuring interviews with current/former players and coaches, we’ll tell you why something happened yesterday, and what’s likely going to happen tomorrow. Featuring Chuck Garfien, Ryan McGuffey, Chris Kamka and Vinnie Duber. ",
+        "itunes_id": "1162163703",
+        "content_rating": "clean",
+        "artist_name": "NBC Sports Chicago",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/white-sox-talk-podcast/id1162163703",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1162163703",
+        "website": "https://art19.com/shows/white-sox-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Giants Insider Podcast",
+        "rss_feed_url": "https://rss.art19.com/giants-insider-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 189,
+        "average_rating": 4.8,
+        "description": "NBC Sports Bay Area's Giants Insider Alex Pavlovic brings you comprehensive MLB coverage of all things San Francisco Giants. Don't miss weekly in-depth interviews all year long with players, coaches, front office personnel, alumni and fellow media members...",
+        "itunes_id": "1092247887",
+        "content_rating": null,
+        "artist_name": "Alex Pavlovic, NBC Sports Bay Area",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-giants-insider-podcast/id1092247887",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1092247887",
+        "website": "https://art19.com/shows/giants-insider-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nationals Talk",
+        "rss_feed_url": "https://rss.art19.com/racing-presidents",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 108,
+        "average_rating": 4.8,
+        "description": "The best podcast to hear the latest on the World Series Champion Washington Nationals. Hosted by Tim Shovers, along with Chase Hughes and NBC Sports Washington’s Nationals Insider Todd Dybas. Contributors include Travis Thomas & Ryan Wormeli.",
+        "itunes_id": "1445740084",
+        "content_rating": "clean",
+        "artist_name": "NBC Sports Washington",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nationals-talk/id1445740084",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1445740084",
+        "website": "https://art19.com/shows/racing-presidents"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In This League Fantasy Baseball",
+        "rss_feed_url": "http://feeds.podtrac.com/S1kBI9rkRcBL",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Fantasy Sports"
+        ],
+        "rating_count": 296,
+        "average_rating": 4.8,
+        "description": "In This League Fantasy Baseball. Hosted by Scott Bogman and Chris Welsh. It's Fantasy Baseball...with some balls. In-Depth analysis, ranks, guests from across the industry and a dive into all formats of Fantasy Baseball.\n\nMore at www.Patreon.com/ITLArmy",
+        "itunes_id": "957018499",
+        "content_rating": "clean",
+        "artist_name": "Chris Welsh",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-this-league-fantasy-baseball/id957018499",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=957018499",
+        "website": "https://www.spreaker.com/show/in-this-league-fantasy-baseball"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "At The Yard: A Philadelphia Phillies Podcast",
+        "rss_feed_url": "https://rss.art19.com/at-the-yard",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 172,
+        "average_rating": 4.8,
+        "description": "The latest Phillies information you need from the analysts and experts at NBC Sports Philadelphia.",
+        "itunes_id": "1214369445",
+        "content_rating": "clean",
+        "artist_name": "NBC Sports Philadelphia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/at-the-yard-a-philadelphia-phillies-podcast/id1214369445",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1214369445",
+        "website": "https://art19.com/shows/at-the-yard"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Good Phight: for Philadelphia Phillies fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP6091063703",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 468,
+        "average_rating": 4.7,
+        "description": "The official home for audio programming from The Good Phight, SB Nation's community for fans of the Philadelphia Phillies.",
+        "itunes_id": "1015394113",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-good-phight-for-philadelphia-phillies-fans/id1015394113",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1015394113",
+        "website": "https://www.thegoodphight.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rotoworld Baseball Podcast",
+        "rss_feed_url": "https://rss.art19.com/rotoworld-baseball",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 91,
+        "average_rating": 4.5,
+        "description": "Rotoworld's D.J. Short, Drew Silva, and Matt Stroup examine MLB headlines and everything happening in fantasy baseball.",
+        "itunes_id": "1112825340",
+        "content_rating": "clean",
+        "artist_name": "D.J. Short, Drew Silva, Matt Stroup, Rotoworld Baseball",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rotoworld-baseball-podcast/id1112825340",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1112825340",
+        "website": "https://art19.com/shows/rotoworld-baseball"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The SKOR North Twins Show",
+        "rss_feed_url": "http://feeds.hubbardpodcasts.com/1500espn/podcast/touchemall",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 275,
+        "average_rating": 4.7,
+        "description": "Entertaining and insightful discussions about the Minnesota Twins! The SKOR North Twins Show is hosted by a combination of Phil Mackey, Glen Perkins, Derek Wetmore, Ramie Makhlouf, Judd Zulgad and Patrick Reusse.",
+        "itunes_id": "984107360",
+        "content_rating": "clean",
+        "artist_name": "PodcastOne / Hubbard Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-skor-north-twins-show/id984107360",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=984107360",
+        "website": "https://www.podcastone.com/the-skor-north-twins-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scoops with Danny Mac",
+        "rss_feed_url": "https://www.scoopswithdannymac.com/feed/podcast/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 214,
+        "average_rating": 4.5,
+        "description": "Interviews with sports celebs, players, managers, and all around important folks. Hosted by St. Louis Cardinals and Fox Sports Midwest TV broadcaster, Dan McLaughlin. Listen here for the scoop.",
+        "itunes_id": "1361399351",
+        "content_rating": "clean",
+        "artist_name": "Dan McLaughlin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scoops-with-danny-mac/id1361399351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1361399351",
+        "website": "https://www.scoopswithdannymac.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Amazin' Avenue: for New York Mets fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/amazin-avenue-audio",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 99,
+        "average_rating": 4.6,
+        "description": "The official home for audio programming from Amazin' Avenue, SB Nation's community for fans of the New York Mets.",
+        "itunes_id": "466679255",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/amazin-avenue-for-new-york-mets-fans/id466679255",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=466679255",
+        "website": "https://www.amazinavenue.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talkin Mets with Mike Silva",
+        "rss_feed_url": "http://www.blogtalkradio.com/talkinmets/podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 89,
+        "average_rating": 4.3,
+        "description": "A show all about New York Mets baseball. Radio host Mike Silva has been opining about the team for over a decade and gives you his unbiased and passionate opinion of the latest happenings with the team. Mike is the \"bridge\" between the fans and the mainstream media. Guests include beat writers, journalist, influential bloggers as well as former and current players.",
+        "itunes_id": "271866252",
+        "content_rating": "clean",
+        "artist_name": "Talkin Mets with Mike Silva",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talkin-mets-with-mike-silva/id271866252",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=271866252",
+        "website": "https://www.blogtalkradio.com/talkinmets"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tim and Sid",
+        "rss_feed_url": "http://feeds.feedburner.com/SN590/TimAndSid",
+        "categories": [
+          "Hockey",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.1,
+        "description": "Tim Micallef and Sid Seixeiro debate the hot-button issues from the world of sports. They also talk about other stuff. Cool stuff.",
+        "itunes_id": "488721911",
+        "content_rating": "clean",
+        "artist_name": "Sportsnet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tim-and-sid/id488721911",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=488721911",
+        "website": "https://www.sportsnet.ca/videos/shows/tim-and-sid-video/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Yahoo Sports MLB Podcast",
+        "rss_feed_url": "https://rss.acast.com/yahoosportsmlb",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 178,
+        "average_rating": 3.9,
+        "description": "The Yahoo Sports MLB crew talks baseball in a weekly show that includes interviews, analysis and more.",
+        "itunes_id": "1364685293",
+        "content_rating": "clean",
+        "artist_name": "Yahoo Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-yahoo-sports-mlb-podcast/id1364685293",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1364685293",
+        "website": "https://sports.yahoo.com/podcasts/mlb/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Red Sox Beat",
+        "rss_feed_url": "http://redsoxbeat.clns-radio.libsynpro.com/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Fantasy Sports"
+        ],
+        "rating_count": 50,
+        "average_rating": 4,
+        "description": "Red Sox Beat is a weekly podcast covering the Boston Red Sox on the CLNS Media Network.  MLB Insider Chris Cotillo of Mass Live Hosts covers the week that was for the nine-time World Series Champions.  Released every Monday, Red Sox Beat is available on wherever you get your podcasts and www.clnsmedia.com",
+        "itunes_id": "915767616",
+        "content_rating": "clean",
+        "artist_name": "CLNS Media Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/red-sox-beat/id915767616",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=915767616",
+        "website": "http://www.clnsmedia.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SoxProspects.com Podcast",
+        "rss_feed_url": "http://templeusox.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 105,
+        "average_rating": 4.9,
+        "description": "The most comprehensive discussion of the Red Sox minor league farm system on the Web.",
+        "itunes_id": "309680652",
+        "content_rating": "clean",
+        "artist_name": "SoxProspects.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/soxprospects-com-podcast/id309680652",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=309680652",
+        "website": "http://soxprospects.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ahead Of The Curve with Jonathan Gelnar",
+        "rss_feed_url": "http://www.aotcpodcast.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 131,
+        "average_rating": 4.9,
+        "description": "Host Jonathan Gelnar and an array of guests from differing backgrounds discuss how to develop the complete baseball player. This will be your source for the most up to date coaching strategies for baseball player and coach development.",
+        "itunes_id": "1256849644",
+        "content_rating": "clean",
+        "artist_name": "Jonathan Gelnar",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ahead-of-the-curve-with-jonathan-gelnar/id1256849644",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1256849644",
+        "website": "https://AheadOfTheCurve.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Starkville",
+        "rss_feed_url": "https://feeds.simplecast.com/etNs3PpN",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 8,
+        "average_rating": 4,
+        "description": "Destination: Starkville! Join Jayson Stark and Doug Glanville as they dive into the beauty of our national pastime, from the biggest stories to the minutiae that makes baseball so quirky and fun. And yes, there will be trivia!",
+        "itunes_id": "1479151019",
+        "content_rating": "clean",
+        "artist_name": "The Athletic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/starkville-with-jayson-stark-and-doug-glanville/id1479151019",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479151019",
+        "website": "https://starkville.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "755 Is Real",
+        "rss_feed_url": "https://feeds.simplecast.com/B_SiqAcI",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.8,
+        "description": "David O'Brien and former Braves reliever Eric O'Flaherty both work from the stretch. One stretches words into stories about the Braves; the other pitched from the stretch as part of the famed O'Ventbrel Atlanta bullpen trio. Now they bring you inside the clubhouse with the latest Braves news",
+        "itunes_id": "1479150771",
+        "content_rating": "clean",
+        "artist_name": "The Athletic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/755-is-real-a-show-about-the-atlanta-braves/id1479150771",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479150771",
+        "website": "https://755-is-real.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baseball & Chill",
+        "rss_feed_url": "http://www.podcastone.com/podcast?categoryID2=1600",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 228,
+        "average_rating": 4.8,
+        "description": "Join Scott Braun and Kelly Nash from the MLB Network each week as they cover all the big storylines and trending topics on and off of the diamond. Be here for player interviews, game coverage and a candid look into the life of professional baseball correspondents as we chill with some baseball!",
+        "itunes_id": "1400388997",
+        "content_rating": "clean",
+        "artist_name": "PodcastOne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baseball-chill/id1400388997",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1400388997",
+        "website": "https://www.podcastone.com/baseball-and-chill"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Top Coach Podcast",
+        "rss_feed_url": "http://topcoachpodcast.com/?feed=podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 61,
+        "average_rating": 4.5,
+        "description": "Each episode, host Jack Warren takes you inside some of the most successful athletic programs across the country and around the world. He talks to coaches about coaching as a career and what it takes to run a successful program. We leave the clinic topics for clinics, but instead choose to focus on those things that will help you manage your career and your program. \n\n\n\nEvery coach has a story.\n\n\n\niTunes and most podcast apps will show the most recent 50 episodes. For older episodes, please visit TopCoachPodcast.com.",
+        "itunes_id": "686025258",
+        "content_rating": "clean",
+        "artist_name": "Cornbelt Sports",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/top-coach-podcast/id686025258",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=686025258",
+        "website": "http://topcoachpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dodgers Nation: Blue Heaven Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/FLE6083548208",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 61,
+        "average_rating": 4.1,
+        "description": "Join your Blue Heaven Podcast hosts, Clint Pasillas and Brook Smith, as they talk about this week in Los Angeles Dodgers Baseball. We use our 750,000 fans from Twitter, Instagram, YouTube and Facebook to gain insight on what the fans are thinking and do our best to represent all perspectives in the Dodgers Community. Look out for special interviews with other bloggers, celebrities, players and more, along with giveaways for the best fans on earth!\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1385864210",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dodgers-nation-blue-heaven-podcast/id1385864210",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1385864210",
+        "website": "http://overtime.media/mlb/dodgers-nation-blue-heaven-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On MLB - Daily Podcast On Major League Baseball",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN2739788214",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 65,
+        "average_rating": 4.4,
+        "description": "Your daily podcast on the national look of MLB part of the Locked on Podcast Network. Comedian, TV producer and creator of the Sully Baseball Podcast Paul Francis Sullivan brings his humor and passion to the Locked On Network.\n\nOn the show Sully will be talking about each team, each pennant race and everything else in the game of baseball, from rule changes and labor issues to uniforms, baseball cards, stadium food, What ifs in the game’s history and which fanbase deserves a title the most.  \n\nSubscribe on your podcast platform, listen in the car or wherever you enjoy shows and hang out all season long on Locked On MLB.",
+        "itunes_id": "1361879433",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Paul Francis Sullivan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-mlb-daily-podcast-on-major-league-baseball/id1361879433",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1361879433",
+        "website": "lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Dodgers – Daily Podcast On The Los Angeles Dodgers",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-dodgers",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 152,
+        "average_rating": 4.8,
+        "description": "The Locked On Dodgers Podcast is your daily podcast about the Los Angeles Dodgers, hosted by Jeff Snider and Vince Samperio. If you want smart, passionate takes on the Dodgers every morning while you drive to work, Locked On Dodgers is the ticket. Vince and Jeff bleed Dodger Blue just like you do, and one of them was even alive the last time our Boys in Blue won it all. If Vin Scully listened to podcasts, this is the one he'd listen to (we're pretty sure). Part of the Locked On Podcast Network.",
+        "itunes_id": "1457146003",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Jeff Snider, Vince Samperio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-dodgers-daily-podcast-on-the-los-angeles-dodgers/id1457146003",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457146003",
+        "website": "lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Softball Fastpitch TV Show",
+        "rss_feed_url": "http://podcastpickle.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 37,
+        "average_rating": 5,
+        "description": "The Fastpitch Softball TV Show has interviews with Olympians, Hall of Fame Players, and Coaches. Watch as Great players from the sport of fastpitch softball give you tips, and show you drills to improve your game. Sponsored by http://SoftballJunk.com\nCheck out our website at www.Fastpitch.TV",
+        "itunes_id": "274993094",
+        "content_rating": "clean",
+        "artist_name": "Gary Leland  - Fastpitch Softball Junkie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/softball-fastpitch-tv-show/id274993094",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=274993094",
+        "website": "https://Fastpitch.TV"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "True Blue LA: for Los Angeles Dodgers fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP5286899290",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.6,
+        "description": "The official home for audio programming from True Blue LA, SB Nation's community for fans of the Los Angeles Dodgers.",
+        "itunes_id": "804287380",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/true-blue-la-for-los-angeles-dodgers-fans/id804287380",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=804287380",
+        "website": "https://www.truebluela.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Prospect One",
+        "rss_feed_url": "http://feeds.podtrac.com/3VEgX5NaGuvd",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 90,
+        "average_rating": 4.9,
+        "description": "Hosted by Chris Welsh aka The Welsh of www.inthisleague.com. Prospect One is a fantasy baseball podcast dedicated to MiLB Baseball. You'll find no shortage of minor league ranks around the internet, but those aren't looked at from the fantasy perspective. Prospect One with Chris Welsh is doing just that! Living in Arizona, Welsh visits the Arizona Fall League, AZL League, Spring Training and more to study some of the top prospects, as well as interview some of the smartest minds in the minor league prospect world. Looking for the next big fantasy star, or building a robust minor league system for your dynasty? Prospect One has you covered.\n\n@IsItTheWelsh\n\nVisit InThisLeague.com for more!",
+        "itunes_id": "1173154375",
+        "content_rating": "clean",
+        "artist_name": "Chris Welsh",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/prospect-one/id1173154375",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1173154375",
+        "website": "https://www.spreaker.com/show/prospect-one"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gambling Chalk Talk Podcast",
+        "rss_feed_url": "http://jeffreybelanger.com/feed/podcast/",
+        "categories": [
+          "Football",
+          "Podcasts",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 20,
+        "average_rating": 3.9,
+        "description": "Jeffrey “Coach” Belanger host of the Gambling Chalk Talk Podcast, his brothers Dan Belanger and Joel “the Joker” Belanger, Andy \"AK47\" Kandolin, Niki \"Gunz\" Cordone and with special guests provide sports analysis and picks. We cover the full range of the Sports World with big game for NFL, college football, NBA, college hoops and more.",
+        "itunes_id": "1050863933",
+        "content_rating": "explicit",
+        "artist_name": "Jeffrey \"Coach\" Belanger",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gambling-chalk-talk-podcast/id1050863933",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1050863933",
+        "website": "http://jeffreybelanger.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Giants Splash",
+        "rss_feed_url": "https://feeds.megaphone.fm/SFO3137543029",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 45,
+        "average_rating": 4.7,
+        "description": "Giants Splash is The San Francisco Chronicle’s podcast on the San Francisco Giants, hosted by beat reporter Henry Schulman. The show features interviews with players, coaches, executives and media pros, as well as in-depth analysis.",
+        "itunes_id": "1416246213",
+        "content_rating": null,
+        "artist_name": "San Francisco Chronicle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/giants-splash/id1416246213",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1416246213",
+        "website": "https://www.sfchronicle.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Reds - Daily Podcast On The Cincinnati Reds",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN7763757972",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 100,
+        "average_rating": 4.4,
+        "description": "The Locked On Reds podcast is the only daily podcast for Queen City fans to get their fix from Great American Ballpark. Host Jeff Carr brings you a daily look into the offseason that will see the Reds build a (hopefully) playoff-bound team in 2020. Part of the Locked On Podcast Network, your team every day.",
+        "itunes_id": "1351443139",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Jeff Carr",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-reds-daily-podcast-on-the-cincinnati-reds/id1351443139",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1351443139",
+        "website": "lockedonreds.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gaslamp Ball: for San Diego Padres fans",
+        "rss_feed_url": "http://feeds.feedburner.com/MTPGA",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 87,
+        "average_rating": 4.2,
+        "description": "The official home for audio programming from Gaslamp Ball, SB Nation's community for fans of the San Diego Padres.",
+        "itunes_id": "1079680168",
+        "content_rating": "explicit",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gaslamp-ball-for-san-diego-padres-fans/id1079680168",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1079680168",
+        "website": "https://www.gaslampball.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Let's Go Tribe: for Cleveland Indians fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/letsgotribe",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 34,
+        "average_rating": 4.4,
+        "description": "The official home for audio programming from Let's Go Tribe, SB Nation's community for fans of the Cleveland Indians.",
+        "itunes_id": "686650921",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lets-go-tribe-for-cleveland-indians-fans/id686650921",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=686650921",
+        "website": "http://www.blogtalkradio.com/letstalktribe"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fastpitch Softball Radio Network",
+        "rss_feed_url": "http://pickleexpo.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "The Fastpitch Radio Network is more than a single podcast about fastpitch softball. \n\nIt is a network for fastpitch softball podcasts. My goal is to bring together  great  producers of the best fastpitch softball content on the planet. \n\nIf you produce a podcast for the sport of fastpitch softball, and would like to get involved with the Fastpitch Radio Network email FastpitchTV@gmail.com for more information.\n\nThe Fastpitch Radio Network is part of The Fastpitch TV Network located at http://Fastpitch.TV\n\nSponsored by http://SportsJunk.com",
+        "itunes_id": "273121222",
+        "content_rating": "clean",
+        "artist_name": "Gary Leland - Fastpitch TV",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fastpitch-softball-radio-network/id273121222",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=273121222",
+        "website": "https://www.FastpitchRadio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A's Plus",
+        "rss_feed_url": "https://feeds.megaphone.fm/SFO2888510826",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 127,
+        "average_rating": 4.9,
+        "description": "San Francisco Chronicle beat writer Susan Slusser interviews past and present players, managers and executives of the trend-setting franchise. She also regularly talks with The Chronicle's national baseball writer, John Shea, about happenings around the league.",
+        "itunes_id": "1413316512",
+        "content_rating": "clean",
+        "artist_name": "San Francisco Chronicle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/as-plus/id1413316512",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413316512",
+        "website": "https://www.sfchronicle.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Angels - Daily Podcast On The Los Angeles Angels",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN7596814064",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 36,
+        "average_rating": 5,
+        "description": "Welcome to Locked On Angels, your No. 1 stop for daily Los Angeles Angels podcast, hosted by Taylor Blake Ward. Follow along daily, as we venture into an exciting era of Angels baseball where Mike Trout is reaching the pinnacle of greatness, Shohei Ohtani is rewriting the script on what players are capable of and Albert Pujols chases the legends of the sport. Enjoy an array are special guest appearances, and gain some insight into baseball's past with former players and the future with daily prospect updates and evaluations. Here at Locked On Angels, we're here to provide deep insight into your favorite team while basking in the perfect Southern California weather. Locked On Angels is part of the Locked On Podcast Network.",
+        "itunes_id": "1351402351",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Taylor Blake Ward",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-angels-daily-podcast-on-the-los-angeles-angels/id1351402351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1351402351",
+        "website": "https://www.lockedonangels.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Over The Monster: for Boston Red Sox fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP6935171196",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.5,
+        "description": "The official home for audio programming from Over The Monster, SB Nation's community for fans of the Boston Red Sox.",
+        "itunes_id": "1106608410",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/over-the-monster-for-boston-red-sox-fans/id1106608410",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1106608410",
+        "website": "http://overthemonster.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Cubs – Daily Podcast On The Chicago Cubs",
+        "rss_feed_url": "http://feeds.megaphone.fm/LKN3917614592",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 68,
+        "average_rating": 4.6,
+        "description": "Locked On Cubs, presented by Cubs Insider, is your daily podcast covering all aspects of the Chicago Cubs.  Hosted by Sean Sears, taking you inside the clubhouse, breaking down the day's events, and giving unparalleled insight into your Cubs. Part of the Locked On Podcast Network.",
+        "itunes_id": "1333234563",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Sean Sears, Ryan Davis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-cubs-daily-podcast-on-the-chicago-cubs/id1333234563",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1333234563",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "NYYST - Yankees Podcast",
+        "rss_feed_url": "https://nyysportstalk.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 170,
+        "average_rating": 4.7,
+        "description": "New York Yankees Podcast hosted by Christian and Chris Jr. with Stat Guy Ry. Tune in for all of your New York Yankees updates and interviews.\n\nBronx Bombers baseball has never been discussed quite like this. The Yanks are back and NYYST is here to break down every game.\n\nFollow us on social media: @NYYSportsTalk\nContact the show: nyysportstalk@gmail.com",
+        "itunes_id": "1272742064",
+        "content_rating": "explicit",
+        "artist_name": "NYY SPORTS TALK",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nyyst-yankees-podcast/id1272742064",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1272742064",
+        "website": "http://nyysportstalk.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bless You Boys: for Detroit Tigers fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/bless-you-boys-sbn",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.2,
+        "description": "The official home for audio programming from Bless You Boys, SB Nation's community for fans of the Detroit Tigers.",
+        "itunes_id": "714087470",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bless-you-boys-for-detroit-tigers-fans/id714087470",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=714087470",
+        "website": "https://www.blessyouboys.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Yankees - Daily Podcast On The New York Yankees",
+        "rss_feed_url": "http://feeds.megaphone.fm/LKN8732581786",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 67,
+        "average_rating": 3.6,
+        "description": "The Locked On Yankees podcast is your daily podcast covering all facets of the New York Yankees. Hosted by Stacey Gotsulias bringing you analysis, commentary, and opinions about all things Bronx Bombers. Part of the Locked On Podcast Network.",
+        "itunes_id": "1333234062",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Stacey Gotsulias",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-yankees-daily-podcast-on-the-new-york-yankees/id1333234062",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1333234062",
+        "website": "lockedonyankees.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Astros - Daily Podcast On The Houston Astros",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-astros",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 35,
+        "average_rating": 2.6,
+        "description": "Locked on Astros, part of the Locked on Podcast Network offers a daily look inside the Houston Astros and the MLB. The show is hosted by Eric Huysman, co-host of Talking Stros on KTXF-db The Reel. If you can't get enough #Astros talk on Sunday's 6-8pm, listen to Locked on Astros daily Monday-Friday. Listen to baseball talk you don't get on your drive home. Part of the Locked On Podcast Network.",
+        "itunes_id": "1457064404",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Eric Huysman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-astros-daily-podcast-on-the-houston-astros/id1457064404",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457064404",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Farm System",
+        "rss_feed_url": "https://thesystem.farm/feed/podcast/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 63,
+        "average_rating": 4.7,
+        "description": "Finally, a baseball podcast for you, by you, and with you. The Farm System takes a holistic approach to development for coaches and players. We will host an array of guest that want nothing more than to serve you! \n\n\n\nRemember to share this episode and to follow us!\n\nTwitter: @Farm_System\n\nIG: TheFarmSystem\n\nFacebook.com/thefarmsystempodcast",
+        "itunes_id": "1345473971",
+        "content_rating": "explicit",
+        "artist_name": "The Farm System",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-farm-system/id1345473971",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1345473971",
+        "website": "https://thesystem.farm/podcast-3/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lookout Landing",
+        "rss_feed_url": "http://www.blogtalkradio.com/lookoutlandingpod/podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.3,
+        "description": "Hosted by staff writer Matthew Roberson with recurring guests including Managing Editor Kate Preusser, Deputy Editor  John Trupin, and a rotating cast of the Lookout Landing staff, we discuss Seattle Mariners baseball, because we have all made terrible mistakes in our lives.",
+        "itunes_id": "1196574285",
+        "content_rating": "clean",
+        "artist_name": "Lookout Landing",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lookout-landing/id1196574285",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1196574285",
+        "website": "https://www.blogtalkradio.com/lookoutlandingpod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Onto Waveland",
+        "rss_feed_url": "https://feeds.simplecast.com/oMLiq6QF",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.4,
+        "description": "It's \"Onto Waveland!\" Patrick Mooney, Brett Taylor and Sahadev Sharma will be talking about the Cubs twice a week and will fill you in on everything that you need to know about the team and going on at Wrigley Field.",
+        "itunes_id": "1479150610",
+        "content_rating": "clean",
+        "artist_name": "The Athletic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/onto-waveland-a-show-about-the-chicago-cubs/id1479150610",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479150610",
+        "website": "https://onto-waveland.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Red Sox - Daily Podcast On The Boston Red Sox",
+        "rss_feed_url": "https://feeds.megaphone.fm/lockedonredsox",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.7,
+        "description": "Jake Devereaux and Matt Collins host the Locked On Red Sox podcast, your daily podcast for everything Boston Red Sox. Part of the Locked On Podcast Network.",
+        "itunes_id": "1456798246",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Jake Devereaux, Matt Collins",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-red-sox-daily-podcast-on-the-boston-red-sox/id1456798246",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456798246",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "New York Sports and Rhymes",
+        "rss_feed_url": "http://newyorksportsandrhymes.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Greg Landorf blends sports and rap together through short features, interviews, and 20-minute podcasts.  Focusing on specific topics ensures each piece is well written and captures the audience's attention while utilizing the listeners time. Sit back, relax and elevate your mind while you listen to New York Sports and Rhymes.",
+        "itunes_id": "1454487452",
+        "content_rating": "explicit",
+        "artist_name": "Greg Landorf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/new-york-sports-and-rhymes/id1454487452",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454487452",
+        "website": "http://nysportsandrhymes.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In The Circle",
+        "rss_feed_url": "http://inthecircle.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 46,
+        "average_rating": 4.7,
+        "description": "Fastpitch News presents In The Circle with Eric Lopez and Victor Anderson. They bring you the latest news, views, previews, & reviews on all things softball from college to the NPF.",
+        "itunes_id": "1129600119",
+        "content_rating": "clean",
+        "artist_name": "Fastpitch News",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-the-circle/id1129600119",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1129600119",
+        "website": "http://inthecircle.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pinstripe Alley: for New York Yankees fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/pinstripealley",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 36,
+        "average_rating": 4.8,
+        "description": "The official home for audio programming from Pinstripe Alley, SB Nation's community for fans of the New York Yankees.",
+        "itunes_id": "1419772300",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pinstripe-alley-for-new-york-yankees-fans/id1419772300",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1419772300",
+        "website": "https://www.pinstripealley.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Braves - Daily Podcast On The Atlanta Braves",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN3047335025",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.2,
+        "description": "Follow along with Dylan Short this season as the Atlanta Braves look to build upon last years momentum and look to return the Braves to national prominence with the Locked On Braves Podcast. Phenoms, franchise cornerstones, young blood, and grizzled veterans, the Braves have it all. This season we'll take the journey with one of the most exciting Atlanta teams in recent history and delve beyond the box score to fully understand the talent unfolding before us. Part of the Locked On Podcast Network.",
+        "itunes_id": "1382438394",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Dylan Short",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-braves-daily-podcast-on-the-atlanta-braves/id1382438394",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1382438394",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Giants – Daily Podcast On The San Francisco Giants",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN8497868698",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 40,
+        "average_rating": 4.4,
+        "description": "Locked On Giants (Baseball) is a daily podcast focused on the San Francisco Giants. Providing rational, data-driven SF Giants analysis in a clear and accessible way. Hosted by Ben Kaspick, who has contributed for the popular baseball statistics and analysis websites FanGraphs and Beyond the Box Score. Part of the Locked On Podcast Network.",
+        "itunes_id": "1455909225",
+        "content_rating": "clean",
+        "artist_name": "Locked on Podcast Network, Ben Kaspick",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-giants-daily-podcast-on-the-san-francisco-giants/id1455909225",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455909225",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Milwaukee's Tailgate Brewers Podcast",
+        "rss_feed_url": "https://anchor.fm/s/fbc96c/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 95,
+        "average_rating": 4.8,
+        "description": "Steve Garczynski, Ryan Topp and J.P. Breen discuss the latest news about the Milwaukee Brewers, Major League Baseball, and the Brewers' minor league affiliates. These fans are locked in to reviewing everything on tap each week.",
+        "itunes_id": "1262024976",
+        "content_rating": "explicit",
+        "artist_name": "MKE Tailgate Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/milwaukees-tailgate-brewers-podcast/id1262024976",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1262024976",
+        "website": "https://www.patreon.com/MKETailgate"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pinstripe Strong - Yankees Podcast",
+        "rss_feed_url": "https://anchor.fm/s/a199178/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 102,
+        "average_rating": 4.9,
+        "description": "Yankees baseball podcast brought to you by PinstripeStrong. @JoezMcfly and @ChrisMcfly\n\nReactions to Yankees games, series, and all things about the team.\n\n Support this podcast: https://anchor.fm/joezmcfly/support",
+        "itunes_id": "1457870685",
+        "content_rating": "clean",
+        "artist_name": "JoezMcfly",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pinstripe-strong-yankees-podcast/id1457870685",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457870685",
+        "website": "http://www.youtube.com/c/JoezMcfly"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Mets - Daily Podcast On The New York Mets",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-mets",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.7,
+        "description": "Locked On Mets is the only daily podcast that will break down everything dealing with the Amazin’ Mets. Hosted by Ryan Finkelstein, Locked On Mets promises to deliver excellent coverage on every win, loss and compelling back page story that consumes Mets fans each season. Part of the Locked On Podcast Network, there is no better place to get daily analysis on the New York Mets. #MLB #Mets #LGM",
+        "itunes_id": "1457146683",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-mets-daily-podcast-on-the-new-york-mets/id1457146683",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457146683",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lemme Just Say",
+        "rss_feed_url": "https://feed.podbean.com/lemmejustsay/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "News Commentary"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.7,
+        "description": "My unwanted opinion on sports and life.",
+        "itunes_id": "1484011576",
+        "content_rating": "explicit",
+        "artist_name": "@Dodgers_Blues",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lemme-just-say/id1484011576",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484011576",
+        "website": "https://lemmejustsay.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Cardinals - Daily Podcast On The St. Louis Cardinals Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN3337499386",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.3,
+        "description": "The 2019 season is here and the St. Louis Cardinals are looking to reclaim their spot atop the National League Central.  Join Moose Michaels each morning for the Locked On St. Louis Cardinals Podcast as he gives you his takes and analysis on the 11 time World Series Champion St. Louis Cardinals. Part of the Locked On Podcast Network.",
+        "itunes_id": "1371034395",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Moose Michaels",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-cardinals-daily-podcast-on-st-louis-cardinals/id1371034395",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1371034395",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Rangers - Daily Podcast On The Texas Rangers",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-rangers",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.6,
+        "description": "Brice Paterik and Morgan Price talk about the latest news and give insights about the Texas Rangers every day. They break down everything that's happening around the Rangers with their years of experience covering the team. Part of the Locked On Podcast Network.",
+        "itunes_id": "1456807247",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Brice Paterik, Morgan Price",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-rangers-daily-podcast-on-the-texas-rangers/id1456807247",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456807247",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Strong Mind Sports with Clint McGill",
+        "rss_feed_url": "https://baseballnotes.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Crush the nerves and doubt on game day",
+        "itunes_id": "1292066715",
+        "content_rating": "clean",
+        "artist_name": "Clint McGill",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/strong-mind-sports-with-clint-mcgill/id1292066715",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1292066715",
+        "website": "https://baseballnotes.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talkin' Yanks Pre-Game Show",
+        "rss_feed_url": "https://talkinyankspregameshow.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 54,
+        "average_rating": 4.9,
+        "description": "We're breaking down the lineups, the starting pitchers, who is available out of the pen and what we're watching out for. We'll be placing bets on the Homer Draft and the over/under and taking some questions from live viewers.",
+        "itunes_id": "1473745084",
+        "content_rating": "clean",
+        "artist_name": "Jomboy Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talkin-yanks-pre-game-show/id1473745084",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473745084",
+        "website": "http://www.talkinyanks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The WindUp Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/515794.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "Join us as we talk about youth baseball in the greater Houston area and in the State of Texas.",
+        "itunes_id": "1478465499",
+        "content_rating": "clean",
+        "artist_name": "Unknown",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-windup-podcast/id1478465499",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478465499",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pinstriped Prospects Podcast",
+        "rss_feed_url": "https://www.pinstripedprospects.com/feed/podcast/pinstriped-prospects-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News"
+        ],
+        "rating_count": 36,
+        "average_rating": 4.4,
+        "description": "Yankees Minor League News and Updates",
+        "itunes_id": "1219739977",
+        "content_rating": "clean",
+        "artist_name": "Pinstriped Prospects",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pinstriped-prospects-podcast/id1219739977",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1219739977",
+        "website": "https://www.pinstripedprospects.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Platinum Sombrero Podcast",
+        "rss_feed_url": "https://rss.art19.com/the-platinum-sombrero-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 79,
+        "average_rating": 4.8,
+        "description": "Everything Braves for Armchair Media. Great guests, in depth conversation, and a fresh take on podcasts, we devote ourselves to delivering informative discussions WITHOUT sucking all the fun out of the room. Follow today and join the fastest growing podcast in Braves Country.",
+        "itunes_id": "1355194581",
+        "content_rating": "clean",
+        "artist_name": "Armchair Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-platinum-sombrero-podcast/id1355194581",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355194581",
+        "website": "https://art19.com/shows/the-platinum-sombrero-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Royals Review: for Kansas City Royals fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/royals-review-radio",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.1,
+        "description": "The official home for audio programming from Royals Review, SB Nation's community for fans of the Kansas City Royals.",
+        "itunes_id": "972757794",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/royals-review-for-kansas-city-royals-fans/id972757794",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=972757794",
+        "website": "http://www.royalsreview.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Phillies - Daily Podcast On The Philadelphia Phillies",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-phillies",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.2,
+        "description": "The Locked On Phillies podcast is a daily show hosted by Tim Kelly. Kelly is the Editorial Director of PhilliesNation.com and a content producer for RADIO.COM Sports as well. In one of the most anticipated Phillies seasons ever, this show will provide insight, commentary, original reporting and interviews pertaining to the Phillies. Part of the Locked On Podcast Network.",
+        "itunes_id": "1457620388",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Tim Kelly",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-phillies-daily-podcast-on-philadelphia-phillies/id1457620388",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457620388",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bleed Cubbie Blue: for Chicago Cubs fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP7315185197",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.5,
+        "description": "The official home for audio programming from Bleed Cubbie Blue, SB Nation's community for fans of the Chicago Cubs.",
+        "itunes_id": "1462808218",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bleed-cubbie-blue-for-chicago-cubs-fans/id1462808218",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462808218",
+        "website": "https://www.bleedcubbieblue.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fish Stripes: for Miami Marlins fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/fish-stripes-sbn",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.9,
+        "description": "The official home for audio programming from Fish Stripes, SB Nation's community for fans of the Miami Marlins. Current shows: Fish Bites, Earning Their Stripes, A-Ball with Erik Oas.\n\nFor more coverage, check out the website and follow @fishstripes on Twitter and Instagram.",
+        "itunes_id": "1137998639",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fish-stripes-for-miami-marlins-fans/id1137998639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1137998639",
+        "website": "https://www.fishstripes.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chicago Cubs Friendly Confines Baseball Podcast",
+        "rss_feed_url": "https://anchor.fm/s/4110464/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 104,
+        "average_rating": 4.9,
+        "description": "Cubs talk for Cubs fans. Hosts Ryan Lieber & Chad Gordon have nearly 4 decades of broadcast experience between them. The two started working together back in college at SIU-Go Salukis! They hatched the plan for this Podcast in Cleveland while watching the Cubs take batting practice before World Series Game 6. Episodes explore 9 innings of topics with a special 7th Inning guest conductor/interview with a Chicago sports reporter/anchor or a leader in the sports broadcasting world. Fresh topical takes by two guys that follow Cubs baseball religiously.",
+        "itunes_id": "1417326657",
+        "content_rating": "clean",
+        "artist_name": "Chad Gordon and Ryan Lieber",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chicago-cubs-friendly-confines-baseball-podcast/id1417326657",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1417326657",
+        "website": "https://m.facebook.com/groups/256562571164022"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The 3-0 Take: a Dirt to Diamonds Baseball Podcast",
+        "rss_feed_url": "https://anchor.fm/s/569b310/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 79,
+        "average_rating": 4.8,
+        "description": "Too much analytics, not enough raw conversation. The 3-0 Take is here to bring you what you don't get enough of - baseball coverage from hosts who see and love the game the way you do.",
+        "itunes_id": "1417454868",
+        "content_rating": "clean",
+        "artist_name": "Dirt to Diamonds Baseball",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-3-0-take-a-dirt-to-diamonds-baseball-podcast/id1417454868",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1417454868",
+        "website": "https://anchor.fm/the3-0take"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "True Blue LA: for Los Angeles Dodgers fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/true-blue-la",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.8,
+        "description": "The official home for audio programming from True Blue LA, SB Nation's community for fans of the Los Angeles Dodgers.",
+        "itunes_id": "1380573519",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/true-blue-la-for-los-angeles-dodgers-fans/id1380573519",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1380573519",
+        "website": "https://www.truebluela.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Jeff Blair Show",
+        "rss_feed_url": "http://feeds.feedburner.com/JeffBlairShow",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.3,
+        "description": "The Jeff Blair Show is off the air, but you can still hear all the great sports talk and interviews you've come to know from Blair, Richard Deitsch and Stephen Brunt on Writers Bloc. Subscribe to Writers Bloc here: https://podcast.sportsnet.ca/writers-bloc/.",
+        "itunes_id": "421380176",
+        "content_rating": "clean",
+        "artist_name": "Sportsnet",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/jeff-blair-show/id421380176",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=421380176",
+        "website": "http://www.sportsnet.ca/590/jeff-blair-show/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baseball Pitching: The Fix",
+        "rss_feed_url": "http://fixingpitchers.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.1,
+        "description": "Baseball pitching motion analysis, troubleshooting, and performance based on science, featuring pitching motion troubleshooter Angel Borrelli and hosted by Joe Janish. Joe interviews Angel -- a kinesiologist with a Master's Degree in Exercise Science -- on a regular basis, discussing the prevention and treatment of baseball pitching injuries, as well as science-based performance tips for baseball pitchers, coaches, and parents of all ages. More information on Angel can be found at http://gymscience.com.",
+        "itunes_id": "1110132620",
+        "content_rating": "clean",
+        "artist_name": "Joe Janish and Angel Borrelli",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baseball-pitching-the-fix/id1110132620",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1110132620",
+        "website": "http://fixingpitchers.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The East Village Times Podcast",
+        "rss_feed_url": "https://eastvillagetimes.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 29,
+        "average_rating": 3.8,
+        "description": "The East Village Times Podcast features Editor In Chief James Clark as well as Austin Hartsfield (starting at 106 and Patrick Brewer prior to that) of Eastvillagetimes.com. James and Austin discuss Padres baseball featuring special guests from the Padres past and the Padres future.",
+        "itunes_id": "1076030396",
+        "content_rating": "clean",
+        "artist_name": "East Village Times",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-east-village-times-podcast/id1076030396",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1076030396",
+        "website": "https://eastvillagetimes.podbean.com/feed/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Catching Machine Performance Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/483430.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Welcome to the Catching Machine Performance Podcast: Your one-stop-shop for all things- catching. This is your host, Kyle Brennan, B.S., CSCS. The performance podcast will cover a wide range of catching-related topics such as specific skill work, pitch calling, mental fortitude, leadership, teamwork, and the rabbit hole of performance (I.e., Strength training, agility, mobility, arm care, recovery nutrition, and sleep).For more information about this podcast, the topics discussed, or my other related content, visit www.catchingmachine.com, or follow me at @catchingmachine_performance over on Instagram.",
+        "itunes_id": "1475022134",
+        "content_rating": "clean",
+        "artist_name": "Kyle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/catching-machine-performance-podcast/id1475022134",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475022134",
+        "website": "http://www.catchingmachine.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Swing and a Belt with Dan Shulman",
+        "rss_feed_url": "https://podcast.sportsnet.ca/shows/a-swing-and-a-belt-with-dan-shulman/feed/podcast/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.4,
+        "description": "Dan Shulman's MLB and Toronto Blue Jays podcast pulls back the curtain on baseball. Because everyone in the game has a story . . . a human story.",
+        "itunes_id": "1366618604",
+        "content_rating": "clean",
+        "artist_name": "Sportsnet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-swing-and-a-belt-with-dan-shulman/id1366618604",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1366618604",
+        "website": "https://podcast.sportsnet.ca/a-swing-and-a-belt-with-dan-shulman/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sox In The Basement",
+        "rss_feed_url": "https://soxinthebasement.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.2,
+        "description": "30 Minutes of Chicago White Sox News, Analysis and Interviews. For Fans, By Fans, From Chicago's South Side.",
+        "itunes_id": "1394634381",
+        "content_rating": "clean",
+        "artist_name": "The Broadcast Basement, Limited",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sox-in-the-basement/id1394634381",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1394634381",
+        "website": "https://soxinthebasement.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "All Angels Podcast",
+        "rss_feed_url": "https://rss.art19.com/all-angels-podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.9,
+        "description": "Everything Angels Baseball for Armchair Media.",
+        "itunes_id": "1268007996",
+        "content_rating": "clean",
+        "artist_name": "Armchair Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/all-angels-podcast/id1268007996",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1268007996",
+        "website": "https://armchairmedianetwork.com/podcasts/all-angels-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Brewers- Daily Podcast On The Milwaukee Brewers",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-brewers",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 39,
+        "average_rating": 4.9,
+        "description": "Welcome to the ONLY daily podcast for the Milwaukee Brewers.  Listen every day as host Ben Larson brings unique insight about everything relating to the Brew Crew.  Ben will take a look back at the latest Brewer game while also taking a step back to talk about the big picture as the Brewers make another playoff run.  He also interviews key figures around the team and brings behind the scenes stories to light.  Don't miss your daily fix on the Milwaukee Brewers with Locked On Brewers, part of the Locked On Podcast Network!",
+        "itunes_id": "1464745258",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Ben Larson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-brewers-daily-podcast-on-the-milwaukee-brewers/id1464745258",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464745258",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Going Yard Podcast",
+        "rss_feed_url": "https://goingyardpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Education"
+        ],
+        "rating_count": 37,
+        "average_rating": 5,
+        "description": "Going Yard Podcast goes deep into all things Baseball and Softball. Episodes will consist of interviews with players(current and former), coaches, trainers, and others associated with the game on and off of the field. Softball Interviews will be available on Tuesdays and Baseball Interviews will be available on Fridays! Thanks for checking us out!",
+        "itunes_id": "1363787180",
+        "content_rating": "clean",
+        "artist_name": "Going Yard Podcast, LLC.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/going-yard-podcast/id1363787180",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363787180",
+        "website": "https://goingyardpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Japan Baseball Weekly",
+        "rss_feed_url": "http://www.japanesebaseball.com/services/jbw-podcasts.jsp",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.9,
+        "description": "Weekly chats between sports reporters John E. Gibson and Jim Allen with other guests on occasion.",
+        "itunes_id": "443149184",
+        "content_rating": null,
+        "artist_name": "John E. Gibson and Jim Allen",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/japan-baseball-weekly/id443149184",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=443149184",
+        "website": "http://www.japanesebaseball.com/blogs/blog.jsp?blogid=1197"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Anchor Down Podcast with Max Herz on 102.5 The Game",
+        "rss_feed_url": "https://audioboom.com/channels/5009365.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Anchor Down and Listen Up with Max Herz on The Anchor Down Podcast from 102.5 The Game! The Anchor Down Pod features Vanderbilt sports coverage, interviews, and opinion, plus year-round Vanderbilt Baseball coverage.\nSubscribe for new episodes Mondays & Thursdays, and follow @MaxHerzTalks & @1025TheGame for more!",
+        "itunes_id": "1485343792",
+        "content_rating": "clean",
+        "artist_name": "102.5 The Game",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/anchor-down-podcast-with-max-herz-on-102-5-the-game/id1485343792",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485343792",
+        "website": "https://www.thegamenashville.com/anchor-down/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Twins - Daily Podcast On The Minnesota Twins",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN7221668855",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 78,
+        "average_rating": 4.9,
+        "description": "Locked On Twins takes you down the daily path of the happenings with your Minnesota Twins. You've heard Brandon on 1500 ESPN, Go 96.3 and on the Zone Coverage Podcast Network, now hear him daily on Locked On Twins as part of your go-to resource for keeping up with the local nine. If it's happening with the Minnesota Twins, we've got you covered.",
+        "itunes_id": "1349600088",
+        "content_rating": "clean",
+        "artist_name": "Brandon Warne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-twins-daily-podcast-on-the-minnesota-twins/id1349600088",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1349600088",
+        "website": "lockedontwins.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Indians - Daily Podcast On The Cleveland Indians",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-indians",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.7,
+        "description": "The Lock On Indians podcast is a daily podcast that is dedicated to the Cleveland Indians from the minors to the majors. Join host Jeff Ellis of 247sports, as he looks at the night before, who to know in the minors, and what the future may hold for the Cleveland Indians as they try and capture their first World Series victory since 1948. Locked On Indians is a proud member of the Locked On Podcast network.",
+        "itunes_id": "1456643199",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Jeff Ellis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-indians-daily-podcast-on-the-cleveland-indians/id1456643199",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456643199",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Rays- Daily Podcast On The Tampa Bay Rays",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-rays",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.8,
+        "description": "The Locked On Rays podcast is your daily podcast covering all facets of the Tampa Bay Rays. Hosts Kevin Weiss and Ulises Sambrano bring a journalist's and fan's perspective to dissect all things Rays, giving you your morning cup of coffee of baseball analytics, traditional stats, recaps and ramblings of the team they've followed for years. Join us every day for an exciting season that could be as thrilling as a certain comeback, extra-inning walk-off victory! \n Part of the Locked On Podcast Network",
+        "itunes_id": "1465669980",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Kevin Weiss, Ulises Sambrano",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-rays-daily-podcast-on-the-tampa-bay-rays/id1465669980",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465669980",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Rain Delay",
+        "rss_feed_url": "https://theraindelay.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Video Games"
+        ],
+        "rating_count": 30,
+        "average_rating": 5,
+        "description": "Looking for advanced stats, game breakdowns, and game nuances? Welp, you're looking in the wrong place. \nBut if you want to talk mascots, memorabilia, and moments?\nWe're here from you. Each week, Cooperstown Kurt will welcome a guest from the world of baseball to talk about the lighter side of the game. Player interviews, movie breakdowns, and an \"On The Road\" subset are just some of the episodes you'll hear...",
+        "itunes_id": "1452593059",
+        "content_rating": "clean",
+        "artist_name": "Cooperstown Kurt",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-rain-delay/id1452593059",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452593059",
+        "website": "https://www.theraindelay.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "3-2Swinging",
+        "rss_feed_url": "http://3-2swinging.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "A weekly review of Major League Baseball by three baseball enthusiasts. We discuss teams/players who are performing well, poorly as well as above expectations. The podcast features interactive segments, driven by questions and comments left by our followers on our social media platforms. In addition we hold interviews with baseball players from all levels as well as social media personas in an attempt to truly grasp the culture of the sport and share it with our listeners.",
+        "itunes_id": "1455717596",
+        "content_rating": "explicit",
+        "artist_name": "Brian Ferreira",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/3-2swinging/id1455717596",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455717596",
+        "website": "http://3-2swinging.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Green and Bold",
+        "rss_feed_url": "https://feeds.transistor.fm/green-and-bold",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "The Green & Bold Podcast brings you unique insight, perspective and opinion on the Oakland A's, from two guys who have covered this franchise inside and out.",
+        "itunes_id": "1484008307",
+        "content_rating": "clean",
+        "artist_name": "David Feldman, Joe Stiglich",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/green-and-bold/id1484008307",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484008307",
+        "website": "https://bigheadsmedia.com/category/sports/baseball/green-and-bold/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tigers SRD Radio: Detroit Tigers",
+        "rss_feed_url": "https://feeds.megaphone.fm/ottigers",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.5,
+        "description": "Chris Brown and Roger Castillo of the TigersMinorLeagueReport.com talk Detroit Tigers, minor league baseball and MLB news. \n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1266543495",
+        "content_rating": "clean",
+        "artist_name": "SRD Productions/Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tigers-srd-radio-detroit-tigers/id1266543495",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1266543495",
+        "website": "http://overtime.media/mlb/tigers-srd-radio-detroit-tigers"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bergino Baseball Clubhouse",
+        "rss_feed_url": "https://berginobaseballclubhouse.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Society & Culture"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Listen in to our podcasts, live from the Bergino Baseball Clubhouse.  Featuring premier authors, Pulitzer Prize-winners, team owners, Hall of Famers, and the most interesting folks in baseball.",
+        "itunes_id": "376408602",
+        "content_rating": "clean",
+        "artist_name": "Bergino Baseball Clubhouse",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bergino-baseball-clubhouse/id376408602",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=376408602",
+        "website": "https://berginobaseballclubhouse.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In The Dugout Podcast",
+        "rss_feed_url": "https://redsoxdugout.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "A fun podcast centered around the Boston Red Sox. We’ll talk everything Red Sox from an analytical fan’s point of view, while having guests on frequently and answering listener questions every episode. Step In The Dugout for passionate takes and plenty of laughs!",
+        "itunes_id": "1450645539",
+        "content_rating": "clean",
+        "artist_name": "Redsox Dugout",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-the-dugout-podcast/id1450645539",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450645539",
+        "website": "https://redsoxdugout.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Detroit Tigers Minor League Tracker",
+        "rss_feed_url": "https://anchor.fm/s/32f79b8/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.7,
+        "description": "The fastest growing online resource for all your Detroit Tigers minor league needs",
+        "itunes_id": "1370387141",
+        "content_rating": "clean",
+        "artist_name": "TMLR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/detroit-tigers-minor-league-tracker/id1370387141",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1370387141",
+        "website": "https://anchor.fm/kenon-carter"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Beers and Beat Guys",
+        "rss_feed_url": "https://feeds.buzzsprout.com/525553.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Blogger Tom Loxas talks beer and Chicago sports with local beat reporters and bloggers.",
+        "itunes_id": "1472587029",
+        "content_rating": "explicit",
+        "artist_name": "Tom Loxas",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/beers-and-beat-guys/id1472587029",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472587029",
+        "website": "http://soundcloud.com/tom-loxas"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Halos Heaven: for Los Angeles Angels fans",
+        "rss_feed_url": "https://feeds.podcastmirror.com/halosheaven",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.3,
+        "description": "The official home for audio programming from Halos Heaven, SB Nation's community for fans of the Los Angeles Angels.",
+        "itunes_id": "1451965176",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/halos-heaven-for-los-angeles-angels-fans/id1451965176",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451965176",
+        "website": "https://www.halosheaven.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Puckett, We’ll Do It Live",
+        "rss_feed_url": "https://feeds.simplecast.com/Mvxl5Z57",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Dan Hayes and Zack Pierce take you onto the field and inside the clubhouse with a brand new Minnesota Twins podcast. \"Puckett, We'll Do It Live\" is the place to find out everything you need to know about what's going on with the Twins.",
+        "itunes_id": "1479150818",
+        "content_rating": "clean",
+        "artist_name": "The Athletic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/puckett-well-do-it-live-a-show-about-the-minnesota-twins/id1479150818",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479150818",
+        "website": "https://puckett-well-do-it-live.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chicago Cubs Club 400 Podcast",
+        "rss_feed_url": "https://club400radio.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Club 400 Radio is an extension of Club 400, a place where Cubs fans gather and the motto is \"Cubs Fans Helping Cubs Fans\".",
+        "itunes_id": "1423223679",
+        "content_rating": "clean",
+        "artist_name": "club400radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chicago-cubs-club-400-podcast/id1423223679",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1423223679",
+        "website": "https://club400radio.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Purple Row: for Colorado Rockies fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP6086251951",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The official home for audio programming from Purple Row, SB Nation's community for fans of the Colorado Rockies.",
+        "itunes_id": "1460846683",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/purple-row-for-colorado-rockies-fans/id1460846683",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460846683",
+        "website": "https://www.purplerow.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chicago Cubs Club 400 Podcast",
+        "rss_feed_url": "https://club400radio.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Club 400 Radio is an extension of Club 400, a place where Cubs fans gather and the motto is \"Cubs Fans Helping Cubs Fans\".",
+        "itunes_id": "1423223679",
+        "content_rating": "clean",
+        "artist_name": "club400radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chicago-cubs-club-400-podcast/id1423223679",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1423223679",
+        "website": "https://club400radio.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Purple Row: for Colorado Rockies fans",
+        "rss_feed_url": "https://feeds.megaphone.fm/VMP6086251951",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The official home for audio programming from Purple Row, SB Nation's community for fans of the Colorado Rockies.",
+        "itunes_id": "1460846683",
+        "content_rating": "clean",
+        "artist_name": "SB Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/purple-row-for-colorado-rockies-fans/id1460846683",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460846683",
+        "website": "https://www.purplerow.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Team of Rivals Podcast",
+        "rss_feed_url": "http://teamofrivalspodcast.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.8,
+        "description": "The Team of Rivals Podcast is weekly MLB analysis from the bleacher seats. No insiders. No anonymous sources. The latest rumors, speculation, news, and more from passionate fans who can’t stand the other’s team. It’s Cardinals and Cubs baseball talk like you’ve never heard it before.",
+        "itunes_id": "1185235523",
+        "content_rating": "clean",
+        "artist_name": "Team of Rivals",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/team-of-rivals-podcast/id1185235523",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1185235523",
+        "website": "https://teamofrivalspodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bucs In The Basement",
+        "rss_feed_url": "https://feed.podbean.com/bucsinthebasement/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.8,
+        "description": "Covering Pittsburgh Pirates Baseball. For Fans, By Fans.",
+        "itunes_id": "1472891058",
+        "content_rating": "clean",
+        "artist_name": "The Broadcast Basement, Limited",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bucs-in-the-basement/id1472891058",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472891058",
+        "website": "https://bucsinthebasement.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bleav in Dodgers with Brett Tomko & Josh Luke",
+        "rss_feed_url": "https://bleav.com/feed/podcast/bleav-in-dodgers",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "“The Dodger Dudes” - Former Dodger and 14 year MLB player Brett Tomko along with Josh “The Duker” Luke discuss Los Angeles Dodgers Baseball.",
+        "itunes_id": "1476959100",
+        "content_rating": "clean",
+        "artist_name": "Bleav Podcast Network",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bleav-in-dodgers-with-brett-tomko-josh-luke/id1476959100",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476959100",
+        "website": "https://bleav.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Baseball Awakening Podcast",
+        "rss_feed_url": "https://baseballawakening.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 27,
+        "average_rating": 5,
+        "description": "Host Geoff Rottmayer dives into the raw, unfiltered, unsexy side of player development through a combination of interviews with industry leading experts, recap shows, Q&A sessions, knowledge bombs, and others. To contact visit, www.baseballawakening.com.",
+        "itunes_id": "1448132717",
+        "content_rating": "clean",
+        "artist_name": "Geoff Rottmayer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-baseball-awakening-podcast/id1448132717",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448132717",
+        "website": "https://www.baseballawakening.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Diamonds and Roses Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/AOR9107997375",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.6,
+        "description": "Baseball podcast hosted by Ben, David and Andrew. Sharing with you, the listener, the history of baseball in the Pacific Northwest. We also provide you with updates on the status of bringing Major League Baseball to Portland, Oregon.",
+        "itunes_id": "1435032487",
+        "content_rating": null,
+        "artist_name": "Ben and David | Age of Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/diamonds-and-roses-podcast/id1435032487",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435032487",
+        "website": "https://diamondsandrosespodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Officially Unofficial",
+        "rss_feed_url": "https://feed.podbean.com/officiallyunofficial/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 30,
+        "average_rating": 5,
+        "description": "Officially Unofficial is the podcast by the washed up athlete, for the washed up athlete. Your host, Johnny Giunta, experienced life in the trenches of college athletics in Midwest USA and contributes a funny narrative about his joke of a playing career with funny stories from his tenure. This podcast will feature guests ranging from professional athletes to sports twitter personalities and will provide an in depth look on life as a professional athlete as well as life in the minors. Original, out of the box questions will be asked to the guests providing unique content for the audience that they can not get from typical sports networks. The originality and humor makes this podcast one of a kind and cant miss.",
+        "itunes_id": "1476315539",
+        "content_rating": "clean",
+        "artist_name": "MARS Studios",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/officially-unofficial/id1476315539",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476315539",
+        "website": "https://officiallyunofficial.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "LeadOff",
+        "rss_feed_url": "http://feeds.feedburner.com/SN590/SportsnetsStartingLineup",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.2,
+        "description": "Engaging sports conversation, enthusiastic debate, and wide-ranging opinions.",
+        "itunes_id": "1206524889",
+        "content_rating": "clean",
+        "artist_name": "FAN 590",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/leadoff/id1206524889",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1206524889",
+        "website": "https://www.sportsnet.ca/590/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The OFR Farm Report",
+        "rss_feed_url": "http://outfieldflyrule.com/feed/farm-report/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "Welcome to The OFR Farm Report podcast, a product of OutfieldflyRule.com.",
+        "itunes_id": "1073310734",
+        "content_rating": null,
+        "artist_name": "OutfieldFlyRule.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-ofr-farm-report/id1073310734",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1073310734",
+        "website": "http://outfieldflyrule.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Up & In Show",
+        "rss_feed_url": "https://feeds.buzzsprout.com/537280.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Inspiring stories, unconventional approaches, and incredible journeys—told by those who lived it. Welcome to the “Up and In” show with Anthony Ranaudo —where we sit down for conversations with individuals at the top of their game. In candid, informative discussion, we get “up and in” the minds of those elite to their craft and work to understand just what it is that has helped them meet their success. Join the conversation and listen as we learn.",
+        "itunes_id": "1477213251",
+        "content_rating": "explicit",
+        "artist_name": "Anthony Ranaudo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-up-in-show/id1477213251",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477213251",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Mariners - Daily Podcast On the Seattle Mariners",
+        "rss_feed_url": "https://feeds.megaphone.fm/locked-on-mariners",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.9,
+        "description": "Welcome to the only daily podcast covering your Seattle Mariners! Check us out each day as our host, Andy Patton, covers everything you need to know about the Mariners. Andy will be recapping the latest Mariners game, talking about upcoming matchups, trade rumors, and a look down on the farm at the best Seattle's minor leaguers have to offer. Additionally, he'll be interviewing key figures surrounding the Mariners franchise, giving the listeners the most comprehensive picture of the Mariners organization - right to your ears every morning! Don't miss a chance to follow along with the M's on the Locked on Mariners Podcast, part of the Locked on Podcast Network.",
+        "itunes_id": "1475115108",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, Andy Patton",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-mariners-daily-podcast-on-the-seattle-mariners/id1475115108",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475115108",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Play Ball Kid",
+        "rss_feed_url": "https://anchor.fm/s/9be5d08/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.9,
+        "description": "Share in the development of a 14 year old baseball player and athlete as he interviews current & former professionals around the game of baseball. From MLB, Milb to leading coaches & thinkers in the game. The goal of the show is to help give you “bite size” episodes to improve your skills & knowledge of the game of baseball.",
+        "itunes_id": "1456374415",
+        "content_rating": "clean",
+        "artist_name": "Sammy & Bryan Eisenberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/play-ball-kid/id1456374415",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456374415",
+        "website": "http://playballkid.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dugout Therapy",
+        "rss_feed_url": "https://www.spreaker.com/show/4037561/episodes/feed",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Welcome to Dugout Therapy! A baseball podcast about the mental side of the game hosted by Coach Crates, the Baseball Coaching Subscription Box. Episodes will be released every Wednesday evening.",
+        "itunes_id": "1479489138",
+        "content_rating": "clean",
+        "artist_name": "Coach Crates",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dugout-therapy/id1479489138",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479489138",
+        "website": "https://www.spreaker.com/show/dugout-therapy"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Keefe To The City Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/6173.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Hockey"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Neil Keefe talks New York sports with guests. New Yankees episodes on Monday and Thursday. New Rangers episodes on Tuesday and Friday.",
+        "itunes_id": "535039774",
+        "content_rating": "clean",
+        "artist_name": "Keefe To The City",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/keefe-to-the-city-podcast/id535039774",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=535039774",
+        "website": "http://keefetothecity.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gateway to Baseball Heaven",
+        "rss_feed_url": "https://gatewaytbh.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Every week, two of the Best Fans in Baseball (TM) bring you all the news and analysis you need about the St. Louis Cardinals.",
+        "itunes_id": "1209903559",
+        "content_rating": "clean",
+        "artist_name": "Daniel Shoptaw and Tara Wellman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gateway-to-baseball-heaven/id1209903559",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1209903559",
+        "website": "http://gatewaytbh.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports Fellowship with Fox and Frank",
+        "rss_feed_url": "https://feeds.buzzsprout.com/578812.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Dan Fox and Frank Knight bring their extensive experience in sports talk, providing analysis on the day in sports and updates on the games in play, while engaging in entertaining conversations.",
+        "itunes_id": "1479296060",
+        "content_rating": "clean",
+        "artist_name": "Fox and Frank",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports-fellowship-with-fox-and-frank/id1479296060",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479296060",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Having a beer with Jare",
+        "rss_feed_url": "https://anchor.fm/s/e27f46c/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.3,
+        "description": "Sports and whatever",
+        "itunes_id": "1481482838",
+        "content_rating": "clean",
+        "artist_name": "Jarred Parrott",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/having-a-beer-with-jare/id1481482838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481482838",
+        "website": "https://anchor.fm/jarred-parrott"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "World Of Baseball",
+        "rss_feed_url": "https://anchor.fm/s/d91f1b0/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A baseball podcast for the intense and casual fan alike! Covering a range of baseball subjects, this podcast will satisfy your baseball craving. worldofbaseballpodcast@gmail.com\n@worldofbasebal1 (twitter)",
+        "itunes_id": "1480598318",
+        "content_rating": "clean",
+        "artist_name": "Benzion Gisser",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/world-of-baseball/id1480598318",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480598318",
+        "website": "https://anchor.fm/benzion-gisser"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "No Crying In Baseball",
+        "rss_feed_url": "https://feeds.transistor.fm/no-crying-in-baseball",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.8,
+        "description": "When Patti and her potty-mouthed friend talk baseball, you'll know this is not a baseball podcast for lightweights. This is the real deal, from real fans. Because diamonds are a strong woman's best friend, and there's no crying in baseball.",
+        "itunes_id": "1302035601",
+        "content_rating": "explicit",
+        "artist_name": "Junto Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/no-crying-in-baseball/id1302035601",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1302035601",
+        "website": "https://www.nocryinginbball.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "49's Fastball: Baseball Memories with Larry Dierker",
+        "rss_feed_url": "https://feeds.buzzsprout.com/192440.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "History"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.4,
+        "description": "Take a trip down baseball's memory lane with former MLB pitcher, manager and broadcaster Larry Dierker, as he reminisces about some of the most interesting moments in baseball history. Larry Dierker is also an accomplished American novelist, blogger, essayist, playwright, motivational speaker, and digital entrepreneur.",
+        "itunes_id": "1418164291",
+        "content_rating": "clean",
+        "artist_name": "Larry Dierker",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/49s-fastball-baseball-memories-with-larry-dierker/id1418164291",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1418164291",
+        "website": "https://www.49sfastball.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tag Up",
+        "rss_feed_url": "https://anchor.fm/s/d5169c4/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.2,
+        "description": "The MLB latest info",
+        "itunes_id": "1482684012",
+        "content_rating": "clean",
+        "artist_name": "Erik Grey and James Case",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tag-up/id1482684012",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482684012",
+        "website": "https://anchor.fm/erick-grey"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "At The Letters, Sportsnet's Toronto Blue Jays podcast",
+        "rss_feed_url": "https://podcast.sportsnet.ca/shows/at-the-letters/feed/podcast/",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.7,
+        "description": "Ben Nicholson-Smith and Arden Zwelling take fans inside the Blue Jays and around MLB with news, analysis and interviews.",
+        "itunes_id": "980581194",
+        "content_rating": "clean",
+        "artist_name": "Sportsnet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/at-the-letters-sportsnets-toronto-blue-jays-podcast/id980581194",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=980581194",
+        "website": "https://podcast.sportsnet.ca/at-the-letters/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Powers Sports Memorabilia Show",
+        "rss_feed_url": "https://feeds.buzzsprout.com/199027.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Here I discuss sports memorabilia, autographs, and a whole bunch of other fun topics around the sports world.  Always informative and fun!",
+        "itunes_id": "1428759693",
+        "content_rating": "clean",
+        "artist_name": "Matt Powers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-powers-sports-memorabilia-show/id1428759693",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1428759693",
+        "website": "https://powerssportsmemorabilia.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Devereaux Sports",
+        "rss_feed_url": "https://feeds.simplecast.com/QscdV_lR",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Hockey"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Sports roundtable",
+        "itunes_id": "1480599376",
+        "content_rating": "explicit",
+        "artist_name": "Yellow Jacket Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/devereaux-sports/id1480599376",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480599376",
+        "website": "https://devereaux-sports.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The New Nasty Boys",
+        "rss_feed_url": "https://rss.art19.com/the-new-nasty-boys",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "Everything Reds for Armchair Media. Cincinnati Comedians take on the MLB with their burns, give insight, and show their love of the Cincinnati Reds.",
+        "itunes_id": "1362707291",
+        "content_rating": "explicit",
+        "artist_name": "Armchair Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-new-nasty-boys/id1362707291",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1362707291",
+        "website": "https://art19.com/shows/the-new-nasty-boys"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Big League Chewing - A Baseball Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e211958/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A weekly Baseball podcast featuring news and notes, guest appearances, interviews with fans, and more!",
+        "itunes_id": "1484122902",
+        "content_rating": "clean",
+        "artist_name": "Michael Browne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/big-league-chewing-a-baseball-podcast/id1484122902",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484122902",
+        "website": "https://anchor.fm/bigleaguechewing"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Metsian Podcast W Sam Rich & Mike",
+        "rss_feed_url": "http://www.blogtalkradio.com/ametsianpodcastwsamrichandmike/podcast",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 3.8,
+        "description": "Mets Bloggers Sam Maxwell, Rich Sparago and Mike Lecolant get together to discuss all things New York Mets, whether it be modern times or 50+ Year history.",
+        "itunes_id": "1340012396",
+        "content_rating": "clean",
+        "artist_name": "A Metsian Podcast W Sam Rich Mike",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-metsian-podcast-w-sam-rich-mike/id1340012396",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1340012396",
+        "website": "https://www.blogtalkradio.com/ametsianpodcastwsamrichandmike"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Locked On Blue Jays - Daily Podcast On The Toronto Blue Jays",
+        "rss_feed_url": "https://feeds.megaphone.fm/LKN8985743129",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Welcome to Locked On Blue Jays, the only daily podcast devoted to Toronto Blue Jays talk! Host A.J. Andrews brings her unique voice to discussions on topics ranging from how the Blue Jays' youngsters are doing, to how many sunflower seeds are left in Vlad Jr's hair. Join her as she navigates through the daily ongoings of Canada's only baseball team (at least until MLB wises up and moves Tampa Bay to Montreal without this split-city silliness) with a sense of irreverence, self-deprecating humour, and appearances by kitteh co-host that are clearly intended to boost ratings. Part of the Locked on Podcast Network",
+        "itunes_id": "1367328411",
+        "content_rating": "clean",
+        "artist_name": "Locked On Podcast Network, A.J. Andrews",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/locked-on-blue-jays-daily-podcast-on-the-toronto-blue-jays/id1367328411",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1367328411",
+        "website": "www.lockedonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On The Black Baseball Talk Podcast",
+        "rss_feed_url": "https://cougaboyz.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.5,
+        "description": "Just three guys talking about baseball, it couldn't get any better than that. We all go to college together and play for the school club baseball team. We talk about the MLB, our team, college, and other fun stuff.",
+        "itunes_id": "1466145924",
+        "content_rating": "explicit",
+        "artist_name": "ontheblack",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-the-black-baseball-talk-podcast/id1466145924",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466145924",
+        "website": "https://ontheblack.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Meetings on the Mound",
+        "rss_feed_url": "https://meetingsonthemound.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "This podcast is for baseball people FROM baseball people.  Two high school coaches who love the game and want to discuss it weekly.  We will have special guests, and topics from around the game of baseball.",
+        "itunes_id": "1483891321",
+        "content_rating": "clean",
+        "artist_name": "Nathan Hale",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/meetings-on-the-mound/id1483891321",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483891321",
+        "website": "http://meetingsonthemound.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Those Sports Guys",
+        "rss_feed_url": "https://anchor.fm/s/d4da938/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Two guys talking about baseball. Up-to-date information from around the MLB. Weekly podcasts drop on Saturdays.",
+        "itunes_id": "1476561493",
+        "content_rating": "clean",
+        "artist_name": "Those Sports Guys",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/those-sports-guys/id1476561493",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476561493",
+        "website": "https://anchor.fm/those-sports-guys0"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Birds All Day",
+        "rss_feed_url": "https://feeds.simplecast.com/dn8tGZD3",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "Weekly discussion of Toronto Blue Jays baseball with The Athletic's Andrew Stoeten and Drew Fairservice, creators of the seminal Jays blogs Drunk Jays Fans and Ghostrunner On First.",
+        "itunes_id": "991187306",
+        "content_rating": "explicit",
+        "artist_name": "The Athletic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/birds-all-day-a-show-about-the-toronto-blue-jays/id991187306",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=991187306",
+        "website": "http://ghostrunneronfirst.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Strike Noise - A Baseball History Podcast",
+        "rss_feed_url": "https://twostrikenoise.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "History"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "Jeff and Mark talk about the funny, odd and always entertaining history and characters from the greatest game there is, baseball. It's like if the San Diego Chicken and the Philly Fanatic had a baby that was raised by Max Patkin. Grab a hot dog and an adult beverage and \"let's play two!\"",
+        "itunes_id": "1451560910",
+        "content_rating": "clean",
+        "artist_name": "twostrikenoise",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-strike-noise-a-baseball-history-podcast/id1451560910",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451560910",
+        "website": "https://twostrikenoise.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "12 to 6 Podcast",
+        "rss_feed_url": "https://12to6podcast.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Fantasy Sports"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "This podcast is about three baseball fanatics who had dreams of making it to the big show. After falling short of their dream, they have decided to continue their passion in a different way. An unfiltered baseball podcast, that provides key info on minor league players coming up, free agency, and in season updates. These three characters do not fall short in humor and charisma. Keep up with James, Frank, and Joel as they inform you with all things baseball and entertain you with hilarious arguments and discussions.",
+        "itunes_id": "1473180246",
+        "content_rating": "explicit",
+        "artist_name": "Joel Garcia, James Martinez, and Frank Gangi",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/12-to-6-podcast/id1473180246",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473180246",
+        "website": "http://12to6podcast.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Questionable to Return Sports Podcast",
+        "rss_feed_url": "https://qtr.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "The Questionable to Return Podcast talks about sports life with emphasis on Packers, Brewers, Bucks, and Badgers, as well as MLB, NBA, and NFL, and Fantasy Sports.   We love talking about life, sports and being a Super Fan, with frequent guests and listener interaction and topics! Packers Podcast, Bucks Podcast, Brewers Podcast and Badgers Podcast.",
+        "itunes_id": "1439628118",
+        "content_rating": "clean",
+        "artist_name": "Questionable to Return",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-questionable-to-return-sports-podcast/id1439628118",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439628118",
+        "website": "https://questionabletoreturn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "N The Cards Podcast",
+        "rss_feed_url": "https://nthecards.libsyn.com/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "N The Zone Network presents N The Cards.  It's all about our St. Louis Cardinals baseball team.  This show is here to discuss what happens on the field and off.  You name it!  If it's Cardinals baseball, we're on it!",
+        "itunes_id": "1478836942",
+        "content_rating": "clean",
+        "artist_name": "N The Cards",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/n-the-cards-podcast/id1478836942",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478836942",
+        "website": "https://www.nthecards.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Everyone Has A Sports Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/ehasp/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 33,
+        "average_rating": 5,
+        "description": "Join Benny (the trumpeter), Cody (the moose), and Nate (the great?) for their conversations about sports, gambling, video games, and beers- lots of beers.",
+        "itunes_id": "1456958993",
+        "content_rating": "clean",
+        "artist_name": "Stove Leg Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/everyone-has-a-sports-podcast/id1456958993",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456958993",
+        "website": "https://ehasp.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "American Valor Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/316250.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Education"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Through the unique intersection of Major League Baseball, the United States Navy and Marine Corps, we recognize and honor those who support our service men and women with the Bob Feller Act of Valor Award. By using the Bob Feller story, we educate the youth of today on the lessons of citizenship, service to one’s country, and personal sacrifice in times of great need. Teaching the legacy of the greatest generation to the next generation will help instill in them the virtues of service to others. The American Valor Podcast interviews Americans exhibiting valor in their lives to inspire others to do the same.http://www.actofvaloraward.org",
+        "itunes_id": "1464321884",
+        "content_rating": "clean",
+        "artist_name": "Bob Feller Act of Valor Foundation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/american-valor-podcast/id1464321884",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464321884",
+        "website": "http://www.actofvaloraward.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baseballogy",
+        "rss_feed_url": "https://baseballogy.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Science"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "A podcast where two rational scientists talk irrationally about baseball. Join Adam and Drew each week as they break down the game, and share wild facts from around the league. Find us online at www.BaseballogyPod.com",
+        "itunes_id": "1269877661",
+        "content_rating": "clean",
+        "artist_name": "Drew Wilfahrt and Adam Scheid",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baseballogy/id1269877661",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1269877661",
+        "website": "http://www.baseballogypod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Reach The Horizon - The official Podcast of the Horizon League",
+        "rss_feed_url": "https://post.futurimedia.com/wingam/playlist/rss/28.xml",
+        "categories": [
+          "Arts",
+          "Podcasts"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "The official Podcast of the Horizon League",
+        "itunes_id": "1479203840",
+        "content_rating": null,
+        "artist_name": "Unknown",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/reach-horizon-official-podcast-horizon-league/id1479203840",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479203840",
+        "website": null
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Béisbol con Ritmo Latino Podcast",
+        "rss_feed_url": "https://feed.podbean.com/beisbolconritmolatino/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Vinculado a MLB en distintas capacidades durante 50 temporadas….Luis Rodríguez-Mayoral… analiza la actualidad, informa al respecto y les lleva en viajes históricos por el juego como él solamente puede hacerlo. beisbolconritmolatino@gmail.c",
+        "itunes_id": "1452551090",
+        "content_rating": "clean",
+        "artist_name": "Luis Rodriguez-Mayoral",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/b%C3%A9isbol-con-ritmo-latino-podcast/id1452551090",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452551090",
+        "website": "https://beisbolconritmolatino.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Second Stringers NBA Podcast",
+        "rss_feed_url": "https://secondstringers.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "A weekly NBA podcast where we break down the latest news in the league.",
+        "itunes_id": "1257459777",
+        "content_rating": "clean",
+        "artist_name": "Second Stringers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-second-stringers-nba-podcast/id1257459777",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1257459777",
+        "website": "https://secondstringers.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Meet Me At Musial",
+        "rss_feed_url": "https://bdib.podbean.com/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.5,
+        "description": "\"Meet me at Musial\" is a trademark of St. Louis, where the Musial statue is a rallying point.  Every week, two far-flung fans virtually \"meet at Musial\" to go over the latest in Cardinal news and discussion.  Daniel Shoptaw (@C70, from Arkansas) and Allen Medlock (@amedlock1, Oklahoma) prove that great Cardinal talk can come anywhere in Cardinal Nation when you meet up to discuss your favorite team.",
+        "itunes_id": "1005820549",
+        "content_rating": "clean",
+        "artist_name": "Daniel Shoptaw and Allen Medlock",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/meet-me-at-musial/id1005820549",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1005820549",
+        "website": "https://bdib.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The #Brandpod",
+        "rss_feed_url": "https://api.podcache.net/shows/0f0ec76d-9d59-4194-805a-1a2817921f8c/feed",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The #Brandpod is a podcast that covers most assets of playing fantasy sports. NFL, NBA, MLB are our major passions. We provide tips, tools, strategy, news and more into our content to provide you with a quality listening experience.\n\nSupport this podcast at — https://redcircle.com/the-brandpod/donations",
+        "itunes_id": "1482514193",
+        "content_rating": "clean",
+        "artist_name": "Brandon Hicks James Reedy",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-brandpod/id1482514193",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482514193",
+        "website": "https://redcircle.com/shows/the-brandpod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Tip of the Cap Podcast",
+        "rss_feed_url": "https://feed.podbean.com/tipofthecap/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Prep Baseball in WNY",
+        "itunes_id": "1474681738",
+        "content_rating": "clean",
+        "artist_name": "tipofthecap",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-tip-of-the-cap-podcast/id1474681738",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474681738",
+        "website": "https://tipofthecap.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baseball Together Podcast",
+        "rss_feed_url": "https://feed.podbean.com/baseballtogether/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Baseball Together Podcast is a production of 9PlusUs.com and Called-Up. We talk about baseball and how the sport brings us together as a baseball family.",
+        "itunes_id": "1467598678",
+        "content_rating": "clean",
+        "artist_name": "9+Us | Baseball Together",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baseball-together-podcast/id1467598678",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467598678",
+        "website": "https://baseballtogether.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Exit Velocity Fantasy Baseball Podcast",
+        "rss_feed_url": "https://anchor.fm/s/a9e7d98/podcast/rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Your favorite weekly fantasy baseball podcast. We will cover what has happened the previous week and what to expect in the fantasy baseball world in the upcoming week. Follow us on Twitter: @exitvelocityPC. Instagram: The Exit Velocity Podcast for more breaking fantasy baseball news. Our goal is to bring back baseball fans threw fantasy baseball! Support this podcast: https://anchor.fm/brent-herzog/support",
+        "itunes_id": "1460527921",
+        "content_rating": "clean",
+        "artist_name": "Brent Herzog Jordan Roerick",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/exit-velocity-fantasy-baseball-podcast/id1460527921",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460527921",
+        "website": "https://anchor.fm/brent-herzog"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spike Data Analytics",
+        "rss_feed_url": "https://feeds.buzzsprout.com/638923.rss",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.2,
+        "description": "My name is Christian and I run this podcast where we discuss modern innovations in technology that is used in recording and evaluating data in sports.",
+        "itunes_id": "1482580121",
+        "content_rating": "clean",
+        "artist_name": "Christian",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spike-data-analytics/id1482580121",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482580121",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Brew Crew Review - Milwaukee Brewers Baseball Podcast",
+        "rss_feed_url": "https://feed.podbean.com/brewcrewreview/feed.xml",
+        "categories": [
+          "Baseball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.3,
+        "description": "Our TV show is now a podcast! As hosts/journalists/comedians/fans we cover all the latest baseball news surrounding the greatest franchise ever: Your Milwaukee Brewers!",
+        "itunes_id": "1457410963",
+        "content_rating": "explicit",
+        "artist_name": "brewcrewreview",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-brew-crew-review-milwaukee-brewers-baseball-podcast/id1457410963",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457410963",
+        "website": "https://brewcrewreview.podbean.com"
+      }
+    }
+  ]
+}

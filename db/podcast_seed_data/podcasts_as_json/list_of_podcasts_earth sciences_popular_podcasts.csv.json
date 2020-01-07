@@ -1,0 +1,440 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Green Tech Today (MP3)",
+        "rss_feed_url": "http://feeds.twit.tv/gtt.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 12,
+        "average_rating": 3.9,
+        "description": "Green Tech Today is the essential show for the eco-minded geek. Brought to you by the TWiT network and hosted by Becky Worley and Dr. Kiki, Green Tech Today covers the technology, news, gadgets, and innovation fueling the green movement! \"Green Tech Today\" is fun, informative, and full of ideas!\n\nAlthough the show is no longer in production, you can enjoy episodes from the TWiT Archives.",
+        "itunes_id": "385987142",
+        "content_rating": "clean",
+        "artist_name": "TWiT",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/green-tech-today-mp3/id385987142",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=385987142",
+        "website": "https://twit.tv/shows/green-tech-today"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Weather Junkies",
+        "rss_feed_url": "https://feeds.blubrry.com/feeds/weather_junkies.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.5,
+        "description": "Nerding out about weather, climate, and other Earth sciences. Join Merry,  Ryan, Tyler, and Dakota every week for their in-depth conversations on various topics in the weather and climate world.",
+        "itunes_id": "1056471528",
+        "content_rating": "clean",
+        "artist_name": "Weather Junkies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-weather-junkies/id1056471528",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1056471528",
+        "website": "www.theweatherjunkies.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kosmographia",
+        "rss_feed_url": "http://kosmographia.libsyn.com/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 49,
+        "average_rating": 5,
+        "description": "All the Randall you can handle",
+        "itunes_id": "1479346591",
+        "content_rating": "clean",
+        "artist_name": "Randall Carlson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kosmographia/id1479346591",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479346591",
+        "website": "http://kosmographia.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My Climate Journey",
+        "rss_feed_url": "https://feeds.simplecast.com/XFfCG1w8",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 42,
+        "average_rating": 5,
+        "description": "A podcast about a recovering software entrepreneur (me!), and my quest to reorient my career around helping solve climate change for this next chapter and beyond. Includes interviews with people in the thick of tackling this problem, and commentary from yours truly. I'm glad you are here!",
+        "itunes_id": "1462776122",
+        "content_rating": "explicit",
+        "artist_name": "Jason Jacobs",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-climate-journey/id1462776122",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462776122",
+        "website": "https://my-climate-journey.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Weather: Storm Front Freaks Podcast",
+        "rss_feed_url": "http://podcast.stormfrontfreaks.com/feed.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.5,
+        "description": "Official account of “The Most Entertaining Weather Podcast”!  Storm Front Freaks is a team of amateur and professional storm enthusiasts from various backgrounds hosting exciting guests from the weather industry.  Our bi-weekly show records LIVE Thursday evenings on YouTube with the edited audio show available on iTunes and other podcast apps the following Sunday.  You can also join us at www.stormfrontfreaks.com",
+        "itunes_id": "1116866428",
+        "content_rating": "clean",
+        "artist_name": "Weather | Storm Front Freaks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/weather-storm-front-freaks-podcast/id1116866428",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1116866428",
+        "website": "http://www.stormfrontfreaks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Acres U.S.A.: Tractor Time",
+        "rss_feed_url": "https://acresusa.podbean.com/feed.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.8,
+        "description": "From your friends at Acres U.S.A., the Voice of Eco-Agriculture since 1971, Tractor Time is a conversation between farmers, authors, advocates and legendary voices in the world of eco-agriculture.",
+        "itunes_id": "1228753412",
+        "content_rating": "clean",
+        "artist_name": "Tractor Time by Acres U.S.A.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/acres-u-s-a-tractor-time/id1228753412",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1228753412",
+        "website": "https://acresusa.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Soul Soil: Where Agriculture and Spirit Intersect with Brooke Kornegay",
+        "rss_feed_url": "https://soulsoil.libsyn.com/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Religion & Spirituality",
+          "Spirituality"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "The Soul Soil Podcast is a place where ideas, experience, and resources come together around the topics of agriculture and spirituality with the goal of inspiring and empowering listeners to interact and cooperate with the land in a way that nourishes and sustains the human body, mind, and soul while regenerating and sustaining the land itself.",
+        "itunes_id": "1480843422",
+        "content_rating": "clean",
+        "artist_name": "Brooke Kornegay",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/soul-soil-where-agriculture-spirit-intersect-brooke/id1480843422",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480843422",
+        "website": "http://www.soulsoilpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Global Energy & Environmental Law Podcast",
+        "rss_feed_url": "https://theglobalenergyandenvironmentallaw.podbean.com/feed.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "A discussion of global and local environmental law issues.  Produced by Myanna Dellinger, in conjunction with the University of South Dakota School of Law and the International Environmental Law Committee of the American Branch of the International Law Association",
+        "itunes_id": "954194668",
+        "content_rating": "clean",
+        "artist_name": "The International Environmental Law Committee of the American Branch of the International Law Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-global-energy-environmental-law-podcast/id954194668",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=954194668",
+        "website": "https://theglobalenergyandenvironmentallaw.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Popular Volcanics",
+        "rss_feed_url": "https://feeds.buzzsprout.com/423493.rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "A podcast about volcanoes hosted by Dr. Erik Klemetti and Dr. Janine Krippner. Each month we'll talk about eruptions going on around the world, banter about volcano research and talk to a guest about the world of magma (and other stuff, too).",
+        "itunes_id": "1471158307",
+        "content_rating": "clean",
+        "artist_name": "Popular Volcanics",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/popular-volcanics/id1471158307",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471158307",
+        "website": "http://popularvolcanics.weebly.com/episodes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Regret Labs Podcast: Science | Comedy | Humility",
+        "rss_feed_url": "https://noisepicnic.com/category/podcasts/regretlabs/feed",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.9,
+        "description": "Did you study hard in science class? Neither did comics Aric and Levi. Regret Labs is their attempt to make up for lost time. In each episode they attempt to explain a scientific concept and then invite a guest expert to join them and tell them how very wrong they are. There’s learning, laughing, science, and redemption. You may get a better understanding of the world or you may just get entertained. But you wont regret listening.",
+        "itunes_id": "874174278",
+        "content_rating": "explicit",
+        "artist_name": "Aric McKeown, Levi Weinhagen, and Maggie Ryan Sandford: Comedians",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/regret-labs-podcast-science-comedy-humility/id874174278",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=874174278",
+        "website": "http://noisepicnic.com/regretlabs/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Soil Health Podcast from Menoken Farm",
+        "rss_feed_url": "https://anchor.fm/s/f5f4f74/podcast/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Menoken farm is a conservation demonstration farm located in central North Dakota, owned and operated by the Burleigh County Soil Conservation District. Established in 2009, the farm's primary focus is advancing soil health through innovation and education. The Menoken Farm has become a destination for soil health enthusiasts and is visited by groups from around the world.",
+        "itunes_id": "1483953978",
+        "content_rating": "clean",
+        "artist_name": "Menoken Farm",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-soil-health-podcast-from-menoken-farm/id1483953978",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483953978",
+        "website": "https://anchor.fm/menokenfarm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Climate Champions",
+        "rss_feed_url": "https://climatechampions.podbean.com/feed.xml",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "Lee Krevat, CEO of Krevat Energy Innovations, sits down with leaders in the fight to mitigate climate change to discuss what they do, what drives them, and their visions for the future!",
+        "itunes_id": "1450757252",
+        "content_rating": "clean",
+        "artist_name": "Lee Krevat",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-climate-champions/id1450757252",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450757252",
+        "website": "https://climatechampions.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "EnergyTomorrow Radio",
+        "rss_feed_url": "http://www.blogtalkradio.com/energytomorrowradio/podcast",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Energy. It fuels our daily lives and our economy. And it's one of the most important issues being debated today. Here on EnergyTomorrow Radio, we examine complex issues about our energy future and answer your questions. In doing so, we hope to advance the conversation about this important topic. Hosted by Jane Van Ryan of API.  For more information, visit www.EnergyTomorrow.org",
+        "itunes_id": "285536705",
+        "content_rating": "clean",
+        "artist_name": "EnergyTomorrow Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/energytomorrow-radio/id285536705",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=285536705",
+        "website": "https://www.blogtalkradio.com/energytomorrowradio"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Make Climate Cool Again",
+        "rss_feed_url": "https://anchor.fm/s/d9cff60/podcast/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.7,
+        "description": "Climate change is scary. But doing something about it is easy. And we are going to make it fun.  Support this podcast: https://anchor.fm/makeclimatecool/support",
+        "itunes_id": "1476572021",
+        "content_rating": "clean",
+        "artist_name": "Sara",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/make-climate-cool-again/id1476572021",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476572021",
+        "website": "www.makeclimatecool.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "EnergyTomorrow Radio",
+        "rss_feed_url": "http://www.blogtalkradio.com/energytomorrowradio/podcast",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Energy. It fuels our daily lives and our economy. And it's one of the most important issues being debated today. Here on EnergyTomorrow Radio, we examine complex issues about our energy future and answer your questions. In doing so, we hope to advance the conversation about this important topic. Hosted by Jane Van Ryan of API.  For more information, visit www.EnergyTomorrow.org",
+        "itunes_id": "285536705",
+        "content_rating": "clean",
+        "artist_name": "EnergyTomorrow Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/energytomorrow-radio/id285536705",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=285536705",
+        "website": "https://www.blogtalkradio.com/energytomorrowradio"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Make Climate Cool Again",
+        "rss_feed_url": "https://anchor.fm/s/d9cff60/podcast/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.7,
+        "description": "Climate change is scary. But doing something about it is easy. And we are going to make it fun.  Support this podcast: https://anchor.fm/makeclimatecool/support",
+        "itunes_id": "1476572021",
+        "content_rating": "clean",
+        "artist_name": "Sara",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/make-climate-cool-again/id1476572021",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476572021",
+        "website": "www.makeclimatecool.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Calling: Earth.",
+        "rss_feed_url": "https://callingearth.libsyn.com/rss2",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Calling: Earth showcases the current research being done by the faculty and doctoral students of the School of Geosciences at the University of South Florida. This podcast is produced by librarians and staff at the USF Libraries.",
+        "itunes_id": "1463977558",
+        "content_rating": "clean",
+        "artist_name": "University of South Florida Libraries",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/calling-earth/id1463977558",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1463977558",
+        "website": "http://callingearth.lib.usf.edu/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Solar Energy Experts",
+        "rss_feed_url": "https://anchor.fm/s/dcb5f40/podcast/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Ryzzun.com presents Solar Energy Experts with Luis Angel and Omid Kazravan Support this podcast: https://anchor.fm/ryzzun/support",
+        "itunes_id": "1477013425",
+        "content_rating": "clean",
+        "artist_name": "Ryzzun | Luis Angel & Omid",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/solar-energy-experts/id1477013425",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477013425",
+        "website": "https://www.ryzzun.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Planet Action Now: Encouraging Individual action toward climate change",
+        "rss_feed_url": "https://planetactionnow.libsyn.com/rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "We interview Dr Dennis Baldocchi Professor of Biometeorology and climate change from UC Berkeley.  Dr Baldocchi provides a basic understanding about what is happening to our planet in terms of climate change and global warming.  He also goes into detail about his work with Fluxnet, a huge system of sensors around the world providing environmental feed for his research.",
+        "itunes_id": "1484260883",
+        "content_rating": "clean",
+        "artist_name": "Jackson & Makenna Damhorst",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/planet-action-now-encouraging-individual-action-toward/id1484260883",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484260883",
+        "website": "http://planetactionnow.org/podcasts.html"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The IcePod",
+        "rss_feed_url": "https://feeds.buzzsprout.com/600004.rss",
+        "categories": [
+          "Earth Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The IcePod is the podcast about polar science and the people. We'll talk to scientists who went on board Polarstern, the German research icebreaker, for the biggest research expedition in the Arctic. The IcePod is the official podcast of the Year of Polar Prediction www.polarprediction.com",
+        "itunes_id": "1480223567",
+        "content_rating": "clean",
+        "artist_name": "The IcePod",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-icepod/id1480223567",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480223567",
+        "website": "https://www.polarprediction.net/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2359 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Stuff To Blow Your Mind",
+        "rss_feed_url": "https://feeds.megaphone.fm/stufftoblowyourmind",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 3712,
+        "average_rating": 4.4,
+        "description": "Deep in the back of your mind, you’ve always had the feeling that there’s something strange about reality. There is. Join Robert Lamb and Joe McCormick as they examine neurological quandaries, cosmic mysteries, evolutionary marvels and our transhuman future.",
+        "itunes_id": "350359306",
+        "content_rating": null,
+        "artist_name": "iHeartRadio & HowStuffWorks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stuff-to-blow-your-mind/id350359306",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=350359306",
+        "website": "https://www.howstuffworks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Short Wave",
+        "rss_feed_url": "https://www.npr.org/rss/podcast.php?id=510351",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Astronomy"
+        ],
+        "rating_count": 1384,
+        "average_rating": 4.8,
+        "description": "New discoveries, everyday mysteries, and the science behind the headlines — all in about 10 minutes, every weekday. It's science for everyone, using a lot of creativity and a little humor. Join host Maddie Sofia for science on a different wavelength.",
+        "itunes_id": "1482575855",
+        "content_rating": null,
+        "artist_name": "NPR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/short-wave/id1482575855",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482575855",
+        "website": "https://www.npr.org/podcasts/510351/short-wave"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Podcast Will Kill You",
+        "rss_feed_url": "https://rss.art19.com/this-podcast-will-kill-you",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 8507,
+        "average_rating": 4.8,
+        "description": "This podcast might not actually kill you, but it covers so many things that can. Each episode tackles a different disease, from its history, to its biology, and finally, how scared you need to be. Ecologists and epidemiologists Erin Welsh and Erin Allmann Updyke make infectious diseases acceptable fodder for dinner party conversation and provide the perfect cocktail recipe to match",
+        "itunes_id": "1299915173",
+        "content_rating": null,
+        "artist_name": "Exactly Right",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-podcast-will-kill-you/id1299915173",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1299915173",
+        "website": "https://art19.com/shows/this-podcast-will-kill-you"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Naked Scientists Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/naked_scientists_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 373,
+        "average_rating": 4.6,
+        "description": "The Naked Scientists flagship science show, includes the latest science news, interviews with top scientists, hands-on science experiments and answers to your science questions.",
+        "itunes_id": "74171648",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-naked-scientists-podcast/id74171648",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=74171648",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Brain Science with Ginger Campbell, MD: Neuroscience for Everyone",
+        "rss_feed_url": "http://brainsciencepodcast.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 557,
+        "average_rating": 4.7,
+        "description": "Brain Science  was launched in 2006 by Dr. Ginger Campbell,  an experienced emergency physician with a passion for exploring how recent discoveries in neuroscience are revealing how our brains make us who we are. This podcast is for non-scientists, scientists, and everyone in between. We interview scientists and discuss the latest books about the brain. \n\nMonthy episodes resume in June 2017, but all episodes posted since January 2013 are available for FREE in iTunes.  Please visit our website for more episodes and transcripts.",
+        "itunes_id": "210065679",
+        "content_rating": "clean",
+        "artist_name": "Ginger Campbell, MD",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brain-science-ginger-campbell-md-neuroscience-for-everyone/id210065679",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=210065679",
+        "website": "http://brainsciencepodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "All In The Mind - ABC RN",
+        "rss_feed_url": "http://www.abc.net.au/radionational/feed/2888650/podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 393,
+        "average_rating": 4.5,
+        "description": "All In The Mind is ABC RN's weekly podcast looking into the mental universe, the mind, brain and behaviour — everything from addiction to artificial intelligence.",
+        "itunes_id": "73330911",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio National",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/all-in-the-mind-abc-rn/id73330911",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=73330911",
+        "website": "http://www.abc.net.au/radionational/programs/allinthemind/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Speaking of Psychology",
+        "rss_feed_url": "https://sopapa.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 254,
+        "average_rating": 4.4,
+        "description": "\"Speaking of Psychology\" is an audio podcast series highlighting some of the latest, most important and relevant psychological research being conducted today. Produced by the American Psychological Association, these podcasts will help listeners apply the science of psychology to their everyday lives.",
+        "itunes_id": "705934263",
+        "content_rating": "clean",
+        "artist_name": "American Psychological Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/speaking-of-psychology/id705934263",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=705934263",
+        "website": "http://www.apa.org/speaking-of-psychology"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Week in Microbiology",
+        "rss_feed_url": "http://twimshow.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 333,
+        "average_rating": 4.9,
+        "description": "This Week in Microbiology is a podcast about unseen life on Earth hosted by Vincent Racaniello and friends. Following in the path of his successful shows 'This Week in Virology' (TWiV) and 'This Week in Parasitism' (TWiP), Racaniello and guests produce an informal yet informative conversation about microbes which is accessible to everyone, no matter what their science background.",
+        "itunes_id": "422332846",
+        "content_rating": "clean",
+        "artist_name": "Vincent Racaniello",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-week-in-microbiology/id422332846",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=422332846",
+        "website": "http://www.asm.org/twim/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Futures in Biotech (MP3)",
+        "rss_feed_url": "http://feeds.twit.tv/fib.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.5,
+        "description": "Explore the world of cloning, protein folding, genome mapping, and more with the most important researchers in the field.\n\nAlthough the show is no longer in production at TWiT, you can enjoy episodes from the TWiT Archives.",
+        "itunes_id": "160372141",
+        "content_rating": "clean",
+        "artist_name": "TWiT",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/futures-in-biotech-mp3/id160372141",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=160372141",
+        "website": "https://twit.tv/shows/futures-in-biotech"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The WoMed",
+        "rss_feed_url": "https://feeds.simplecast.com/Eruyr7_x",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 807,
+        "average_rating": 4.8,
+        "description": "Join The WoMed where hosts D (Danielle Maltby @dmmaltby) and Dani (Danielle LeVeck @nurseabnormalities) chat all things Women in Medicine. \n\nThese two nurse vets bring humor, reality, and a serious passion for what they do to discussions on self-care, mental health, emerging healthcare trends, education, and so much more. Nothing is off limits so come prepared to laugh, (maybe cry), and definitely listen in on meaningful conversations D & Dani have with some of the industry’s biggest experts and thought-leaders. This is a space to discuss, debate, and celebrate all things Women in Medicine. Join double the Danielle for double the fun.  \n\nBe sure to subscribe, rate, review, and follow us on Instagram @TheWoMed!",
+        "itunes_id": "1464767919",
+        "content_rating": "clean",
+        "artist_name": "Podcast Nation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-womed/id1464767919",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464767919",
+        "website": "https://www.instagram.com/thewomed/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Neuroscience, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/naked_neuroscience.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 53,
+        "average_rating": 4.5,
+        "description": "Open your mind with Naked Neuroscience, the spine-tingling, interactive monthly exploration of the workings of the nervous system from the Naked Scientists.",
+        "itunes_id": "595386313",
+        "content_rating": "clean",
+        "artist_name": "Katie Haylor",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-neuroscience-from-the-naked-scientists/id595386313",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=595386313",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-neuroscience"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ask the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/ask_the_naked_scientists.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 44,
+        "average_rating": 4.6,
+        "description": "How many organs could you donate and remain alive? How many planet Earths could fit inside the Sun? How high is a giraffe's blood pressure? Why is the sea blue? To find out, Ask The Naked Scientists!",
+        "itunes_id": "287114592",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ask-the-naked-scientists/id287114592",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=287114592",
+        "website": "https://www.thenakedscientists.com/podcasts/ask-naked-scientists"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Week in Parasitism",
+        "rss_feed_url": "http://twip.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 328,
+        "average_rating": 4.9,
+        "description": "TWiP is a monthly netcast about eukaryotic parasites. Vincent Racaniello and Dickson Despommier, science Professors from Columbia University, deconstruct parasites, how they cause illness, and how you can prevent infections.",
+        "itunes_id": "340512495",
+        "content_rating": "clean",
+        "artist_name": "Vincent Racaniello",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-week-in-parasitism/id340512495",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=340512495",
+        "website": "http://microbe.tv/twip"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Frankly Speaking About Family Medicine",
+        "rss_feed_url": "http://primed.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 58,
+        "average_rating": 4.5,
+        "description": "A weekly Podcast series covering newsworthy topics in primary care medicine.",
+        "itunes_id": "1194659367",
+        "content_rating": "clean",
+        "artist_name": "Pri-Med",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/frankly-speaking-about-family-medicine/id1194659367",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1194659367",
+        "website": "http://primed.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Beat Your Genes Podcast",
+        "rss_feed_url": "https://www.blogtalkradio.com/beatyourgenes/podcast",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 206,
+        "average_rating": 4.7,
+        "description": "Let's look at life through the lens of our ancestors. Our instincts were shaped by their struggles in an environment much different than our current environment.   Our instincts haven't changed much but our environment has changed dramatically.  We blend the science of evolutionary psychology with the clinical experience of Doug Lisle, PhD to explore common problems and stumbling points in our pursuit of happiness. \n\nWe are live on Wednesdays at 8:30-9:30pm PST.  If you have a question or comment, or maybe even a complicated situation that you'd like some advice on, feel free to call us live at 657-383-0751 or email us at BeatYourGenes@gmail.com .  \n\nCheck out our website for the recommended reading list and more:  www.beatyourgenes.org",
+        "itunes_id": "1137772216",
+        "content_rating": "clean",
+        "artist_name": "BeatYourGenes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/beat-your-genes-podcast/id1137772216",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1137772216",
+        "website": "https://www.blogtalkradio.com/beatyourgenes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Genetics, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/naked_genetics.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 55,
+        "average_rating": 3.9,
+        "description": "From plants to pathogens, fruit flies to fungi and hamsters to humans, Naked Genetics takes a look at the science of genes. With in-depth interviews and the latest discoveries from the world of genetics, tune in for a look inside your genes...",
+        "itunes_id": "527187069",
+        "content_rating": "clean",
+        "artist_name": "Phil Sansom",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-genetics-from-the-naked-scientists/id527187069",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=527187069",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-genetics"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Collective Insights",
+        "rss_feed_url": "https://feeds.blubrry.com/feeds/neurohacker.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 259,
+        "average_rating": 4.8,
+        "description": "Collective Insights is a voyage through topics and technologies revolutionizing human wellbeing.",
+        "itunes_id": "1293899173",
+        "content_rating": "clean",
+        "artist_name": "Neurohacker Collective",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/collective-insights/id1293899173",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1293899173",
+        "website": "https://neurohacker.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ask the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/ask_the_naked_scientists.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.7,
+        "description": "How many organs could you donate and remain alive? How many planet Earths could fit inside the Sun? How high is a giraffe's blood pressure? Why is the sea blue? To find out, Ask The Naked Scientists!",
+        "itunes_id": "325537702",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ask-the-naked-scientists/id325537702",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=325537702",
+        "website": "https://www.thenakedscientists.com/podcasts/ask-naked-scientists"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Question of the Week, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/question_of_the_week_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.5,
+        "description": "Each week we set out to solve one of the world's weirdest, wackiest, funniest and funkiest scientific puzzles. And along with the answer there's a brand new question to think about for next time...",
+        "itunes_id": "298442629",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/question-of-the-week-from-the-naked-scientists/id298442629",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=298442629",
+        "website": "https://www.thenakedscientists.com/podcasts/question-week"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Scientists, In Short Special Editions Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/specials_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.8,
+        "description": "Special scientific reports and investigations by the Naked Scientists team",
+        "itunes_id": "324688342",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-scientists-in-short-special-editions-podcast/id324688342",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=324688342",
+        "website": "https://www.thenakedscientists.com/podcasts/short"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Books and Ideas with Dr. Ginger Campbell",
+        "rss_feed_url": "http://booksandideas.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Society & Culture"
+        ],
+        "rating_count": 48,
+        "average_rating": 5,
+        "description": "Ginger Campbell, MD host of the highly rated Brain Science Podcast, uses this podcast to explore her love of reading and ideas, including science, philosophy, history, and what ever else she is reading. This podcast comes out about once a month and often contains interviews of authors and scientists. Check http://booksandideas.com for details.",
+        "itunes_id": "210064273",
+        "content_rating": "clean",
+        "artist_name": "Ginger Campbell, MD",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/books-and-ideas-with-dr-ginger-campbell/id210064273",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=210064273",
+        "website": "http://booksandideas.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hello PhD",
+        "rss_feed_url": "http://hellophd.com/feed/podcast/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 86,
+        "average_rating": 4.8,
+        "description": "Science is hard work, but making it through a PhD program and into a rewarding career can seem downright impossible.  Wouldn’t it be nice if someone shared the secrets for success at every stage?  Admissions, rotations, classes, quals, research, dissertations, job-hunting – avoid the pitfalls and get back to doing what you love.  It's like getting a PhD in getting a PhD!",
+        "itunes_id": "1018225068",
+        "content_rating": "clean",
+        "artist_name": "Joshua Hall and Daniel Arneman, PhDz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hello-phd/id1018225068",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1018225068",
+        "website": "http://hellophd.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Is Your Brain With Dr. Phil Stieg",
+        "rss_feed_url": "https://thisisyourbrainwithdrphilstieg.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 53,
+        "average_rating": 4.8,
+        "description": "Dr. Phil Stieg, Neurosurgeon-in-Chief of NewYork-Presbyterian/Weill Cornell Medical Center and founder and Chairman of the Weill Cornell Medicine Brain and Spine Center, introduces his new podcast, which will explore different aspects of our most important and complex organ – the brain. In each episode, this world-renowned neurosurgeon will present a view into how the brain works, what can go wrong, and what we know about how to fix it. Get life-saving information and timely advice on how to live a brain-healthy life.",
+        "itunes_id": "1457049580",
+        "content_rating": "clean",
+        "artist_name": "Dr. Phil Stieg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-is-your-brain-with-dr-phil-stieg/id1457049580",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457049580",
+        "website": "https://drphilstieg.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BioTech Nation Radio Podcast",
+        "rss_feed_url": "http://biotechnation.podomatic.com/rss2.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.5,
+        "description": "BioTech Nation Radio with Dr Moira Gunn",
+        "itunes_id": "876041079",
+        "content_rating": "clean",
+        "artist_name": "BioTech Nation",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/biotech-nation-radio-podcast/id876041079",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=876041079",
+        "website": "https://biotechnation.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pri-Med Podcasts",
+        "rss_feed_url": "https://primedpodcasts.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.3,
+        "description": "A primary care podcast featuring expert faculty discussing the most recent developments in the medical field. Podcast formats include, but are not limited to: expert clinical discussions, frequently asked questions, and Frankly Speaking About Family Medicine with Dr. Frank Domino. Many Pri-Med Podcasts are available for CME Credit! For CME podcasts, find the link to claim credit in those episodes’ descriptions or find the episode on our Pri-Med Podcast landing page, www.pri-med.com/podcast",
+        "itunes_id": "1453732823",
+        "content_rating": "clean",
+        "artist_name": "Pri-Med",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pri-med-podcasts/id1453732823",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453732823",
+        "website": "http://primedpodcasts.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "COMPLEXITY",
+        "rss_feed_url": "https://feeds.simplecast.com/OzDH_At2",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Mathematics"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Far-reaching conversations with a worldwide network of scientists and mathematicians, philosophers and artists developing new frameworks to explain our universe's deepest mysteries. Join host Michael Garfield at the Santa Fe Institute each week to learn about your world and the people who have dedicated their lives to exploring its emergent order: their stories, research, and insights…",
+        "itunes_id": "1482984603",
+        "content_rating": "clean",
+        "artist_name": "Santa Fe Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/complexity/id1482984603",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482984603",
+        "website": "https://complexity.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Illumina Genomics Podcast",
+        "rss_feed_url": "https://www.illumina.com/content/dam/illumina-marketing/media/podcasts/podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 49,
+        "average_rating": 4.7,
+        "description": "Hear directly from the people whose work in genomics is shaping the way we think about science and our world. Listen as leading scientists discuss the impact of genomics with the Illumina Scientific Affairs team. Download or subscribe to our recurring podcasts.",
+        "itunes_id": "1232738132",
+        "content_rating": "clean",
+        "artist_name": "Illumina, Inc.",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/illumina-genomics-podcast/id1232738132",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1232738132",
+        "website": "https://www.illumina.com/science/genomics-podcast.html"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Meet the Microbiologist",
+        "rss_feed_url": "http://meetthescientist.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.6,
+        "description": "Revealing more about microbiologists, the work they do, and what makes them tick. We ask them what they're up to now and what's next? How is the science moving forward to solve some of the intractable problems of our times? What keeps them going in a tough, competitive field? What do they see for the future of research, education, and training? We hope to show you a glimpse of what scientists are really like and what's going on in cutting-edge research today.",
+        "itunes_id": "289419806",
+        "content_rating": "clean",
+        "artist_name": "Julie Wolf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/meet-the-microbiologist/id289419806",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=289419806",
+        "website": "https://www.asm.org/mtm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Brain Health and Beyond with Team Sherzai, MD",
+        "rss_feed_url": "https://brainhealthandbeyond.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 85,
+        "average_rating": 4.9,
+        "description": "Join award-winning neurologists and researchers, Drs. Dean and Ayesha Sherzai, for a fun, innovative and inspirational approach to brain health and all matters concerning the remarkable human mind. This is the century of the brain, a time when our insights into this incredible organ are exploding at an unprecedented pace. Explore ways to take control of your own brain health, avoid chronic diseases that are devastating communities worldwide, and expand your mind's capacity beyond anything you can imagine.",
+        "itunes_id": "1474018356",
+        "content_rating": "clean",
+        "artist_name": "Team Sherzai M.D.",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brain-health-and-beyond-with-team-sherzai-md/id1474018356",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474018356",
+        "website": "https://teamsherzai.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Neuroscience, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/naked_neuroscience.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 21,
+        "average_rating": 3.6,
+        "description": "Open your mind with Naked Neuroscience, the spine-tingling, interactive monthly exploration of the workings of the nervous system from the Naked Scientists.",
+        "itunes_id": "595386657",
+        "content_rating": "clean",
+        "artist_name": "Katie Haylor",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-neuroscience-from-the-naked-scientists/id595386657",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=595386657",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-neuroscience"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Immune",
+        "rss_feed_url": "http://immune.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 82,
+        "average_rating": 4.9,
+        "description": "A podcast about the body's defenders against disease.",
+        "itunes_id": "1305309644",
+        "content_rating": "clean",
+        "artist_name": "Vincent Racaniello",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/immune/id1305309644",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1305309644",
+        "website": "http://microbe.tv/immune"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "History of Society for Neuroscience: 50th Anniversary",
+        "rss_feed_url": "http://sfnhistory.hfm.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "History"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A limited series podcast highlighting the stories from the 50-year history of the Society for Neuroscience, the world’s largest organization of scientists and physicians devoted to understanding the brain and nervous system.  We’ll discuss the significant moments, trailblazing ideas, and historical development of the Society throughout the decades, with some of its current, past, and future leaders.",
+        "itunes_id": "1479120189",
+        "content_rating": "clean",
+        "artist_name": "Society for Neuroscience",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/history-of-society-for-neuroscience-50th-anniversary/id1479120189",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479120189",
+        "website": "https://neuronline.sfn.org/listen"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Circulation on the Run",
+        "rss_feed_url": "http://circulation.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.7,
+        "description": "Each 15-minute podcast begins with an overview of the issue’s contents and main take-home messages for busy clinicians on the run. This is followed by a deep dive into a featured article of particular clinical significance: views will be heard from both author and editor teams for a “behind the scenes” look at the publication. Expect a fun, highly conversational and clinically-focused session each week!",
+        "itunes_id": "1108662449",
+        "content_rating": "clean",
+        "artist_name": "Carolyn Lam, MBBS, PhD",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/circulation-on-the-run/id1108662449",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1108662449",
+        "website": "http://circulation.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Microbe Magazine Podcast",
+        "rss_feed_url": "http://microbe.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 8,
+        "average_rating": 4.3,
+        "description": "Microbe Magazine Podcast is a monthly science podcast hosted by Jeff Fox, features editor for Microbe Magazine, published by the American Society for Microbiology. \n\nEach podcast episode coincides with an article in the current issue of Microbe, which is available online at www.microbemagazine.org.\n\nPlease contact Patrick Lacey, Managing Editor for Microbe, with any questions, feedback or show ideas at placey@asmusa.org.",
+        "itunes_id": "1037423108",
+        "content_rating": "clean",
+        "artist_name": "American Society for Microbiology",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/microbe-magazine-podcast/id1037423108",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1037423108",
+        "website": "https://www.asm.org/mmp"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Big Biology",
+        "rss_feed_url": "https://www.bigbiology.org/rss-feed?format=rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 46,
+        "average_rating": 4.8,
+        "description": "Big Biology is a podcast that tells the stories of scientists tackling some of the biggest unanswered questions in biology.",
+        "itunes_id": "1321630019",
+        "content_rating": "clean",
+        "artist_name": "Art Woods and Marty Martin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/big-biology/id1321630019",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1321630019",
+        "website": "https://www.bigbiology.org/rss-feed/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Naked Scientists Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/naked_scientists_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.6,
+        "description": "The Naked Scientists flagship science show, includes the latest science news, interviews with top scientists, hands-on science experiments and answers to your science questions.",
+        "itunes_id": "443432336",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-naked-scientists-podcast/id443432336",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=443432336",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Contagious Conversations",
+        "rss_feed_url": "https://contagiousconversations.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.7,
+        "description": "Curious about the people who are making the world healthier and safer for us all, and what set them on that path? \n\nGet inspired as the CDC Foundation interviews experts who share their unique perspectives on today’s toughest health challenges, such as antibiotic resistance, global disease outbreaks, health equality and more.",
+        "itunes_id": "1455133736",
+        "content_rating": "clean",
+        "artist_name": "CDC Foundation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/contagious-conversations/id1455133736",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455133736",
+        "website": "https://www.cdcfoundation.org/conversations"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Everyday Neuro: Psychology and Neuroscience Podcast Series",
+        "rss_feed_url": "http://everydayneuro.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Social Sciences"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.6,
+        "description": "The Everyday Neuro podcast series with Dr Janine Cooper provides knowledge and inspiration to everyone and anyone interested in the fascinating fields of neuroscience, neuropsychology and the human brain. \nDeveloped to incorporate information and interviews with experts in the field, the podcasts cover a diverse range of topics from memory and cognition to trauma, brain injury and wellbeing. Janine will guide you through the current research and help you to develop greater understanding of the human brain and its functions.\nWhether you already have experience, or want to start on your journey into understanding the human brain and how it affects our psychology and behaviour, then the Everyday Neuro podcast series has something to offer you.",
+        "itunes_id": "1361415592",
+        "content_rating": "clean",
+        "artist_name": "Dr Janine Cooper: Cognitive Psychologist, Neuroscientist, Neuropsychology,",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/everyday-neuro-psychology-neuroscience-podcast-series/id1361415592",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1361415592",
+        "website": "https://www.everydayneuro.com.au"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "CRISPR Cuts",
+        "rss_feed_url": "https://crisprcuts.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.7,
+        "description": "Welcome to the CRISPR revolution. Take a break and join us as we guide conversations with an expert CRISPR cast about this cutting-edge science.",
+        "itunes_id": "1434115281",
+        "content_rating": "clean",
+        "artist_name": "Synthego",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/crispr-cuts/id1434115281",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1434115281",
+        "website": "https://crisprcuts.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Week in Neuroscience",
+        "rss_feed_url": "https://twin1.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "This Week in Neuroscience is a podcast about the nervous system.",
+        "itunes_id": "1485118950",
+        "content_rating": "clean",
+        "artist_name": "Vincent Racaniello",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-week-in-neuroscience/id1485118950",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485118950",
+        "website": "http://microbe.tv/twin"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The eLife Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/eLife_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.8,
+        "description": "The eLife Podcast: outstanding research in life science and biomedicine.",
+        "itunes_id": "720796412",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-elife-podcast/id720796412",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=720796412",
+        "website": "https://www.thenakedscientists.com/podcasts/elife-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BacterioFiles",
+        "rss_feed_url": "http://bacteriofiles.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.4,
+        "description": "The podcast for microbe lovers: reporting on exciting news about bacteria, archaea, and sometimes even eukaryotic microbes and viruses.",
+        "itunes_id": "352470437",
+        "content_rating": "clean",
+        "artist_name": "Jesse Noar",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bacteriofiles/id352470437",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=352470437",
+        "website": "https://www.asm.org/bacteriofiles"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Where Cures Begin - Salk Institute",
+        "rss_feed_url": "http://salktalk.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "The Salk Institute embodies Jonas Salk’s mission to dare to make dreams into reality. We explore the very foundations of life, seeking new realities in neuroscience, genetics, immunology and more. We are small by choice, intimate by nature, fearless in the face of any challenge. We live to discover. Be it cancer or Alzheimer’s, aging or diabetes, we understand that every cure has a starting point. Salk is where cures begin.",
+        "itunes_id": "1152681640",
+        "content_rating": "clean",
+        "artist_name": "Salk Institute for Biological Studies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/where-cures-begin-salk-institute/id1152681640",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1152681640",
+        "website": "http://www.salk.edu/news/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "NPK Hydroponics Live",
+        "rss_feed_url": "https://NPKTechnology.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 12,
+        "average_rating": 3.8,
+        "description": "NPK Hydroponics Live: An honest, informal and passionate podcast about growing crops hydroponically.",
+        "itunes_id": "892815277",
+        "content_rating": "explicit",
+        "artist_name": "NPK Hydroponics Live",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/npk-hydroponics-live/id892815277",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=892815277",
+        "website": "http://NPKTechnology.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Genetics Unzipped",
+        "rss_feed_url": "https://geneticsunzipped.com/blog/?format=rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "From Mendel's peas to personal genome sequencing, Genetics Unzipped brings you stories from the world of genes, genomes and DNA. In association with The Genetics Society.",
+        "itunes_id": "1446661695",
+        "content_rating": "clean",
+        "artist_name": "The Genetics Society",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/genetics-unzipped/id1446661695",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1446661695",
+        "website": "https://geneticsunzipped.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Drug Discovery World Podcast",
+        "rss_feed_url": "http://drugdiscoveryworldpodcast.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 8,
+        "average_rating": 3.1,
+        "description": "Here at Drug Discovery World (DDW) we've been publishing articles written by leading experts in the Drug Discovery, Pharmaceutical, and BioPharmaceutical industries for over 20 years. \n\nDDW has grown as a quarterly business review of drug discovery and development, and now we've created this podcast to allow you to listen to our articles on the go.\n\nIn our journal and this podcast, we cover topics surrounding: drug discovery; drug development; business; chemistry; enabling technologies; informatics; personalised medicine; screening; therapeutics, and much more. \n\nFor the podcast we have selected recent, relevant and popular scientific articles, so that you can listen to all of the best content from Drug Discovery World. We hope you enjoy.",
+        "itunes_id": "1313272507",
+        "content_rating": "clean",
+        "artist_name": "Drug Discovery World (DDW)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-drug-discovery-world-podcast/id1313272507",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1313272507",
+        "website": "https://www.ddw-online.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ten to the Fifteenth: The Official Podcast of the National Neuroscience Curriculum Initiative (NNCI)",
+        "rss_feed_url": "https://media.zencast.fm/10-15-the-official-podcast-of-the-national-neuroscience-curriculum-initiative/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.9,
+        "description": "What causes psychiatric illness? How do we define different conditions? And, most importantly, how is the modern neuroscience revolution transforming the field of psychiatry? Join the co-chair of the NNCI and our host, Dr. David Ross, for an exploration of these questions and many more!\n\nThe NNCI is committed to making core concepts in neuroscience accessible and clinically relevant for a broad audience.  With funding from the National Institute of Mental Health, the overarching aim of the NNCI is to create, pilot, and disseminate shared resources to help train psychiatrists and other mental health professionals to integrate a modern neuroscience perspective into every facet of their clinical work. For more information check out our website www.NNCIonline.org",
+        "itunes_id": "1478837409",
+        "content_rating": "clean",
+        "artist_name": "The National Neuroscience Curriculum Initiative",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ten-to-fifteenth-official-podcast-national-neuroscience/id1478837409",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478837409",
+        "website": "https://10-15-the-official-podcast-of-the-national-neuroscience-curriculum-initiative.zencast.website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Goat Talk with the Goat Doc",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5aeca23de866cccc289b59ce",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 69,
+        "average_rating": 4.9,
+        "description": "Dr Cara Sammons-Shepard, DVM is a practicing veterinarian in Maine and New Hampshire, and when on the road, the majority of her patients are goats. She and her husband have owned and operated a commercial farmstead creamery since 2009. In this podcast, Dr Shepard discusses different topics related to goat medicine and husbandry.",
+        "itunes_id": "1402229939",
+        "content_rating": "clean",
+        "artist_name": "Cara Shepard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/goat-talk-with-the-goat-doc/id1402229939",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1402229939",
+        "website": "http://goatdoc.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "the bioinformatics chat",
+        "rss_feed_url": "https://bioinformatics.chat/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "A podcast about computational biology, bioinformatics, and next generation sequencing.",
+        "itunes_id": "1227281398",
+        "content_rating": "clean",
+        "artist_name": "Roman Cheplyaka",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bioinformatics-chat/id1227281398",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1227281398",
+        "website": "https://bioinformatics.chat"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Conversations on Health Care",
+        "rss_feed_url": "https://community.chc1.com/feed/podcast",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.3,
+        "description": "Conversations on Health Care® is a radio show about the opportunities for reform and innovation in the health care system. In addition to health care headlines, the centerpiece of each show is a feature story and conversation with an innovator in the delivery of care from around the globe.  Co-hosts Mark Masselli and Margaret Flinter each bring four decades of experience in overcoming the barriers that block access to care in their work at community health centers.  Their conversations with creative thinkers and doers from all parts of the field will enlighten and inspire all who believe that Health Care is a Right, Not a Privilege. Conversations is recorded at WESU on the campus of Wesleyan University, and is underwritten by Community Health Center, Inc.",
+        "itunes_id": "1139815935",
+        "content_rating": "clean",
+        "artist_name": "Community Health Center, Inc.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/conversations-on-health-care/id1139815935",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1139815935",
+        "website": "https://community.chc1.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Carry the One Radio: The Science Podcast",
+        "rss_feed_url": "http://carrytheoneradio.podOmatic.com/rss2.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "Carry the One is a small team of young scientists at UCSF who are passionate about bringing science stories straight to the public's ear in an entertaining, digestible way. Tune in for stories ranging from current research to science history, from medical science to the natural and social sciences.\n--\nVisit us at carrytheoneradio.com\nTwitter: @CTORadio\nInstagram: @carrytheoneradio\nTo support the show: www.patreon.com/carrytheone",
+        "itunes_id": "337870313",
+        "content_rating": "clean",
+        "artist_name": "Carry the One Radio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/carry-the-one-radio-the-science-podcast/id337870313",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=337870313",
+        "website": "https://carrytheoneradio.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "CNS Summit Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/cns-summit",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "CNS Summit is a platform for change and a community passionate about shaping the future with a focus on collaboration, innovation and technology.  Our mission is to have a positive impact on the success of clinical development programs.  We believe this mission is our ethical duty to the patients we serve by developing new treatments. If this mission resonates with you, and you would like to be surrounded by creative, passionate, and future-focused colleagues join us!",
+        "itunes_id": "1484907932",
+        "content_rating": "clean",
+        "artist_name": "CNS Summit",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cns-summit-podcast/id1484907932",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484907932",
+        "website": "https://cnssummit.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tales of Transformation",
+        "rss_feed_url": "http://talesoftransformation.deloitte.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.4,
+        "description": "Tales of transformation is a Deloitte podcast series that explores trends transforming life sciences and health care. From emerging technologies to the rise of the empowered health care customer to the shift from volume to value, this series takes you to the intersection of change where tremendous transformation is happening. Tune in to stay a step ahead of the tremendous change happening in the industry.",
+        "itunes_id": "1379888230",
+        "content_rating": "clean",
+        "artist_name": "Deloitte US",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tales-of-transformation/id1379888230",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1379888230",
+        "website": "https://www2.deloitte.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "microTalk",
+        "rss_feed_url": "http://microtalk.microbeworld.libsynpro.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.9,
+        "description": "The talks from the researchers in the field of infectious diseases. The podcast is hosted by South Texas Center for Emerging Infectious Diseases (STCEID).",
+        "itunes_id": "1158916949",
+        "content_rating": "clean",
+        "artist_name": "Karl Klose",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/microtalk/id1158916949",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1158916949",
+        "website": "http://asm.org/microtalk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The eLife Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/eLife_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The eLife Podcast: outstanding research in life science and biomedicine.",
+        "itunes_id": "720796418",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-elife-podcast/id720796418",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=720796418",
+        "website": "https://www.thenakedscientists.com/podcasts/elife-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Curioscity",
+        "rss_feed_url": "https://curioscity.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "Curioscity: informal, informative, for everyone. Learn alongside Calvin Yeager and many other science-enthusiasts as we delve into topics including viruses, chemistry, biology, technology, and methodology (but ironically, not Scientology).",
+        "itunes_id": "1448137416",
+        "content_rating": "clean",
+        "artist_name": "Calvin Yeager",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/curioscity/id1448137416",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448137416",
+        "website": "https://ascienceshow.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Investigating Breast Cancer",
+        "rss_feed_url": "https://bcrf.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 38,
+        "average_rating": 5,
+        "description": "Official Podcast of the Breast Cancer Research Foundation",
+        "itunes_id": "1158068764",
+        "content_rating": "clean",
+        "artist_name": "BCRF",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/investigating-breast-cancer/id1158068764",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1158068764",
+        "website": "https://bcrf.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Scientists, In Short Special Editions Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/specials_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Special scientific reports and investigations by the Naked Scientists team",
+        "itunes_id": "477201730",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-scientists-in-short-special-editions-podcast/id477201730",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=477201730",
+        "website": "https://www.thenakedscientists.com/podcasts/short"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Epigenetics Podcast",
+        "rss_feed_url": "https://activemotif.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "A lively discussion about the latest tips and techniques for epigenetics research.",
+        "itunes_id": "1246991088",
+        "content_rating": "clean",
+        "artist_name": "Active Motif",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/epigenetics-podcast/id1246991088",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1246991088",
+        "website": "https://activemotif.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cannabis Science Today",
+        "rss_feed_url": "https://feed.podbean.com/cannabissciencetoday/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Your discovery point for scientific and medical research on cannabis.",
+        "itunes_id": "1483527353",
+        "content_rating": "clean",
+        "artist_name": "Emily Fata",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cannabis-science-today/id1483527353",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483527353",
+        "website": "https://cannabissciencetoday.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Vital Science",
+        "rss_feed_url": "https://feeds.transistor.fm/vital-science",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Life science is complicated, but its mission is simple – to create a safer, healthier future. This podcast tells the stories behind the science from the perspective of patients, scientists, employees, and advocates that have felt its impact.",
+        "itunes_id": "1481981223",
+        "content_rating": "clean",
+        "artist_name": "Charles River",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/vital-science/id1481981223",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481981223",
+        "website": "http://www.criver.com/vitalsciencepodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Dental Podcast Network's Channel Two",
+        "rss_feed_url": "https://dentalpodcastnetworkchanneltwo.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.7,
+        "description": "Home of your favorite dental podcasts!",
+        "itunes_id": "1478530429",
+        "content_rating": "clean",
+        "artist_name": "Dental Podcast Network Hosts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-dental-podcast-networks-channel-two/id1478530429",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478530429",
+        "website": "http://www.ataleoftwohygienists.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My OT Journey",
+        "rss_feed_url": "http://www.jtriberadio.com/feed/myotjourney/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The \"My OT Journey Podcast\" is a student-run podcast by aspiring OT and OTA students throughout the United States. Each week a team of OT Student Influencers will interview next-level Occupational Therapists and OT Assistants. Other guests will include professionals that can support and serve as a resource for the students as they prepare for their careers as clinicians in the field. This podcast was created by Dr Robin Akselrud, OTD, OTR/L, Assistant Professor of Occupational Therapy and Leadership and Management Coordinator of the HCHSIS for the American Occupational Therapy Association. Dr Akselrud has fifteen years of experience in a variety of clinical practice areas. She is a certified early intervention provider and has worked in several treatment settings, including schools, home care for medically fragile infants and children and hand therapy and splinting for infants and toddlers.",
+        "itunes_id": "1481022123",
+        "content_rating": "clean",
+        "artist_name": "Jtribe Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-ot-journey/id1481022123",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481022123",
+        "website": "http://www.jtriberadio.com/all-posts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Naked Scientists Podcast",
+        "rss_feed_url": "https://www.thenakedscientists.com/naked_scientists_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 2,
+        "average_rating": 2.5,
+        "description": "The Naked Scientists flagship science show, includes the latest science news, interviews with top scientists, hands-on science experiments and answers to your science questions.",
+        "itunes_id": "477154374",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-naked-scientists-podcast/id477154374",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=477154374",
+        "website": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Premed Memory Training",
+        "rss_feed_url": "https://anchor.fm/s/e157f08/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "AEMind.com presents Premed Memory Training with Memory Master Champion, Luis Angel. Future Medical Students will learn how to memorize all of the pre-medical school material quickly and easily. Support this podcast: https://anchor.fm/premed/support",
+        "itunes_id": "1479277874",
+        "content_rating": "clean",
+        "artist_name": "Luis Angel | AE Mind",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/premed-memory-training/id1479277874",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479277874",
+        "website": "https://www.aemind.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Endocrine Disruptors",
+        "rss_feed_url": "http://endocrinepod.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Society & Culture"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.9,
+        "description": "We are a weekly podcast where we chat with the scientists behind your favorite hormones. But these just aren't any conversations with scientists. Each week, we highlight a new interview with real scientists who study hormones in any capacity, highlighting the diversity of hormones as well as the folks who study them.\n\nVisit our site to learn more! https://endocrinepod.com",
+        "itunes_id": "1475207392",
+        "content_rating": "clean",
+        "artist_name": "Katherine Hatcher and Shreya Patel",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/endocrine-disruptors/id1475207392",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475207392",
+        "website": "https://endocrinepod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "MyNDTALK with Dr. Pamela Brewer",
+        "rss_feed_url": "http://www.blogtalkradio.com/myndtalk-with-dr-pamela-brewer/podcast",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.6,
+        "description": "Daily 30 minute relationship and mental health information conversations hosted by  Pamela Brewer. Monday focus is men, Tuesday focus is on transitions, Wednesday focus is on  women, Thursday (Thoughtful Thursday) we hear from  clinical experts, Friday (Friday : On The Psychological Side) takes an expansive look at the world at large from a psychological perspective.",
+        "itunes_id": "591298306",
+        "content_rating": "clean",
+        "artist_name": "MyNDTALK with Dr Pamela Brewer",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/myndtalk-with-dr-pamela-brewer/id591298306",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=591298306",
+        "website": "https://www.blogtalkradio.com/myndtalk-with-dr-pamela-brewer"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Quick Fire Science, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/quick_fire_science.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.4,
+        "description": "Rapid fire science in sixty seconds, or so... We break down the latest science stories into digestible quick-fire podcasts that focus on the facts.",
+        "itunes_id": "673181619",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/quick-fire-science-from-the-naked-scientists/id673181619",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=673181619",
+        "website": "https://www.thenakedscientists.com/podcasts/short/quick-fire-science"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spectrum Autism Research",
+        "rss_feed_url": "http://api.spokenlayer.com/feed/channel/spectrumautismresearch-ext/3c9929b72538c12bd92ac6762f8d798b9d4e8cdca7692ea74f466061d01816cb",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 3.3,
+        "description": "Your latest update from Spectrum, the leading source of news and expert opinion on autism research.",
+        "itunes_id": "1420631463",
+        "content_rating": "clean",
+        "artist_name": "Spectrum",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spectrum-autism-research/id1420631463",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1420631463",
+        "website": "https://www.spectrumnews.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DIA: Driving Insights to Action",
+        "rss_feed_url": "https://diapublications.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Gain new insights to advance innovation by listening to leaders in the health care product development eco-system discuss current trends and hot topics.",
+        "itunes_id": "1013052449",
+        "content_rating": "clean",
+        "artist_name": "DIA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dia-driving-insights-to-action/id1013052449",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1013052449",
+        "website": "https://diapublications.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "IDEA Collider",
+        "rss_feed_url": "https://feeds.simplecast.com/UGZ8IVpI",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Interviews with pharmaceutical innovation leaders and authors. Hosted by Mike Rea, IDEA CEO\nwww.ideapharma.com @ideapharma",
+        "itunes_id": "1481841577",
+        "content_rating": "clean",
+        "artist_name": "IDEA Pharma",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/idea-collider/id1481841577",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481841577",
+        "website": "https://podcast.ideapharma.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lionhearted Dentists",
+        "rss_feed_url": "https://lionhearted.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Tired of insurance-driven dentistry?  Want your independence back?  Dr. Steve Rasner shares protocols and strategies that will allow you to regain your independence and elevate your practice to extraordinary levels of success.",
+        "itunes_id": "1437549006",
+        "content_rating": "clean",
+        "artist_name": "Dr. Steve Rasner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lionhearted-dentists/id1437549006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437549006",
+        "website": "http://lionhearted.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "IDEA Collider",
+        "rss_feed_url": "https://feeds.simplecast.com/UGZ8IVpI",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Interviews with pharmaceutical innovation leaders and authors. Hosted by Mike Rea, IDEA CEO\nwww.ideapharma.com @ideapharma",
+        "itunes_id": "1481841577",
+        "content_rating": "clean",
+        "artist_name": "IDEA Pharma",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/idea-collider/id1481841577",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481841577",
+        "website": "https://podcast.ideapharma.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lionhearted Dentists",
+        "rss_feed_url": "https://lionhearted.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Tired of insurance-driven dentistry?  Want your independence back?  Dr. Steve Rasner shares protocols and strategies that will allow you to regain your independence and elevate your practice to extraordinary levels of success.",
+        "itunes_id": "1437549006",
+        "content_rating": "clean",
+        "artist_name": "Dr. Steve Rasner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lionhearted-dentists/id1437549006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437549006",
+        "website": "http://lionhearted.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Back of the Chart",
+        "rss_feed_url": "https://backofthechart.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Ever wondered what a life in medicine is really like, both as a provider and as a patient?\n\nBack of the Chart is a medical storytelling podcast about the Art of Medicine. Viknesh Kasthuri and Alexander Homer talk to real doctors and their patients about the rapport they've built and figure out – why medicine? \n\nFollow Us on Twitter @backofthechart\n\nWebsite: https://backofthechart.weebly.com/",
+        "itunes_id": "1452724801",
+        "content_rating": "clean",
+        "artist_name": "Viknesh Kasthuri + Alexander Homer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/back-of-the-chart/id1452724801",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452724801",
+        "website": "https://backofthechart.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cell Culture Dish Podcast",
+        "rss_feed_url": "https://cell-culture-dish.blubrry.net/feed/podcast/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "The Cell Culture Dish Podcast – Providing the latest for the cell culture industry!",
+        "itunes_id": "1123755103",
+        "content_rating": "clean",
+        "artist_name": "The Cell Culture Dish",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cell-culture-dish-podcast/id1123755103",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1123755103",
+        "website": "https://cellculturedish.com/type/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sixième Science",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5b3cced6c39c881528d34965",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Allumez les neurones, et éveillez votre sixième sens avec «Sixième Science», le podcast de vulgarisation scientifique de «20 Minutes» et «Sciences et Avenir». Santé, techno, environnement... Tous les mois, un journaliste du magazine «Sciences et Avenir» vient aborder, au micro de Romain Gouloumès, un sujet scientifique en compagnie d'un membre de la rédaction de «20Minutes».",
+        "itunes_id": "1407841380",
+        "content_rating": "clean",
+        "artist_name": "20 Minutes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sixi%C3%A8me-science/id1407841380",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1407841380",
+        "website": "https://shows.pippa.io/sixieme-science"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chief Complaint Podcast",
+        "rss_feed_url": "https://www.spreaker.com/show/3459675/episodes/feed",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Welcome to the Chief Complaint podcast, a show about all things nursing. Join nursing student Zach and experienced RN LJ as they give you the low down on patient care, nursing practice, and professional issues. Tune in each week on Friday for new episodes! If you have a question you'd like us to answer on the air, or just want to get in touch, send us an email at chiefcomplaintpod@gmail.com or tweet at us @ChiefPod. Talk to you soon and, as always, be sure to take care of yourselves, and take care of somebody else.",
+        "itunes_id": "1458643160",
+        "content_rating": "clean",
+        "artist_name": "Zach Sielaff",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chief-complaint-podcast/id1458643160",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458643160",
+        "website": "https://www.spreaker.com/show/chief-complaint-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Germomics",
+        "rss_feed_url": "https://germomics.com/feed/podcast/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "A mix of microbiology and history, this series connects different aspects of modern life and society to microbes, bacteria, viruses, and parasites through seemingly unconnected natural events, scientific discoveries, and human inventions.",
+        "itunes_id": "1478730454",
+        "content_rating": "clean",
+        "artist_name": "Dr. Dustin Edwards",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/germomics/id1478730454",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478730454",
+        "website": "https://germomics.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scipodity",
+        "rss_feed_url": "https://anchor.fm/s/f2fa51c/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "We talk about science. Poorly.",
+        "itunes_id": "1483512284",
+        "content_rating": "clean",
+        "artist_name": "Alexander Goldberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scipodity/id1483512284",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483512284",
+        "website": "https://anchor.fm/scipodity"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AMIA: Why Informatics? Podcasts",
+        "rss_feed_url": "https://amiapodcasts.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Women in AMIA Podcast. Informatics turns data into information and knowledge. Informaticians discover health insights and accelerate healthcare transformation. The Women in AMIA Podcast showcases talented women at all career stages to reveal the limitless world of biomedical and health informatics professions, and the unique challenges women face pursuing S.T.E.M careers.",
+        "itunes_id": "1453198463",
+        "content_rating": "clean",
+        "artist_name": "AMIA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/amia-why-informatics-podcasts/id1453198463",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453198463",
+        "website": "http://amiapodcasts.libsyn.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "First Author Conversations",
+        "rss_feed_url": "https://feed.podbean.com/firstauthorconversations/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "We cover the latest high-impact, peer-reviewed publications in life science. We invite the authors to talk about their studies and the behind-the-scenes stories.",
+        "itunes_id": "1473306729",
+        "content_rating": "clean",
+        "artist_name": "GenScript Biotech Corp",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/first-author-conversations/id1473306729",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473306729",
+        "website": "https://firstauthorconversations.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Medschoolmedic Podcast",
+        "rss_feed_url": "http://medschoolmedic.com/feed/podcast/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The MedSchoolMedic podcast discusses issues about health, medicine, and medical school culture with a focus on emergency and pre-hospital medicine.",
+        "itunes_id": "1232093347",
+        "content_rating": "explicit",
+        "artist_name": "Ed Bauter",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/medschoolmedic-podcast/id1232093347",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1232093347",
+        "website": "http://medschoolmedic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Wild Life",
+        "rss_feed_url": "https://feeds.captivate.fm/thewildlife/",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.9,
+        "description": "The Wild Life is a show by two brothers: one, a Minnesota science teacher with a background in wildlife biology; the other, a space science student in Texas. The Wild Life blends science, nature, and the human experience through storytelling and interviews with earths experts---with a few detours!",
+        "itunes_id": "1287125533",
+        "content_rating": "clean",
+        "artist_name": "TheWildLife.Blog",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-wild-life/id1287125533",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1287125533",
+        "website": "http://thewildlife.blog"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Resonance",
+        "rss_feed_url": "https://feeds.transistor.fm/resonance",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.9,
+        "description": "The Baylor College of Medicine Resonance Podcast is a student-run podcast aimed at showcasing the science at Baylor through the eyes of young professionals. Each episode is written and recorded by students who have a passion for research and the medical community. Guests on the show include both clinical and basic science research faculty who are experts in their fields. We hope that whoever listens in gains new insight into the exciting world of biomedical research.",
+        "itunes_id": "1476252934",
+        "content_rating": "clean",
+        "artist_name": "Baylor College of Medicine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/resonance/id1476252934",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476252934",
+        "website": "http://bcm.edu/podcast/resonance"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Darwin, te necesito",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/elpais/darwin_te_necesito.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "La serie de 'Materia' y EL PAÍS VÍDEO que aborda los tópicos de la ciencia para separar los mitos de la realidad",
+        "itunes_id": "1444608105",
+        "content_rating": "clean",
+        "artist_name": "EL PAÍS",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/darwin-te-necesito/id1444608105",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444608105",
+        "website": "https://elpais.com/agr/darwin_te_necesito/a"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "American Osteopathic College of Physical Medicine and Rehabilitation",
+        "rss_feed_url": "https://feed.podbean.com/tchoudhury/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "The American Osteopathic College of Physical Medicine and Rehabilitation is dedicated to providing leadership for the PM&R profession and to providing a home to osteopathic PM&R practitioners",
+        "itunes_id": "1466082738",
+        "content_rating": "clean",
+        "artist_name": "tchoudhury",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/american-osteopathic-college-physical-medicine-rehabilitation/id1466082738",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466082738",
+        "website": "https://tchoudhury.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Discover CircRes",
+        "rss_feed_url": "https://circresearch.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Each 15-minute podcast will provide an overview of the issue’s contents and relevant news in the field of basic/translational cardiovascular biology followed by an in-depth discussion of a featured article. This discussion will pull opinions from the podcast hosts, editorial team, research leaders and authors – both the corresponding authors as well as the trainee(s). We will provide lively discussions that give the listener a behind the scenes look at how science gets done and the implications of these fascinating discoveries.",
+        "itunes_id": "1468175423",
+        "content_rating": "clean",
+        "artist_name": "Cynthia St. Hilaire, PhD & Milka Koupenova, PhD",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/discover-circres/id1468175423",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468175423",
+        "website": "http://circresearch.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Steministas",
+        "rss_feed_url": "https://feed.podbean.com/steministas/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Meet Emma and Rachel! Two scientists passionate about educating the public about science in the news.",
+        "itunes_id": "1481292809",
+        "content_rating": "clean",
+        "artist_name": "Steministas",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/steministas/id1481292809",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481292809",
+        "website": "https://steministas.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Discovery Matters",
+        "rss_feed_url": "https://anchor.fm/s/a6c25b4/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.4,
+        "description": "A collection of stories and insights on matters of discovery that advance life sciences. Brought to you by the curious at GE Healthcare Life Sciences.",
+        "itunes_id": "1466149440",
+        "content_rating": "clean",
+        "artist_name": "Discovery Matters",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/discovery-matters/id1466149440",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466149440",
+        "website": "https://anchor.fm/discovery-matters"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Evolving with Mr. V",
+        "rss_feed_url": "https://anchor.fm/s/cdb502c/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "An AP Biology Podcast that takes a deep dive into the week that was in AP Biology...with some additional extra content on the inner thoughts of Mr. V on current Movies, TV shows, and much much more!",
+        "itunes_id": "1477733747",
+        "content_rating": "clean",
+        "artist_name": "Oscar Velasquez",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/evolving-with-mr-v/id1477733747",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477733747",
+        "website": "https://anchor.fm/oscar-velasquez5"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Keeping Up with Public Health",
+        "rss_feed_url": "https://anchor.fm/s/e02f2fc/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Tune in to conversations with Sana Khan and the most active public health researchers about the latest developments in public health, from vaccinations to foodborne illness to tobacco policies. Learn about practical applications of the latest research underway at the University of Arizona’s Mel and Enid Zuckerman College of Public Health.",
+        "itunes_id": "1480860719",
+        "content_rating": "clean",
+        "artist_name": "Western Region Public Health",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/keeping-up-with-public-health/id1480860719",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480860719",
+        "website": "https://wrphtc.arizona.edu/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KGI: Innovation in Applied Life Sciences & Healthcare",
+        "rss_feed_url": "http://keckgrad.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Join our Keck Graduate Institute (KGI) community as we share behind-the-scenes insights on the innovation and collaboration taking place on campus. On this podcast, we share conversations with students, faculty, staff, alumni, and other guests. Visit our website at kgi.edu and follow us on social media @KeckGrad.",
+        "itunes_id": "1348533576",
+        "content_rating": "clean",
+        "artist_name": "Keck Graduate Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kgi-innovation-in-applied-life-sciences-healthcare/id1348533576",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1348533576",
+        "website": "http://kgi.edu"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pri-Med News",
+        "rss_feed_url": "https://primednews.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Learn about pertinent news stories—in the format of short podcast episodes—that get to the heart of today’s most important issues in primary care with the Pri-Med News & Industry Features channel. \n\nEach news episode includes three distinct topics – jump to a topic of interest using helpful timestamps in each episode description. \n\nThis channel also features podcasts covering practice management tips and key insights for treatments in various therapeutic areas.",
+        "itunes_id": "1484982060",
+        "content_rating": "clean",
+        "artist_name": "Pri-Med",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pri-med-news/id1484982060",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484982060",
+        "website": "http://primednews.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Petri Dish",
+        "rss_feed_url": "https://feed.podbean.com/petridish/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Comedy"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Get wild and scientific with PETRI DISH, an irreverent podcast hosted by two brothers exploring the dank corners of biology! One has a PhD and the other tends bar -- listen as they dive into topics like the science behind acupuncture, genetic engineering, gut bacteria, and more.",
+        "itunes_id": "1476940551",
+        "content_rating": "explicit",
+        "artist_name": "Petri Dish",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/petri-dish/id1476940551",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476940551",
+        "website": "https://petridish.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stein Monogastric Nutrition Lab Podcast",
+        "rss_feed_url": "http://nutrition.ansci.illinois.edu/sites/default/files/RSS/SteinLabVideo.rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "Hans H. Stein is Professor and Extension Specialist in Swine at the University of Illinois at Urbana-Champaign. He heads the Monogastric Nutrition Lab in the Department of Animal Sciences that conducts research with monogastric animals to enhance our understanding of fundamental nutritional concepts and contribute to an increase in the global production of food without placing unnecessary stress on the environment.",
+        "itunes_id": "460265521",
+        "content_rating": "clean",
+        "artist_name": "Dr. Hans Stein, Professor of\n   Animal Sciences, University of Illinois at Urbana-Champaign",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stein-monogastric-nutrition-lab-podcast/id460265521",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=460265521",
+        "website": "https://nutrition.ansci.illinois.edu/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Laboratory Considerations for Clinical Trials",
+        "rss_feed_url": "https://podcast.q2labsolutions.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "This podcast from Q Squared Solutions looks at factors sponsors should consider when preparing for clinical trials.",
+        "itunes_id": "1451537287",
+        "content_rating": "clean",
+        "artist_name": "Q Squared Solutions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/laboratory-considerations-for-clinical-trials/id1451537287",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451537287",
+        "website": "https://ioq2labsolutions.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "So I Married A Scientist",
+        "rss_feed_url": "https://feed.podbean.com/soimarriedascientist/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "Corey is a scientist. Mel is not a scientist. Together they have hilarious discussions about all things science.  Inspired by their own real-life conversations, this show tackles the challenge of explaining advanced scientific concepts using accessible language. Each week, Mel picks a topic - from marvels in biology, physics, chemistry, science history, and emerging technologies - and asks Corey everything she ever wanted to know about the subject. Corey does his best to explain the underlying science in ways anyone can understand.  If you’re looking for a fun, educational experience - whether you’re a scientist or not - this podcast is for you!",
+        "itunes_id": "1481913641",
+        "content_rating": "clean",
+        "artist_name": "Mel & Corey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/so-i-married-a-scientist/id1481913641",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481913641",
+        "website": "https://soimarriedascientist.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bio Busters",
+        "rss_feed_url": "https://thebiobusters.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.8,
+        "description": "Bio Busters: the science podcast that takes you beyond the classroom.",
+        "itunes_id": "1360414595",
+        "content_rating": "clean",
+        "artist_name": "thebiobusters",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bio-busters/id1360414595",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1360414595",
+        "website": "https://thebiobusters.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talking Precision Medicine",
+        "rss_feed_url": "https://anchor.fm/s/734ead4/podcast/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "We sit down with experts in the application of AI and big data analytics in the drug discovery space. Our guests are innovators, business decision makers and thought leaders at the intersection of data and therapeutics. We discuss the promise, practice, challenges, and myths of AI in precision medicine.",
+        "itunes_id": "1448530203",
+        "content_rating": "clean",
+        "artist_name": "Genialis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talking-precision-medicine/id1448530203",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448530203",
+        "website": "https://www.genialis.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BioBoss",
+        "rss_feed_url": "https://feeds.buzzsprout.com/236855.rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business",
+          "Investing"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "BioBoss is a podcast about leadership in the biopharma community. Hear directly from the founders and CEOs of today's most innovative companies. Listen each month as Wyant Simboli Principal and branding veteran John Simboli poses the questions \"What drives you? How do you make change? Why should I care?\" to a new biopharma executive and hear insights on this rapidly changing field.",
+        "itunes_id": "1448423681",
+        "content_rating": "clean",
+        "artist_name": "John Simboli",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bioboss/id1448423681",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448423681",
+        "website": "http://wyantsimboli.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Question of the Week, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/question_of_the_week_podcast.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Each week we set out to solve one of the world's weirdest, wackiest, funniest and funkiest scientific puzzles. And along with the answer there's a brand new question to think about for next time...",
+        "itunes_id": "477164431",
+        "content_rating": "clean",
+        "artist_name": "Dr Chris Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/question-of-the-week-from-the-naked-scientists/id477164431",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=477164431",
+        "website": "https://www.thenakedscientists.com/podcasts/question-week"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Parexel Podcast",
+        "rss_feed_url": "https://feed.podbean.com/parexel/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Your Journey. Our Mission. This podcast discusses topics of interest to those involved in the journey to transform scientific discoveries into new medical treatments for patients.",
+        "itunes_id": "1455385172",
+        "content_rating": "clean",
+        "artist_name": "PAREXEL",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-parexel-podcast/id1455385172",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455385172",
+        "website": "https://parexel.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Chain: Protein Engineering Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/468796.rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 4,
+        "average_rating": 4,
+        "description": "The Chain explores the lives, careers, research, and discoveries of protein engineers and scientists, the impact their work is having on the field, and where the industry is headed. Tune in to stay up-to-date on the newest advancements and to hear the stories that are impacting the world of biologics.",
+        "itunes_id": "1477483749",
+        "content_rating": "clean",
+        "artist_name": "Cambridge Healthtech Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-chain-protein-engineering-podcast/id1477483749",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477483749",
+        "website": "https://www.healthtech.com/thechain"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lay It Out",
+        "rss_feed_url": "https://layitout.podbean.com/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Comedy"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Hello everyone and welcome to our brand spanking new podcast all about trying to break down the wonderful, frustratingly complex and misrepresented world of science! Join us each episode as we try to explain 2 research papers to our friends from the outside.",
+        "itunes_id": "1353768919",
+        "content_rating": "explicit",
+        "artist_name": "Lay It Out",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lay-it-out/id1353768919",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1353768919",
+        "website": "https://layitout.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dragons, Gazelles, & Unicorns",
+        "rss_feed_url": "https://dragons-gazelles-and-unicorns.libsyn.com/rss",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Business",
+          "Non-Profit"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Host Rosemarie Truman interviews leaders in technology transfer, university research institutes, government agencies and entrepreneurship! \n\nListen to DGU if you want to hear from the worlds TOP thought leaders in technology transfer.\n\nDGU is FOR YOU if you are:\n\nA SCIENTIST or INVENTOR tired of research projects and the fruits of your labor getting defunded and never producing tangible results\n\nA STUDENT who wants to become the CEO of a fast growing company in under 24 months\n\nAn INVESTOR looking to invest in impactful projects and companies\n\nYour host, Rosemarie Truman is an entrepreneur, growth strategist, distinguished corporate executive, angel investor and prolific startup catalyst. Currently, Rosemarie is the Founder of the Center for Advancing Innovation, a 501c3 non-profit which has been coined “Tinder for Startups” and “Shark Tank on Steroids.” CAI’s mission to identify breakthrough inventions and maximize their commercial potential. CAI has earned numerous awards and recognition from Health and Human Services, the White House, & the Federal Laboratory Consortium. Prior to launching her own firm, Rosemarie spearheaded IBM’s Global Innovation strategy.",
+        "itunes_id": "1475768245",
+        "content_rating": "clean",
+        "artist_name": "Rosemarie Truman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dragons-gazelles-unicorns/id1475768245",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475768245",
+        "website": "http://dragons-gazelles-and-unicorns.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rise of The Ageless Starman",
+        "rss_feed_url": "https://feed.podbean.com/mendelhaim/feed.xml",
+        "categories": [
+          "Life Sciences",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The Rise of The Ageless Starman, Is a podcast that creates a conversation that will engage everyone in the emerging aging research and longevity technologies that will bring society new possibilities and opportunities we have never dreamed before.",
+        "itunes_id": "1473116406",
+        "content_rating": "clean",
+        "artist_name": "Gil marorm",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rise-of-the-ageless-starman/id1473116406",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473116406",
+        "website": "https://mendelhaim.podbean.com"
+      }
+    }
+  ]
+}

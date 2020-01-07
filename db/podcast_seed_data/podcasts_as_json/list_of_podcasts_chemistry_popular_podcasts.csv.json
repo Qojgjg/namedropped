@@ -1,0 +1,269 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Chemistry in its element",
+        "rss_feed_url": "http://chemistryinitselement.libsyn.com/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 81,
+        "average_rating": 4.8,
+        "description": "A weekly tour of the periodic table, from Chemistry World, the magazine of the Royal Society of Chemistry.",
+        "itunes_id": "1162733995",
+        "content_rating": "clean",
+        "artist_name": "Chemistry World",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chemistry-in-its-element/id1162733995",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1162733995",
+        "website": "http://www.chemistryworld.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Episodic Table of Elements",
+        "rss_feed_url": "https://feeds.podcastmirror.com/episodictable",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "History"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.9,
+        "description": "The history class visits the chemistry lab to explore wild tales of scientific adventure that stretch back to the beginning of time itself.",
+        "itunes_id": "1325638028",
+        "content_rating": "clean",
+        "artist_name": "T. R. Appleton",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-episodic-table-of-elements/id1325638028",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1325638028",
+        "website": "https://episodictable.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Clinical Chemistry Podcast",
+        "rss_feed_url": "http://clinchem.libsyn.com/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 10,
+        "average_rating": 4,
+        "description": "This free monthly podcast is offered by Clinical Chemistry. Clinical Chemistry is the leading forum for peer-reviewed, original research on innovative practices in today's clinical laboratory. In addition to being the most cited journal in the field, Clinical Chemistry has the highest Impact Factor (8.6 in 2017) among journals of clinical chemistry, clinical (or anatomic) pathology, analytical chemistry, and the subspecialties, such as transfusion medicine and clinical microbiology.",
+        "itunes_id": "499883130",
+        "content_rating": "clean",
+        "artist_name": "American Association for Clinical Chemistry",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/clinical-chemistry-podcast/id499883130",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=499883130",
+        "website": "http://clinchem.aaccjnls.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chemistry For Your Life",
+        "rss_feed_url": "https://feeds.transistor.fm/chemistry-for-your-life",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 37,
+        "average_rating": 5,
+        "description": "A podcast helping you understand the chemistry of your everyday life.",
+        "itunes_id": "1472282344",
+        "content_rating": "clean",
+        "artist_name": "Melissa and Jam",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chemistry-for-your-life/id1472282344",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472282344",
+        "website": "http://chemforyourlife.transistor.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chemistry World Podcast",
+        "rss_feed_url": "http://chemistryworld.libsyn.com/magazine",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Join the Chemistry World team for interviews, news and in-depth discussions of issues facing the chemistry community. Get in touch with your thoughts by tweeting @ChemistryWorld",
+        "itunes_id": "1162734003",
+        "content_rating": "clean",
+        "artist_name": "Chemistry World",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chemistry-world-podcast/id1162734003",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1162734003",
+        "website": "https://www.chemistryworld.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Orbitals",
+        "rss_feed_url": "http://orbitals.libsyn.com/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "A monthly podcast about the molecules that move us, produced by the American Chemical Society.",
+        "itunes_id": "1436176408",
+        "content_rating": "clean",
+        "artist_name": "American Chemical Society",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/orbitals/id1436176408",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436176408",
+        "website": "http://orbitals.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Eco Well podcast",
+        "rss_feed_url": "http://theecowell.libsyn.com/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "In this show, Jen Novakovich, Canadian cosmetic chemist from The Eco Well, interviews international cosmetic scientists and industry leaders to bring you a fresh new conversation a week about all things beauty!",
+        "itunes_id": "1326225706",
+        "content_rating": "clean",
+        "artist_name": "Jen@theecowell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-eco-well-podcast/id1326225706",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1326225706",
+        "website": "http://theecowell.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chemistry World Book Club",
+        "rss_feed_url": "http://chemistryworldbookclub.libsyn.com/BookClub",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 2,
+        "average_rating": 3,
+        "description": "Meet the authors of the latest popular science books, and join Chemistry World for a review and discussion of the topics the book raises. Join in on twitter by using #bookclubCW",
+        "itunes_id": "1145250664",
+        "content_rating": "clean",
+        "artist_name": "Chemistry World",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chemistry-world-book-club/id1145250664",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1145250664",
+        "website": "http://chemistryworldbookclub.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Toxpod",
+        "rss_feed_url": "https://feeds.buzzsprout.com/227318.rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Forensic Toxicology: It's a matter of half-life and death",
+        "itunes_id": "1444075158",
+        "content_rating": "clean",
+        "artist_name": "Tim Scott & Peter Stockham",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-toxpod/id1444075158",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444075158",
+        "website": "http://thetoxpod.buzzsprout.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Elementary",
+        "rss_feed_url": "https://pinecast.com/feed/elementary",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Probably Manchester's best student-run science-themed radio show and podcast!  Every episode is themed around a particular chemical element.\n\nPresenters Fergus, Carys and Joe chat about what makes each element interesting and what it is used for, as well as playing science games and interviewing real-life scientists about their research. \n\nThink science and fun repel like particles with the same electric charge?  Think again!",
+        "itunes_id": "1483781070",
+        "content_rating": "clean",
+        "artist_name": "Fuse FM Podcasts",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/elementary/id1483781070",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483781070",
+        "website": "https://fusefm.co.uk/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lunch Hour Lectures on Tour - 2011 - Audio",
+        "rss_feed_url": "http://itunes.ucl.ac.uk/rss-feeds/public-lectures/lunch-hour-lectures-tour-2011-audio/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 2,
+        "average_rating": 3,
+        "description": "During 4 Thursdays in June 2011, UCL’s free, public, Lunch Hour Lectures will be uprooted from their usual residence at UCL to go on tour to The British Museum. This summer series of bite-sized Lunch Hour Lectures, featuring introductions by British Museum curators, will discuss 4 topics in bite sized chunks: what archaeology can tell us about climate change; where we are with slowing the spread of HIV; how Greek sculpture has shaped the modern male body; and how we detect forgeries in the art world.",
+        "itunes_id": "445616859",
+        "content_rating": "clean",
+        "artist_name": "Various",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lunch-hour-lectures-on-tour-2011-audio/id445616859",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=445616859",
+        "website": "http://itunes.ucl.ac.uk/rss-feeds/public-lectures/lunch-hour-lectures-tour-2011-audio"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "100% Hydrogen",
+        "rss_feed_url": "https://anchor.fm/s/dd00e14/podcast/rss",
+        "categories": [
+          "Chemistry",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "In this episode we are talking about the wonderful element Hydrogen. Did you know that Hydrogen had to be “created” by three scientists? Want to know how that’s possible? Listen here. ***sponsored podcast***",
+        "itunes_id": "1481380627",
+        "content_rating": "clean",
+        "artist_name": "Yes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/100-hydrogen/id1481380627",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481380627",
+        "website": "https://anchor.fm/leslie601"
+      }
+    }
+  ]
+}

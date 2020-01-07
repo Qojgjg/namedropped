@@ -1,0 +1,1694 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Fore Play",
+        "rss_feed_url": "https://mcsorleys.barstoolsports.com/feed/fore-play",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6785,
+        "average_rating": 4.7,
+        "description": "\"Fore Play\" is a weekly podcast by common golfers, for common golfers. Trent, Riggs and their wide variety of guests talk about everything golf like normal folks sitting at a bar watching coverage, venting about the game's difficulties, and weighing in on pro gossip. Your classic golf addicts, the \"Fore Play\" crew brings a young, unique voice to the rapidly-evolving game, discussing freely and openly everything golf. There's nothing like it.",
+        "itunes_id": "1200343264",
+        "content_rating": "explicit",
+        "artist_name": "Barstool Sports",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fore-play/id1200343264",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1200343264",
+        "website": "https://www.barstoolsports.com/shows/fore-play"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fairway Rollin'",
+        "rss_feed_url": "https://rss.art19.com/fairway-rollin",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 904,
+        "average_rating": 4.2,
+        "description": "Joe House is joined by a rotating cast of Ringer and golf-world personalities to break down the latest in golf headlines and news from social media, keep up with everything Tiger Woods, and delve into the world of golf gambling. Welcome to Fairway Rollin’!",
+        "itunes_id": "1095195175",
+        "content_rating": "explicit",
+        "artist_name": "The Ringer & Joe House",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fairway-rollin/id1095195175",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1095195175",
+        "website": "https://art19.com/shows/fairway-rollin"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ClubProGuy Podcast",
+        "rss_feed_url": "https://clubproguy.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 297,
+        "average_rating": 4.9,
+        "description": "ClubProGuy, Former Mexican tour legend and now revered club professional interviews the top players and personalities in the world of golf.",
+        "itunes_id": "1437292920",
+        "content_rating": "explicit",
+        "artist_name": "ClubProGuy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/clubproguy-podcast/id1437292920",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437292920",
+        "website": "https://clubproguy.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "the fried egg golf podcast",
+        "rss_feed_url": "https://thefriedegg.podbean.com/feed/",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 657,
+        "average_rating": 4.8,
+        "description": "the fried egg dives deep into the topics of professional golf, golf course architecture and amateur golf. Guests range from PGA Tour winners to the world's greatest architects to great amateur players.",
+        "itunes_id": "1131723994",
+        "content_rating": "explicit",
+        "artist_name": "the fried egg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fried-egg-golf-podcast/id1131723994",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1131723994",
+        "website": "https://thefriedegg.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tour Junkies: PGA Tour Betting & DFS",
+        "rss_feed_url": "https://anchor.fm/s/c64c1c8/podcast/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1012,
+        "average_rating": 4.9,
+        "description": "We preview every PGA Tour event with stats, analysis, picks, player interviews, caddie interviews and more to help listeners with all forms of fantasy golf and golf betting.",
+        "itunes_id": "1047779421",
+        "content_rating": "clean",
+        "artist_name": "Tour Junkies / PGA Tour Golf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tour-junkies-pga-tour-betting-dfs/id1047779421",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1047779421",
+        "website": "https://anchor.fm/tour-junkies-pga-tour--fantasy-golf"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Golf Podcast Presented by Golficity",
+        "rss_feed_url": "https://golficity.com/feed/podcast/",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 185,
+        "average_rating": 4.9,
+        "description": "The Golf Podcast hosts Frank and Mike are regular golfers, just like you, who enjoy playing, learning, and sharing the game of golf. Each week we discuss our own personal golf experiences in hopes that by following along with our journey golf game can benefit too. On the podcast you'll also hear exciting and engaging interviews from some of golf's biggest, and most up-and-coming names. We hope our podcast can help you better enjoy the game, revel in the chase to better, and most importantly, have fun out there!",
+        "itunes_id": "689011035",
+        "content_rating": "clean",
+        "artist_name": "Golficity",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-golf-podcast-presented-by-golficity/id689011035",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=689011035",
+        "website": "https://golficity.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Golf Psychology Podcast",
+        "rss_feed_url": "http://golfpsychology.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.2,
+        "description": "Golf Psychology Podcast - Mental Game Sessions with Doc is a podcast for serious golfers who want to improve their mental game performance. Hosted by Dr. Patrick Cohn of Peak Performance Sports, the golf psychology podcast allows junior, collegiate, amateur, and professional golfers to ask Dr. Cohn a question on golf psychology or the mental game of golf.",
+        "itunes_id": "253984147",
+        "content_rating": "clean",
+        "artist_name": "Patrick J. Cohn, Ph.D.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-golf-psychology-podcast/id253984147",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=253984147",
+        "website": "http://golf-psychology.com/using-preshot-routines-to-improve-your-shots"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Up & Down",
+        "rss_feed_url": "https://upndown.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 90,
+        "average_rating": 4.9,
+        "description": "Unscripted conversations and stories from the biggest names and most interesting figures in the game of golf.",
+        "itunes_id": "1473340489",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/up-down/id1473340489",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473340489",
+        "website": "https://www.pgatour.com/radio/up-and-down.html"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On the Mark Golf Podcast",
+        "rss_feed_url": "http://onthemark1.radio.pgatour.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 147,
+        "average_rating": 4.7,
+        "description": "Mark Immelman isn't just the older brother and swing coach of 2008 Masters champion Trevor Immelman, he's a broadcaster on a variety of platforms, one of the leading instructors in the world of golf and happy to help improve your game.",
+        "itunes_id": "1096925460",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-the-mark-golf-podcast/id1096925460",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1096925460",
+        "website": "http://pgatour.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Hank Haney Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/HSW9652636849",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 161,
+        "average_rating": 4.7,
+        "description": "Hank Haney gives his direct and powerful opinion on the biggest topics in the game of golf. It’s time you heard an honest and compelling judgement about the sport you love! Will Tiger catch Jack? How elite is Brooks Koepka? Hear Hank break down and analyze the biggest names in the sport. Also, take Hank on the course with you! Hank will help you improve your game with knowledge and experience that he’s gained being surrounded by the best.",
+        "itunes_id": "1479092695",
+        "content_rating": "clean",
+        "artist_name": "iHeartRadio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-hank-haney-podcast/id1479092695",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479092695",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Matty & The Caddie",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=13063957",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 319,
+        "average_rating": 4.8,
+        "description": "Matt Barrie and Michael Collins break down the latest news and trends from the world of golf.",
+        "itunes_id": "1010678148",
+        "content_rating": "clean",
+        "artist_name": "ESPN, Matt Barrie, Michael Collins",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/matty-the-caddie/id1010678148",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1010678148",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "The Golfer's Journal Podcast",
+        "rss_feed_url": "http://thegolfersjournal.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 165,
+        "average_rating": 4.7,
+        "description": "Join our host Tom Coyne as he travels the country interviewing the most interesting people in golf.",
+        "itunes_id": "1325753838",
+        "content_rating": "clean",
+        "artist_name": "The Golfer's Journal",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-golfers-journal-podcast/id1325753838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1325753838",
+        "website": "http://thegolfersjournal.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Shotgun Start",
+        "rss_feed_url": "http://shotgunstart.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 742,
+        "average_rating": 4.9,
+        "description": "The Shotgun Start with Andy Johnson of The Fried Egg and Brendan Porath of SB Nation is a podcast waiting for you early in the morning that quickly blasts through a variety of topics (usually) related to golf and (ideally) relevant to the day. It covers news from the pro tours around the world, amusing and important topics from the amateur game the rest of us play, and some irreverent stuff in between. There will be short interviews, previews, reviews, and dives into the archives. It provides what you need to know on golf through a rapid and fun catch-up discussion.",
+        "itunes_id": "1435273901",
+        "content_rating": "clean",
+        "artist_name": "The Shotgun Start",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-shotgun-start/id1435273901",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435273901",
+        "website": "http://shotgunstart.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The First Cut with Kyle Porter",
+        "rss_feed_url": "https://feeds.megaphone.fm/CBS6115712510",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 134,
+        "average_rating": 4.2,
+        "description": "CBS Sports senior golf writer Kyle Porter, CBS Sports golf analyst Mark Immelman and host Chip Patterson take you inside the ropes of the golf world, on the PGA Tour and beyond. Tournament previews and picks, deep dives into the players and storylines that matter and guests from around the sport keep you up to date on the latest in the golf on the First Cut Podcast.",
+        "itunes_id": "1232001338",
+        "content_rating": null,
+        "artist_name": "CBS Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-first-cut-with-kyle-porter/id1232001338",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1232001338",
+        "website": "https://www.cbssports.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talk of the TOUR Golf Podcast",
+        "rss_feed_url": "http://talkofthetour1.radio.pgatour.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.7,
+        "description": "John Swantek, veteran golf broadcaster with PGA TOUR Entertainment and the voice of \"Inside the PGA TOUR\" on Golf Channel, visits with a variety of players, writers, broadcasters, industry leaders and insiders from throughout the world of golf.",
+        "itunes_id": "1096923241",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talk-of-the-tour-golf-podcast/id1096923241",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1096923241",
+        "website": "http://pgatour.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf Strategy School Podcast",
+        "rss_feed_url": "http://golfstrategyschool.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 64,
+        "average_rating": 4.5,
+        "description": "Golf Strategy School is a place where you can get great actionable tips, strategies, and information from the best and brightest golf instructors from around the world.\n\nWe feature guests like:\nTom Stickney - Golf Magazine Top 100 instructor, Golf Digest Top 20 Under 40 alumni\nTim Kremer - Feature speaker at the 2013 PGA & LPGA teaching and coaching summits\nGeoff Greig - PGA instructor and Amazon best selling author\nTyrus York - 2014 Kentucky section PGA teacher of the year.\nAlison Curdt - 2016 LPGA National Teacher of the Year\n\nIn these conversations we try to parse out the wheat from the chaff from golf gurus like Butch Harmon, David Leadbetter, Chuck Martin.  We also dive deep on what strategies and practice methods pros like Tiger Woods, Phil Mickelson, Jordan Speith, Rickie Fowler, Dustin Johnson, and Jason Day use to maximize their improvement.\n\nThis podcast is influenced by Fred Greene & Golf Smarter, The Golf Psychology Podcast, Golf Better Podcast, 18 Strong, Golficity, Golf For Beginners, For Serious Golfers Only, Feherty, No Laying Up, Tour Junkies, Golf Science Lab and many others.  \n\nSo make sure you subscribe, rate, and review so these pros can help you keep it in the short grass!",
+        "itunes_id": "959642856",
+        "content_rating": "clean",
+        "artist_name": "Marty Griffin brings you top golf content from Golf Digest Top 40 under 40",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-strategy-school-podcast/id959642856",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=959642856",
+        "website": "http://golfstrategyschool.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SmashBoxxTV's Disc Golf Podcast",
+        "rss_feed_url": "http://smashboxxtv.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 77,
+        "average_rating": 4.7,
+        "description": "We talk about the newest information in disc golf. In depth conversations with the game's top pros. And all the inside information that you won't find anywhere else.",
+        "itunes_id": "941744885",
+        "content_rating": "clean",
+        "artist_name": "Jonathan Van Deurzen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/smashboxxtvs-disc-golf-podcast/id941744885",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=941744885",
+        "website": "http://smashboxxtv.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf Unfiltered Podcast",
+        "rss_feed_url": "http://golfunfiltered.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 58,
+        "average_rating": 4.9,
+        "description": "Official podcast of GolfUnfiltered.com. Hosted by golf writer Adam Fonseca.",
+        "itunes_id": "982392078",
+        "content_rating": "clean",
+        "artist_name": "Golf Unfiltered",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-unfiltered-podcast/id982392078",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=982392078",
+        "website": "http://golfunfiltered.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "State Of The Game",
+        "rss_feed_url": "https://feeds.fireside.fm/stateofthegame/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 52,
+        "average_rating": 4.9,
+        "description": "State of the Game was one of the first golf podcasts to hit the internet and remains one of the most respected. Hosted by Rod Morri and boasting two of the game's most important voices in co-hosts Mike Clayton and Geoff Shackelford, State of the Game is the go to podcast for untainted and unfiltered analysis of the game at every level. If you're looking for swing tips and gear reviews you've come to the wrong place but for thoughtful discussion about the big issues facing the game you'll find this a comfortable home.",
+        "itunes_id": "497208674",
+        "content_rating": "clean",
+        "artist_name": "TalkinGolf Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/state-of-the-game/id497208674",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=497208674",
+        "website": "https://stateofthegame.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf Talk America",
+        "rss_feed_url": "http://golftalkamerica.radio.pgatour.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.3,
+        "description": "From current events to the current PGA TOUR event, and from pop culture to pop psychology, join television and radio personality Timm Matthews and the rest of the \"Golf Talk America\" crew for a free-form discussion covering a variety of entertaining topics.",
+        "itunes_id": "1096925458",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-talk-america/id1096925458",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1096925458",
+        "website": "http://pgatour.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "PGA TOUR Replay Golf Podcast",
+        "rss_feed_url": "http://pgatourreplay.radio.pgatour.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "If you missed the most recent play-by-play broadcast on PGA TOUR Radio, this podcast is for you. Hear from the announcers who walk along with the best golfers in the world, then speak with them after their rounds and offer true inside-the-ropes insights.",
+        "itunes_id": "1096927295",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pga-tour-replay-golf-podcast/id1096927295",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1096927295",
+        "website": "http://pgatour.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Secret Golf with Elk & Knoxy",
+        "rss_feed_url": "https://secretgolf.podbean.com/feed/",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.8,
+        "description": "Former PGA TOUR Champion Steve Elkington and Scottish host Diane Knox team up to bring you the latest from the world of golf.",
+        "itunes_id": "1313469284",
+        "content_rating": "clean",
+        "artist_name": "Secret Golf, Inc.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/secret-golf-with-elk-knoxy/id1313469284",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1313469284",
+        "website": "https://secretgolf.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TalkinGolf",
+        "rss_feed_url": "https://feeds.fireside.fm/talkingolf/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "History"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.7,
+        "description": "The podcast network for serious golfers. TalkinGolf launched as an online audio show way back before podcasts (or even the iPhone) were a thing. We've been on an extended break since 2012 but now we're back and creating new and interesting content each week as well as a sprinkling of some of the best stuff from the archives.",
+        "itunes_id": "1451016278",
+        "content_rating": "clean",
+        "artist_name": "TalkinGolf Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talkingolf/id1451016278",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451016278",
+        "website": "http://www.talkingolf.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TurfNet RADIO",
+        "rss_feed_url": "http://www.blogtalkradio.com/turfnet/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.6,
+        "description": "TurfNet personalities Frank Rossi, Dave Wilber, Randy Wilson, John Reitman, Jon Kiger and Peter McCormick interview a variety of turfies on a multitude of subjects... or just pontificate upon occasion.",
+        "itunes_id": "1039214964",
+        "content_rating": "clean",
+        "artist_name": "TurfNet RADIO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/turfnet-radio/id1039214964",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1039214964",
+        "website": "https://www.blogtalkradio.com/turfnet"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Feed The Ball",
+        "rss_feed_url": "https://feedtheball.com/feed/podcast/",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 89,
+        "average_rating": 4.9,
+        "description": "In the Feed the Ball podcast, writer Derek Duncan discusses golf course design, architecture and the contemporary culture of golf with golf course architects and other luminaries of the game.",
+        "itunes_id": "1278405987",
+        "content_rating": "clean",
+        "artist_name": "Derek Duncan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/feed-the-ball/id1278405987",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1278405987",
+        "website": "https://feedtheball.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bryan Golf Show",
+        "rss_feed_url": "https://anchor.fm/s/19b59dc/podcast/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "This is the Bryan Golf Show presented by Cobra Puma Golf.\n\nI’m Bryan, @BryanGolf on Instagram/Twitter, co-owner of SteezandTees.com, and a professional custom club fitter and builder. Above all, I’m a golfer and the show will be centered around the game we all love so much!",
+        "itunes_id": "1482966373",
+        "content_rating": "clean",
+        "artist_name": "BryanGolf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bryan-golf-show/id1482966373",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482966373",
+        "website": "https://anchor.fm/bryangolf"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bryan Golf Show",
+        "rss_feed_url": "https://anchor.fm/s/19b59dc/podcast/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "This is the Bryan Golf Show presented by Cobra Puma Golf.\n\nI’m Bryan, @BryanGolf on Instagram/Twitter, co-owner of SteezandTees.com, and a professional custom club fitter and builder. Above all, I’m a golfer and the show will be centered around the game we all love so much!",
+        "itunes_id": "1482966373",
+        "content_rating": "clean",
+        "artist_name": "BryanGolf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bryan-golf-show/id1482966373",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482966373",
+        "website": "https://anchor.fm/bryangolf"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "College Golf Talk",
+        "rss_feed_url": "https://rss.art19.com/college-golf-talk",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Keep up with the latest from the college golf world with Golf Channel's College Golf Talk with host Steve Burkowski. From in depth conversations with current players and coaches, to Golf Channel experts breaking down the biggest collegiate events, this 10-part series will keep you in the know throughout the college golf season.   ",
+        "itunes_id": "1484672170",
+        "content_rating": "clean",
+        "artist_name": "Golf Channel",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/college-golf-talk/id1484672170",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484672170",
+        "website": "https://art19.com/shows/college-golf-talk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Back of the Range Golf Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/thebackoftherange/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 97,
+        "average_rating": 4.9,
+        "description": "The Back of the Range Golf Podcast, hosted by Ben Adelberg, is a weekly interview-driven podcast focusing on the game of golf.  Prominent amateurs and professionals, coaches, and personalities from the game share their stories each and every week.  Sometimes, the best stories in golf aren't found on tour.  You'll find them at The Back of the Range.",
+        "itunes_id": "1324297751",
+        "content_rating": "clean",
+        "artist_name": "Ben Adelberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-back-of-the-range-golf-podcast/id1324297751",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1324297751",
+        "website": "https://www.thebackoftherange.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Birdies Not BS. A Modern Guide To Golf",
+        "rss_feed_url": "https://feed.podbean.com/birdiesnotbs/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 72,
+        "average_rating": 4.9,
+        "description": "Golf experts Cheyenne Woods and Doug Smith take a modern approach to the golfing experience while answering the most popular questions the new generation of golfers have today, every week in 10 minutes or less. \nABOUT THE HOSTS: Doug and Cheyenne have been friends since their junior days playing golf. Now they have combined their experiences to unite in one common goal, growing the game they love! Every week during the golf season they will answer a new question related to not just the game, but the lifestyle surrounding it. Breaking down topics to leave you with solid takeaways that will give you what you REALLY need to know to enjoy the golfing experience. Whether you're a seasoned golfer or just gripping a club for the first time, Birdies Not BS is for you, the new generation of golfer who demands a more approachable and modern game.",
+        "itunes_id": "1456657346",
+        "content_rating": "clean",
+        "artist_name": "Diferente Creative",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/birdies-not-bs-a-modern-guide-to-golf/id1456657346",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456657346",
+        "website": "https://birdiesnotbs.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fairways of Life with Matt Adams Golf Show",
+        "rss_feed_url": "https://www.spreaker.com/show/3212499/episodes/feed",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.9,
+        "description": "The Fairways of Life Show, the most listened to golf in the world, is your place for inside information, unforgettable interviews with the game’s legends and stars and interactive discussions, hosted by award-winning broadcaster, writer, New York Times best selling author and Golf Channel commentator, Matt Adams.  It’s the only LIVE daily golf talk show available around the world on air, on line and on demand for free on your mobile device, so you can listen in your car or on the go and hear it 24/7 on demand on every major digital audio platform",
+        "itunes_id": "1365643893",
+        "content_rating": "clean",
+        "artist_name": "Fairways of Life",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fairways-of-life-with-matt-adams-golf-show/id1365643893",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1365643893",
+        "website": "https://www.fairwaysoflife.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Karl Morris - The Brainbooster",
+        "rss_feed_url": "http://brainbooster.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.8,
+        "description": "Do you want to boost your brain - win your game? I'm Karl Morris one of Europe's leading Performance Coaches.  Whether it's sport, business or pleasure, the real key to success is to go from thought to ACTION and MAKE the changes happen.  This Podcast will help you get the best out of yourself and your clients.",
+        "itunes_id": "1258525394",
+        "content_rating": "clean",
+        "artist_name": "Karl Morris",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/karl-morris-the-brainbooster/id1258525394",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1258525394",
+        "website": "http://brainbooster.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "From the Back Tees",
+        "rss_feed_url": "https://anchor.fm/s/eb31b14/podcast/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 41,
+        "average_rating": 5,
+        "description": "We talk all things golf and we make you laugh while doing it.",
+        "itunes_id": "1456137016",
+        "content_rating": "clean",
+        "artist_name": "Sport-Travel Radio Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/from-the-back-tees/id1456137016",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456137016",
+        "website": "https://anchor.fm/from-the-back-tees"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "GOLF GEEKS",
+        "rss_feed_url": "https://feed.podbean.com/golfgeeks/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Golf Geeks, hosted by Chad Darby, the director of instruction at Annandale Golf Club and Austin Brown, just a guy who loves golf. These two will take on a variety of topics from practice, to the PGA Tour, equipment, and travel. This is a golf show for everyone.",
+        "itunes_id": "1482633626",
+        "content_rating": "clean",
+        "artist_name": "Golf Geeks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-geeks/id1482633626",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482633626",
+        "website": "https://golfgeeks.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf Betting System Podcast",
+        "rss_feed_url": "https://golfbettingsystem.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 48,
+        "average_rating": 4.9,
+        "description": "The official podcast for Golf Betting System, UK's number 1 free betting resource for Major Championship, PGA Tour and European Tour golf. https://www.golfbettingsystem.co.uk",
+        "itunes_id": "1234973013",
+        "content_rating": "explicit",
+        "artist_name": "Golf Betting System",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-betting-system-podcast/id1234973013",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1234973013",
+        "website": "https://www.golfbettingsystem.co.uk/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "the talking greenkeeper",
+        "rss_feed_url": "http://thetalkinggreenkeeper.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Science"
+        ],
+        "rating_count": 41,
+        "average_rating": 4.9,
+        "description": "A greenkeeper's take on everything that is happening in golf.  The Talking Greenkeeper, Joe Gulotti, will be having long form discussions with any person that has an interesting or valid take pertaining to the, the oldest game in the world.  Greenkeepers, golf professionals, players, general managers, consultants, bag room attendants, caddies, professors, agronomists, chefs.....anyone involved or who lives golf will have a say with The Talking Greenkeeper.",
+        "itunes_id": "1435947281",
+        "content_rating": "explicit",
+        "artist_name": "joe gulotti",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-talking-greenkeeper/id1435947281",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435947281",
+        "website": "http://thetalkinggreenkeeper.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Real Life Caddie Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/277207.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 59,
+        "average_rating": 4.7,
+        "description": "The Real Life Caddie Podcast is a look at golf from a caddie's perspective. Big G and Neil are lifer caddies who meet up every 10 days to discuss caddie experiences and golf stories. They offer their take on the professional and amateur game and also give listeners advice about the golf from a caddie's point of view.This podcast is a source of entertainment and advice for anyone who plays golf or has a sense of humor!",
+        "itunes_id": "1459017088",
+        "content_rating": "clean",
+        "artist_name": "GLORIFIED DONKEY",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-real-life-caddie-podcast/id1459017088",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459017088",
+        "website": "http://www.glorifieddonkey.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf's Next Wave",
+        "rss_feed_url": "http://golfsnextwave.radio.pgatour.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.9,
+        "description": "Korn Ferry Tour digital producer Kevin Prise provides a colorful window into the lives of golf's next wave of stars, visiting with players as they navigate the challenging, yet rewarding path toward the PGA TOUR.",
+        "itunes_id": "1259875019",
+        "content_rating": "clean",
+        "artist_name": "PGA TOUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golfs-next-wave/id1259875019",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1259875019",
+        "website": "http://golfsnextwave.radio.pgatour.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Forward Press Podcast from Golfweek.com",
+        "rss_feed_url": "https://audioboom.com/channels/5000338.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "David Dusek, a senior writer at Golfweek, will host Forward Press on a weekly basis. He will speak with other writers, reporters, players and industry insiders about the latest happenings in golf. In addition to breaking down major championships like the Masters and U.S. Open, Forward Press delves into the world of the PGA Tour, LPGA Tour and European Tour, as well as discussing fantasy golf and the latest trends in the game.",
+        "itunes_id": "1473609364",
+        "content_rating": "clean",
+        "artist_name": "The Forward Press Podcast from Golfweek.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-forward-press-podcast-from-golfweek-com/id1473609364",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473609364",
+        "website": "https://audioboom.com/channels/5000338"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sub 70 Golf Podcast",
+        "rss_feed_url": "https://sub70.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "The Sub 70 Golf podcast will provide a wide variety of golf related content including interviews, round table discussions and more",
+        "itunes_id": "1335343525",
+        "content_rating": "clean",
+        "artist_name": "Sub 70 Golf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sub-70-golf-podcast/id1335343525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1335343525",
+        "website": "https://sub70.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "GCSAA Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/204920.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Education"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.3,
+        "description": "Association / industry content that covers a variety of educational, programmatic, human interest, and “edutainment” topics.",
+        "itunes_id": "1437164421",
+        "content_rating": "clean",
+        "artist_name": "GCSAA",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gcsaa-podcast/id1437164421",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437164421",
+        "website": "https://www.gcsaa.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DG Discussion",
+        "rss_feed_url": "https://feeds.buzzsprout.com/233523.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.9,
+        "description": "AnhyzerTV brings you a weekly disc golf discussion covering the latest happenings in the sport!",
+        "itunes_id": "1445782277",
+        "content_rating": "clean",
+        "artist_name": "AnhyzerTV",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dg-discussion/id1445782277",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1445782277",
+        "website": "http://www.dgdiscussion.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golf Talk Live",
+        "rss_feed_url": "http://www.blogtalkradio.com/golftalklive/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.4,
+        "description": "Tune in every week and listen to Radio Host/Producer - Ted J. Odorico as he interviews some of the best Teaching Professionals, Coaches, Authors and Golf Industry types from around the world. Join Ted \"LIVE\" every Thursday evening from 6;00 - 8:00 PM Central.",
+        "itunes_id": "942730377",
+        "content_rating": "clean",
+        "artist_name": "Golf Talk Live",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golf-talk-live/id942730377",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=942730377",
+        "website": "https://www.blogtalkradio.com/golftalklive"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Good-Good Golf Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/good-good/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Games"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Good-Good is the golf show for the serious golfer. We celebrate everything great about the game, from course architecture to promoting public golf.",
+        "itunes_id": "1480970735",
+        "content_rating": "clean",
+        "artist_name": "TalkinGolf Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-good-good-golf-podcast/id1480970735",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480970735",
+        "website": "https://good-good.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Senior Golfer Advisor",
+        "rss_feed_url": "https://feed.podbean.com/theseniorgolferadvisor/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Helping the senior golfer with expert advice to drive it longer, play better, get healthier and enjoy the game!",
+        "itunes_id": "1460710219",
+        "content_rating": "clean",
+        "artist_name": "Dean Davison",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-senior-golfer-advisor/id1460710219",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460710219",
+        "website": "https://theseniorgolferadvisor.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "FORE-1-1 with Chantel McCabe",
+        "rss_feed_url": "https://rss.art19.com/fore-1-1-with-chantel-mccabe",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 27,
+        "average_rating": 4.4,
+        "description": "Join Golf Channel's Chantel McCabe each month as she catches up with personalities from the golfing world and beyond.",
+        "itunes_id": "1481635240",
+        "content_rating": "clean",
+        "artist_name": "Chantel McCabe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fore-1-1-with-chantel-mccabe/id1481635240",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481635240",
+        "website": "https://art19.com/shows/fore-1-1-with-chantel-mccabe"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stick and Hack Show",
+        "rss_feed_url": "https://feeds.buzzsprout.com/449290.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "A sophisticated and brilliant look into the world of golf from a Stick and a Hack! This podcast comes from the team that brings you Stick and Hack content you obsess over throughout the week. Now you get to hear the minds behind the new golf obsession for the golf-obsessed and a PGA verified Stick and Hack.",
+        "itunes_id": "1472961073",
+        "content_rating": "clean",
+        "artist_name": "Stick and Hack Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stick-and-hack-show/id1472961073",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472961073",
+        "website": "http://stickandhack.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Women of Golf",
+        "rss_feed_url": "http://www.blogtalkradio.com/womenofgolf/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Join Radio Host/Producer - Ted J. Odorico & LPGA Professional/Legends Tour Player - Cindy Miller each week as they host the Women of Golf Show! One of the best golf shows in the industry. The Women of Golf Show tackles many of the important topics facing women in the golf industry today, from equipment, coaching, health and of coarse accessibility. They interview some of the best instructors, players from the women's tours, and women from the corporate world, looking to help elevate women in golf. Join Ted & Cindy on the \"WOMEN OF GOLF SHOW\" every Tuesday morning from 9:00 - 10:00 AM Eastern.",
+        "itunes_id": "950089280",
+        "content_rating": "clean",
+        "artist_name": "Women of Golf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/women-of-golf/id950089280",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=950089280",
+        "website": "https://www.blogtalkradio.com/womenofgolf"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fore Golfers Network Podcast",
+        "rss_feed_url": "https://foregolfersnetwork.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.9,
+        "description": "Fore Golfers Network celebrates the greatest game on earth with an entertaining weekly podcast that includes top name interviews from the world of golf, travel reviews, equipment reviews, discounts, and more.",
+        "itunes_id": "1201993943",
+        "content_rating": "clean",
+        "artist_name": "Hobson Media Enterprises",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fore-golfers-network-podcast/id1201993943",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1201993943",
+        "website": "http://foregolfersnetwork.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The ModGolf Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/modgolf/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.3,
+        "description": "The ModGolf Podcast talks with golf's top influencers, entrepreneurs, innovators and disruptors about their vision and solutions to re-imagine, transform and grow the game.\nwindow.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"fb1db86bf86e67d377747be70\",\"lid\":\"2e2f634e4c\",\"uniqueMethods\":true}) })\n\nThe ModGolf Podcast has been ranked #5 on 2018's most comprehensive list of \"Top 25 Golf Podcasts\" (https://blog.feedspot.com/golf_podcasts/), based on our quality and consistency of posts, industry expert reviews and social media influence/popularity. Please subscribe to The ModGolf Podcast to help us grow and move up the rankings in 2019!\n\n\nWe are excited and proud to announce our newest Sponsor Partner Golf Genius Software (https://www.golfgenius.com/)! Golf Genius powers tournament management at thousands of private clubs, public courses, resorts, and golf associations all over the world. If you're a golf course owner or operator running tournaments, contact Golf Genius (https://www.golfgenius.com/) to learn they can reduce your pain points while increasing revenue and profits.\nGolf Genius Software https://files.fireside.fm/file/fireside-uploads/images/1/1ea879c1-a4a2-4e10-bea4-e5d8368a3c7a/PN7kM1qB.jpg (https://www.golfgenius.com/)\n\nWe are also proud to have British Columbia Golf (http://britishcolumbiagolf.org/) and NextLinks (http://www.nextlinks.com/) as ModGolf Podcast Sponsor Partners! Without their generous support, we wouldn't be able to bring you these engaging golf innovation stories.\nSponsor Partners https://files.fireside.fm/file/fireside-uploads/images/1/1ea879c1-a4a2-4e10-bea4-e5d8368a3c7a/TmU0F2PO.jpg (http://britishcolumbiagolf.org/)\n\nWe'd love to hear from you! Have any ideas or guests you'd like to hear on future episodes? Contact Colin directly here (https://modgolf.fireside.fm/contact) or on Twitter @ModGolfPodcast (https://twitter.com/ModGolfPodcast) to start the conversation.\nThe ModGolf Podcast https://uploads.fireside.fm/images/1/1ea879c1-a4a2-4e10-bea4-e5d8368a3c7a/rav5Zc0l.jpg",
+        "itunes_id": "1230363725",
+        "content_rating": "clean",
+        "artist_name": "Colin Weston",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-modgolf-podcast/id1230363725",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1230363725",
+        "website": "https://modgolf.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chasing Daylight Podcast",
+        "rss_feed_url": "https://chasingdaylightpodcast.com/feed/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "The Chasing Daylight Podcast is a new show from the creators of The Breakfast Ball Golf Blog. The show is for the casual golf fan who occasionally likes to nerd out on different topics of the game. Look for interviews from insiders within the industry, banter from their opinions on the current state of golf. And, discussions about headline topics like the Major tournaments and the hot new clubs hitting the shelves. Real talk, from real guys who play the game.",
+        "itunes_id": "1464725572",
+        "content_rating": "clean",
+        "artist_name": "Chasing Daylight Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chasing-daylight-podcast/id1464725572",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464725572",
+        "website": "https://chasingdaylightpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Faith N Fairways",
+        "rss_feed_url": "https://faithandfairways.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "With over 16,000 lessons taught to over 2000 golfers, Brad Thorberg, CEO of Faith N Fairways, guides the average golfer who's frustrated with their inconsistent and unreliable results through a simple plan. He focuses on improving your most forgotten yet extremely powerful part of your golf game....your INNER GAME. Like the 100's of golfers already, by implementing our system you will be playing your most consistent and confident golf ever.",
+        "itunes_id": "1473875786",
+        "content_rating": "clean",
+        "artist_name": "Brad Thorberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/faith-n-fairways/id1473875786",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473875786",
+        "website": "https://faithnfairways.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Better Golf Academy: Strategy to Awesome Golf",
+        "rss_feed_url": "https://bettergolfacademy.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "We all want to get better at golf. But for whatever the reason, our game just doesn’t improve. Sound familiar? Well, I am here to share the best secrets of improving your score. This podcast NOT about giving you swing techniques or swing tips but it’s about giving you specific strategies, a tangible plan and a fun way to improve your score! So, welcome to Better Golf Academy Podcast…are you ready? Alright, HERE WE GO!",
+        "itunes_id": "1477137943",
+        "content_rating": "clean",
+        "artist_name": "Hanju Lee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/better-golf-academy-strategy-to-awesome-golf/id1477137943",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477137943",
+        "website": "https://bettergolfacademy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Next On The Tee with Chris Mascaro",
+        "rss_feed_url": "http://www.blogtalkradio.com/nextonthetee/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Join Chris Mascaro year round as he talks with PGA & LPGA Tour Legends, Players and Top Instructors. Hear their stories, insights and playing lessons that not only will you enjoy listening to, but you'll also take strokes off your score.",
+        "itunes_id": "869323143",
+        "content_rating": "clean",
+        "artist_name": "Next On The Tee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/next-on-the-tee-with-chris-mascaro/id869323143",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=869323143",
+        "website": "https://www.blogtalkradio.com/nextonthetee"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chasing Your Best, TC Golf",
+        "rss_feed_url": "https://tcgolf.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.9,
+        "description": "Dedicated to helping you play your best golf!",
+        "itunes_id": "1441796764",
+        "content_rating": "clean",
+        "artist_name": "tcgolf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chasing-your-best-tc-golf/id1441796764",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441796764",
+        "website": "https://tcgolf.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nick O'Hern's Tour Mentality",
+        "rss_feed_url": "https://feeds.fireside.fm/nickohern/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "EVER WONDERED WHAT TOUR PROS ARE THINKING?\nNow you can go inside the mind of one. Someone who went from not being able to break 80, to then become the 16th-best player in the world, and the only man to beat World No. 1 Tiger Woods twice in match play.\nNick O’Hern extracted every ounce of ability from what he’d been given. Proving, even if you aren’t the most physically gifted golfer, you can still compete with anyone if you’re mentally tough. That’s the secret that allowed him to forge a successful career in a sport that’s one of the toughest to do so, and it’s the secret he offers in these pages.\nWhat’s your pre-shot routine? \nHow do you beat first-tee nerves? \nHow should you practice? \nThese are just some of the questions he answers to bring you inside the mind of a tour pro in ‘Tour Mentality’.",
+        "itunes_id": "1481827344",
+        "content_rating": "clean",
+        "artist_name": "Matt Cleary",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nick-oherns-tour-mentality/id1481827344",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481827344",
+        "website": "https://nickohern.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mediocre Golf Podcast",
+        "rss_feed_url": "https://mediocregolf.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.9,
+        "description": "Three guys discussing everything golf with unique perspectives and entertaining takes.",
+        "itunes_id": "1461631542",
+        "content_rating": "clean",
+        "artist_name": "Adam, Eddie, and David",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mediocre-golf-podcast/id1461631542",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1461631542",
+        "website": "http://mediocregolf.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The FORE! Cast",
+        "rss_feed_url": "https://theforecast.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The FORE! Cast with host Allen Burton will give an in-depth look at the game of golf, the golf swing and life on the PGA Tour. Listen as Allen and his guests give their expert opinions on all things golf. Quiet please now playing through on the MESH.. The FORE! Cast.",
+        "itunes_id": "1464051172",
+        "content_rating": "clean",
+        "artist_name": "The MESH",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fore-cast/id1464051172",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464051172",
+        "website": "http://www.themesh.tv"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pro-Fit Golf Conditioning Podcast",
+        "rss_feed_url": "https://profitgolfconditioning.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "At last a Podcast for the everyday golfer. Golfers just like you and me. I’m Natalie Lowe – the founder of Pro-Fit Golf Conditioning and along with some of the best guests in the business we talk golf fitness, training, nutrition and getting the absolute best from your time on the course.",
+        "itunes_id": "1480657973",
+        "content_rating": "clean",
+        "artist_name": "Natalie Lowe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pro-fit-golf-conditioning-podcast/id1480657973",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480657973",
+        "website": "http://profitgolfconditioning.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hosel Rockets Podcast",
+        "rss_feed_url": "https://feeds.simplecast.com/iOHYw_T3",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The #1 Golf Podcast for new product launches, interviews with industry experts, golf trends, and more!  \n\n*Sponsored by www.mortongolfsales.com",
+        "itunes_id": "1482954162",
+        "content_rating": "clean",
+        "artist_name": "Hosel Rockets Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hosel-rockets-podcast/id1482954162",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482954162",
+        "website": "https://hoselrocketspodcast.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mississippi Golfer Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/435964.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Society & Culture"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Your home for everything Mississippi Golf. We will cover the players, the courses, the tournaments, and the stories surrounding Mississippi Golf.",
+        "itunes_id": "1472038590",
+        "content_rating": "clean",
+        "artist_name": "Mississippi Golfer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mississippi-golfer-podcast/id1472038590",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472038590",
+        "website": "http://www.msgolfer.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golfish Podcast",
+        "rss_feed_url": "https://golfish.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.8,
+        "description": "A weekly podcast about all things golf-ish.  Conversations with tour caddies, players' families, and professional coaches will give you access to what's going on outside the ropes.",
+        "itunes_id": "1472597635",
+        "content_rating": "clean",
+        "artist_name": "Amy Goodman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golfish-podcast/id1472597635",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472597635",
+        "website": "http://golfish.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "3 Under Par - Golf Podcast",
+        "rss_feed_url": "https://www.podserve.fm/series/rss/81/3-under-par-golf-podcast.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "A golf podcast where we talk about everything in the world of golf. We talk golf like you would with your friends at the 19th hole after a day on the course. Little White Ball is Life.",
+        "itunes_id": "1449528838",
+        "content_rating": "explicit",
+        "artist_name": "3 Under Par",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/3-under-par-golf-podcast/id1449528838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449528838",
+        "website": "https://www.podserve.fm/series/website/3-under-par-golf-podcast,81/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tee 2 Green Golf Podcast",
+        "rss_feed_url": "https://tee2green.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Golf podcast based in WNY and hosted by professional golf announcer Kevin Sylvester and veteran golf host Brian Koziol. Topics include the PGA Tour and all aspects of golf.",
+        "itunes_id": "1436555716",
+        "content_rating": "clean",
+        "artist_name": "All Square Media LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tee-2-green-golf-podcast/id1436555716",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436555716",
+        "website": "https://tee2green.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Next on the Tee with Chris Mascaro, Golf Podcast",
+        "rss_feed_url": "https://feed.pod.co/next-on-the-tee-with-chris-mascaro-golf-podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Where PGA & LPGA Players, Legends, & Top Instructors Share Their Stories, Insights, & Playing Lessons.\n\n\nIf you love golf tune in and you'll hear some of the game's greatest players and legends sharing stories from their playing careers plus insights into what going on around the game. You'll also get playing lessons from some of the top Instructors from around the country.",
+        "itunes_id": "1453674757",
+        "content_rating": "clean",
+        "artist_name": "Chris Mascaro",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/next-on-the-tee-with-chris-mascaro-golf-podcast/id1453674757",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453674757",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The 19th Hole Golf Show",
+        "rss_feed_url": "https://audioboom.com/channels/3885906.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.5,
+        "description": "The 19th Hole Golf Show is a golf podcast featuring in-depth, intelligent discussion of the most important topics in golf. Host Ryan Ballengee from Golf News Net talks about recent events and issues on the PGA Tour, European Tour, LPGA Tour and other major golf tournaments around the world. He digs in on golf course architecture, fantasy golf, golf travel and the issues facing the business of the game. Ryan covers a little bit of everything in golf, and he's joined occasionally by some of the biggest names in the game to provide perspective.",
+        "itunes_id": "553269696",
+        "content_rating": "clean",
+        "artist_name": "Ryan Ballengee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-19th-hole-golf-show/id553269696",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=553269696",
+        "website": "https://thegolfnewsnet.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "iSeekGolf Podcast",
+        "rss_feed_url": "https://podcast.iseekgolf.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Games"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "The iSeekGolf podcast is a weekly audio show which offers coverage and opinion on all aspects of the game with interesting insights, interviews and guests.\nFrom authors, journalists and commentators to players, administrators and the all-important every day golfer, the iSeekGolf podcast serves as the \"director's commentary\" on iSeekGolf's comprehensive coverage of the game.\nWe’ll talk about the latest in tour news, golf books, travel destinations, equipment, instruction, course architecture and more and just one rule will guide everything we do: if it’s interesting, fun and to do with golf, you’ll hear about it on the iSeekGolf podcast.",
+        "itunes_id": "1223831637",
+        "content_rating": "clean",
+        "artist_name": "iSeekGolf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/iseekgolf-podcast/id1223831637",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1223831637",
+        "website": "https://podcast.iseekgolf.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Springdale Golf LIVE",
+        "rss_feed_url": "https://kjpga.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Springdale Golf Live is your Friday afternoon cup of joe for the golf and sports enthusiast. Hosted by Springdale Golf Club’s Head Golf Professional, Keith Stewart. Known at the Club as the “Director of Fun”, his lively perspective on golf and club life is refreshing and exciting.",
+        "itunes_id": "1413816797",
+        "content_rating": "clean",
+        "artist_name": "Keith Stewart",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/springdale-golf-live/id1413816797",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413816797",
+        "website": "https://kjpga.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Waggle & Whiff",
+        "rss_feed_url": "https://wagglenwhiff.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 32,
+        "average_rating": 5,
+        "description": "Golf Podcast for the average fan and weekend warrior, with Scott Leonard and Steve Grigely. Funny stories, PGA Tour Takes, Exclusive interviews with Golf personalities, pro's, caddies and more.",
+        "itunes_id": "1437955510",
+        "content_rating": "explicit",
+        "artist_name": "Steve Grigely & Scott Leonard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/waggle-whiff/id1437955510",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437955510",
+        "website": "https://wagglenwhiff.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Course Of Life",
+        "rss_feed_url": "https://thecourseoflife.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Golf, Pop Culture, and the rest of the sports world.",
+        "itunes_id": "1437411449",
+        "content_rating": "clean",
+        "artist_name": "Alex & Michael",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-course-of-life/id1437411449",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437411449",
+        "website": "https://thecourseoflife.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On Par with Anthony Scorcia",
+        "rss_feed_url": "https://scorciaonpar.podbean.com/feed.xml",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "Celebrating golf on Long Island each week at 8AM on Long Island\\'s WGBB 1240AM. Featured Long Island golf courses, club fitting and much more.",
+        "itunes_id": "478590928",
+        "content_rating": "clean",
+        "artist_name": "Anthony Scorcia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-par-with-anthony-scorcia/id478590928",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=478590928",
+        "website": "http://scorciaonpar.podbean.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Back 9 Report",
+        "rss_feed_url": "http://www.blogtalkradio.com/back9report/podcast",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Join Fred Altvater (@tolohgolfr) and Carlos Torres (@CarlosTorresSD), as they check-in on the world of golf to bring you all the details on that story, along with the latest news, insights, analysis, recaps, previews and interviews. If it happened in golf, they will bring it to you.\n\nWith a variety of sections, they talk about anything and everything golf:\n\nFollow the show on Twitter (@Back9Report) or subscribe via RSS Feed.",
+        "itunes_id": "1439274081",
+        "content_rating": "clean",
+        "artist_name": "Back 9 Report",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-back-9-report/id1439274081",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439274081",
+        "website": "https://www.blogtalkradio.com/back9report"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Next Shot",
+        "rss_feed_url": "https://anchor.fm/s/d1f74b4/podcast/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Welcome to The Next Shot Podcast! We talk all things golf including swing techniques, mindset, nutrition and so much more. Come check it out and see what you can learn about Golf!\n\nNew Episodes Every Week!",
+        "itunes_id": "1476335643",
+        "content_rating": "clean",
+        "artist_name": "The Next Shot Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-next-shot/id1476335643",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476335643",
+        "website": "https://anchor.fm/the-next-shot"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "PaddyTalks",
+        "rss_feed_url": "http://paddytalks.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Welcome to PaddyTalks, brought to you thanks to www.SeedGolf.com. \nWhat is the Show about? \nI love sport, more specifically golf and those who play it. I have a massive interest into the mind and into the life of Touring professionals, PGA pro's, the top amateurs of the game, but maybe more so I love learning about why people from all walks of life, business and sport and why we play this game of golf. \nIt’s kind of like an unofficial official show, so there will be a structure somewhat but the vibe I’m going for is basically for the listener, that you are listening in on a couple of people having the chats in the kitchen, or in the snug of a pub. A nice relaxed environment where we just want to tell and listen to stories about this game we all love. There are some key topics I’d like to cover personally, but would love to hear what topics you would like to hear discussed and with who! So get into the comments on this show wherever you are listening to it, actually let me know where you are listening to it so I know too! \nIt won’t be just me all the time, I’m looking forward to having my mates and indeed any willing co-hosts please get in touch as from from time to time, when calendars allow, to preview and review the top tournaments as well as discuss certain areas of the game in an in-depth but relaxed format.",
+        "itunes_id": "1470936865",
+        "content_rating": "clean",
+        "artist_name": "paddy@paddygolf.com (paddy@paddygolf.com)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/paddytalks/id1470936865",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470936865",
+        "website": "http://paddytalks.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Jan Stephenson's Shout",
+        "rss_feed_url": "https://audioboom.com/channels/5008852.rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.8,
+        "description": "World Golf Hall of Famer, Jan Stephenson's podcast on which she discusses golf, alcohol, and more!",
+        "itunes_id": "1483552251",
+        "content_rating": "explicit",
+        "artist_name": "Big 3 Roll Up Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/jan-stephensons-shout/id1483552251",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483552251",
+        "website": "https://audioboom.com/channels/5008852"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Drive Hack Putt",
+        "rss_feed_url": "https://pinecast.com/feed/drive-hack-putt",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "\"Drive Hack Putt\" is a weekly podcast hosted by Billy Gordenstein and Zach Tuxbury. The two explain why you should trust them to be your fantasy golf experts. They share their picks for every tournament and try to help you make picks for PGA Tour fantasy or daily fantasy golf.",
+        "itunes_id": "1482272273",
+        "content_rating": "explicit",
+        "artist_name": "Billy Gordenstein and Zach Tuxbury",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/drive-hack-putt/id1482272273",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482272273",
+        "website": "https://drivehackputt.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Pace Of Change Speedgolf Podcast: Broadcasting The Evolution of Speedgolf In The 21st Century",
+        "rss_feed_url": "http://paceofchangegolfpodcast.libsyn.com/rss",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "In the next 5 to 10 years the game of golf is going to undergo some major transformations. This purpose of this podcast is to broadcast the evolutionary journey the game of golf is on as we head into the chaotic and mind-numbing pace of life in 21st Century. That’s right, we are inviting you, the listener, with us on this incredible adventure this game is embarking on. \nEach week we’re going to keep you up to speed on the latest game changing news and developments, we’re going to bring you interviews with the pioneers, thought leaders, and change agents in the industry, and highlight innovative breakthroughs in technology and alternative formats like speedgolf, footgolf, disc golf, and fling golf. All this will shed light on the ways in which golf is changing to keep pace with the demands of the modern world. \nThere’s no denying golf has to change, but we believe it’s changing for the better: golf is headed for a renaissance. So get ready.  We’re talking about a revolution!",
+        "itunes_id": "1068339324",
+        "content_rating": "clean",
+        "artist_name": "Scott Dawley – Founder | Speedgolf USA | PlaySpeedgolf.com | LinksRun.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pace-change-speedgolf-podcast-broadcasting-evolution/id1068339324",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1068339324",
+        "website": "http://www.paceofchange.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The PGA Golf Club",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/9204",
+        "categories": [
+          "Golf",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The PGA Golf Club endeavours to discuss the latest news, views and results from the world of golf, intertwining passionate sports broadcaster, other sport professionals and golf legends themselves together to create a podcast about the sport that so many people are passionate about! Whether you're a weekly player, an amateur on the rise, or a pro, it does not matter in the way our great sport is discussed and analysed. Hear from some of the best, the pro's themselves, find a hidden gem golf course around Victoria plus there's plenty more to be discussed inside the PGA Golf Club.",
+        "itunes_id": "1481797054",
+        "content_rating": "clean",
+        "artist_name": "RSN Racing & Sport",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-pga-golf-club/id1481797054",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481797054",
+        "website": "https://player.whooshkaa.com/shows/the-pga-golf-club"
+      }
+    }
+  ]
+}

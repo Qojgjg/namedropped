@@ -1,0 +1,2801 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "PTI",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=2406595",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 5404,
+        "average_rating": 4.5,
+        "description": "Tony Kornheiser and Michael Wilbon face off in the nation's capital on the day's hottest topics.",
+        "itunes_id": "147232181",
+        "content_rating": "clean",
+        "artist_name": "ESPN, Tony Kornheiser, Michael Wilbon",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pti/id147232181",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=147232181",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golic and Wingo",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=2445552",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2182,
+        "average_rating": 3.8,
+        "description": "You know 'em, you love 'em. Longtime friends and veteran voices, Mike Golic and Trey Wingo, join forces to bring you \"Golic and Wingo.\" Sports, life and the biggest names in the game... Every day. You ain't heard nothin' yet.",
+        "itunes_id": "154597838",
+        "content_rating": "clean",
+        "artist_name": "ESPN, Mike Golic, Trey Wingo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golic-and-wingo/id154597838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=154597838",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Boomer & Gio",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/32ad3f7a-9469-4d73-911f-a789006d3042/d7ec49ab-84e9-4c00-87b8-a789006d3050/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 303,
+        "average_rating": 4.3,
+        "description": "Boomer Esiason and Gregg Giannotti talk sports and interview the hottest names in sports and entertainment.",
+        "itunes_id": "386001601",
+        "content_rating": "clean",
+        "artist_name": "RADIO.COM",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/boomer-gio/id386001601",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=386001601",
+        "website": "https://wfan.radio.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Get Up!",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=22943353",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 470,
+        "average_rating": 3.9,
+        "description": "Mike Greenberg and Jalen Rose will be combining their unique personalities for Get Up, weekdays at 7 a.m. ET on ESPN. Get Up, get sports, get going.",
+        "itunes_id": "1365129878",
+        "content_rating": "clean",
+        "artist_name": "ESPN, Mike Greenberg, Jalen Rose",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/get-up/id1365129878",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1365129878",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Outside The Lines",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=7128085",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 88,
+        "average_rating": 3.7,
+        "description": "Outside the Lines' reporters investigate the biggest trends and topics from around the world of sports.",
+        "itunes_id": "477179813",
+        "content_rating": "clean",
+        "artist_name": "ESPN",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/outside-the-lines/id477179813",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=477179813",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bloomberg Business of Sports",
+        "rss_feed_url": "http://feeds.bloomberg.fm/BLM3800589526",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Entertainment News"
+        ],
+        "rating_count": 77,
+        "average_rating": 4.2,
+        "description": "Michael Barr, Scott Soshnick and  Eben Novy-Williams follow the money in the world of sports, taking listeners inside decisions that power the multibillion dollar industry. From media and technology to finance and real estate, leagues and teams across the globe have matured into far more than just back-page entertainment. The show explains the money behind the final score.",
+        "itunes_id": "1259520237",
+        "content_rating": "clean",
+        "artist_name": "Bloomberg Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bloomberg-business-of-sports/id1259520237",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1259520237",
+        "website": "https://bloomberg.com/podcasts/business_of_sports"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports Are Funny With George Jarjour",
+        "rss_feed_url": "https://anchor.fm/s/dcf5230/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "A podcast about the comedic side of sports. Fun takes on the hottest sports topics, comedian interviews and why sports are absolutely hilarious.",
+        "itunes_id": "1481507400",
+        "content_rating": "clean",
+        "artist_name": "George Jarjour",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports-are-funny-with-george-jarjour/id1481507400",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481507400",
+        "website": "https://anchor.fm/sportsarefunny"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports Business Radio Podcast",
+        "rss_feed_url": "https://audioboom.com/channels/4473129.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 53,
+        "average_rating": 4.4,
+        "description": "Sports Business Radio focuses on the issues and people directly impacting the world of sports business. Guests on the show offering an insider's perspective include pro sports league executives, agents, college athletics administrators, sports apparel company reps, ad agency executives, media executives and athletes.\nCheck out more SBR Interviews here (https://audioboom.com/channel/SBRInterviews)\nFollow us on:\nTwitter (https://twitter.com/sbradio)\nFacebook (https://www.facebook.com/sportsbusinessradio)\niTunes (https://itunes.apple.com/podcast/sports-business-radio-podcast/id73834678?mt=2)\nJoin the SBR email list (https://app.e2ma.net/app2/audience/signup/1838630/1764055/)",
+        "itunes_id": "73834678",
+        "content_rating": "clean",
+        "artist_name": "Brian Berger",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports-business-radio-podcast/id73834678",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=73834678",
+        "website": "https://audioboom.com/channel/sbr"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "El Larguero",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/el_larguero/itunestfp/podcast.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 61,
+        "average_rating": 3.6,
+        "description": "Las noches de la radio deportiva, con Manu Carreño",
+        "itunes_id": "128497079",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/el-larguero/id128497079",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=128497079",
+        "website": "http://cadenaser.com/programa/el_larguero/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The College Football Daily",
+        "rss_feed_url": "https://feeds.megaphone.fm/CBS9484449426",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Daily News"
+        ],
+        "rating_count": 138,
+        "average_rating": 4.7,
+        "description": "Catching you up on and breaking down the day’s college football news, all within 15 minutes or fewer.",
+        "itunes_id": "1369206983",
+        "content_rating": "clean",
+        "artist_name": "247Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-college-football-daily/id1369206983",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1369206983",
+        "website": "247sports.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Play Like A Jet: New York Jets",
+        "rss_feed_url": "https://feeds.megaphone.fm/otjetspod",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 190,
+        "average_rating": 4.7,
+        "description": "Scott Mason and Big John take a look at the most memorable games, moments, players and teams from New York Jets history...the good, the bad and the ugly.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1236901698",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/play-like-a-jet-new-york-jets/id1236901698",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1236901698",
+        "website": "http://overtime.media/nfl/play-like-a-jet-new-york-jets"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spielman and Hooley",
+        "rss_feed_url": "https://pinecast.com/feed/spielman-and-hooley",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 122,
+        "average_rating": 4.9,
+        "description": "Former Ohio State linebacker and Fox NFL analyst Chris Spielman and veteran Ohio media personality Bruce Hooley have taken their successful radio partnership to their own podcast, where they discuss all things Ohio State, NFL and professional and college sports, while also freely incorporating their Christian faith into meaningful, encouraging conversations about their lives as husbands and fathers and men striving to live by Biblical truth.",
+        "itunes_id": "1477411788",
+        "content_rating": "clean",
+        "artist_name": "Bruce Hooley",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spielman-and-hooley/id1477411788",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477411788",
+        "website": "SpielmanandHooley.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Brett Romberg Show",
+        "rss_feed_url": "https://feeds.megaphone.fm/brettrombergshow",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Daily News"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.8,
+        "description": "Brett Romberg brings his unique vision to what a talk radio show should be- which means no topic is off-limits.",
+        "itunes_id": "1482453699",
+        "content_rating": "clean",
+        "artist_name": "1210 The Man",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-brett-romberg-show/id1482453699",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482453699",
+        "website": "1210theman.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Heartland College Sports: Big 12 College Football Podcast",
+        "rss_feed_url": "https://api.podcache.net/shows/3f2316b1-c3b7-4a89-b63f-86d062c020b4/feed",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 228,
+        "average_rating": 4.9,
+        "description": "Check out the best podcast for Big 12 football and general college football and college basketball fans. We cover the Baylor Bears, Iowa State Cyclones, Kansas Jayhawks, Kansas State Wildcats, Oklahoma Sooners, Oklahoma State Cowboys, Texas Longhorns, Texas Tech Red Raiders, TCU Horned Frogs and the West Virginia Mountaineers! All part of HeartlandCollegeSports.com!",
+        "itunes_id": "1075724531",
+        "content_rating": "clean",
+        "artist_name": "Pete Mundo",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/heartland-college-sports-big-12-college-football-podcast/id1075724531",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1075724531",
+        "website": "https://redcircle.com/shows/heartland-college-sports-big-12-college-football-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Packernet Podcast: Green Bay Packers",
+        "rss_feed_url": "https://feeds.megaphone.fm/otpackers",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 289,
+        "average_rating": 4.9,
+        "description": "Wake up each day as host Ryan Schlipp dives deep into the latest Green Bay Packers news and insights on the Packernet Podcast.\n\nOvertime Media; Your Sport.  Your Team.  On your time.  Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1275596861",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/packernet-podcast-green-bay-packers/id1275596861",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1275596861",
+        "website": "http://overtime.media/nfl/packernet-podcast-green-bay-packers"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KINGS OF THE PODCAST",
+        "rss_feed_url": "https://audioboom.com/channels/5001282.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Hockey"
+        ],
+        "rating_count": 41,
+        "average_rating": 4.8,
+        "description": "John Hoven of Mayor's Manor (www.mayorsmanor.com) and Dennis Bernstein of The Fourth Period (www.thefourthperiod.com) cover the NHL from their home base in Los Angeles. Known as both influencers and insiders, the Mayor and DB are members of the Professional Hockey Writers Association and weekly staples on satellite and terrestrial radio.\nNot affiliated with the Los Angeles Kings, Sacramento Kings or Kings of Leon.",
+        "itunes_id": "1479138243",
+        "content_rating": "clean",
+        "artist_name": "KINGS OF THE PODCAST",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kings-of-the-podcast/id1479138243",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479138243",
+        "website": "http://www.kingsofthepodcast.us"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fredo and Ron's Nameless Pod",
+        "rss_feed_url": "https://anchor.fm/s/f3efc10/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.5,
+        "description": "We discuss the Knicks and relevant NBA news.",
+        "itunes_id": "1484904537",
+        "content_rating": "explicit",
+        "artist_name": "Alfred Cabrera",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fredo-and-rons-nameless-pod/id1484904537",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484904537",
+        "website": "https://anchor.fm/fredodagawd"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SoonerNation: Oklahoma Sooners",
+        "rss_feed_url": "https://feeds.megaphone.fm/otoklahoma",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 39,
+        "average_rating": 4.1,
+        "description": "Discussing the best in college athletics spanning from the Big 12 and beyond. If you've got an opinion about college sports then this is your place. Keep in mind though, we see the world through Crimson And Cream Glasses.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "462374421",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/soonernation-oklahoma-sooners/id462374421",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=462374421",
+        "website": "http://overtime.media/ncaa/soonernation-oklahoma-sooners"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Wildcat Radio: Arizona Football. Arizona Basketball",
+        "rss_feed_url": "https://feeds.megaphone.fm/otarizonawildcats",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 58,
+        "average_rating": 4.9,
+        "description": "Your one-stop shop for updates on University of Arizona Athletics including Arizona Football, Arizona Basketball, Recruiting, and Pac-12 News.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "331047135",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/wildcat-radio-arizona-football-arizona-basketball/id331047135",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=331047135",
+        "website": "http://overtime.media/ncaa/wildcat-radio-arizona-football-arizona-basketball"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The GoGamecocks Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/gogamecocks",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "The GoGamecocks Podcast, produced by The State newspaper, breaks down all the essentials that University of South Carolina fans need to know to keep up with USC athletics in a quick, informative show that you can listen to in the length of an average commute.",
+        "itunes_id": "1477269538",
+        "content_rating": "clean",
+        "artist_name": "Greg Hadley",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-gogamecocks-podcast/id1477269538",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477269538",
+        "website": "http://GoGamecocks.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "South of the 6ix: Toronto Blue Jays & Toronto Raptors",
+        "rss_feed_url": "https://feeds.megaphone.fm/ottoronto",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Baseball"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "A weekly podcast discussing all things Toronto Raptors and Toronto Blue Jays, with a unique perspective from someone that lives south of the Canadian border. Casual, fun, and laid back  conversations with individuals that cover both of the teams. \n\nhttp://www.southofthe6ix.com.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1205181492",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/south-of-the-6ix-toronto-blue-jays-toronto-raptors/id1205181492",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1205181492",
+        "website": "http://overtime.media/nba/south-of-the-6ix-toronto-blue-jays-toronto-raptors"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Utah Man Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/otutah",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 37,
+        "average_rating": 4.6,
+        "description": "Your #1 Utah Utes podcast. Cameron, Ryan and Scott deliver news and insight from the true fan perspective. Whether they're talking Football or Basketball the guys always have you, the listener, covered. Enjoy in-depth game reviews and analysis with friendly sports banter. FOR FANS BY FANS.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "916428945",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/utah-man-podcast/id916428945",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=916428945",
+        "website": "Overtime.Media"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scuderia F1: a Formula 1 podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/otscuderia",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.3,
+        "description": "Scuderia Formula 1 is the podcast that’s always up to speed with the exciting world of Grand Prix racing. Based a short distance from Montreal’s iconic Circuit Gilles Villeneuve, we keep Formula 1 fans up to date with all the news from the F1 paddock, Grand Prix previews and reports, and all the latest technical developments. Check out our website at www.scuderiaf1pod.com and give us a follow on Twitter @scuderiaf1pod.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1093934861",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scuderia-f1-a-formula-1-podcast/id1093934861",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1093934861",
+        "website": "http://overtime.media/other/scuderia-f1-formula-1-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Wager Pager Sports Gambling Podcast",
+        "rss_feed_url": "https://api.podcache.net/shows/bdab1271-b5e1-42f2-951a-196dd78468a4/feed",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.8,
+        "description": "On The Wager Pager Podcast, Chris Rodgers and Brock Landers conduct must-hear interviews with the sharpest minds in sports gambling, and they dole out hot picks and analysis for the upcoming games. The podcast focuses on NFL and NCAA football, but also dabbles in NBA, NCAA basketball, MLB and more during the offseason. Get Pumped, Get Psyched! It’s The Wager Pager Podcast! Sports Gambling, Sports Betting, Sports News, Reality",
+        "itunes_id": "1413943893",
+        "content_rating": "explicit",
+        "artist_name": "Chris Rodgers",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-wager-pager-sports-gambling-podcast/id1413943893",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413943893",
+        "website": "https://redcircle.com/shows/the-wager-pager-sports-gambling-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Charter House Podcast",
+        "rss_feed_url": "https://anchor.fm/s/cd11378/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "The Charter House Podcast brings you life, interviews and sports betting in a fun, engaging way!",
+        "itunes_id": "1481605530",
+        "content_rating": "clean",
+        "artist_name": "mark charter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/charter-house-podcast/id1481605530",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481605530",
+        "website": "https://anchor.fm/mark-charter"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "John Jastremski",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/4b5f9d6d-9214-48cb-8455-a73200038129/58ca60d7-32f1-40fd-8ee1-aadf01760a20/e64e8fc6-fa4c-4496-a44b-aadf01769c8f/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": " WFAN's John Jastremski discusses the latest in New York and national sports.",
+        "itunes_id": "1482805082",
+        "content_rating": "clean",
+        "artist_name": "RADIO.COM",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/john-jastremski/id1482805082",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482805082",
+        "website": "https://wfan.radio.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Say the Damn Score Sportscasting Podcast",
+        "rss_feed_url": "http://www.saythedamnscore.com/feed/podcast",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.7,
+        "description": "A podcast about professional broadcasting from someone who thought he was a professional broadcaster.",
+        "itunes_id": "1061478678",
+        "content_rating": null,
+        "artist_name": "Logan Anderson:  Play-by-play sportscaster, part time sports junkie, full time nerd.",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/say-the-damn-score-sportscasting-podcast/id1061478678",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1061478678",
+        "website": "www.saythedamnscore.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Zone",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/eea6f6e8-242e-442d-826d-a59b004c5ec9/cbc74625-1ade-4269-9557-aa960153bcf7/66702674-7e79-4b44-b720-aa9601541a09/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.3,
+        "description": "Midday, from 10 am to 2 pm weekdays, on Sports Radio 810 WHB.\n\n\"The Zone brings a mix of analysis, opinions and laughs. Not exactly in that order. From the numbers to the absurd they have it covered. All the while playing in the sandbox of life.\n\nMick Shaffer, Todd Leabo and a host of other voices join the show throughout the week brigning their views and personalities to the airwaves.",
+        "itunes_id": "1474873320",
+        "content_rating": "clean",
+        "artist_name": "Sports Radio 810 WHB",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-zone/id1474873320",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474873320",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "You Make the Call",
+        "rss_feed_url": "https://www.centexsportsfan.com/podcast/you-make-the-call/feed/?post_type=episode",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.9,
+        "description": "You Make the Call with David Smoak and Paul Catalina. Weekdays 3-6 pm on ESPN Central Texas.\n\nDavid Smoak \"Smoaky\"\nsmoaky@1660espn.com\n@DavidSmoak on Twitter\n\n\nPaul Catalina\npaul@1660espn.com\n@PaulCatalina on Twitter\n@paulcatalina56 on Instagram",
+        "itunes_id": "542040810",
+        "content_rating": "clean",
+        "artist_name": "ESPN Central Texas",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/you-make-the-call/id542040810",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=542040810",
+        "website": "https://www.centexsportsfan.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sin of Our Fathers - A Cleveland Browns Podcast",
+        "rss_feed_url": "https://api.podcache.net/shows/0552d1bb-b4ef-4b21-aa8e-f2f095c61a19/feed",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 40,
+        "average_rating": 4.7,
+        "description": "A weekly podcast covering the Cleveland Browns, the NFL & other sports and culture news. Join the Kuhn brothers, and their grandfather, as they breakdown the week that was for the Cleveland Browns and look forward to the week ahead, pick the lines and breakdown the outlook in the AFC North. No one becomes a Browns fan by choice, it's a cruel legacy passed down for generations. One day though, it will all be worth it.\n\nemail: sinofourfathers@gmail.com\ntwitter: @sinofourfathers\n\nSupport our sponsor and shave with Barbasol! Use discount code \"BROWNS\" at checkout to receive a Barbasol Shave Club Starter Kit for only $1.99! https://barbasol.com/products/barbasol-shave-club-starter-kit-new",
+        "itunes_id": "1280958422",
+        "content_rating": "clean",
+        "artist_name": "The Kuhn Brothers",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sin-of-our-fathers-a-cleveland-browns-podcast/id1280958422",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1280958422",
+        "website": "https://redcircle.com/shows/sin-of-our-fathers"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Intercollegiate",
+        "rss_feed_url": "https://audioboom.com/channels/5006348.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 8,
+        "average_rating": 4.8,
+        "description": "The Intercollegiate podcast critically confronts the issues in college sports that actually matter. Each week, host Daniel Libit interviews experts and knowledgable subjects on the problems, shortcomings and contradictions of America's favorite government-subsidized cartel. Things we care about? Amateurism, corporatism, cronyism, athlete welfare, Title IX, governmental transparency, higher education, politics, criminal justice, and sports journalism. Things we don't care about? Wins and losses.",
+        "itunes_id": "1483075553",
+        "content_rating": "clean",
+        "artist_name": "The Intercollegiate",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-intercollegiate/id1483075553",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483075553",
+        "website": "http://www.theintercollegiate.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bill Huber's Packers Overtime",
+        "rss_feed_url": "https://feeds.megaphone.fm/otpackershuber",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Longtime Green Bay Packers beat writer Bill Huber will deliver news, views and interviews from the home of the 13-time NFL world champions. From game previews and reviews to the best of quarterback Aaron Rodgers' interview sessions, Bill will take you inside the Packers in this new podcast.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1476077795",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bill-hubers-packers-overtime/id1476077795",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476077795",
+        "website": "http://overtime.media/nfl/bill-hubers-packers-overtime"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Rouge Report",
+        "rss_feed_url": "https://anchor.fm/s/dfe1c50/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.9,
+        "description": "The Rouge Report is a new cycling podcast aimed at the new generation of cycling fans who engage with the sport online and on social media. \n\nReleased on a weekly basis, the Rouge Report brings you a mix of the big stories from the world of pro cycling along with analysis and other stories you may have missed.\n\nThe Rouge Report is co-hosted by Ollie Attinger of Cycling Pulse and YouTube’s most respected cycling pundit, rising star Patrick Broe aka ‘Lanterne Rouge’.",
+        "itunes_id": "1480742651",
+        "content_rating": "clean",
+        "artist_name": "Cycling Pulse",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-rouge-report/id1480742651",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480742651",
+        "website": "https://anchor.fm/the-rouge-report"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KSL Unrivaled",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/528634f6-a2b0-4b8d-98c4-aa9301359a1e/db5b2c3d-0f2f-4ed9-8dd5-aa9301359a23/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 16,
+        "average_rating": 3.9,
+        "description": "KSL's Unrivaled features unique takes on the sports news of the moment. Hosted by Scott Mitchell, a former University of Utah and NFL Quarterback who brings a wealth of knowledge to the show and Alex Kirry, a talk radio veteran who has covered BYU for more than a decade and hosts Cougar Sports Saturday on KSL.  Anything is up for grabs on the show, from the NFL and NBA (Utah Jazz), to the Utes, Cougars, Aggies and even prep sports. Never taking themselves too seriously, if there is a sports topic they love, they want you to hear about it on KSL's Unrivaled.",
+        "itunes_id": "1420223666",
+        "content_rating": "clean",
+        "artist_name": "KSL Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ksl-unrivaled/id1420223666",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1420223666",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Helmets Off",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/2aa5da55-553e-4b84-ba0a-aa940023e695/3e2a3a42-f010-46bf-a507-aa940023e69a/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.5,
+        "description": "Helmets Off is hosted by former NFL and University of Utah football quarterback and reality TV star, Scott Mitchell. In each episode of Helmets Off, Scott has a very personal and candid conversation with success people from all walks of life. The listeners of Helmets Off get to be a fly on the wall of a personal, insightful and unplugged conversation. They get to see their heroes and maybe their enemies from a different, entertaining and moving perspective. ",
+        "itunes_id": "1245274213",
+        "content_rating": "clean",
+        "artist_name": "Bonneville International",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/helmets-off/id1245274213",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1245274213",
+        "website": "http://1035thearrow/helmetsoff"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Softball America: Headbands & Hair Ties",
+        "rss_feed_url": "https://api.podcache.net/shows/528e6656-5477-4604-82e7-cc01d08c78f6/feed",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Baseball"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Softball America's delivers softball news you can't get anywhere else. Covering the game from a unique point of view, the staff of SA discusses what's going on in the world of softball every week on its podcast, analyzing the game from the travel ball scene to collegiate ball to the pro's and Olympics.\n\nSupport this podcast at — https://redcircle.com/softball-america-headbands-and-hair-ties/donations",
+        "itunes_id": "1483485257",
+        "content_rating": "clean",
+        "artist_name": "Softball America",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/softball-america-headbands-hair-ties/id1483485257",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483485257",
+        "website": "https://redcircle.com/shows/softball-america-headbands-and-hair-ties"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Unknown Packers Podcast",
+        "rss_feed_url": "https://anchor.fm/s/2f4700c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.8,
+        "description": "Host Brice Christianson leads the Unknown Packers Productions crew, consisting of Jarrod Masuga, Nick Shibe, Jeremiah Wayman, Brennen Rupp, Tony Schaefer,and Neil “Neebles” Margeson, as well ASL podcaster Jason Altmann as he takes us on a journey through a plethora of Green Bay Packers topics. From fantasy, to game day, and everything in between, the Unknown Packers Podcast has you covered. #FollowTheUnknown  Support this podcast: https://anchor.fm/the-unknown-packers-podca/support",
+        "itunes_id": "1232452738",
+        "content_rating": "clean",
+        "artist_name": "Unknown Packers Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-unknown-packers-podcast/id1232452738",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1232452738",
+        "website": "theunknownpackers.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pick & Roll NBA Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e9b7f54/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.9,
+        "description": "NBA Podcast",
+        "itunes_id": "1484722525",
+        "content_rating": "clean",
+        "artist_name": "perry rockwood",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pick-roll-nba-podcast/id1484722525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484722525",
+        "website": "https://anchor.fm/perry-rockwood"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Views from the Nosebleeds, A Real Fan’s Perspective",
+        "rss_feed_url": "https://anchor.fm/s/f987524/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "Hello everyone! Welcome to our podcast! Here we talk about sports, crazy news, and many other topics a real fan would talk about in the nosebleeds while the game is going on. Join us every Wednesday! Support this podcast: https://anchor.fm/chad-morgan-jr/support",
+        "itunes_id": "1484269440",
+        "content_rating": "clean",
+        "artist_name": "Chad R. Morgan Jr",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/views-from-the-nosebleeds-a-real-fans-perspective/id1484269440",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484269440",
+        "website": "https://anchor.fm/chad-morgan-jr"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "theCFFsite",
+        "rss_feed_url": "https://anchor.fm/s/db32eac/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "College Fantasy Football's No. 1 resource, specializing in news, analysis, & player rankings. We have been providing comprehensive coverage of CFF since 2011. Support this podcast: https://anchor.fm/thecffsite/support",
+        "itunes_id": "1478971582",
+        "content_rating": "clean",
+        "artist_name": "theCFFsite",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/thecffsite/id1478971582",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478971582",
+        "website": "http://www.theCFFsite.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Acento Robinson",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/acento_robinson/itunestfp/podcast.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "El lado humano del deporte, cada semana con Michael Robinson",
+        "itunes_id": "637450467",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/acento-robinson/id637450467",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=637450467",
+        "website": "http://cadenaser.com/programa/acento_robinson/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Blue Dogs LaxCast",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/9571",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Comedy"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Carson and Sam give you the hard-hitting lacrosse news you need in short comedic ramblings you didn't know you wanted.",
+        "itunes_id": "1485336877",
+        "content_rating": "clean",
+        "artist_name": "Blue Dog Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/blue-dogs-laxcast/id1485336877",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485336877",
+        "website": "https://player.whooshkaa.com/shows/blue-dogs-laxcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Heavy Lifting with Ravi Lulla",
+        "rss_feed_url": "https://www.ravilullaradio.com/heavy-lifting-podcast?format=rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "A weekly show where Ravi talks about sports and culture, but mostly sports.",
+        "itunes_id": "1477773479",
+        "content_rating": "clean",
+        "artist_name": "Ravi Lulla",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/heavy-lifting-with-ravi-lulla/id1477773479",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477773479",
+        "website": "https://www.ravilullaradio.com/heavy-lifting-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Heavy Lifting with Ravi Lulla",
+        "rss_feed_url": "https://www.ravilullaradio.com/heavy-lifting-podcast?format=rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "A weekly show where Ravi talks about sports and culture, but mostly sports.",
+        "itunes_id": "1477773479",
+        "content_rating": "clean",
+        "artist_name": "Ravi Lulla",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/heavy-lifting-with-ravi-lulla/id1477773479",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477773479",
+        "website": "https://www.ravilullaradio.com/heavy-lifting-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "4th and 20",
+        "rss_feed_url": "https://anchor.fm/s/f9fd058/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Opinions, Picks, and Analysis for All things Sports!",
+        "itunes_id": "1484809165",
+        "content_rating": "explicit",
+        "artist_name": "Willis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/4th-and-20/id1484809165",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484809165",
+        "website": "https://anchor.fm/will-lott4"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pacing and Racing Triathlon Show",
+        "rss_feed_url": "https://anchor.fm/s/568356c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "Steven Langenhuizen from The Pacing and Racing Podcast connects you with some of the best professional and influential triathletes in the world in deep discussion on inspiring stories of struggles and triumphs, and some of the best training advice, so that you can be ahead of the curve with your Triathlon Training! \n\nThe Pacing and Racing Podcast also hosts the Road to Roth training series with Challenge Roth! \n\nSteven also brings you the fan favourite Triathlon Sideline Chat with Co-host Jenna-Caer Seefried (MX Endurance Coach!)",
+        "itunes_id": "1437841572",
+        "content_rating": "clean",
+        "artist_name": "Pacing and Racing",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pacing-and-racing-triathlon-show/id1437841572",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437841572",
+        "website": "https://mailchi.mp/bc43abde7f3e/pacingandracing?fbclid=IwAR1uKOn52kC0UWnZflQEhmifR-Wwml3-JubP47tpKYCW3e71BDZk73erOKU"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pod Van Dam: The Week in Wrestling Twitter",
+        "rss_feed_url": "https://podvdam.libsyn.com/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Comedy"
+        ],
+        "rating_count": 37,
+        "average_rating": 4.8,
+        "description": "Ed, Pat and Producer Jonah dive into the cesspool that is Wrestling Twitter to discuss the spicy news of the week.",
+        "itunes_id": "893003802",
+        "content_rating": "explicit",
+        "artist_name": "Pod Van Dam",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pod-van-dam-the-week-in-wrestling-twitter/id893003802",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=893003802",
+        "website": "http://podvdam.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Crimson Corner Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/4c98b9a4-3b12-4f77-b647-aa9a012960ad/639199b5-a406-42cc-9d97-aa9a012ac4cf/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Crimson Corner is the one-stop for all things University of Utah Athletics hosted by Utah insider Trevor Allen.\n\nUte fans will find interviews with current players, coaches and staff alongside expert analysis of every game, story and angle coming out of the University of Utah.  \n\nCrimson Corner will feature guest hosts including former Utes – Scott Mitchell and Tom Hackett. KSL TV’s Jeremiah Jensen and Sam Farnsworth will also make appearances.\n\n All Rights Reserved, Bonneville International",
+        "itunes_id": "1475011458",
+        "content_rating": "clean",
+        "artist_name": "Crimson Corner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/crimson-corner-podcast/id1475011458",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475011458",
+        "website": "https://kslsports.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bearcats Sports Radio Hot Minute",
+        "rss_feed_url": "https://anchor.fm/s/d481c84/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "We’ll discuss University of Cincinnati Bearcats Athletics, items of intrigue in the world of sports, and provide listeners with some of the popular culture “tea” they so crave.  Support this podcast: https://anchor.fm/bearcatsradio/support",
+        "itunes_id": "1476643509",
+        "content_rating": "clean",
+        "artist_name": "Bearcats Sports Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bearcats-sports-radio-hot-minute/id1476643509",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476643509",
+        "website": "www.BearcatsSportsRadio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Unnecessary Roughness",
+        "rss_feed_url": "https://www.centexsportsfan.com/podcast/unnecessary-roughness/feed/?post_type=episode",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Craig Smoak, Your Boy Q, and Stephen Simcox take you through the day's sports news from 12-3 pm weekdays.",
+        "itunes_id": "542041527",
+        "content_rating": "clean",
+        "artist_name": "Paul Catalina",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/unnecessary-roughness/id542041527",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=542041527",
+        "website": "https://www.centexsportsfan.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Ball Til You Fall Podcast",
+        "rss_feed_url": "https://anchor.fm/s/eb7bfc0/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "No grumpy old guys talking about how much better sports used to be back in their day here. The BTYF Podcast takes on the most intriguing storylines occurring in the sports world today.",
+        "itunes_id": "1482565493",
+        "content_rating": "explicit",
+        "artist_name": "David Hughey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-ball-til-you-fall-podcast/id1482565493",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482565493",
+        "website": "https://www.ball-til-you-fall.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Matt Mosley Show",
+        "rss_feed_url": "https://www.centexsportsfan.com/podcast/the-matt-mosley-show/feed/?post_type=episode",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Matt Mosley tackles all the big topics from the Dallas Cowboys, Baylor Bears, NBA, and more. Weekdays from 10-12.",
+        "itunes_id": "1305157208",
+        "content_rating": "clean",
+        "artist_name": "Matt Mosley",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-matt-mosley-show/id1305157208",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1305157208",
+        "website": "https://www.centexsportsfan.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Formula 1 Grid Talk Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/3c72444b-621f-4a3e-b6e1-a82000673c2f/ecc08ba3-9a46-4e14-8272-aab8007fcbe7/1e4eb739-c54d-4807-9c41-aab800821753/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Formula 1 Grid Talk takes an irreverent look at the world of F1 motor racing, offering news, previews, reviews, and opinions on the biggest talking points in the sport today.\n\nYour host George Howson brings years of F1 experience to the show, and is joined by a panel of guests each week to dissect the latest races with their expert analysis that is based on emotion and personal preference, with a sprinkling of facts.\n\nGeorge and the team hit the apex of all the topics that are causing a stir in F1 right now, so sit back and relax and enjoy their hot topic debrief.",
+        "itunes_id": "1479522737",
+        "content_rating": "clean",
+        "artist_name": "Formula 1 Grid Talk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/formula-1-grid-talk-podcast/id1479522737",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479522737",
+        "website": "https://f1chronicle.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Look Who's Talking",
+        "rss_feed_url": "https://lookwhostalking.sounder.fm/show/WzPXz/rss.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "We all know the difficulty of balancing the NFL, NBA, and college football seasons. If you miss a weekend or a critical game, it can be hard to pick back up where you left off, and you can’t afford to be that guy that isn’t up to date on sports talk. Join Zach & Zach every Wednesday morning as they reflect on the biggest games and highlights from the week before. Listen to team and player analysis and hear what games you can’t miss next weekend. For those who love sports and office humor, this is the podcast for you.",
+        "itunes_id": "1482083615",
+        "content_rating": "explicit",
+        "artist_name": "Sam Kuhn, Zach Bogoshian & Zach Overby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/look-whos-talking/id1482083615",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482083615",
+        "website": "https://lookwhostalking.sounder.fm/show/look-whos-talking"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Banks and Badger",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/8701",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Sports podcast talking about Watauga and Appalachian State University sports",
+        "itunes_id": "1477139074",
+        "content_rating": "clean",
+        "artist_name": "Braxton Critcher & Pierre Banks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/banks-and-badger/id1477139074",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477139074",
+        "website": "https://player.whooshkaa.com/shows/banks-and-badger"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bro Love Cast",
+        "rss_feed_url": "https://api.podcache.net/shows/23b42048-7412-4020-8194-91dadb039db6/feed",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 46,
+        "average_rating": 5,
+        "description": "Ian, Mike Dim, and Eggy: friends since they were toddlers, tackle all things sports with a focus on Philadelphia sports.  Ian, the super fan, Mike Dim, the pop-culture savy sports aficionado, and Eggy, the former athlete that has lost touch with sports fandom, go head-to-head and debate all relevant sports topics.\n\nSupport this podcast at — https://redcircle.com/brotherly-love-sports-podcast3438/donations",
+        "itunes_id": "1300187844",
+        "content_rating": "clean",
+        "artist_name": "Eggy, Ian, and Mike D",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bro-love-cast/id1300187844",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1300187844",
+        "website": "https://redcircle.com/shows/brotherly-love-sports-podcast3438"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airing it Out",
+        "rss_feed_url": "http://feeds.megaphone.fm/airingitout",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Each week, Centre Daily Times' Penn State football beat writer and sports editor review and preview everything Nittany Lions.",
+        "itunes_id": "1477581139",
+        "content_rating": "clean",
+        "artist_name": "Josh Moyer and Jon Sauber",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airing-it-out/id1477581139",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477581139",
+        "website": "https://www.centredaily.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The MAC Attack",
+        "rss_feed_url": "https://anchor.fm/s/e3f5ef4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "In The MAC Attack, Zach and Zack pair their passion for sports with thorough analysis of MAC Red football all season long. Both born, raised and rooted in Macomb County, they are committed to delivering un-biased analysis for all fans of the best football division in Michigan -- the MAC Red.\n\nhttps://www.macattackpodcast.com/",
+        "itunes_id": "1482783319",
+        "content_rating": "clean",
+        "artist_name": "Zach Clark",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-mac-attack/id1482783319",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482783319",
+        "website": "https://www.macattackpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Hoopers Pod",
+        "rss_feed_url": "https://anchor.fm/s/eb1ccb4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Hosted by Jon Dubya & fre$h X, The Hoopers Pod consist of basketball enthusiasts content, everything around the game of basketball (NBA, College, Overseas, Prep, etc.) All hoop no gossip",
+        "itunes_id": "1485112563",
+        "content_rating": "clean",
+        "artist_name": "DopeLifeSince88",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-hoopers-pod/id1485112563",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485112563",
+        "website": "https://anchor.fm/thehooperspod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Upshot NBA Podcast",
+        "rss_feed_url": "https://anchor.fm/s/eaff2e0/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 25,
+        "average_rating": 5,
+        "description": "This is the podcast that makes you feel like you're in a bar talking about the NBA with your best friends. In each weekly episode, you'll find an unorthodox look at the NBA, created by 4 guys who love professional basketball and all of the big moments and pop culture that come with it.",
+        "itunes_id": "1482554880",
+        "content_rating": "clean",
+        "artist_name": "The Upshot Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-upshot-nba-podcast/id1482554880",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482554880",
+        "website": "http://www.signmyyearbook.com/upshot"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Preston's Multiple Stop Shop",
+        "rss_feed_url": "https://anchor.fm/s/d931004/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Preston's Multiple Stop Shop fills you up on sports, tech, wisdom and what ever the adventure brings Support this podcast: https://anchor.fm/pcoxproductions/support",
+        "itunes_id": "1477732121",
+        "content_rating": "clean",
+        "artist_name": "PCoxproductions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/prestons-multiple-stop-shop/id1477732121",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477732121",
+        "website": "pcoxproductions.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "En las 5 con 50's Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/579112.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Soccer"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "En las 5 con 50 es un medio joven, hacemos podcast, publicaciones y videos de temas de fútbol mundial, enfocándonos especialmente en la actualidad de los jugadores colombianos en el mundo, la selección Colombia, las eliminatorias al mundial, la liga Colombiana, Argentina, Mexicana y la MLS. Los invitamos a que disfruten de nuestro medio y de las entrevistas con personajes del mundo del fútbol que enriquecen los contenidos de nuestro podcast.",
+        "itunes_id": "1480605569",
+        "content_rating": "clean",
+        "artist_name": "En las 5 con 50",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/en-las-5-con-50s-podcast/id1480605569",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480605569",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Heat Check",
+        "rss_feed_url": "https://anchor.fm/s/d3de1c4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "A GTA Sports Podcast w/ Current Events & Social Commentary\nNew Episodes Weekly\nFollow \"Heat Check\" On Twitter & IG @GTAHeatCheck\nFollow GTA Sports On Twitter @GTASportsNet & IG @GTASportsNetwork",
+        "itunes_id": "1476714178",
+        "content_rating": "clean",
+        "artist_name": "Ty Slatter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/heat-check/id1476714178",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476714178",
+        "website": "http://GTASportsNet.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RSN Racing Pulse",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1711",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Michael Felgate - Host, Racing Ahead.\n\nMichael is best-known for his award-winning career as a sports journalist for Channel 7 Melbourne. Many of Michael's accolades have come from the racing industry, recognising the passion for racing that he brings to his reports, especially during Melbourne's Spring Racing Carnival. Michael's work has seen him reporting on many more world class events, from the Olympic Games to the Australian Tennis Open. As a racing fan, and a punter, Michael will be following the stories shaping the industry, talking with the decision-makers, and with the people whose stories deserve to be told. Like us on Facebook at www.facebook.com/RSNRacingandSport",
+        "itunes_id": "1240190872",
+        "content_rating": "clean",
+        "artist_name": "RSN - Racing Pulse",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rsn-racing-pulse/id1240190872",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1240190872",
+        "website": "https://rsn.net.au/programs/racing-pulse/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bola de Chumbo",
+        "rss_feed_url": "https://anchor.fm/s/f836044/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "O podcast “Bola de Chumbo”, da Folha de S.Paulo, é uma série em cinco episódios quinzenais que abordam momentos em que futebol, política e por vezes até guerras se misturaram. Nas histórias aqui contadas, esse esporte das massas é manipulado por ditaduras e governos totalitários, tornando-se estopim de conflitos entre nações e também uma mostra de resistência de povos oprimidos. A apresentação e o roteiro da série são dos repórteres Alberto Nogueira e Bruno Rodrigues. A edição de som é de Thomé Granemann.",
+        "itunes_id": "1484606903",
+        "content_rating": "clean",
+        "artist_name": "Folha de S.Paulo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bola-de-chumbo/id1484606903",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484606903",
+        "website": "https://anchor.fm/boladechumbo"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside The Ropes",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1710",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.7,
+        "description": "Australian golf podcast co-hosted by Andy Maher & Mark Hayes, covering all areas of the game across Australia and around the world. This golf show will deliver compelling interviews with a variety of guests that golf fans will love.",
+        "itunes_id": "1240554260",
+        "content_rating": "clean",
+        "artist_name": "Golf Australia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-the-ropes/id1240554260",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1240554260",
+        "website": "http://www.golf.org.au"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Colorado Overtime: Buffaloes Sports",
+        "rss_feed_url": "https://feeds.megaphone.fm/otcolorado",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Adam Chalifoux breaks down the Colorado Buffaloes in this weekly podcast featuring guests, sound from the team, and weekly matchup previews.",
+        "itunes_id": "1481208910",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/colorado-overtime-buffaloes-sports/id1481208910",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481208910",
+        "website": "http://overtime.media/ncaa/colorado-overtime-buffaloes-sports"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pure EVil MMA",
+        "rss_feed_url": "https://PureEVilMMA.podbean.com/feed.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 23,
+        "average_rating": 5,
+        "description": "Pure EVil MMA Podcast home of  East Coasts EVil Eddie. Top MMA News, breakdowns, predictions and event recaps. Also fun Fighter Interviews from UFC, Bellator, PFL+ MORE.drops every Monday with the latest MMA news headlines and Fight Card breakdowns Fun fast paced segments like members of the week",
+        "itunes_id": "1187194228",
+        "content_rating": "clean",
+        "artist_name": "EVil Eddie of PureEVilMMA.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pure-evil-mma/id1187194228",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1187194228",
+        "website": "https://PureEVilMMA.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Crunchtime",
+        "rss_feed_url": "https://anchor.fm/s/d8ad68c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "How high school students see the sports world",
+        "itunes_id": "1480119747",
+        "content_rating": "clean",
+        "artist_name": "The Squadcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/crunchtime/id1480119747",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480119747",
+        "website": "https://anchor.fm/jack-ringold"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Let's Talk Fish",
+        "rss_feed_url": "https://anchor.fm/s/dd81334/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 4,
+        "description": "Growing up on the water with fishing in their blood, Matt Arey and Bryan Thrift have spent the last ten years competing against the biggest names in professional bass fishing. Their success has landed them ranked among the top anglers in the world. If you're looking to become a better angler, then this show has all the answers. Join us and follow along to get actionable tips, tactics, and tried and true techniques directly from the pros. Welcome to Let's Talk Fish!",
+        "itunes_id": "1479856390",
+        "content_rating": "clean",
+        "artist_name": "Let's Talk Fish LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lets-talk-fish/id1479856390",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479856390",
+        "website": "http://www.letstalkfish.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bram Weinstein Show Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/a7b0bd27-d748-4fbe-ab3b-a6fa0049bcf6/d0fea8c8-5ab3-4464-89e9-aaa701368e5f/6f7066d3-87e4-4896-b948-aaa70136dc71/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "The Bram Weinstein Show, Weekdays from 3pm – 6pm on ESPN 630AM, The Sports Capitol.",
+        "itunes_id": "1479095358",
+        "content_rating": "clean",
+        "artist_name": "Cumulus Media Washington DC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bram-weinstein-show-podcast/id1479095358",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479095358",
+        "website": "http://www.sportscapitoldc.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SER Deportivos",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/ser_deportivos/itunestfp/podcast.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Todo el deporte con Francisco José Delgado",
+        "itunes_id": "429394910",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ser-deportivos/id429394910",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=429394910",
+        "website": "http://cadenaser.com/programa/ser_deportivos/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "THE NINER WIRE",
+        "rss_feed_url": "https://anchor.fm/s/ced3120/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A UNC Charlotte student’s takes on all things Charlotte athletics.",
+        "itunes_id": "1483500642",
+        "content_rating": "clean",
+        "artist_name": "The Niner Wire",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-niner-wire/id1483500642",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483500642",
+        "website": "https://anchor.fm/dakota176"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pure Magic Podcast",
+        "rss_feed_url": "https://anchor.fm/s/ec2e094/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The Pure Magic Podcast - An Orlando Magic Podcast for Stans. Join Orlandonians Ben Chase and Justin Miniard weekly as they dive into your favorite team the Orlando Magic! \n\nLife long Magic fans [read: Stans] who just love their team. Always interested in your perspectives, as we go on this... magical journey. The podcast is all about the Magic community as we want to hear and share your takes! Feel free to follow and message us on Twitter, and we'd love to have you on the show! @PureMagicPod @BenGChase @Jus10_FL!\n\nGo Magic! #PureMagicPod Support this podcast: https://anchor.fm/puremagicpod/support",
+        "itunes_id": "1482166456",
+        "content_rating": "clean",
+        "artist_name": "Pure Magic Pod",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pure-magic-podcast/id1482166456",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482166456",
+        "website": "Twitter.com/puremagicpod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Turn Yo Sound Up",
+        "rss_feed_url": "https://anchor.fm/s/e254ac8/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "This podcast brings a more modern, comedic and relative way to talk about News locally (Kansas City based), nationwide and international. This podcast also includes Sports talk, Rants and media with featured shoutouts and a lot of relatable topics!\nHosts: Jerren Washington & D’sean Marley FOLLOW US ON INSTAGRAM: @turnyosoundup @j2erren @__dsean",
+        "itunes_id": "1480616046",
+        "content_rating": "explicit",
+        "artist_name": "Jerren Washington",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/turn-yo-sound-up/id1480616046",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480616046",
+        "website": "https://anchor.fm/jerren-washington"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TheProFFet Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e336428/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Everything NFL and Fantasy Football related! TheProFFet Podcast is dedicated to bringing you bold fantasy football predictions and prophecies all season long!",
+        "itunes_id": "1479698011",
+        "content_rating": "clean",
+        "artist_name": "Calvin Wright",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/theproffet-podcast/id1479698011",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479698011",
+        "website": "https://anchor.fm/theproffetpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Lead Block",
+        "rss_feed_url": "https://pinecast.com/feed/the-lead-block",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The Lead Block is a traditional sports talk podcast, hosted by Matthew Anderson and Tyler Walters, which brings you local and national sports news and commentary from the capital city of Columbia, South Carolina.",
+        "itunes_id": "1481068413",
+        "content_rating": "clean",
+        "artist_name": "Garnet Media Group",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-lead-block/id1481068413",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481068413",
+        "website": "https://www.garnetmedia.org/page/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "100 Yardas",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/100_yardas.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Programa sobre fútbol americano presentado por José Antonio Ponseti, Andrea Zanoni, Luis Jones e Iker Sagasti",
+        "itunes_id": "1187965928",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/100-yardas/id1187965928",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1187965928",
+        "website": "http://play.cadenaser.com/programa/100_yardas/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Unofficial Titans Podcast:  Tennessee Titans",
+        "rss_feed_url": "https://feeds.megaphone.fm/ottitans",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Stoney Keeley covers the Tennessee Titans and all things Nashville on SoBros Network. Join him each week as he dives into some heavily unfiltered Titans talk on The Unofficial Titans Podcast. \n\nPowered by SoBros Network and Overtime Media.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1474317160",
+        "content_rating": "explicit",
+        "artist_name": "SoBrosNetwor/Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/unofficial-titans-podcast-tennessee-titans/id1474317160",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474317160",
+        "website": "http://overtime.media/nfl/unofficial-titans-podcast-tennessee-titans"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Podcast63",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/5891",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.7,
+        "description": "Self described Loyola Chicago super fans break down previous games, future matchups, recruitment news, and anything else Rambler Men's Basketball.",
+        "itunes_id": "1451558919",
+        "content_rating": "clean",
+        "artist_name": "Andrew Buchholz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/podcast63/id1451558919",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451558919",
+        "website": "https://player.whooshkaa.com/shows/podcast63"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SazoNOW Sports",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/sazonowsports",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 27,
+        "average_rating": 5,
+        "description": "SazoNOW Sports",
+        "itunes_id": "1378668301",
+        "content_rating": "clean",
+        "artist_name": "Jeancarlos Sanchez & Juan Meyreles",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sazonow-sports/id1378668301",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1378668301",
+        "website": "https://www.sazonowmg.com/sazonowsports/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Phone Wallet Keys David Ortiz",
+        "rss_feed_url": "https://phonewalletkeysdavidortiz.podbean.com/feed.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Kids & Family"
+        ],
+        "rating_count": 31,
+        "average_rating": 5,
+        "description": "Two brothers from Boston confront the defining moral crises of our day: Capitalism, racism, and the Red Sox bullpen.",
+        "itunes_id": "1436906419",
+        "content_rating": "clean",
+        "artist_name": "phonewalletkeysdavidortiz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/phone-wallet-keys-david-ortiz/id1436906419",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436906419",
+        "website": "https://bostonbrothers.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "NFL Overtime - Draft Edition",
+        "rss_feed_url": "https://feeds.megaphone.fm/otnfldraft",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.6,
+        "description": "Ryan Schlipp of the PackerNet Podcast & Mark Jarvis of whatsondraftnfl.com talk all things NFL Draft on Overtime Media.  \n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1476215585",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nfl-overtime-draft-edition/id1476215585",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476215585",
+        "website": "http://overtime.media/nfl/nfl-overtime-draft-edition"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AFC South Fan Battle",
+        "rss_feed_url": "https://anchor.fm/s/e6bc368/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "We are a podcast highlighting the AFC South division of the NFL. Touching on subjects like major NFL headlines, and news from the Jacksonville Jaguars, Tennessee Titans, Indianapolis Colts, and Houston Texans.",
+        "itunes_id": "1481429054",
+        "content_rating": "explicit",
+        "artist_name": "Samantha Wernet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/afc-south-fan-battle/id1481429054",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481429054",
+        "website": "https://www.facebook.com/AFCSouthfanbattlepodcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gambling News Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/579046.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Stay up-to-date with the latest gaming news. We try to focus on the latest slot machine news (both land and on the Internet). However, we understand a lot of our readers like to stay up-to-date on the news about land casino resorts, online casinos, sports betting, and racinos. If that interests you,  listen to our podcast for free!",
+        "itunes_id": "1484496510",
+        "content_rating": "clean",
+        "artist_name": "EasyMobileCasino.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gambling-news-podcast/id1484496510",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484496510",
+        "website": "https://easymobilecasino.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bucks Leading Radio: Milwaukee Bucks",
+        "rss_feed_url": "https://feeds.megaphone.fm/otbucks",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Basketball"
+        ],
+        "rating_count": 8,
+        "average_rating": 4,
+        "description": "Podcast by The Bucks Leading Radio.\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1287822818",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bucks-leading-radio-milwaukee-bucks/id1287822818",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1287822818",
+        "website": "http://overtime.media/nba/the-bucks-leading-radio-milwaukee-bucks"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bull's Eye",
+        "rss_feed_url": "https://anchor.fm/s/eec9588/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "Alumni discussing USF athletics. Join the guys as they debate the week's games.  Support this podcast: https://anchor.fm/bulls-eye/support",
+        "itunes_id": "1482922201",
+        "content_rating": "clean",
+        "artist_name": "Bull's Eye Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bulls-eye/id1482922201",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482922201",
+        "website": "https://anchor.fm/bulls-eye"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Golden Goal Podcast",
+        "rss_feed_url": "https://anchor.fm/s/d92392c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Just a couple of bros talking about the beautiful game! Come join!",
+        "itunes_id": "1477139021",
+        "content_rating": "clean",
+        "artist_name": "Javier Romero",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/golden-goal-podcast/id1477139021",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477139021",
+        "website": "https://anchor.fm/golden_goalpod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "D.O. Sportscast",
+        "rss_feed_url": "https://anchor.fm/s/dc51388/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The D.O Sportscast brings new information to listeners about various different Syracuse sports via roundtable discussions with beat reporters and host Josh Schafer.\n\nThe Daily Orange is an independent newspaper published in Syracuse, New York. The editorial content of the paper — which originated in 1903 and went independent in 1971 — and its online platforms are entirely run by Syracuse University students.",
+        "itunes_id": "1479111335",
+        "content_rating": "clean",
+        "artist_name": "Daily Orange Sports",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/d-o-sportscast/id1479111335",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479111335",
+        "website": "http://dailyorange.com/sports/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kickin' It Soccer Podcast",
+        "rss_feed_url": "https://anchor.fm/s/eab3ef8/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "A super awesome soccer show where a mother and daughter discuss their favorite local teams, leagues and global soccer news. With a focus on Los Angeles Football Club, women's soccer and important updates from the European leagues.",
+        "itunes_id": "1482574080",
+        "content_rating": "clean",
+        "artist_name": "Kickin' It",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kickin-it-soccer-podcast/id1482574080",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482574080",
+        "website": "https://anchor.fm/kickin-itpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Joes on the Pros",
+        "rss_feed_url": "https://anchor.fm/s/6d792bc/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Join Junnie and Casey as they cover the latest topics in today's sports world.",
+        "itunes_id": "1479092734",
+        "content_rating": "clean",
+        "artist_name": "Joes on the Pros",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/joes-on-the-pros/id1479092734",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479092734",
+        "website": "https://anchor.fm/joesonthepros"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pot Takes",
+        "rss_feed_url": "https://feed.podbean.com/pottakes/feed.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Talk podcast",
+        "itunes_id": "1483407676",
+        "content_rating": "explicit",
+        "artist_name": "pottakes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pot-takes/id1483407676",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483407676",
+        "website": "https://pottakes.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Brabus Trail Running",
+        "rss_feed_url": "https://feed.megafono.host/brabus-trail-running",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Bem vindos ao Brabus Trail Running, um canal sobre corrida de montanha brasileiro.\nNosso objetivo e trazer conteúdo de qualidade e tudo aquilo que você sempre quis saber sobre os mais Brabus; corredores, treinadores e personalidades do esporte, num bate papo super informal com Guilherme Amaral e Renato Campos.",
+        "itunes_id": "1483693171",
+        "content_rating": "clean",
+        "artist_name": "Brabus Trail Running",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brabus-trail-running/id1483693171",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483693171",
+        "website": "https://www.megafono.host/podcast/brabus-trail-running"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Quick 6",
+        "rss_feed_url": "https://post.futurimedia.com/wgfx/playlist/rss/69.xml",
+        "categories": [
+          "Arts",
+          "Podcasts"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Jason Martin reacts to breaking sports news in immediate fashion",
+        "itunes_id": "1479445004",
+        "content_rating": null,
+        "artist_name": "Unknown",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-quick-6/id1479445004",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479445004",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bonesville: The Authoritative Independent Voice of East Carolina",
+        "rss_feed_url": "http://bonesville.net/feed/podcast/",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "News & Features from ECU, the AAC and Beyond",
+        "itunes_id": "1142339733",
+        "content_rating": "clean",
+        "artist_name": "Bonesville: The Authoritative Independent Voice of East Carolina",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bonesville-authoritative-independent-voice-east-carolina/id1142339733",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1142339733",
+        "website": "https://bonesville.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rugby World Cup Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e5a76e4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Simple a weekly Podcast about the 2019 Rugby World Cup. This podcast is brought to you by the creators of the Super Rugby Podcast.",
+        "itunes_id": "1481883484",
+        "content_rating": "clean",
+        "artist_name": "Rugby World Cup Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rugby-world-cup-podcast/id1481883484",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481883484",
+        "website": "https://anchor.fm/damien-warren0"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Fantasy Champions | Fantasy Football Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/246383.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Fantasy Sports"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "The Fantasy Champions Podcast is for the fantasy football player, by the fantasy football player. Cut through the noise of everyday fantasy football analysis and get tips, and advice, to dominate your fantasy football league all year round. Joining in the grind of the fantasy football season, Morgan Colby and Rick Lemon, analyze league rules, drafts, starts or sits, trades, the waiver wire, and so much more. Ignore the so called, \"expert\" fantasy football advice from analysts who aren't in the thick of fantasy football season and listen to The Fantasy Champions Podcast; The only podcast needed to dominate your league.",
+        "itunes_id": "1451202525",
+        "content_rating": "clean",
+        "artist_name": "Fantasy Football",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fantasy-champions-fantasy-football-podcast/id1451202525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451202525",
+        "website": "http://thefantasychampions.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "THE FLEX PODCAST",
+        "rss_feed_url": "https://anchor.fm/s/6fbc650/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 33,
+        "average_rating": 5,
+        "description": "The Flex is hosted by former NBA player Sean Green. Green and special guest touch on several topics: Movies, Sports, Pop Culture...but most of all Green unloads a plethora of hilarious stories from his playing career and personal life.",
+        "itunes_id": "1373015961",
+        "content_rating": "explicit",
+        "artist_name": "Sean Green",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-flex-podcast/id1373015961",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1373015961",
+        "website": "www.greenstormfitness.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hammer High School Sports Podcast",
+        "rss_feed_url": "https://post.futurimedia.com/waskam/playlist/rss/37.xml",
+        "categories": [
+          "Arts",
+          "Podcasts"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Each week, Jared Jesulaitis brings you coaches, players, and experts from around Lafayette Indiana to talk about your local teams.",
+        "itunes_id": "1478933893",
+        "content_rating": null,
+        "artist_name": "Unknown",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hammer-high-school-sports-podcast/id1478933893",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478933893",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bully Banter",
+        "rss_feed_url": "https://feeds.buzzsprout.com/645052.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The Commercial Dispatch's Garrick Hodge and Ben Portnoy provide insights and commentary on Mississippi State athletics.",
+        "itunes_id": "1483062555",
+        "content_rating": "clean",
+        "artist_name": "The Dispatch",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bully-banter/id1483062555",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483062555",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Keep The Game Beautiful",
+        "rss_feed_url": "https://anchor.fm/s/e50e610/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Each week we cover coaches, referees, and players making a difference by inspiring, advocating, and serving soccer, The Beautiful Game. #KeepTheGameBeautiful Hosted by Anna Tuuri.",
+        "itunes_id": "1480311303",
+        "content_rating": "clean",
+        "artist_name": "Anna Tuuri",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/keep-the-game-beautiful/id1480311303",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480311303",
+        "website": "https://anchor.fm/keepthegamebeautiful"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Riding with Rod",
+        "rss_feed_url": "https://anchor.fm/s/b917a48/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Just some good ole football talk and random big news",
+        "itunes_id": "1465409496",
+        "content_rating": "clean",
+        "artist_name": "Kerod Mcferrin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/riding-with-rod/id1465409496",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465409496",
+        "website": "https://anchor.fm/kerod-mcferrin"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Deplorable Sports Podcast",
+        "rss_feed_url": "https://deplorablesportspodcast.libsyn.com/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Politics"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.7,
+        "description": "Mike, Eric, and Chris talk sports, gambling, and politics. This is not a safe space. Clutch your pearls elsewhere. This is Deplorable Sports.",
+        "itunes_id": "1475301926",
+        "content_rating": "clean",
+        "artist_name": "Unknown",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/deplorable-sports-podcast/id1475301926",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475301926",
+        "website": "http://www.deplorablesportsmedia.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Softball",
+        "rss_feed_url": "https://anchor.fm/s/d5cd980/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "What I have been through with softball",
+        "itunes_id": "1476862329",
+        "content_rating": "clean",
+        "artist_name": "Tia O'Connor",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/softball/id1476862329",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476862329",
+        "website": "https://anchor.fm/tia-oconnor"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Under Construction",
+        "rss_feed_url": "https://anchor.fm/s/a668960/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Charlotte Area Sports and Culture Support this podcast: https://anchor.fm/under-construction10/support",
+        "itunes_id": "1459417485",
+        "content_rating": "clean",
+        "artist_name": "Under Construction",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/under-construction/id1459417485",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459417485",
+        "website": "https://anchor.fm/under-construction10"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Shop Talk by GameTime Sidekicks",
+        "rss_feed_url": "http://feeds.feedburner.com/ShopTalkByGametimeSidekicks",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Shop Talk by GameTime Sidekicks is a Podcast where we, GameTime Sidekicks, will be inviting you in to the everyday college football conversations we have as a company.  We are a NCAA Stainless Steel DrinkWare brand that loves to talk sports and wanted to bring these conversations to you, the fans.  Our Podcasts will have a heavy focus towards SEC Football but will cover the entire landscape of CFB as well.  We record at our home base here in Knoxville, TN in our conference room/putting green and are excited to be able to offer a way for us to have a direct line to fans of College Football, since we are also all fans ourselves.",
+        "itunes_id": "1280003356",
+        "content_rating": "clean",
+        "artist_name": "GameTime Sidekicks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shop-talk-by-gametime-sidekicks/id1280003356",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1280003356",
+        "website": "https://www.gametimesidekicks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Seals Pod",
+        "rss_feed_url": "https://feeds.blubrry.com/feeds/sandiegoseals.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Interviews and conversations with San Diego Seals players, broadcasters, and executives about the team, the business of sports and lacrosse.",
+        "itunes_id": "1480891126",
+        "content_rating": "clean",
+        "artist_name": "mike.grace@sealslax.com ()",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/seals-pod/id1480891126",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480891126",
+        "website": "http://www.blubrry.com/sandiegoseals/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Training Camp",
+        "rss_feed_url": "https://anchor.fm/s/d9a78e4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Just three dudes trying to make the team. NFL, CFB, NHL, all of it comin at ya like some hot throws from the starter. This. Is. Training. Camp.",
+        "itunes_id": "1478143531",
+        "content_rating": "explicit",
+        "artist_name": "Training Camp",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/training-camp/id1478143531",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478143531",
+        "website": "https://anchor.fm/training-camp"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Telemundo Deportes",
+        "rss_feed_url": "https://rss.art19.com/telemundo-deportes",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Soccer"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Página oficial de Telemundo Deportes, donde podrás escuchar sobre resultados, videos, posiciones, información, noticias y todo lo último sobre fútbol, boxeo, Juegos Olímpicos y la Copa Mundial de la FIFA.",
+        "itunes_id": "1357393186",
+        "content_rating": "clean",
+        "artist_name": "Telemundo Deportes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/telemundo-deportes/id1357393186",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1357393186",
+        "website": "https://art19.com/shows/telemundo-deportes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Carol Maloney Show Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/a7b0bd27-d748-4fbe-ab3b-a6fa0049bcf6/921243ad-4d70-46bb-972d-aaa70135c1c5/fbba8e50-5208-4c3e-a591-aaa701360bfe/podcast.rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 7,
+        "average_rating": 4,
+        "description": "The Carol Maloney Show, Weekdays from 10am – 12 noon on ESPN 630AM, The Sports Capitol.",
+        "itunes_id": "1479095304",
+        "content_rating": "clean",
+        "artist_name": "The Carol Maloney Show",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-carol-maloney-show-podcast/id1479095304",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479095304",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports & Corks",
+        "rss_feed_url": "https://anchor.fm/s/d921f00/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "What do two people named Emily have in common other than a name? A love of sports, wine, and talking about both. With backgrounds working in the sports industry, they’re here to give you all of their thoughts from the field to Twitter, and everything in between; dating, pop culture, and wine recommendations.",
+        "itunes_id": "1477666391",
+        "content_rating": "clean",
+        "artist_name": "Emily Cornell & Emily Jurenka",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports-corks/id1477666391",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477666391",
+        "website": "http://thetailgatesociety.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "MN Daily Sports: The Weekly Run-Down",
+        "rss_feed_url": "https://mndailysports.podbean.com/feed.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Weekly Rundown is a weekly sports discussion podcast released Friday mornings and produced by the Minnesota Daily. Hosted by sports editor Paul Hodowanic, the podcast features event previews and discussion about all things sports at the University of Minnesota.",
+        "itunes_id": "1479223396",
+        "content_rating": "clean",
+        "artist_name": "mndailysports",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mn-daily-sports-the-weekly-run-down/id1479223396",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479223396",
+        "website": "https://mndailysports.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "NFL weekly",
+        "rss_feed_url": "https://anchor.fm/s/f9a284c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Show discussing trending NFL topics weekly",
+        "itunes_id": "1484681801",
+        "content_rating": "clean",
+        "artist_name": "Jon willey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nfl-weekly/id1484681801",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484681801",
+        "website": "https://anchor.fm/jon-willey"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Unconquered Magazine Podcast",
+        "rss_feed_url": "http://unconqueredmagazine.com/feed/podcast/",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Publishing content on Florida State University athletics and alumni",
+        "itunes_id": "1476292866",
+        "content_rating": "clean",
+        "artist_name": "Unconquered Magazine Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/unconquered-magazine-podcast/id1476292866",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476292866",
+        "website": "http://unconqueredmagazine.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "651Sports Update",
+        "rss_feed_url": "https://anchor.fm/s/350f854/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "651Sports Update is a show/podcast on WFNU-LP 94.1FM. We cover high school varsity and club sports in St. Paul, MN. We will also discuss the youth sports at some of our community youth programs from around the city. Every team has a story to tell and we will bring you those stories. Support this podcast: https://anchor.fm/651sports-update/support",
+        "itunes_id": "1372335657",
+        "content_rating": "clean",
+        "artist_name": "651Sports Update",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/651sports-update/id1372335657",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1372335657",
+        "website": "651Sports.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mics and Takes",
+        "rss_feed_url": "https://anchor.fm/s/fadbf88/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Barrett, Shawn, and Travis talk all things sports",
+        "itunes_id": "1484552417",
+        "content_rating": "clean",
+        "artist_name": "Bulldog Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mics-and-takes/id1484552417",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484552417",
+        "website": "https://anchor.fm/bulldog-radio4"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Radicards",
+        "rss_feed_url": "https://www.radicards.com/feed/podcast",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "This is the podcast arm of www.radicards.com. The show is meant to educate, inspire, and change thought as it relates to baseball card collecting. Segments include coverage of current events in baseball, notable auctions, and market activity. Host and brand creator, Patrick Greenough, shares insights on business and economics as it relates to hobby participation. Listen and enjoy; think differently about things. If you'd like to get in touch, send us a message at https://www.radicards.com/contact-us. Twitter @radicards.",
+        "itunes_id": "1406085687",
+        "content_rating": "clean",
+        "artist_name": "www.radicards.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/radicards/id1406085687",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1406085687",
+        "website": "https://www.radicards.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Play Segunda",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/play_segunda/itunestfp/podcast.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Todas las semanas repasamos la actualidad de la Liga 1,2,3, con Óscar Egido",
+        "itunes_id": "973104519",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/play-segunda/id973104519",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=973104519",
+        "website": "http://cadenaser.com/programa/play_segunda/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Què t'hi jugues!",
+        "rss_feed_url": "https://fapi-top.prisasd.com/podcast/playser/que_t_hi_jugues.xml",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Amb Sique Rodríguez. Informació esportiva, anàlisi, humor, rigor i espectacle",
+        "itunes_id": "1106419509",
+        "content_rating": "clean",
+        "artist_name": "Cadena SER",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/qu%C3%A8-thi-jugues/id1106419509",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1106419509",
+        "website": "http://play.cadenaser.com/programa/que_t_hi_jugues/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fox Sports Central Texas Podcast",
+        "rss_feed_url": "https://www.centexsportsfan.com/podcast/fox-sports-central-texas-podcast/feed/?post_type=episode",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Ward Whites takes you through the sports news of the day from UMHB, local high schools, and teams around the Big 12.",
+        "itunes_id": "1479879600",
+        "content_rating": "clean",
+        "artist_name": "Ward Whites",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fox-sports-central-texas-podcast/id1479879600",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479879600",
+        "website": "https://www.centexsportsfan.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Daniel Gonzalez Sports Podcast",
+        "rss_feed_url": "https://anchor.fm/s/db7d1c8/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.2,
+        "description": "My podcast is me talking about news from some my favorite sports to watch Support this podcast: https://anchor.fm/daniel-gonzalez94/support",
+        "itunes_id": "1478972906",
+        "content_rating": "clean",
+        "artist_name": "Daniel Gonzalez",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/daniel-gonzalez-sports-podcast/id1478972906",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478972906",
+        "website": "https://anchor.fm/daniel-gonzalez94"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports601 Podcast",
+        "rss_feed_url": "https://anchor.fm/s/d7d3b58/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Host James Pugh and Co-host Kevan Lindsey discuss Prep, JUCO and College sports in the Sports601 coverage area.",
+        "itunes_id": "1477212174",
+        "content_rating": "clean",
+        "artist_name": "James Pugh",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports601-podcast/id1477212174",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477212174",
+        "website": "https://anchor.fm/sports601podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Steelers Overtime",
+        "rss_feed_url": "https://feeds.megaphone.fm/otsteelers",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Hosts Derek Hill & Brandon Pepper take a deep dive (or just a casual swim depending on the day) into Pittsburgh Steelers football! Grab your Iron City Beer cans & Terrible Towels and tune in to hear the latest news, opinions, and analysis!\n\nOvertime Media; Your Sport. Your Team. On your time. Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1475293016",
+        "content_rating": "clean",
+        "artist_name": "Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/steelers-overtime/id1475293016",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475293016",
+        "website": "http://overtime.media/nfl/steelers-overtime"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Better Fantasy Bureau",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5b3e5362291fbbd142c01c6b",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 72,
+        "average_rating": 5,
+        "description": "FOLLOW US:\nINSTAGRAM - @BFBPODCAST\nTWITTER - @BFBPODCAST\nFOLLOW YOUR HOST:\nFLX HITLIST @FLXHITLIST\nALEX MARQUETTI @MARQUETTI\nWWW.BETTERFANTASYBUREAU.COM",
+        "itunes_id": "1407999674",
+        "content_rating": "clean",
+        "artist_name": "Better Fantasy Bureau",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/better-fantasy-bureau/id1407999674",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1407999674",
+        "website": "https://www.betterfantasybureau.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sports Week in Review",
+        "rss_feed_url": "https://anchor.fm/s/ea92258/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.7,
+        "description": "This is a podcast where we talk about all of the latest News in Spots. This is a weekly podcast and will be uploaded every Friday/Thursday. Messages are more than welcome, and we will go through all of your questions during our next episode.",
+        "itunes_id": "1482790831",
+        "content_rating": "clean",
+        "artist_name": "Ryan & Justin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sports-week-in-review/id1482790831",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482790831",
+        "website": "https://sites.google.com/middletownk12.org/sportsweekinreview/home"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Very Weird Fantasy Football Podcast",
+        "rss_feed_url": "https://anchor.fm/s/dc85bc4/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Fantasy Sports Professionals, Dripping with Personality you wont find on any other sports Podcast!",
+        "itunes_id": "1479289911",
+        "content_rating": "clean",
+        "artist_name": "A Very Weird Fantasy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-very-weird-fantasy-football-podcast/id1479289911",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479289911",
+        "website": "https://anchor.fm/a-very-weird-fantasy"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Red Black Football Podcast",
+        "rss_feed_url": "https://anchor.fm/s/de2d83c/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Sports writer James Krause and columnist Michael Knapp introduce the first edition of the Northern Star’s Red Black Football Podcast.",
+        "itunes_id": "1478515282",
+        "content_rating": "clean",
+        "artist_name": "Northern Star",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/red-black-football-podcast/id1478515282",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478515282",
+        "website": "https://anchor.fm/redblackfootballpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fantasy Football Fiends",
+        "rss_feed_url": "https://anchor.fm/s/de9d9fc/podcast/rss",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "We're a bunch of guys who's wives are sick of us always talking about fantasy football so here is our outlet!!",
+        "itunes_id": "1480257147",
+        "content_rating": "clean",
+        "artist_name": "Brett Haider",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fantasy-football-fiends/id1480257147",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480257147",
+        "website": "https://anchor.fm/brett-haider"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lions SRD",
+        "rss_feed_url": "https://feeds.megaphone.fm/otlions",
+        "categories": [
+          "Sports News",
+          "Podcasts",
+          "News",
+          "Sports",
+          "Football"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Join Jamie and Ben as they break down the Detroit Lions.\n\nOvertime Media; Your Sport.  Your Team. On your time.  Overtime is a Sports Podcast Network covering Pro and College Sports leagues and teams with entertaining and insightful podcasts.",
+        "itunes_id": "1479982509",
+        "content_rating": "clean",
+        "artist_name": "SRD Productions/Overtime Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lions-srd/id1479982509",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479982509",
+        "website": "https://www.Sportsradiodetroit.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "The Tennis Podcast",
+        "rss_feed_url": "http://rss.acast.com/thetennispodcast",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 384,
+        "average_rating": 4.6,
+        "description": "Presented by David Law and Catherine Whitaker, The Tennis Podcast is a downloadable tennis radio show featuring weekly chat, big-name guests, interviews and daily editions at the Grand Slam tournaments.",
+        "itunes_id": "530971441",
+        "content_rating": "clean",
+        "artist_name": "David Law and Catherine Whitaker",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-tennis-podcast/id530971441",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=530971441",
+        "website": "http://www.tennispodcast.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TENNIS.com Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/tcpntennisdotcom",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 91,
+        "average_rating": 4.1,
+        "description": "Tune in to hear the experts from Tennis.com and players on the tour talk about everything tennis, from happenings on the court to trending topics as well as what goes on behind the scenes both on the tour and in the pressroom.",
+        "itunes_id": "339875623",
+        "content_rating": "clean",
+        "artist_name": "TENNIS.com Podcast/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tennis-com-podcast/id339875623",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=339875623",
+        "website": "https://cms.megaphone.fm/channel/tcpntennisdotcom"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "No Challenges Remaining",
+        "rss_feed_url": "https://nochallengesremaining.podbean.com/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 214,
+        "average_rating": 4.5,
+        "description": "A humorous and informative podcast discussing the happenings in the wacky world of professional tennis. Hosted by Ben Rothenberg and Courtney Nguyen.",
+        "itunes_id": "583552127",
+        "content_rating": "clean",
+        "artist_name": "No Challenges Remaining Tennis Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/no-challenges-remaining/id583552127",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=583552127",
+        "website": "https://nochallengesremaining.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Essential Tennis Podcast - Instruction, Lessons, Tips",
+        "rss_feed_url": "https://essentialtennis.podbean.com/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 362,
+        "average_rating": 4.8,
+        "description": "If you LOVE tennis, you badly want to improve, and you’re willing to work hard to achieve your goals then this is the tennis podcast you’ve been looking for! For over a decade tennis professional Ian Westermann has been answering questions for listeners all over the world with one goal in mind: making YOU a better tennis player. \n\nWhat topics are covered? Over the years no stone has been left unturned as Ian covers such topics as creating topspin, singles strategy, doubles strategy, mental toughness, stroke technique for the serve, forehand and backhand, fitness and conditioning, how to defeat pushers, mastery mindset and goal setting, how to change bad habits, footwork, defeating nerves during matches, tournament success, tie breaker success, breaking through plateaus, advice for tennis parents, and much, much more! \n\nDoes Ian’s audio tennis instruction translate into better on court results? In short, YES! \n\nThere’s a reason why the Essential Tennis Podcast is the highest rated tennis podcast in the world: Ian’s instruction actually does bring results. Tennis players all around the planet listen to his lessons thousands of times per day and are improving their tennis as a result. \n\nSo whether your technique needs polishing, your strategy is suffering, or your mental game is leaving you a wreck on the court this tennis podcast can take you to the next level. Start listening today so you can take full advantage of all Ian’s tennis knowledge! \n\nYou’ll also hear candid, in depth interviews with luminaries, book authors, and other experts in the game of tennis like Gigi Fernandez and Craig O’Shannessey. Ian loves spending time chatting with other podcast hosts as well in an effort to bring a well rounded, balanced approach to the thoughts and perspectives presented on his show. \n\nSubscribing to the Essential Tennis Podcast is hands down the best way to automatically get each episode that Ian publishes but you can also access each and every lesson at essentialtennis.com. From there you can manually download each .mp3 file into iTunes and listen to them on your computer or transfer them to your iPhone, iPod, or iPad to listen on the go.\n\nYou can also subscribe via the Podcasts App on your iPhone, the Play Music app on your Android phone, or through Spotify, Stitcher, or anywhere else you listen to podcasts. \n\nBe sure to check out all of the amazing video and written tennis lessons on www.essentialtennis.com as well. Everything at Essential Tennis is completely free and open to take advantage of. No matter what part of your game you need to improve you’ll find helpful instruction to get you to the next level. \n\nHave you enjoyed the Essential Tennis Podcast? Then please rate and review the show! It’s already the most highly rated tennis podcast on iTunes but Ian would greatly appreciate your support by leaving your comments and rating. \n\nThank you so much for listening and good luck with your tennis!",
+        "itunes_id": "278131039",
+        "content_rating": "clean",
+        "artist_name": "Essential Tennis LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/essential-tennis-podcast-instruction-lessons-tips/id278131039",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=278131039",
+        "website": "https://essentialtennis.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Beyond The Baseline",
+        "rss_feed_url": "http://feeds.feedburner.com/beyond-the-baseline",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 117,
+        "average_rating": 4.5,
+        "description": "Podcast by Sports Illustrated",
+        "itunes_id": "1005210315",
+        "content_rating": "clean",
+        "artist_name": "Sports Illustrated",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/beyond-the-baseline/id1005210315",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1005210315",
+        "website": "http://SI.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tennis Psychology Podcast",
+        "rss_feed_url": "http://tennispsychology.libsyn.com/rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.4,
+        "description": "Improve your inner game of tennis quickly with mental game expert Dr. Patrick Cohn, sports psychology for tennis expert at www.sportspsychologytennis.com. Learn how to play to your potential in matches using powerful sports psychology strategies for tennis.",
+        "itunes_id": "301444064",
+        "content_rating": "clean",
+        "artist_name": "Dr. Patrick Cohn",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tennis-psychology-podcast/id301444064",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=301444064",
+        "website": "http://www.sportspsychologytennis.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tennis Quick Tips  | Fun, Fast and Easy Tennis - No Lessons Required",
+        "rss_feed_url": "https://feeds.buzzsprout.com/703588.rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 47,
+        "average_rating": 4.6,
+        "description": "Tennis Quick Tips brings you weekly tennis tips that will not only improve your tennis play, but also make sure you're having fun each and every time you step on court.  If you’re looking for quick and easy ways to improve your game, without the need for long hours on court or expensive lessons, then this podcast is for you.  Each Tennis Quick Tips episode will give you a really easy, really worthwhile tennis tip that will help you to quickly improve your game and that you can apply in your next tennis match.  Each episode is short and concise, just a few minutes long, so you get the most information possible in the least amount of time possible.  Spend just a few minutes listening before your next match and you can improve your tennis game – fast!  No matter what your tennis skill level, you'll find plenty of great tips to put into action every time you hit the courts in Tennis Quick Tips.",
+        "itunes_id": "669499379",
+        "content_rating": "clean",
+        "artist_name": "Kim Selzman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tennis-quick-tips-fun-fast-easy-tennis-no-lessons-required/id669499379",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=669499379",
+        "website": "http://tennisfixation.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Body Serve",
+        "rss_feed_url": "https://thebodyserve.podbean.com/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Society & Culture"
+        ],
+        "rating_count": 120,
+        "average_rating": 4.7,
+        "description": "Tennis podcast featuring casual, semi-respectable conversations about the ATP & WTA.",
+        "itunes_id": "956625850",
+        "content_rating": "explicit",
+        "artist_name": "The Body Serve Tennis Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-body-serve/id956625850",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=956625850",
+        "website": "https://thebodyserve.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tennis Channel Live Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/tcpntennischannellive",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Daily show where top tennis legends and experts discuss the latest topics.",
+        "itunes_id": "1477542650",
+        "content_rating": "clean",
+        "artist_name": "Tennis Channel Inc./Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tennis-channel-live-podcast/id1477542650",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477542650",
+        "website": "Tennis,com/Podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Tennis Files Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/tcpntennisfiles",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 56,
+        "average_rating": 4.8,
+        "description": "Mehrban Iranshad from Tennis Files (tennisfiles.com) is committed to helping you improve your tennis game.  He will uncover the best strategies, training methods, mental attitudes, and techniques that will enable you to reach your tennis potential.  Mehrban will interview the top minds in tennis on The Tennis Files Podcast, including professional and elite tennis players, coaches, trainers, authors, and other tennis experts.  Tennis is a demanding and complex sport which requires hard work, consistency, problem solving, and the determination to reach your tennis goals.  Mehrban will find the answers to your tennis problems so you can break through your struggles and become a better tennis player.",
+        "itunes_id": "1080234163",
+        "content_rating": "clean",
+        "artist_name": "Tennis Files LLC/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-tennis-files-podcast/id1080234163",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1080234163",
+        "website": "https://tennisfiles.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Coffee Cast With Mike Cation and Noah Rubin, Powered by Behind the Racquet",
+        "rss_feed_url": "https://feeds.megaphone.fm/tcpncoffeecast",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 33,
+        "average_rating": 4.8,
+        "description": "The Coffee Cast is the best glimpse you can get in to the ins and outs of professional tennis, told by its players, and voiced by Noah Rubin, and his podcast partner Mike Cation.",
+        "itunes_id": "1296708933",
+        "content_rating": "explicit",
+        "artist_name": "Mike Cation & Noah Rubin/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/coffee-cast-mike-cation-noah-rubin-powered-by-behind/id1296708933",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1296708933",
+        "website": "https://mikecation.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talk Tennis",
+        "rss_feed_url": "https://feed.podbean.com/talktennis/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 76,
+        "average_rating": 4.9,
+        "description": "Created for the tennis enthusiast! In depth chats with pro players, industry experts & all things tennis! Powered by Tennis Warehouse.",
+        "itunes_id": "1475845728",
+        "content_rating": "clean",
+        "artist_name": "Tennis Warehouse",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talk-tennis/id1475845728",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475845728",
+        "website": "https://talktennis.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Under Review Tennis Podcast",
+        "rss_feed_url": "https://underreviewtennis.com/feed/podcast/",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 113,
+        "average_rating": 5,
+        "description": "Tennis Insider CRAIG SHAPIRO talks with the most interesting voices in the sport.  Interviews with BRAD GILBERT, BIANCA ANDREESCU, JIM COURIER, MARY CARILLO and more. As featured on SPORTSCENTER",
+        "itunes_id": "1429018964",
+        "content_rating": "clean",
+        "artist_name": "Craig Shapiro Tennis insider",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/under-review-tennis-podcast/id1429018964",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1429018964",
+        "website": "https://underreviewtennis.com/news/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ParentingAces - The Junior Tennis and College Tennis Podcast",
+        "rss_feed_url": "http://parentingaces.libsyn.com/rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Kids & Family",
+          "Parenting"
+        ],
+        "rating_count": 53,
+        "average_rating": 5,
+        "description": "Host Lisa Stone discusses the various aspects of developing a tennis player from beginner through the juniors to college and beyond. Her weekly guests include experts in coaching, parenting, mental toughness, fitness & nutrition, technology & equipment, and college recruiting. Stone provides invaluable information for parents, players, and coaches.",
+        "itunes_id": "1215810743",
+        "content_rating": "clean",
+        "artist_name": "Lisa Stone",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/parentingaces-junior-tennis-college-tennis-podcast/id1215810743",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1215810743",
+        "website": "http://parentingaces.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cracked Interviews",
+        "rss_feed_url": "https://feeds.megaphone.fm/crackedinterviewstcpn",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 46,
+        "average_rating": 4.9,
+        "description": "The Cracked Racquets team sits down with tennis’ biggest players, coaches, and academies to bring listeners inside the processes, personas, and stories that you won’t get anywhere else.",
+        "itunes_id": "1264427749",
+        "content_rating": "clean",
+        "artist_name": "Cracked Racquets/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cracked-interviews/id1264427749",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1264427749",
+        "website": "https://www.crackedracquets.com/category/podcasts/cracked-interviews-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Shankcast - A Tennis Banter Podcast",
+        "rss_feed_url": "https://feed.podbean.com/shankcast/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 150,
+        "average_rating": 4.8,
+        "description": "If you eat, sleep, and breathe tennis then the Shankcast is for you! Each and every week tennis professionals Ian Westermann, Megan Garlington, and Kevin Garlington sit down to discuss topics, questions, and frustrations common to all tennis players around the world. It doesn’t matter if you started last month, last year, or many decades ago: the humorous insights you’ll hear will give you more appreciation, understanding, and respect for the great game we all love. Our biggest goal is to provide entertaining, engaging tennis talk that not only is a pleasure to listen to but also helps maximize your tennis enjoyment and success in your matches!What topics will be covered on the Shankcast podcast? Nothing will be off limits and no stone will be left unturned! You’ll hear the hosts debate whether or not it’s kosher to try doubles opponents, if the unhand serve (ala Nick Kyrgios) is a smart play or disrespectful, how well they think they would fare against Serena Williams, the biggest mistakes tennis parents make, and much, much more! No matter what tennis topic is being discussed Ian, Megan and Kevin will share their real, candid, unfiltered thoughts so you can benefit from their many decades of experience as players, coaches, and mentors around the court. Subscribing to the Shankcast is hands down the best way to automatically get each episode as its published, each and every week! You can also check out the official Shankcast website at www.shankcast.com or subscribe on Spotify, Podbean, Stitcher, the iPhone Podcasts app, the Google Play app on your Android phone, or just about anywhere else that podcasts are found! If you’ve listened to the Shankcast and you enjoy it then please rate and review the show! Thank you so much for your support of what we’re doing and for tuning in each and every week. Also, if you’re looking for more detailed, in depth instructional materials make sure to subscribe to the Essential Tennis Podcast which Ian Westermann has hosted for over 10 years, and head over to www.essentialtennis.com where you can find hundreds of free video, audio, and written lessons designed to help you play your best.",
+        "itunes_id": "1476878124",
+        "content_rating": "clean",
+        "artist_name": "Essential Tennis LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shankcast-a-tennis-banter-podcast/id1476878124",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476878124",
+        "website": "https://shankcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Great Shot Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/greatshottcpn",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 60,
+        "average_rating": 4.9,
+        "description": "The Great Shot Podcast is a banterous podcast detailing the latest stories, results, and hot takes on the ATP World Tour, WTA Tour, and Collegiate Tennis.",
+        "itunes_id": "1290618412",
+        "content_rating": "clean",
+        "artist_name": "Cracked Racquets/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/great-shot-podcast/id1290618412",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1290618412",
+        "website": "https://www.crackedracquets.com/category/podcasts/great-shot-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Mini-Break",
+        "rss_feed_url": "https://feeds.megaphone.fm/minibreaktcpn",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.7,
+        "description": "The Mini-Break is your daily podcast for the biggest storylines, results, and controversies from the tennis world.",
+        "itunes_id": "1455067534",
+        "content_rating": "clean",
+        "artist_name": "Cracked Racquets/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-mini-break/id1455067534",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455067534",
+        "website": "https://www.crackedracquets.com/category/podcasts/mini-break/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The ITA College Tennis Coaches Podcast",
+        "rss_feed_url": "https://feed.podbean.com/itacollegetenniscoaches/feed.xml",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "On \"The College Tennis Coaches Podcast,\" Dave Mullins and his guests deliver the best and most correct tennis information through discussions. Current coaching topics, trends, guests, and some fun along the way will make this your new favorite tennis knowledge podcast. This is a podcast that will host a series of discussions with current and previous coaches in the tennis industry.",
+        "itunes_id": "1484519564",
+        "content_rating": "clean",
+        "artist_name": "ITA College Tennis Coaches",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-ita-college-tennis-coaches-podcast/id1484519564",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484519564",
+        "website": "https://itacollegetenniscoaches.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Functional Tennis Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/401902.rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Presented by Fabio Molle, The Functional Tennis Podcast is a downloadable audio show featuring weekly interviews from all people in the tennis. We will have pro tennis players, coaches, parents, trainers, physio, agents, business owners and more. Huge thanks to our Podcast sponsors HEAD.",
+        "itunes_id": "1469714268",
+        "content_rating": "clean",
+        "artist_name": "Fabio Molle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-functional-tennis-podcast/id1469714268",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469714268",
+        "website": "https://www.FunctionalTennis.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "At The Net Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/atthenetpodcast/rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Join Craig Bell and AJ Chabria, as they take a humorous look at the great game of tennis. These two walk into our studio with a combined 100+ years’ experience as competitors, coaches, writers, and mentors. Though they don’t always agree on the issues, their knowledge does run deep.... almost as deep as their BS. \nEpisodes feature renowned guests, perspectives on sports, music, comedy, film, fitness, nutrition, travel, leisure, technology, and gear reviews — all with an interactive pop culture bent. Enjoy!",
+        "itunes_id": "1474428465",
+        "content_rating": "clean",
+        "artist_name": "Tex-Mex Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/at-the-net-podcast/id1474428465",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474428465",
+        "website": "https://www.atthenetpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Passing Shot Tennis Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/207823.rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.7,
+        "description": "The Passing Shot Tennis Podcast is the must-listen tennis catch-up service for all fans looking for a fresh slice on the world’s favourite racket sport. The latest news, results and major talking points from the ATP, WTA circuits as well as British Tennis delivered every couple of weeks with your hosts the 'Wandering Wildcard' Joel and self-confessed 'Queen of Clay' Kim!",
+        "itunes_id": "1425699094",
+        "content_rating": "clean",
+        "artist_name": "Joel Girling & Kim Mackenzie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-passing-shot-tennis-podcast/id1425699094",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1425699094",
+        "website": "http://www.thepassingshot.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DIE TENNISPROLETEN",
+        "rss_feed_url": "https://1tpdhtb.podcaster.de/tennisproleten.rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "DIE TENNISPROLETEN Tobias Ambrosius und Daniel Hofmann diskutieren die aktuellen Themen des Tennissports. Ob dramatische Matches, überraschende Stuhlwürfe oder Aufschläge von unten. Hier gibt es zu allen Themen eine klare Meinung. Auch wenn sie nicht immer ganz ernst gemeint sein mag.",
+        "itunes_id": "1465404635",
+        "content_rating": "clean",
+        "artist_name": "Tobias Ambrosius, Daniel Hofmann",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/die-tennisproleten/id1465404635",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465404635",
+        "website": "https://1blt0mq.podcaster.de/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On Serve with LZ Granderson",
+        "rss_feed_url": "https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=26321176",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "On Serve with LZ Granderson is a glimpse into the mind of a player. How do they manage their emotions during a match? What do they do for fun? How do they maintain a healthy mindset in a game that often times plays tricks on their mind. You don't have to be a tennis know-it-all to listen. You just have to be curious about the human spirit.",
+        "itunes_id": "1471347810",
+        "content_rating": "clean",
+        "artist_name": "ESPN, LZ Granderson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-serve-with-lz-granderson/id1471347810",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471347810",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Thirty Love: Conversations About Tennis",
+        "rss_feed_url": "http://thirtylove.libsyn.com/rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 27,
+        "average_rating": 4.3,
+        "description": "Conversations about tennis, always under 30:00, with host Carl Bialik and guests.",
+        "itunes_id": "1229936240",
+        "content_rating": "clean",
+        "artist_name": "Carl Bialik",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/thirty-love-conversations-about-tennis/id1229936240",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1229936240",
+        "website": "http://thirtylove.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Addicted to Sets Tennis Podcast",
+        "rss_feed_url": "https://feeds.simplecast.com/r5M8IRHE",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.4,
+        "description": "This is a podcast for amateur tennis players like you. Each episode is a free audio tennis drill on a variety of topics to improve your game.  Teaching tennis pro Ryan Vega of Vega Tennis is co-host on the show sharing his tennis  expertise, while co-host Michelle Nipko asks all of the questions us club players want to know. Get addicted!",
+        "itunes_id": "1472941585",
+        "content_rating": "explicit",
+        "artist_name": "Michelle Nipko, Ryan Vega",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/addicted-to-sets-tennis-podcast/id1472941585",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472941585",
+        "website": "https://addictedtosets.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Court-Side with Beilinson Tennis",
+        "rss_feed_url": "https://feeds.megaphone.fm/courtsidetcpn",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "The \"Court-Side with Beilinson Tennis\" podcast brings you tennis, tennis and more tennis. With podcast interviews with guests deeply rooted in the tennis industry, \"Court-Side with Beilinson Tennis\" brings the tennis world to you.  You will hear from a variety of guests including some touring professionals, some touring coaches, some collegiate coaches along with some high school coaches.  You will also hear from certain individuals outside of the playing and coaching arena, with each person having made a great impact on this sport.",
+        "itunes_id": "1289070669",
+        "content_rating": "clean",
+        "artist_name": "David Beilinson/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/court-side-with-beilinson-tennis/id1289070669",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1289070669",
+        "website": "beilinsontennis.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Find Your Aha Moment",
+        "rss_feed_url": "https://anchor.fm/s/b72f5c8/podcast/rss",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The Podcast for Tennis Pros and Players.\n\nBrian Lutz brings you daily actionable insight and storytelling inspired by tennis players just like you. Authentic commentary and critical thinking help take your coaching to the next level on and off the tennis court everyday in under 10 minutes.\n\nSubscribe to get notified every morning for a fresh episode.",
+        "itunes_id": "1470805418",
+        "content_rating": "clean",
+        "artist_name": "Brian Lutz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/find-your-aha-moment/id1470805418",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470805418",
+        "website": "Backhand-City.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "US Open Preview Podcast with Steve Weissman",
+        "rss_feed_url": "https://feeds.megaphone.fm/tcpnusopenpreview",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Tennis Channel's Steve Weissman discusses key storylines and his predictions for the upcoming 2019 US Open",
+        "itunes_id": "1477542917",
+        "content_rating": "clean",
+        "artist_name": "Tennis Channel Inc/Tennis Channel Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/us-open-preview-podcast-with-steve-weissman/id1477542917",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477542917",
+        "website": "Tennis,com/Podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chip & Charge – meinsportpodcast.de",
+        "rss_feed_url": "https://meinsportpodcast.de/tennis/chip-charge/feed/",
+        "categories": [
+          "Tennis",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "wöchentlich \n Der beste deutschsprachige Tennis-Podcast mit Andreas Thies und dem freien Tennis-Journalisten Philipp Joubert. Beide fassen in ihrer wöchentlichen Folge die Tenniswoche zusammen und bieten Dir darüber hinaus Dailys zu den Grand Slams. Jetzt abonnieren und richtig eintauchen in die Welt des Tennis-Sports. \n Äußerungen unserer Gesprächspartner und Moderatoren geben deren eigene Auffassungen wieder. meinsportpodcast.de macht sich Äußerungen seiner Gesprächspartner in Interviews und Diskussionen nicht zu eigen.",
+        "itunes_id": "1058810987",
+        "content_rating": "clean",
+        "artist_name": "meinsportpodcast.de",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chip-charge-meinsportpodcast-de/id1058810987",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1058810987",
+        "website": "https://meinsportpodcast.de/tennis/chip-charge/feed/"
+      }
+    }
+  ]
+}

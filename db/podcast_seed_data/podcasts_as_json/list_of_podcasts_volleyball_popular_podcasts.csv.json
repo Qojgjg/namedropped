@@ -1,0 +1,197 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "SANDCAST: Beach Volleyball with Tri Bourne and Travis Mewhirter",
+        "rss_feed_url": "https://sandcast.podbean.com/feed.xml",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 93,
+        "average_rating": 4.8,
+        "description": "SANDCAST is the leading podcast for beach volleyball and stories in the volleyball world. Hosts Tri Bourne and Travis Mewhirter take listeners into the world of the AVP, FIVB, p1440 and any other professional beach volleyball outlets, digging deep into the lives of the players both on and off the court as well as all of the top influencers in the game.",
+        "itunes_id": "1304030110",
+        "content_rating": "explicit",
+        "artist_name": "Travis Mewhirter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sandcast-beach-volleyball-tri-bourne-travis-mewhirter/id1304030110",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1304030110",
+        "website": "https://sandcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside the Coaching Mind with Terry Pettit",
+        "rss_feed_url": "http://terrypettit.com/feed/podcast/",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.7,
+        "description": "Inside the Coaching Mind is a podcast on coaching, leadership, and team-building through the lens of the sport of volleyball. Despite having less than two million people, it is not unusual for there to be more young women, per capita, playing college volleyball from Nebraska than any other state. How has this happened? We talk with college coaches, high school coaches, and former players to gain insight into this phenomenon. This is not a story that focuses on technical skills or tactics, but rather a story about passion, vision, and leadership that understands the difference between talent and skill. Whether you are an athletic coach, or the leader of a business team you will find this series compelling.",
+        "itunes_id": "1474851442",
+        "content_rating": "clean",
+        "artist_name": "Terry Pettit Coaching",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-the-coaching-mind-with-terry-pettit/id1474851442",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474851442",
+        "website": "http://terrypettit.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Around The Block",
+        "rss_feed_url": "http://around-the-block.libsyn.com/rss",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 27,
+        "average_rating": 4.2,
+        "description": "Around the Block is an in-depth, opinionated, and thought provoking podcast that covers the rapidly growing collegiate, club, and high school volleyball scene. Co-hosts Kelly Surrency and Coley Pawlikowski draw on their expertise to enlighten, intrigue, and entertain every volleyball enthusiast.",
+        "itunes_id": "1314136455",
+        "content_rating": "clean",
+        "artist_name": "PrepVolleyball.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/around-the-block/id1314136455",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1314136455",
+        "website": "https://prepvolleyball.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Starting Point with Casey Jennings",
+        "rss_feed_url": "https://feed.podbean.com/startingpoint/feed.xml",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.8,
+        "description": "Candid conversations about childhood, adolescence, and upbringing. A look back into people's histories and the pillars that have enabled them to become who they are today and who they are striving to become on a daily.",
+        "itunes_id": "1468319416",
+        "content_rating": "explicit",
+        "artist_name": "startingpoint",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/starting-point-with-casey-jennings/id1468319416",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468319416",
+        "website": "https://startingpoint.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dig City - Purdue Volleyball Podcast",
+        "rss_feed_url": "https://feeds.transistor.fm/dig-city-purdue-volleyball-podcast",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Purdue Volleyball coach Dave Shondell and radio voice Daniel Gilman talk about the Boilermakers and the world of college volleyball.",
+        "itunes_id": "1484818403",
+        "content_rating": "clean",
+        "artist_name": "Purdue Volleyball",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dig-city-purdue-volleyball-podcast/id1484818403",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484818403",
+        "website": "https://digcity.transistor.fm/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "FiveOne Volleyball",
+        "rss_feed_url": "https://fiveonevb.podbean.com/feed/",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A professional indoor volleyball podcast with a focus on the major leagues of Europe and international competition. More content can be found at fiveonevb.com",
+        "itunes_id": "1451778351",
+        "content_rating": "clean",
+        "artist_name": "fiveonevb",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fiveone-volleyball/id1451778351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451778351",
+        "website": "https://fiveonevb.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DIII Women's Volleyball",
+        "rss_feed_url": "https://anchor.fm/s/cc2e820/podcast/rss",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "D3VbWest.Com presents podcasts discussing NCAA DIII (D3) women's volleyball.",
+        "itunes_id": "1473352216",
+        "content_rating": "clean",
+        "artist_name": "Robert Rochelle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/diii-womens-volleyball/id1473352216",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473352216",
+        "website": "www.d3vbwest.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bang Out Volleyball",
+        "rss_feed_url": "https://anchor.fm/s/e9e920c/podcast/rss",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Hey guys, welcome to Bang Out Volleyball. I created this to share volleyball stories, tips, and advice to my audience. So hopefully you enjoy!",
+        "itunes_id": "1482278836",
+        "content_rating": "clean",
+        "artist_name": "Bryan Ronsayro",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bang-out-volleyball/id1482278836",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482278836",
+        "website": "YouTube.com/BangOutVolleyball"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BJU Volleyball Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e785628/podcast/rss",
+        "categories": [
+          "Volleyball",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Diving into the lives of our BJU women’s volleyball players and coaches!",
+        "itunes_id": "1482191166",
+        "content_rating": "clean",
+        "artist_name": "BJU Bruins Volleyball Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bju-volleyball-podcast/id1482191166",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482191166",
+        "website": "https://anchor.fm/BJUBruinsVball"
+      }
+    }
+  ]
+}

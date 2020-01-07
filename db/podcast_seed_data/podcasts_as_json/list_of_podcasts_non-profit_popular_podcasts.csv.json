@@ -1,0 +1,3247 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Sounds Good with Branden Harvey",
+        "rss_feed_url": "http://soundsgood.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 319,
+        "average_rating": 4.9,
+        "description": "Sounds Good With Branden Harvey is a weekly podcast hosting hopeful conversations with optimists and world-changers about the unique experiences that drive them to use their influence for good. Episodes are released every Monday.",
+        "itunes_id": "1080864041",
+        "content_rating": "clean",
+        "artist_name": "Good Good Good",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sounds-good-with-branden-harvey/id1080864041",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1080864041",
+        "website": "http://soundsgoodpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Macro Musings with David Beckworth",
+        "rss_feed_url": "https://macromusings.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 154,
+        "average_rating": 4.9,
+        "description": "Hosted by David Beckworth of the Mercatus Center, Macro Musings is a podcast which pulls back the curtain on the important macroeconomic issues of the past, present, and future.",
+        "itunes_id": "1099277290",
+        "content_rating": "clean",
+        "artist_name": "Mercatus Center",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/macro-musings-with-david-beckworth/id1099277290",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1099277290",
+        "website": "http://macromarketmusings.blogspot.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "PM Point of View",
+        "rss_feed_url": "http://pmiwdc.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.8,
+        "description": "Welcome to Project Management Point-of-View (PM-POV).\n\nThis podcast series gives you brief and insightful conversations with PM practitioners in a variety of disciplines.\n\nHost Kendall Lott draws on his experience as a PM, as CEO of M Powered Strategies and as former CEO of PMIWDC to explore how project managers create value in surprising places.\n\nOur guests discuss their unique perspectives on project management, its uses, its challenges, its changes, and its future.",
+        "itunes_id": "912787200",
+        "content_rating": "clean",
+        "artist_name": "Final Milestone Productions & M Powered Strategies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pm-point-of-view/id912787200",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=912787200",
+        "website": "https://www.mpoweredstrategies.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Why Service Design Thinking",
+        "rss_feed_url": "http://whyservicedesignthinking.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.8,
+        "description": "Why Service Design Thinking is podcast that helps business to do things better and do better things. Service design is one of the next big competitive advantages in business and it is being used with great success by corporations and other large organizations around the world. But how can a smaller business, a startup, or a nonprofit adopt these innovative techniques?\n\nWe talk with experts in the field and share lots of case studies on how you can engage your customers, create delightful experiences, and build a lasting legacy. Don’t forget to listen until the very end, for this week’s design challenge.\n\nHosted by: Marina Terteryan\n\nWant to keep in touch? Sign up for the mailing list at www.whyservicedesignthinking.com for access to useful freebies and bonus resources that won’t be available anywhere else.\n\nLike what you hear? Please subscribe, rate, and review us!",
+        "itunes_id": "1104134900",
+        "content_rating": "clean",
+        "artist_name": "Why Service Design Thinking",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/why-service-design-thinking/id1104134900",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1104134900",
+        "website": "http://whyservicedesignthinking.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "GreenBiz 350",
+        "rss_feed_url": "http://feeds.feedburner.com/greenbiz350",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.9,
+        "description": "GreenBiz 350 is a weekly podcast taking you behind the headlines in green business. Original stories and interviews cover renewable energy, clean technologies, sustainable supply chains, cities, food, climate change and more.",
+        "itunes_id": "1056734780",
+        "content_rating": "clean",
+        "artist_name": "Joel Makower and Heather Clancy",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/greenbiz-350/id1056734780",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1056734780",
+        "website": "https://www.greenbiz.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Successful Nonprofits Podcast",
+        "rss_feed_url": "http://nonprofits.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Management"
+        ],
+        "rating_count": 33,
+        "average_rating": 4.7,
+        "description": "Successful Nonprofits Podcast brings you fresh ideas and featured conversations with nonprofit thought leaders.",
+        "itunes_id": "1130791158",
+        "content_rating": "clean",
+        "artist_name": "The Goldenburg Group, LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/successful-nonprofits-podcast/id1130791158",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1130791158",
+        "website": "http://nonprofits.libsyn.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Facing Life",
+        "rss_feed_url": "http://frontrow.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness"
+        ],
+        "rating_count": 196,
+        "average_rating": 5,
+        "description": "What can we learning about living life, from those fighting for it? \n\nIn 2005, Front Row Foundation began helping kids and adults with life threatening illnesses to have a front row experience at the live event of their dreams. \n\nWe want to help you turn ordinary moments into extraordinary experiences, by sharing stories of others who've done exactly that. \n\nIf you want a deeper dive, check out \"The Front Row Factor\" book on Amazon.   \n\nJon",
+        "itunes_id": "1044871469",
+        "content_rating": "clean",
+        "artist_name": "Jon Vroman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/facing-life/id1044871469",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1044871469",
+        "website": "http://www.frontrowfoundation.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "It's the Little Things",
+        "rss_feed_url": "http://littlethings.strongtowns.org/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.5,
+        "description": "Want to better your community but don’t know where to start? Enter It’s the Little Things: a weekly Strong Towns podcast that gives you the wisdom and encouragement you need to take the small yet powerful actions that can make your city or town stronger.",
+        "itunes_id": "1435989066",
+        "content_rating": "clean",
+        "artist_name": "Strong Towns",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/its-the-little-things/id1435989066",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435989066",
+        "website": "http://littlethings.strongtowns.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Affordable Housing Podcast",
+        "rss_feed_url": "https://www.EdenHousing.org/podcast/edenHousing.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.3,
+        "description": "The Affordable Housing Podcast, brought to you by Eden Housing, explores the issues and challenges being faced in affordable housing today. From the impact of the sub-prime crisis to green building, host Joanne Greene offers compelling conversation with industry insiders. Topics include regional and national trends, inclusionary housing, government funding, and the role of private developers in helping to provide workforce housing.",
+        "itunes_id": "280734648",
+        "content_rating": "clean",
+        "artist_name": "Eden Housing",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/affordable-housing-podcast/id280734648",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=280734648",
+        "website": "https://www.edenhousing.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Leading Learning  - The Show for Leaders in the Business of Lifelong Learning, Continuing Education,...",
+        "rss_feed_url": "http://leadinglearning.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.9,
+        "description": "The market for continuing education, professional development, and lifelong learning is large and evolving rapidly. Competition is growing and learners have more options than ever. Leading Learning is the podcast for learning business leaders who want to thrive in this new landscape. Each week the hosts, Jeff Cobb and Celisa Steele, provide actionable insights based on their own deep experience and expertise or invite in experts and practitioners to share their perspectives.",
+        "itunes_id": "1037455598",
+        "content_rating": "clean",
+        "artist_name": "Tagoras - Jeff Cobb and Celisa Steele",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/leading-learning-show-for-leaders-in-business-lifelong/id1037455598",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1037455598",
+        "website": "http://leadinglearning.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "New Thinking, a Center for Court Innovation Podcast",
+        "rss_feed_url": "https://newthinking.blubrry.net/feed/podcast/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.9,
+        "description": "The Center for Court Innovation is a non-profit think tank based in New York that helps the justice system aid victims, reduce crime, and improve public trust in justice. Every day, the Center works with people who are making a difference on the ground--police chiefs testing new approaches to local crime, prosecutors experimenting with alternative sanctions, judges looking for new solutions to complex problems. NEW THINKING introduces listeners to the best and the brightest in the field: practitioners and academics who are spearheading meaningful justice reforms across the country and around the globe.",
+        "itunes_id": "275221709",
+        "content_rating": null,
+        "artist_name": "Center for Court Innovation",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/new-thinking-a-center-for-court-innovation-podcast/id275221709",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=275221709",
+        "website": "https://www.courtinnovation.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Do Good Better Podcast: social innovation | nonprofit sector | careers in social good | social enter...",
+        "rss_feed_url": "https://trinaisakson.com/feed/podcast/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The Do Good Better Podcast:  Frank talk about social innovation and the nonprofit sector.\n\n\n\nGain insight on trends and issues facing social innovators, social entrepreneurs, socially responsible businesses, and nonprofit leaders.\n\n\n\nHost Trina Isakson blends rants, conversations with expert guests, and listener Q&A to share knowledge about social innovation, social enterprise, corporate social responsibility, social finance, social purpose businesses, careers in the nonprofit sector, social justice, board governance, volunteerism, philanthropy, and more.\n\n\n\nHave a question you want answered in the Q&A? Record it/write it and email it to trina@27shift.com.\n\n\n\nConnect with host Trina Isakson on Twitter at @telleni and on trinaisakson.com",
+        "itunes_id": "998002404",
+        "content_rating": "clean",
+        "artist_name": "Trina Isakson: strategist and researcher for social innovators, nonprofit sector, charities",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/do-good-better-podcast-social-innovation-nonprofit/id998002404",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=998002404",
+        "website": "https://trinaisakson.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Healthcare Supply Chain Best Practices Podcast",
+        "rss_feed_url": "https://ryokl1313.audioacrobat.com/rss/supplybest.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 7,
+        "average_rating": 3.7,
+        "description": "Join Robert T. Yokl and his special guests as they discuss innovative methods, practices and tools that you can use to reduce your heatlhcare organization's supply chain spend to the lowest acceptable levels while improving quality in the process.",
+        "itunes_id": "179492156",
+        "content_rating": "clean",
+        "artist_name": "Robert T. Yokl",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/healthcare-supply-chain-best-practices-podcast/id179492156",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=179492156",
+        "website": "http://www.svahsolutions.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Word of Joy",
+        "rss_feed_url": "https://anchor.fm/s/dcf8944/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Jennifer is a conference speaker, Bible teacher, writer, and founder of Word of Joy. She is a graduate of Samford University in Birmingham, Alabama and Southwestern Baptist Theological Seminary in Fort Worth, Texas. To purchase one of Jennifer’s books visit us online at www.wordofjoy.org",
+        "itunes_id": "1484736569",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Mathewson Speer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/word-of-joy/id1484736569",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484736569",
+        "website": "https://anchor.fm/wordofjoy"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TSM Podcast",
+        "rss_feed_url": "https://anchor.fm/s/f54d440/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "TSM is a podcast created to Train your minds, Support your goals, and Minister to your visions. On this podcast, I will challenge the listeners to embrace conflict and uncomfortable topics as we turn oppositions into opportunities.",
+        "itunes_id": "1484497303",
+        "content_rating": "clean",
+        "artist_name": "Terrence Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tsm-podcast/id1484497303",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484497303",
+        "website": "https://anchor.fm/tsmpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "People Places Planet Podcast",
+        "rss_feed_url": "https://feeds.transistor.fm/people-places-planet-podcast",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 8,
+        "average_rating": 4.1,
+        "description": "Welcome to People Places Planet Podcast, the official podcast of the Environmental Law Institute, a nonprofit, nonpartisan organization working to ensure a healthy environment, prosperous economies, and vibrant communities, founded on the rule of law.",
+        "itunes_id": "1448414907",
+        "content_rating": "clean",
+        "artist_name": "Environmental Law Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/people-places-planet-podcast/id1448414907",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448414907",
+        "website": "https://www.eli.org/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Time + Talent Podcast",
+        "rss_feed_url": "http://timeandtalentpod.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Leading volunteers is challenging, but it's rewarding too! Tobi Johnson of VolunteerPro and Jennifer Bennett of VolunteerMatch team up to chat with the best and brightest in our field. Looking for fresh ideas in volunteer engagement? This podcast is for you!",
+        "itunes_id": "1479210951",
+        "content_rating": "clean",
+        "artist_name": "Tobi Johnson & Jennifer Bennett: Volunteer management experts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/time-talent-podcast/id1479210951",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479210951",
+        "website": "http://timeandtalentpod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talking Industrial Automation",
+        "rss_feed_url": "http://controlsys.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.9,
+        "description": "The Talking Industrial Automation Podcast is a show to help you get to know the people that make modern manufacturing and processing possible. Along the way we will touch on integration technology, trends and challenges. If you are a manufacturer, end user/client, supplier or system integrator interested in industrial automation, I hope you will enjoy the insights CSIA Members will bring to this podcast. CSIA is the Control System Integrators Association, and exists to improve the professionalism of system integrator businesses.",
+        "itunes_id": "1336844646",
+        "content_rating": "clean",
+        "artist_name": "Control System Integrators Association (CSIA)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talking-industrial-automation/id1336844646",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1336844646",
+        "website": "https://www.csiaexchange.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Open Space Radio: Parks and Recreation Trends",
+        "rss_feed_url": "http://nrpaopenspace.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.9,
+        "description": "Open Space Radio covers trends in parks and recreation, shares news from the field, and interviews park and recreation professionals making a difference in their communities. Open Space Radio is the official podcast of the National Recreation and Park Association (NRPA)  — Because everyone deserves a great park.",
+        "itunes_id": "1266428284",
+        "content_rating": "clean",
+        "artist_name": "National Recreation and Park Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/open-space-radio-parks-and-recreation-trends/id1266428284",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1266428284",
+        "website": "http://nrpaopenspace.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Smart Communications Podcast",
+        "rss_feed_url": "https://feeds.fireside.fm/bigduck/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 41,
+        "average_rating": 5,
+        "description": "The Smart Communications Podcast helps busy nonprofit leaders build their communications skills and develop their organization’s voice. Every episode shares insights and practical tips to help you leverage strategic communications to advance your nonprofit’s mission.",
+        "itunes_id": "1368653994",
+        "content_rating": "clean",
+        "artist_name": "Big Duck",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-smart-communications-podcast/id1368653994",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1368653994",
+        "website": "https://bigducknyc.com/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Doing Good Well",
+        "rss_feed_url": "https://anchor.fm/s/c8444f8/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.6,
+        "description": "Callie Cowan brings listeners along her faith journey as a busy working mom and wife. \n\nWith her background as an attorney, coupled with her experience in nonprofit leadership and ministry to the foster care community, Callie brings a unique perspective to life and family.",
+        "itunes_id": "1472051593",
+        "content_rating": "clean",
+        "artist_name": "Callie Cowan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/doing-good-well/id1472051593",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472051593",
+        "website": "https://anchor.fm/doinggoodwell"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The SPE Podcast",
+        "rss_feed_url": "https://feed.podbean.com/spepodcast/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "The SPE Podcast is powered by the Society of Petroleum Engineers, whose vision is to advance the oil and gas community’s ability to meet the world’s energy demands in a safe, environmentally responsible, and sustainable manner.  Join the conversation on all of SPE’s social media platforms using #SPEpodcast.  Learn more at spe.org",
+        "itunes_id": "1481200110",
+        "content_rating": "clean",
+        "artist_name": "The SPE Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-spe-podcast/id1481200110",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481200110",
+        "website": "https://spepodcast.podbean.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Live and Lead for Impact with Kirsten E. Ross",
+        "rss_feed_url": "http://defeatthedrama.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 159,
+        "average_rating": 4.9,
+        "description": "You were born with individual strengths and a unique purpose. Don’t let fears, false beliefs, or life’s happenings diminish your influence!  \n\t\nIt’s time to Live and Lead for Impact!\n\nHost, Kirsten Ross, expert of transformation, will help you Defeat the Drama and Overcome the Trauma that can stop you in your tracks.\n\nYou’ll gain focus, find confidence, and take bold action…. Unleash passionate, purposeful you!   \n\nMake your impact as a business leader, family business employee, volunteer, parent, mom, or dad.  Find the tenacity to be a warrior for your unique impact! Let’s Go!!",
+        "itunes_id": "889610758",
+        "content_rating": "clean",
+        "artist_name": "Kirsten E. Ross Expert of Transformation - Make Your Unique Impact",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/live-and-lead-for-impact-with-kirsten-e-ross/id889610758",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=889610758",
+        "website": "http://podcast.defeatthedrama.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Today's Walk Radio Podcast",
+        "rss_feed_url": "http://feed.theplatform.com/f/IfSiAC/v4aqJqD5Rs9s",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 36,
+        "average_rating": 4.9,
+        "description": "Monday through Friday radio program Today's Walk.  featuring the messages of Dr. Roger Spradlin, Senior-Co-Pastor of Valley Baptist Church in Bakersfield, CA.",
+        "itunes_id": "283062441",
+        "content_rating": "clean",
+        "artist_name": "Valley Baptist Church",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/todays-walk-radio-podcast/id283062441",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=283062441",
+        "website": "www.valleybaptist.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inspired Nonprofit Leadership",
+        "rss_feed_url": "https://inspirednonprofitleadership.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "This podcast is a place for nonprofit leaders to gain insights, tips, inspiration, and encouragement to unleash their potential.",
+        "itunes_id": "1446218521",
+        "content_rating": "clean",
+        "artist_name": "Mary Hiland",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inspired-nonprofit-leadership/id1446218521",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1446218521",
+        "website": "https://www.hilandconsulting.org/podcast-episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fundraising Voices from RNL",
+        "rss_feed_url": "http://ruffalonlfm.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.4,
+        "description": "This podcast features conversations with fundraisers, researchers and thought leaders to help propel your fundraising results.",
+        "itunes_id": "1046737870",
+        "content_rating": "clean",
+        "artist_name": "Ruffalo Noel Levitz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fundraising-voices-from-rnl/id1046737870",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1046737870",
+        "website": "https://www.ruffalonl.com/higher-education-fundraising-management/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "99 for 1",
+        "rss_feed_url": "https://anchor.fm/s/ee5a688/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "99 for 1 is a podcast of real life stories meant to inspire ordinary people to do extraordinary things that change our world.  Support this podcast: https://anchor.fm/99for1/support",
+        "itunes_id": "1485571008",
+        "content_rating": "clean",
+        "artist_name": "Will Cravens",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/99-for-1/id1485571008",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485571008",
+        "website": "https://anchor.fm/99for1"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Environmental and Energy Study Institute (EESI)",
+        "rss_feed_url": "https://www.eesi.org/rss/audio-files",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 4,
+        "average_rating": 2.8,
+        "description": "EESI is best known for its non-partisan Congressional briefings on key energy and environmental issues. Topics include climate change, renewable energy, and energy efficiency. Learn more at www.eesi.org/briefings http://www.eesi.org/briefings.",
+        "itunes_id": "944019710",
+        "content_rating": "clean",
+        "artist_name": "Environmental and Energy Study Institute (EESI)",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/environmental-and-energy-study-institute-eesi/id944019710",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=944019710",
+        "website": "http://www.eesi.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Scholarly Kitchen Podcast",
+        "rss_feed_url": "https://www.sspnet.org/scholarlykitchen/podcast/feed/tsk_podcast.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Periodic audiocasts about trends and events in the world of scholarly publishing, from the authors of the Society for Scholarly Publishing's Scholarly Kitchen blog (http://scholarlykitchen.sspnet.org/ ).",
+        "itunes_id": "648506894",
+        "content_rating": "clean",
+        "artist_name": "The Scholarly Kitchen",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-scholarly-kitchen-podcast/id648506894",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=648506894",
+        "website": "http://www.sspnet.org/scholarlykitchen/podcast/feed/tsk_podcast.xml"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sr Plus",
+        "rss_feed_url": "http://srplus.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Science",
+          "Social Sciences"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Sr+ is a positively reinforcing podcast for Behavior Analysts (BCBA), autism professionals, and leaders of human service organizations.  Sr+ is brought to you by Arizona Autism United (www.AZAunited.org), a nonprofit organization with a mission to help as many families as possible with individualized supports.  Sr+ features interviews with colleagues and professionals in various fields, including Applied Behavior Analysis (ABA).  The show is hosted by Dr. Aaron Blocher-Rubin, BCBA and CEO of AZA United.  \n\nTo contact the host, send a message through LinkedIn: https://www.linkedin.com/in/aaron-blocher-rubin-2a054526/",
+        "itunes_id": "1377422544",
+        "content_rating": "clean",
+        "artist_name": "Dr. Aaron Blocher-Rubin, BCBA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sr-plus/id1377422544",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1377422544",
+        "website": "http://srplus.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Using the Whole Whale Podcast",
+        "rss_feed_url": "https://wholewhale.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 60,
+        "average_rating": 5,
+        "description": "We interview leading experts working in the field of technology and marketing that are working on using tech for social impact. the podcast explores what tech is working to create impact, and how data is being used effectively within elite organizations. Past guests have included Google Analytics Chief Evangelist Avinash Kaushik, and digital experts from DoSomething.org, Kiva, The Environmental Defense Fund, The Michael J. Fox Foundation, Donor's Choose and many others.",
+        "itunes_id": "837690450",
+        "content_rating": "clean",
+        "artist_name": "WholeWhale.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/using-the-whole-whale-podcast/id837690450",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=837690450",
+        "website": "https://wholewhale.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Remarkable Credit Union Podcast",
+        "rss_feed_url": "http://pixelspoke.pagatim.libsynpro.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.4,
+        "description": "This podcast is aimed to help credit union leaders and marketers think outside of the box about marketing, technology and community impact. Each episode we bring on guests from inside and outside of the industry who will challenge your preconceptions about business as usual.",
+        "itunes_id": "1038613129",
+        "content_rating": "clean",
+        "artist_name": "Pixelspoke",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-remarkable-credit-union-podcast/id1038613129",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1038613129",
+        "website": "https://www.pixelspoke.com/remarkable-credit-union-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nonprofit Storytelling Conference Living Room Podcast",
+        "rss_feed_url": "https://npstory.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Learn how to fundraise and connect with donors by telling better stories. During these podcasts, you'll learn how to tell more engaging stories from various presenters from the Nonprofit Storytelling Conference.",
+        "itunes_id": "1480314188",
+        "content_rating": "clean",
+        "artist_name": "Nonprofit Storytelling Conference",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nonprofit-storytelling-conference-living-room-podcast/id1480314188",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480314188",
+        "website": "https://nonprofitstorytellingconference.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Leading From the Inside Out Podcast",
+        "rss_feed_url": "https://episodes.rockwoodleadership.org/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Since 2000, Rockwood Leadership Institute has transformed more than 7,000 social change leaders with trainings, curriculum, and more. Now, we're collecting all that wisdom, inspiration, and information in a podcast to make it available and accessible to leaders everywhere.",
+        "itunes_id": "1454305074",
+        "content_rating": "clean",
+        "artist_name": "Rockwood Leadership Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-leading-from-the-inside-out-podcast/id1454305074",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454305074",
+        "website": "https://rockwoodleaders.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "7-Figure Fundraising Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/7ff",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Welcome to the 7-Figure Fundraising Podcast. Each episode features a successful nonprofit leader who explains a fundraising strategy or tactic to increase your impact and rapidly grow your organization.",
+        "itunes_id": "1478958178",
+        "content_rating": "clean",
+        "artist_name": "7 Figure Fundraising",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/7-figure-fundraising-podcast/id1478958178",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478958178",
+        "website": "https://7figurefundraising.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "InspirED School Marketers SPARKCAST",
+        "rss_feed_url": "http://inspiredschoolmarketers.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.9,
+        "description": "The InspirED School Marketers Sparkcast hosts deep conversations with administrators and consultants about private school MarCom to help make your job easier. For more brilliant ideas and brain food and read show notes, visit inspiredsm.com",
+        "itunes_id": "1087523279",
+        "content_rating": "clean",
+        "artist_name": "InspirED School Marketers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inspired-school-marketers-sparkcast/id1087523279",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1087523279",
+        "website": "http://www.inspiredsm.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Age of Organizational Effectiveness -- hosted by Charles Chandler",
+        "rss_feed_url": "http://feeds.feedburner.com/AgeOfOEpod",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.3,
+        "description": "The podcast explores stories about organizations and their performance, as well as relationships between management theory and practice.",
+        "itunes_id": "1082242982",
+        "content_rating": "clean",
+        "artist_name": "Charles Chandler",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/age-organizational-effectiveness-hosted-by-charles/id1082242982",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1082242982",
+        "website": "https://www.ageofoe.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fully Funded Podcast with Mike Kim & Mary Valloni",
+        "rss_feed_url": "http://fullyfunded.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.8,
+        "description": "Many missionaries feel underequipped to raise support in today's world. Mike Kim and Mary Valloni teach best-practices in marketing and fundraising to help you grow your donor base and raise more support. For resources visit: fullyfundedpodcast.com.",
+        "itunes_id": "1156365255",
+        "content_rating": "clean",
+        "artist_name": "Mike Kim & Mary Valloni",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fully-funded-podcast-with-mike-kim-mary-valloni/id1156365255",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1156365255",
+        "website": "http://fullyfundedpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Small Firm Philosophy podcast",
+        "rss_feed_url": "http://aicpasmallfirm.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Welcome to the American Institute of CPAs’ Small Firm Philosophy podcast series. We'll talk with leaders from small accounting firms across the country about their philosophies on running a successful practice in today's rapidly changing environment. Hear about topics including, supporting a strong firm culture, running a virtual firm, providing services to a niche industry like the craft brewery business, planning ahead for succession and successfully implementing mergers and acquisitions.",
+        "itunes_id": "1436318429",
+        "content_rating": "clean",
+        "artist_name": "AICPA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/small-firm-philosophy-podcast/id1436318429",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436318429",
+        "website": "http://aicpasmallfirm.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Equal Rights Institute Podcast",
+        "rss_feed_url": "http://equalrightsinstititute.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Politics"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.8,
+        "description": "This is the Equal Rights Institute podcast. It is focused on helping pro-life people to be more persuasive when they communicate with pro-choice people. The main feature of this podcast is a weekly episode of an ERI author reading his or her article, but will also include short clips from our Equipped for Life Course podcast, live speech audio, and ERI updates. Equal Rights Institute is an organization dedicated to training pro-life advocates to think clearly, reason honestly and argue persuasively.",
+        "itunes_id": "1218010449",
+        "content_rating": "clean",
+        "artist_name": "Equal Rights Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-equal-rights-institute-podcast/id1218010449",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1218010449",
+        "website": "http://EqualRightsInstititute.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Small Nonprofit",
+        "rss_feed_url": "https://feeds.buzzsprout.com/208666.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "You are going to change the world. We can help. Running a small nonprofit is not for the faint of heart. With limited resources and fueled by a combination of caffeine and passion, small charity leaders are unsung heroes. The Small Nonprofit podcast, by CharityVillage and The Good Partnership, gives you down-to-earth, practical and actionable expert guidance on how to run a small nonprofit. From leadership and law to fundraising and finance, we’ve got you covered. Forget comparing your organization to the big shops, we’re creating a community of nonprofit leaders who are going to change the world, one small nonprofit at a time.",
+        "itunes_id": "1435361544",
+        "content_rating": "clean",
+        "artist_name": "The Good Partnership and CharityVillage",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-small-nonprofit/id1435361544",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435361544",
+        "website": "http://www.thesmallnonprofit.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nonprofit Jenni Show",
+        "rss_feed_url": "https://nonprofitjenni.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 46,
+        "average_rating": 4.9,
+        "description": "The Nonprofit Jenni Show explores nonprofit management, marketing, and development topics. Host Jenni Hargrove invites professionals from a wide variety of cause areas to weigh in with their experiences. Each episode also includes an Anonymous Q&A segment where Jenni answers controversial questions submitted by nonprofit staff and board members.",
+        "itunes_id": "1340679758",
+        "content_rating": "clean",
+        "artist_name": "Nonprofit Jenni",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nonprofit-jenni-show/id1340679758",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1340679758",
+        "website": "https://www.nonprofitjenni.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Hot Dish",
+        "rss_feed_url": "https://anchor.fm/s/7c28bdc/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 16,
+        "average_rating": 4.9,
+        "description": "On the One Country Project's The Hot Dish, former U.S. Senator Heidi Heitkamp serves up insight into issues affecting rural Americans.",
+        "itunes_id": "1203298546",
+        "content_rating": "clean",
+        "artist_name": "One Country Project",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-hot-dish/id1203298546",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1203298546",
+        "website": "http://onecountryproject.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Association Chat Podcast",
+        "rss_feed_url": "https://getamplified.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.6,
+        "description": "In a world where there's an association for everything, find out what association professionals like you really need to know! Association Chat is a weekly interview series and news channel with host KiKi L'Italien. \n\nJoin the Association Chat online community throughout the week on Twitter using the hashtag #assnchat, on the Association Chat website, or through the Association Chat Facebook Group.\n\nFind out more about Association Chat at https://associationchat.com/.\n\nKiKi L'Italien serves as host for the chat with regular guests and quarterly live events along with creative collaborations with industry thought leaders. KiKi L’Italien is the CEO and founder of Amplified Growth, a digital marketing consultancy specializing in podcasting and video strategy, SEO/SEM, social media, and voice-first search.\n\nhttps://associationchat.com/\nhttps://www.facebook.com/groups/AssociationChat/",
+        "itunes_id": "1221431539",
+        "content_rating": "clean",
+        "artist_name": "KiKi L'Italien: Podcast Host, Speaker, and Engagement Strategist",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/association-chat-podcast/id1221431539",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1221431539",
+        "website": "http://getamplified.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Volunteer Plain Talk",
+        "rss_feed_url": "https://feeds.buzzsprout.com/605416.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Designed for today's leaders of volunteers, Volunteer Plain Talk's Meridian Swift discusses volunteer engagement and impact in all its absurd glory.",
+        "itunes_id": "1481197705",
+        "content_rating": "clean",
+        "artist_name": "Meridian Swift",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/volunteer-plain-talk/id1481197705",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481197705",
+        "website": "https://volunteerplaintalk.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Nonprofit Happy Hour",
+        "rss_feed_url": "https://missionadvancement.com/feed/podcast",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A weekly show that focuses on challenges that nonprofit professionals and board members face when raising money for the missions they serve. We tackle a different issue every week and take questions from our listeners.",
+        "itunes_id": "1203814221",
+        "content_rating": "clean",
+        "artist_name": "Mission Advancement",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-nonprofit-happy-hour/id1203814221",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1203814221",
+        "website": "https://missionadvancement.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Problem Solved: The IISE Podcast",
+        "rss_feed_url": "https://feeds.transistor.fm/problem-solved",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Conversations with industrial and systems engineers about their work, ideas and solutions. This podcast will feature both IISE members and non-members who come from diverse backgrounds in both academia and industry to discuss a wide range of topics as it relates to their work as well as some off-beat topics that we think you, our audience, will find fascinating.",
+        "itunes_id": "1464428322",
+        "content_rating": "clean",
+        "artist_name": "Institute of Industrial and Systems Engineers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/problem-solved-the-iise-podcast/id1464428322",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464428322",
+        "website": "http://podcast.iise.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SVCF Philanthropy Now Podcast",
+        "rss_feed_url": "http://svcfpodcasts.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Tech News"
+        ],
+        "rating_count": 6,
+        "average_rating": 3.7,
+        "description": "Listen to SVCF Philanthropy Now podcast episodes free, on demand. As the largest community foundation in the world, SVCF engages donors and corporations from Silicon Valley, across the country and around the globe to make our region and world better for all. With our podcast series, we explore trends in the world of philanthropy, social impact initiatives in Silicon Valley and beyond, and how SVCF promotes innovative philanthropic solutions to challenging problems. Tune in, subscribe, and for more about SVCF, visit siliconvalleycf.org.",
+        "itunes_id": "1190289691",
+        "content_rating": "clean",
+        "artist_name": "SVCF Community Foundation | Helping Philanthropic Organizations and Donors",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/svcf-philanthropy-now-podcast/id1190289691",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1190289691",
+        "website": "http://svcfpodcasts.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RAPS Podcasts",
+        "rss_feed_url": "https://feeds.buzzsprout.com/261675.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Welcome to RAPS podcasts.  RAPS is the largest global organization of and for those involved with the regulation of healthcare and related products, including medical devices, pharmaceuticals, biologics and nutritional products.",
+        "itunes_id": "1456253798",
+        "content_rating": "clean",
+        "artist_name": "RAPS",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/raps-podcasts/id1456253798",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456253798",
+        "website": "https://www.raps.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Evidence First",
+        "rss_feed_url": "http://mdrcpodcast.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Policymakers talk about solutions, but which ones really work? Join Therese Leung as she talks with MDRC researchers about the best evidence available on education and social programs that serve low-income peop",
+        "itunes_id": "989070666",
+        "content_rating": "clean",
+        "artist_name": "MDRC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/evidence-first/id989070666",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=989070666",
+        "website": "http://mdrcpodcast.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "NAMIC Insurance Uncovered",
+        "rss_feed_url": "https://feeds.buzzsprout.com/165404.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "NAMIC's new podcast, Insurance Uncovered, will cover various topics that affect the property/casualty insurance industry.  This podcast will also feature an interview segment called \"Unscripted\" that will include interviews with inside industry experts and staff on a variety of topics.",
+        "itunes_id": "1363387457",
+        "content_rating": "clean",
+        "artist_name": "NAMIC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/namic-insurance-uncovered/id1363387457",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363387457",
+        "website": "https://www.namic.org/podcast/insuranceUncovered"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Be The Adult Podcast",
+        "rss_feed_url": "https://anchor.fm/s/d514ffc/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Founded in 2014, Be The Adult has created a fifteen concept strategy to help teach adults and children the best practices for creating peaceful relationships at home and in every environment.  Support this podcast: https://anchor.fm/be-the-adult/support",
+        "itunes_id": "1482715522",
+        "content_rating": "explicit",
+        "artist_name": "Be The Adult",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/be-the-adult-podcast/id1482715522",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482715522",
+        "website": "www.betheadult.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "What Hope Looks Like",
+        "rss_feed_url": "https://www.whathopelookslike.org/episodes?format=rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 45,
+        "average_rating": 5,
+        "description": "What Hope Looks Like is a community focused on the reality and emotional side of fighting pediatric cancer. It connects families, professionals and other leaders who have been impacted by pediatric cancer and have one common purpose - to build hope in a situation nobody ever hopes to face. The What Hope Looks Like podcast is hosted by Eric Newman, pediatric cancer survivor and founder of non-profit Roc Solid Foundation, which constructs playsets for kids fighting cancer and provides Ready Bags to families when they are first diagnosed.",
+        "itunes_id": "1470277913",
+        "content_rating": "clean",
+        "artist_name": "Roc Solid Foundation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/what-hope-looks-like/id1470277913",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470277913",
+        "website": "https://www.whathopelookslike.org/episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Martes de Números",
+        "rss_feed_url": "https://anchor.fm/s/f7ddf48/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Un Podcast del Colegio de Contadores Públicos Autorizados de Puerto Rico",
+        "itunes_id": "1484849064",
+        "content_rating": "clean",
+        "artist_name": "Colegio de CPA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/martes-de-n%C3%BAmeros/id1484849064",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484849064",
+        "website": "www.colegiocpa.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "What's Up Dunwoody",
+        "rss_feed_url": "https://matthewweber.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.6,
+        "description": "Two regular guys putting on for Dunwoody, Georgia and the surrounding cities of Chamblee, Doraville, Sandy Springs, Brookhaven, Peachtree Corners, and Norcross. This is a weekly podcast from Matt Weber (REALTOR) and Justin Dike (app/web developer). Topics include restaurants, events, police blotter, and conversations borrowed from our Facebook Groups.",
+        "itunes_id": "1353882818",
+        "content_rating": "clean",
+        "artist_name": "Matthew Weber",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/whats-up-dunwoody/id1353882818",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1353882818",
+        "website": "https://matthewweber.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Science of Social Impact",
+        "rss_feed_url": "https://feeds.simplecast.com/YBkD0ZiW",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "The Science of Social Impact is a podcast designed to educate and inspire you to make social impact a key ingredient in your life. Whether you are a business professional looking to incorporate social impact into your workplace, an entrepreneur looking to start a social impact business, or just someone who loves to make the world better and hear stories of others doing the same, this podcast has the stories, tips, and news you need to succeed. Podcast by Crate of Good, the social impact subscription box.",
+        "itunes_id": "1485161097",
+        "content_rating": "clean",
+        "artist_name": "Crate of Good",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-science-of-social-impact/id1485161097",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485161097",
+        "website": "https://the-science-of-social-impact.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Construction Shared Pains Podcast",
+        "rss_feed_url": "http://constructionprogress.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "Hear from experts across the Architecture, Engineering, and Construction (AEC) industry looking to improve productivity and advance data interoperability standards. Join host Sasha Reed [@AlohaSasha], field reporter Nathan Wood [@nathancwood], and show producer Dan Smolilo [@Construct_Techy], as they interview industry and technology professionals to digest current integration challenges, debate necessary changes in contract and culture, so that you can decide the best strategy to invoke positive change and deliver streamlined collaboration between design, build, inspect, and operate stakeholders.",
+        "itunes_id": "1436088764",
+        "content_rating": "clean",
+        "artist_name": "ConstructionProgress.org",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-construction-shared-pains-podcast/id1436088764",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436088764",
+        "website": "https://www.constructionprogress.org/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "China Voices: The AmCham Shanghai Podcast",
+        "rss_feed_url": "http://amcham-shanghai.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Whether it's interviews with modern day entrepreneurs, wizened China hands, company CEOs, lawyers, or policy wonks, China Voices brings you a wide view of doing business in China. \n \nIn a country where economics is politics, China Voices speaks to the academics and policy experts who try to make sense of this emerging economy. So expect to hear from world-class thinkers at some of the best universities and research institutes, as well as Shanghai-based experts on U.S.-China relations. \n \nThanks for listening!",
+        "itunes_id": "1276459333",
+        "content_rating": "clean",
+        "artist_name": "AmCham Shanghai",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/china-voices-the-amcham-shanghai-podcast/id1276459333",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1276459333",
+        "website": "http://www.amcham-shanghai.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Extra Special Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e26d67c/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.6,
+        "description": "This podcast is going to be recorded from Extra Special People in Watkinsville, Georgia. We provide opportunities for people with disabilities to engage, connect, and thrive. This podcast will serve as a platform for members of our community to share their thoughts and feelings on a variety of subjects, as well as to spread the love and joy from our home in Watkinsville to any friend who’d like to listen. Come hear about the amazing world that we call ESP.",
+        "itunes_id": "1481613936",
+        "content_rating": "clean",
+        "artist_name": "John Andrade",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-extra-special-podcast/id1481613936",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481613936",
+        "website": "https://anchor.fm/extraspecialpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On the Job with PORAC",
+        "rss_feed_url": "https://porac.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "On the Job with PORAC – Hosted by PORAC President, Brian Marvel.\nThis podcast addresses a wide variety of topics ranging from legislation to public safety while providing up-to-date information on officer benefits, training and advocacy. \nIt is a place for our members, other law enforcement professionals, as well as the public to hear directly from the source concerning law enforcement and the issues that matter. \nListen along as we host a variety of guest speakers and interviewees and tune in for fun and inspiring stories from our law enforcement family!\nWe invite you to join the discussion by submitting topics and ideas for future episodes to info@porac.org",
+        "itunes_id": "1384622194",
+        "content_rating": "clean",
+        "artist_name": "PORAC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-the-job-with-porac/id1384622194",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1384622194",
+        "website": "https://porac.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Behind the Bra",
+        "rss_feed_url": "https://anchor.fm/s/e65ab40/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 24,
+        "average_rating": 5,
+        "description": "There is a lack of education about the benefits of physical activity for breast cancer patients and survivors and little access to safe and effective fitness instruction. Health and fitness protocol are currently not part of most breast cancer treatment and survivorship plans. Support this podcast: https://anchor.fm/barbellsforboobs/support",
+        "itunes_id": "1481007667",
+        "content_rating": "clean",
+        "artist_name": "Barbells for Boobs",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/behind-the-bra/id1481007667",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481007667",
+        "website": "https://www.barbellsforboobs.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Influence 2 Impact",
+        "rss_feed_url": "https://feeds.buzzsprout.com/646837.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Our passion is to see the God-given influence in everyone lead to God-sized impact everywhere. If you are a stay at home parent or an executive at your company we want to inspire and equip you. This podcast is filled with real life stories and practical insights from people from individuals in all walks of life who are using the influence they have to see impact in their world. Together, our influence can greatly impact the world for better.Josh Dotzler, the CEO of the Non-Profit Abide, is your host as he interviews influential leaders who impact our city of Omaha, Nebraska. On this podcast, you will hear insight from business owners, church leaders, and influencers on finding your purpose, healing, growing your organization, and many more life lifting topics.",
+        "itunes_id": "1483130712",
+        "content_rating": "clean",
+        "artist_name": "Josh Dotzler",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/influence-2-impact/id1483130712",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483130712",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Libya Matters",
+        "rss_feed_url": "https://feeds.buzzsprout.com/450046.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Tune in every week to listen to what really matters in Libya. Libya Matters is a casual informal conversation between us Lawyers for Justice team and journalist, analysis, artists, ambassadors, politicians and others.",
+        "itunes_id": "1473007540",
+        "content_rating": "clean",
+        "artist_name": "Lawyers for Justice in Libya",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/libya-matters/id1473007540",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473007540",
+        "website": "https://www.facebook.com/libyamatters"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "GreenBiz Center Stage",
+        "rss_feed_url": "http://feeds.feedburner.com/greenbiz/centerstage",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 2,
+        "average_rating": 4,
+        "description": "The best of live interviews on sustainable business and clean technology, conducted on stage at GreenBiz events.",
+        "itunes_id": "1294362490",
+        "content_rating": "clean",
+        "artist_name": "Joel Makower",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/greenbiz-center-stage/id1294362490",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1294362490",
+        "website": "https://www.greenbiz.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Starting a Podcast in Kips Bay Boys & Girls Club",
+        "rss_feed_url": "https://anchor.fm/s/e994310/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 2,
+        "average_rating": 4,
+        "description": "Coudert Clubhouse",
+        "itunes_id": "1485011968",
+        "content_rating": "clean",
+        "artist_name": "Kips Bay Digital Arts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/starting-a-podcast-in-kips-bay-boys-girls-club/id1485011968",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485011968",
+        "website": "https://anchor.fm/kips-bay-digital-arts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Raising with Lisa Clark's Podcast",
+        "rss_feed_url": "http://raisingwithlisaclark.libsyn.com/rss/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "If you're a nonprofit feeling stuck on how to reach your fundraising goals, tired of hosting events which fall short in financial return or feel too nervous to even try one, then this podcast is for you. Learn the A-Z of Fundraising Events, so you can finally generate 6-figures of revenue and get a real ROI!",
+        "itunes_id": "1365348753",
+        "content_rating": "clean",
+        "artist_name": "Lisa Clark",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-raising-with-lisa-clark-podcast/id1365348753",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1365348753",
+        "website": "http://www.raisingwithlisaclark.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Korean American Perspectives",
+        "rss_feed_url": "https://feed.podbean.com/councilka/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Welcome to Korean American Perspectives, a brand new podcast launched by the Council of Korean Americans. Visit www.councilka.org for more information.",
+        "itunes_id": "1465963922",
+        "content_rating": "clean",
+        "artist_name": "Council of Korean Americans",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/korean-american-perspectives/id1465963922",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465963922",
+        "website": "https://councilka.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Leading On Purpose",
+        "rss_feed_url": "https://coloradouplift.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Leading on Purpose will enlighten, energize, and equip leaders to make a difference in their communities. \n\nColorado UpLift is a nonprofit dedicated to building long-term, life-changing relationships with urban youth. For more than thirty-seven years we’ve been working with underserved students in the Denver Area and building up new generations of city leaders.",
+        "itunes_id": "1482038721",
+        "content_rating": "clean",
+        "artist_name": "Colorado UpLift",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/leading-on-purpose/id1482038721",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482038721",
+        "website": "https://coloradouplift.org/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Smart Marketing for Small Nonprofits",
+        "rss_feed_url": "http://smartmarketingforsmallnonprofits.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "How do I market my nonprofits mission with heart not hype? Increase donations without increasing my marketing budget? Regularly attract and retain new donors? These are just some of the big questions that Nonprofit Marketing expert Cindy May from CindyMayMarketing.com answers on the enlightening Smart Marketing for Small Nonprofits podcast. Providing marketing tips, tools, resources and ideas that will help you generate greater awareness and fundraising support for your cause, each episode is designed to help you take immediate action on the most important marketing strategies that will help you move your mission forward. Don’t have the time, money or marketing expertise to confidently market your mission? Want to learn how to use email marketing to retain donors? Interested in learning how to use Facebook ads to exceed your fundraising campaign goals? Discover why small nonprofits turn to Cindy May to implement the best nonprofit marketing strategies that really get results, help accelerate their growth and create the impact they most want in this world.",
+        "itunes_id": "1435373086",
+        "content_rating": "clean",
+        "artist_name": "Cindy May",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/smart-marketing-for-small-nonprofits/id1435373086",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435373086",
+        "website": "http://www.cindymaymarketing.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Business of Travel",
+        "rss_feed_url": "http://gbtapodcast.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 5,
+        "average_rating": 4,
+        "description": "The Business of Travel is the official podcast of the Global Business Travel Association covering all things related to business travel. Expect weekly episodes each featuring several short interviews with industry experts and thought leaders on a range of key issues affecting the business travel industry. Visit gbta.org to learn more.",
+        "itunes_id": "1355577581",
+        "content_rating": "clean",
+        "artist_name": "GBTA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-business-of-travel/id1355577581",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355577581",
+        "website": "https://www.gbta.org/blog/category/gbta-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Diffusion",
+        "rss_feed_url": "http://diffusion.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "dif·fu·sion: the spreading of something more widely\nDiffusion is the podcast of Carnegie Corporation of New York, the first grantmaking foundation in the United States established by Andrew Carnegie in 1911. Our mission? To promote the advancement and diffusion of knowledge and understanding around issues of peace, education and democracy.\nHosted by Michael Moran, Visiting Media Fellow, Carnegie Corporation of New York, Sarwar Kashmeri, Professor at Norwich University, and Gail Ablow, Visiting Media Fellow, Carnegie Corporation of New York.\nMusic by Carla Capretto\nPhotos: Getty Images",
+        "itunes_id": "592239894",
+        "content_rating": "clean",
+        "artist_name": "Carnegie Corporation of New York",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/diffusion/id592239894",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=592239894",
+        "website": "https://audioboom.com/channel/diffusion"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Grit and Grace",
+        "rss_feed_url": "https://feeds.megaphone.fm/gritandgrace",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Grit and Grace Podcast with Tahverlee is about strong women doing amazing things in business, fitness and crushing life!  Tahverlee interviews some of the most remarkable women who have been so helpful in her entrepreneurial journey and shares the trials and triumphs on their success.",
+        "itunes_id": "1450308112",
+        "content_rating": "clean",
+        "artist_name": "Tahverlee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/grit-and-grace/id1450308112",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450308112",
+        "website": "https://www.himalaya.com/Management%20&%20Marketing-podcasts/grit-and-grace-944388"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Shush Happens (and Other Truths)",
+        "rss_feed_url": "https://anchor.fm/s/f7f6908/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "A lighthearted, behind-the-scenes glimpse of Johnson City Public Library through interviews with the staff that make it all happen.",
+        "itunes_id": "1485162984",
+        "content_rating": "clean",
+        "artist_name": "Johnson City Public Library",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shush-happens-and-other-truths/id1485162984",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485162984",
+        "website": "https://anchor.fm/jcpl"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fundraising is Beautiful",
+        "rss_feed_url": "http://fundraisingisbeautiful.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "In this podcast,  Steven Screen & Jeff Brooks  give you super-actionable information for how you can make your next fundraising effort raise more money.",
+        "itunes_id": "1433834698",
+        "content_rating": "clean",
+        "artist_name": "Steven Screen, Jeff Brooks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fundraising-is-beautiful/id1433834698",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1433834698",
+        "website": "https://betterfundraising.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DE Talk",
+        "rss_feed_url": "https://feeds.buzzsprout.com/585439.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Careers"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "For DirectEmployers, it’s all about valuable connections and meaningful conversations. The DE Talk Podcast features an honest and open dialogue between powerhouse industry experts. Tune in to hear a variety of conversations on HR topics ranging from OFCCP compliance advice to emerging recruitment marketing trends, diversity and inclusion initiatives, and insightful solutions that help infuse new life into your HR strategies.",
+        "itunes_id": "1480834020",
+        "content_rating": "clean",
+        "artist_name": "Candee Chambers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/de-talk/id1480834020",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480834020",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Juvenile Justice in Nebraska",
+        "rss_feed_url": "https://feeds.buzzsprout.com/534907.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "NJJA board members speak with juvenile justice professionals and stakeholders about juvenile justice in Nebraska.",
+        "itunes_id": "1479351256",
+        "content_rating": "clean",
+        "artist_name": "Nebraska Juvenile Justice Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/juvenile-justice-in-nebraska/id1479351256",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479351256",
+        "website": "http://www.njja.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Summer Camp Programming Podcast",
+        "rss_feed_url": "https://feed.podbean.com/summercamppro/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "A weekly discussion of summer camp programming ideas with Curt \"Moose\" Jackson and Chris Kallal.",
+        "itunes_id": "1457738208",
+        "content_rating": "clean",
+        "artist_name": "SummerCampPro",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/summer-camp-programming-podcast/id1457738208",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457738208",
+        "website": "https://summercamppro.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "National Rural Health Resource Center's Podcasts",
+        "rss_feed_url": "http://ruralcenter.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The National Rural Health Resource Center is a nonprofit organization dedicated to sustaining and improving health care in rural communities.\n\nAs the nation’s leading technical assistance and knowledge center in rural health, The Center focuses on five core areas:\n-Transition to Value and Population Health\n-Collaboration and Partnership\n-Performance Improvement\n-Health Information Technology\n-Workforce",
+        "itunes_id": "1159774548",
+        "content_rating": "clean",
+        "artist_name": "National Rural Health Resource Center",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/national-rural-health-resource-centers-podcasts/id1159774548",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1159774548",
+        "website": "http://ruralcenter.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Unlocking Your Nonprofit Potential",
+        "rss_feed_url": "https://nonprofitpotential.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Step-by-step, easy to follow tips on using Facebook and Instagram from the nonprofit point of view. Hosted by writer and social media entrepreneur Lauren Creagan, Unlocking Your Nonprofit Potential covers topics like how to create quality posts and managing three audiences: your volunteers, donors and the people you serve - all on a shoestring budget. Lauren walks with you all along the way as you implement new strategies for your organization and use social media as tools to manage and promote your mission, events and fundraisers. If you lead or work in a nonprofit and want to spread the word about the good work it does in your community with greater results, Unlocking Your Nonprofit Potential is the podcast for you.",
+        "itunes_id": "1470402044",
+        "content_rating": "clean",
+        "artist_name": "Lauren Creagan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/unlocking-your-nonprofit-potential/id1470402044",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470402044",
+        "website": "http://www.nonprofitpotential.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Future Curious",
+        "rss_feed_url": "http://nesta.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "If you’re curious about what the future holds, the new Future Curious podcast from Nesta is right up your street.\n\nIn this thought-provoking but chatty podcast, we bring together leading experts and radical thinkers to discuss the big issues that will affect our future, and what we can all do about them. Each week, Future Curious will bring new insights, challenge existing wisdom and explore new thinking into some of the most challenging issues of our time.",
+        "itunes_id": "988475287",
+        "content_rating": "clean",
+        "artist_name": "Nesta",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/future-curious/id988475287",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=988475287",
+        "website": "https://www.nesta.org.uk/futurecurious"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nonprofit Architect  Podcast",
+        "rss_feed_url": "https://nonprofitarchitect.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Nonprofit Architect Podcast is designed to build, launch, and improve your nonprofit! We will build the bridge from business to nonprofits by interviewing experts from both sides.",
+        "itunes_id": "1481292481",
+        "content_rating": "clean",
+        "artist_name": "Travis Johnson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nonprofit-architect-podcast/id1481292481",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481292481",
+        "website": "http://nonprofitarchitect.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Successful Associations Today",
+        "rss_feed_url": "https://successfulassociationstoday.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Marketing"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Associations today face intense pressures that threaten their continued relevance. Operating as you've traditionally done for the last 10, 20, or more years is not a viable option. Gone are the days when members would automatically renew. Today individuals expect value in return for membership. Why shouldn't they? They have a higher demand on their time and more choices on how and from whom they can obtain information due to rapid advances in technology, competition, and social networking. \n \nMary Byers takes a bold, no-nonsense look at the realities of today's marketplace and what it will take for associations to prosper moving forward. She addresses not only the challenges associations face but the actions essential to a thriving future.\n \nSuccessful Associations Today is an interview series with host Mary Byers, CAE.\n \nMary Byers helps associations remain relevant in an increasingly competitive environment. The author of Race for Relevance: 5 Radical Changes for Associations and Road to Relevance: 5 Strategies for Competitive Associations, she’s worked with a wide variety of associations (both individual membership and trade groups) and helps volunteer leaders and staff alike create a viable and sustainable future.",
+        "itunes_id": "1459558001",
+        "content_rating": "clean",
+        "artist_name": "Mary Byers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/successful-associations-today/id1459558001",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459558001",
+        "website": "http://www.MaryByers.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Save the Second Podcast",
+        "rss_feed_url": "https://feed.podbean.com/savethesecond/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "This podcast offers commentary on the latest news associated with the NRA and Save the Second’s endeavor to promote a strong, relevant, effective and accountable NRA. In order for the NRA to be strong, relevant, and effective, we must reform the leadership and bylaws, reduce the amount of wasteful expenditures, and refocus the NRA on the primary task of providing firearms training and education and protecting the Second Amendment. Visit savethe2a.org for more information.",
+        "itunes_id": "1477907475",
+        "content_rating": "clean",
+        "artist_name": "Save the Second",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/save-the-second-podcast/id1477907475",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477907475",
+        "website": "https://savethesecond.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fundraising HayDay",
+        "rss_feed_url": "https://fundraisinghayday.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "A podcast about grants, fundraising, and such.",
+        "itunes_id": "1441248423",
+        "content_rating": "clean",
+        "artist_name": "fundraisinghayday",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fundraising-hayday/id1441248423",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441248423",
+        "website": "https://fundraisinghayday.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aid for Aid Workers",
+        "rss_feed_url": "http://aidforaidworkers.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Management"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "This show tailored to leaders in international development provides aid workers with advice, lessons learned and inspirational ideas from peers in our field who have experiences to share or are just “doing things differently.”  Whether you are a Country Manager with years of experience or a Project Manager in a new leadership position, host Torrey Peace navigates the challenges common to aid workers that are unique to our field, such as time management in an unpredictable environment, leading and unifying teams from diverse cultural backgrounds, different perspectives on community development or how to do it all while maintaining our own physical health and important relationships, with time for travel and adventure!  If you are interested in joining a global network of aid professionals please visit aidforaidworkers.com and click on the Join Us page.",
+        "itunes_id": "1227185336",
+        "content_rating": "clean",
+        "artist_name": "Torrey Peace",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aid-for-aid-workers/id1227185336",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1227185336",
+        "website": "http://www.aidforaidworkers.com/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Set You Free; A Survivor Helping Heal",
+        "rss_feed_url": "https://setyoufree.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Set You Free; A Survivor Helping Heal Podcast, will shed light on difficult topics such as childhood sexual abuse, mental health, and much more. By sharing my story, I hope this podcast will provide an outlet for both survivors and advocates. Every scar has a story, and yours deserves to be heard! \n\nPodcast episodes will be out every other week. Thank you to all my listeners!",
+        "itunes_id": "1482807338",
+        "content_rating": "clean",
+        "artist_name": "Ally Yoder",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/set-you-free-a-survivor-helping-heal/id1482807338",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482807338",
+        "website": "http://setyoufree.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "WealthyGen'ers Podcast",
+        "rss_feed_url": "https://wealthygeners.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "WealthyGen is a non-profit organization that provides financial education and empowers women and youth to save money and build sustainable wealth.",
+        "itunes_id": "1485509711",
+        "content_rating": "clean",
+        "artist_name": "WealthyGen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/wealthygeners-podcast/id1485509711",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485509711",
+        "website": "https://wealthygeners.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Maggie's Place",
+        "rss_feed_url": "https://anchor.fm/s/8c7b4e4/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Welcome to Maggies Place! Our goal is to educate you about our non-profit organization and to share inspirational (true life) stories of our Moms and their journey! 🤗💛\nHave comments, suggestions or want to hear more of something specific? Please send us an email at: fhale@maggiesplace.org \n Support this podcast: https://anchor.fm/maggies-place/support",
+        "itunes_id": "1451073384",
+        "content_rating": "clean",
+        "artist_name": "Maggie's Place",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/maggies-place/id1451073384",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451073384",
+        "website": "www.maggiesplace.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fairfield County Thrives",
+        "rss_feed_url": "https://fccfoundation.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Stories & conversations about Great Impact being made across our region.",
+        "itunes_id": "1484514647",
+        "content_rating": "clean",
+        "artist_name": "Fairfield County's Community Foundation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fairfield-county-thrives/id1484514647",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484514647",
+        "website": "http://fccfoundation.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Serving Stories – Serve the City International",
+        "rss_feed_url": "https://www.servethecity.net/podcasts/serving-stories/feed/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Serving Stories is a podcast from Serve the City. We travel around the world to gather stories of volunteers doing small things together that make a big difference. Each month, we feature people who cross lines of poverty, privilege and prejudice to raise the kindness quotient in their cities. In the first season we focus on six different cities—Lisbon, Chesapeake, Berlin, Tallinn, Brussels and Pristina—serving stories of transformation, both big and small.",
+        "itunes_id": "1484601442",
+        "content_rating": "clean",
+        "artist_name": "Serve the City",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/serving-stories-serve-the-city-international/id1484601442",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484601442",
+        "website": "https://www.servethecity.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rooting for Rivals",
+        "rss_feed_url": "https://anchor.fm/s/4d09e64/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "In a world marked by division and territorialism, how can we leave a lasting impact? What happens when we're no longer threatened by the success of our rivals? In this six-episode podcast, hear from leaders and philanthropists putting collaboration into practice and learn how we can multiply our impact through cooperation.",
+        "itunes_id": "1409760242",
+        "content_rating": "clean",
+        "artist_name": "HOPE International",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rooting-for-rivals/id1409760242",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1409760242",
+        "website": "https://anchor.fm/rootingforrivals"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Philadelphia Bar Association - Speaker Programs",
+        "rss_feed_url": "http://www.philadelphiabar.org/podcast/Podcasts_Speaker_Programs.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "When you subscribe to the Speaker Programs podcast, you'll get podcasts of special events held by Sections and Committees, including noteworthy speakers and panel presentations.",
+        "itunes_id": "491086738",
+        "content_rating": null,
+        "artist_name": "Unknown",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/philadelphia-bar-association-speaker-programs/id491086738",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=491086738",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "River Talks",
+        "rss_feed_url": "https://anchor.fm/s/e6761ec/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "River Talks is an educational series presented by the Cumberland River Compact. River Talks feature experts, artists, researchers, professionals, and characters from around the Cumberland River Basin sharing their knowledge and experience. Each week we dive into a new topic related to the Cumberland River region; from innovations and solutions to today's water challenges, to historic explorations and uses of the river, to the incredible biodiversity that calls the Cumberland River basin home. Join us during our Spring, Fall, and Winter talks recorded live in Nashville, TN.",
+        "itunes_id": "1481985339",
+        "content_rating": "clean",
+        "artist_name": "Cumberland River Compact",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/river-talks/id1481985339",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481985339",
+        "website": "https://cumberlandrivercompact.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Historias de Vida",
+        "rss_feed_url": "https://anchor.fm/s/dbf68c0/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Entrevistamos a iniciativas juveniles en toda América Latina y el Caribe para conectarlos con expertos en temas sociales, culturales, económicos y ambientales con el objetivo de fortalecer su impacto social y establecer modelos de negocios sostenibles. Esto es Historias de Vida. @historiasdevidafm",
+        "itunes_id": "1477977988",
+        "content_rating": "clean",
+        "artist_name": "Historias de Vida",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/historias-de-vida/id1477977988",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477977988",
+        "website": "https://funreso.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Healing Broken Hearts Project",
+        "rss_feed_url": "https://anchor.fm/s/9042dc0/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Telling others stories in order to build a community of love and healing and inspire as many people as possible to love others, persevere, heal, and conquer the darkness with light! Support this podcast: https://anchor.fm/healingbrokenhearts/support",
+        "itunes_id": "1468990075",
+        "content_rating": "clean",
+        "artist_name": "Raiza Noelia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/healing-broken-hearts-project/id1468990075",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468990075",
+        "website": "www.healingbrokenheartsproject.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Voices from the Village",
+        "rss_feed_url": "https://feeds.simplecast.com/rECHiGnC",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Voices from the Village is a brand new podcast from Healing Transitions! Executive Director Chris Budnick sits down with the incredible individuals who, together, make up the Recovery Village in Wake County, North Carolina. From local chefs to journalists to other nonprofits, Voices from the Village lets you in on the fabric of the recovery community!",
+        "itunes_id": "1452842525",
+        "content_rating": "clean",
+        "artist_name": "Healing Transitions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/voices-from-the-village/id1452842525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452842525",
+        "website": "https://healing-transitions.org/about/stories-of-healing/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Second Stories",
+        "rss_feed_url": "https://anchor.fm/s/56866a4/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "Everyone dreams about how they want their life to look, but not everyone has the same level of opportunity to fulfill these dreams. \nSome of us grow up in loving families with solid support systems, while some of us are born into hardship and trauma. None of us can choose the life we’re born into; none of us can write our own first story. \nThese situations might place us at a disadvantage, but they do not doom us. And sometimes a person or an experience helps bring the future we dreamed of into reach. It lets us pick up the pen and write our own second story.",
+        "itunes_id": "1423815639",
+        "content_rating": "clean",
+        "artist_name": "Second Story",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/second-stories/id1423815639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1423815639",
+        "website": "https://anchor.fm/second-stories"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Strategic Sensibility",
+        "rss_feed_url": "https://feeds.buzzsprout.com/451213.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Comedy",
+          "Comedy Interviews"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Magazine topics. Interviewing fascinating people from all walks of business and life about topics you don't want to miss!",
+        "itunes_id": "1474437038",
+        "content_rating": "clean",
+        "artist_name": "The King Approach",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/strategic-sensibility/id1474437038",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474437038",
+        "website": "http://strategicsensibility.buzzsprout.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dents in the Darkness",
+        "rss_feed_url": "https://anchor.fm/s/aed439c/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "Our enemy loves to isolate pastors and leaders from great resources and teammates. We provide practical resources to guide you on your journey to overcome isolation while leading and launching healthy churches across Northeast America!",
+        "itunes_id": "1480303843",
+        "content_rating": "clean",
+        "artist_name": "The Northeast Collaborative",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dents-in-the-darkness/id1480303843",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480303843",
+        "website": "www.necollaborative.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "张奥同学",
+        "rss_feed_url": "http://www.ximalaya.com/album/9780578.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "深度的国际新闻与财经资讯，不仅让你知其然，更知其所以然。每天15分钟，每一期节目都仔细倾听，不用担心时效性，因为国际政治、历史与财经知识才是硬核。",
+        "itunes_id": "1479594692",
+        "content_rating": "clean",
+        "artist_name": "sgarly奥",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%E5%BC%A0%E5%A5%A5%E5%90%8C%E5%AD%A6/id1479594692",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479594692",
+        "website": "http://www.ximalaya.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Complicating the Narrative",
+        "rss_feed_url": "https://anchor.fm/s/d5dd830/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Complicating the Narrative is a podcast series with the goal of adding context beyond misconceptions commonly associated with people living in communities facing poverty and barriers to economic development due to racism, violence, and trauma.",
+        "itunes_id": "1477731820",
+        "content_rating": "clean",
+        "artist_name": "Complicating The Narrative",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/complicating-the-narrative/id1477731820",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477731820",
+        "website": "https://anchor.fm/complicating-the-narrative"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TWILA Aftershow",
+        "rss_feed_url": "https://feeds.transistor.fm/twila-after-show",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "This Week In Louisiana Agriculture is a weekly show created to connect Louisiana farmers, ranchers, and fishermen with consumers across Louisiana and around the world. Each week, we’ll take a look behind-the-scenes of This Week In Louisiana Agriculture, one of the longest-running television programs in Louisiana.",
+        "itunes_id": "1467200535",
+        "content_rating": "clean",
+        "artist_name": "Louisiana Farm Bureau Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/twila-aftershow/id1467200535",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467200535",
+        "website": "http://twilatv.org/aftershow"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Common Interest Podcast",
+        "rss_feed_url": "https://feed.podbean.com/commoninterestpodcast/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Discussion of topics affecting Condo, Townhome, and Homeowners’ Associations; told through stories from the professionals serving them.\n\nWhether you live in a condo or HOA, or work with associations as a service provider, the stories shared in this podcast give insight into the unique approach required to resolve the challenges facing community associations. \n\nProduced by Community Associations Institute Illinois Chapter.",
+        "itunes_id": "1453404441",
+        "content_rating": "clean",
+        "artist_name": "Community Associations Institute Illinois Chapter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/common-interest-podcast/id1453404441",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453404441",
+        "website": "https://commoninterestpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Real Purpose of Life",
+        "rss_feed_url": "https://anchor.fm/s/fa42748/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "We want to provide resources through interviews, talkbacks and teaching to ministers and layman to equip people to Know, Love, and Glorify God",
+        "itunes_id": "1484547766",
+        "content_rating": "clean",
+        "artist_name": "Wyatt Hebblethwaite",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/real-purpose-of-life/id1484547766",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484547766",
+        "website": "https://anchor.fm/ou-bcm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Do One Better! Podcast",
+        "rss_feed_url": "https://feed.podbean.com/AlbertoLidji/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Weekly podcasts on philanthropy, sustainability and social entrepreneurship, hosted by Alberto Lidji, former Global CEO of the Novak Djokovic Foundation. Insightful interviews with the leaders who are achieving remarkable change. Be inspired!",
+        "itunes_id": "1458730778",
+        "content_rating": "clean",
+        "artist_name": "Alberto Lidji",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-do-one-better-podcast/id1458730778",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458730778",
+        "website": "https://www.lidji.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Impact Journey with Julia S",
+        "rss_feed_url": "https://feeds.simplecast.com/Yk4dODjB",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Conversations with hidden heroes making big societal change.\n\nMany of us want to make life better for others and the planet. \nFew people devote their life to it.\nEven fewer try to tackle the big systemic issues, like climate change, inequality, consumerism.\n\nIn years working at the intersection of impact and strategy, Julia has been fascinated by these hidden heroes. \nBeyond what they’re doing, we explore how they got here, how they keep going, what they’re still learning.\n\nJoin the conversation, and inspire your own impact journey.",
+        "itunes_id": "1465253910",
+        "content_rating": "clean",
+        "artist_name": "Julia Sherbakov",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/impact-journey-with-julia-s/id1465253910",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465253910",
+        "website": "https://impact-journey-with-julia-s.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Boiled Down",
+        "rss_feed_url": "https://boileddown.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Join Oregon Restaurant & Lodging Association at the table for discussion of statewide industry issues and intelligence. Host Greg Astley, ORLA’s Director of Government Affairs, speaks with industry leaders, policy makers, and business experts about challenges, opportunities and successes in the world of Oregon hospitality.",
+        "itunes_id": "1181112835",
+        "content_rating": "clean",
+        "artist_name": "Oregon Restaurant & Lodging Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/boiled-down/id1181112835",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1181112835",
+        "website": "https://boileddown.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gathering Ground",
+        "rss_feed_url": "https://buffalo-mackerel-l7lp.squarespace.com/gathering-ground-podcast?format=rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Management"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Join consultant, filmmaker and activist Mary F. Morten as she delves into what it’s like to operate within and outside of the nonprofit landscape. Along with her special guests, Mary answers questions from listeners and covers topics including racial and gender equity, and the experiences of people of color in leadership development and the nonprofit workforce.",
+        "itunes_id": "1478561585",
+        "content_rating": "clean",
+        "artist_name": "Mary F. Morten",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gathering-ground/id1478561585",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478561585",
+        "website": "https://www.studiocchicago.com/gathering-ground-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Major Gifts Fundraiser",
+        "rss_feed_url": "https://anchor.fm/s/bdd15c0/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Practical fundraising advise in bite size segments.\nWe are committed to helping you get the most money out of your current list without ruining relationships with your current donors.",
+        "itunes_id": "1467274069",
+        "content_rating": "clean",
+        "artist_name": "Clark Vandeventer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/major-gifts-fundraiser/id1467274069",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467274069",
+        "website": "https://majorgiftsfundraiser.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Riverside County Child Support Service's Coffee Break: Episode 1",
+        "rss_feed_url": "https://anchor.fm/s/ea3c7a4/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Riverside County Child Support Services (RivCoDCSS) Coffee Break features our two hosts Nathan Hartel and Bruce Wagner. Nathan Hartel is the Deputy Director, Bruce Wagner is our department’s Chief Attorney. Our Coffee Break podcast series aims to cover a variety of topics of interest to the public. The goal is to inform all child support customers on common questions they may have. RivCoDCSS aims to clear up different misunderstandings the public may perceive to be true and restore them with facts. The podcast episodes will cover a variety of informative topics on who we are and what we do",
+        "itunes_id": "1484121114",
+        "content_rating": "clean",
+        "artist_name": "Riverside County DCSS",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/riverside-county-child-support-services-coffee-break/id1484121114",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484121114",
+        "website": "https://anchor.fm/riverside-county-dcss"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "National Association of Professional Process Servers",
+        "rss_feed_url": "http://napps82.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The National Association of Professional Process Servers (NAPPS) is a Worldwide Organization of the largest community of professional process servers and the first resource for credible information regarding the profession. Founded in 1982 in Las Vegas NV, NAPPS today has well over 2,000 members representing all 50 states, the District of Columbia, seven Canadian provinces and nearly two dozen foreign countries. It is headquartered in Portland, Oregon.",
+        "itunes_id": "1418969602",
+        "content_rating": "clean",
+        "artist_name": "National Association of Professional Process Servers",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/national-association-of-professional-process-servers/id1418969602",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1418969602",
+        "website": "http://napps82.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sustaining Capitalism",
+        "rss_feed_url": "http://cedsc.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "What are the biggest issues facing the American economy and how can they be solved? The Committee for Economic Development presents policy solutions to economic and educational problems here in America. Tune in to hear industry experts making capitalism sustainable.",
+        "itunes_id": "1156174286",
+        "content_rating": "clean",
+        "artist_name": "Committee for Economic Development",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sustaining-capitalism/id1156174286",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1156174286",
+        "website": "http://cedsc.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On the Road with Route 3 Films - The Non-Profit Podcast",
+        "rss_feed_url": "https://anchor.fm/s/df05688/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Ryan Hanlon founded Route 3 Films with one goal: to serve schools and non-profit organizations. To help them tell their story better so they can continue to educate, motivate and inspire their audiences to make the world a better place. On our podcast Ryan will discuss the ups and downs as well as tips and tricks for marketing your school and non-profit with the people in the trenches. From Executive Directors to Principals to Teacher to Marketers, hear why they do what they do and learn a few tips along the way.",
+        "itunes_id": "1480712403",
+        "content_rating": "clean",
+        "artist_name": "Ryan Hanlon",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-the-road-with-route-3-films-the-non-profit-podcast/id1480712403",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480712403",
+        "website": "https://anchor.fm/route3films"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Perspectives Podcast",
+        "rss_feed_url": "https://perspectivesworldwide.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Welcome to the Perspectives Podcast. This is the official podcast for Perspectives Worldwide, a 501c3 nonprofit. \nOur mission at Perspectives is to improve on and bring unity to the missions experience in the Church as a whole, including other missions nonprofits. \nOn this podcast, we host conversations around the topics of mission models, experiencing different cultures, and travel. We use these podcasts as an opportunity to talk with the Church to find creative and innovative approaches to missions and serving people.\nAs well, we bring on guests to discuss topics they have personal experience in, and share their stories about God growing their faith and perspective through travel and missions.\nWe hope you enjoy the podcast and thanks for listening!",
+        "itunes_id": "1483159889",
+        "content_rating": "clean",
+        "artist_name": "Perspectives Worldwide",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-perspectives-podcast/id1483159889",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483159889",
+        "website": "http://perspectivesworldwide.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The CU2.0 Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/268738.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "This podcast explores contemporary, critical thinking and issues impacting the nation's credit unions.  What do they need to be doing to not just survive but prosper?",
+        "itunes_id": "1456305308",
+        "content_rating": "clean",
+        "artist_name": "Robert McGarvey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cu2-0-podcast/id1456305308",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456305308",
+        "website": "http://www.mcgarvey.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BrainTrust Philanthropy Podcast Powered by ViTreo",
+        "rss_feed_url": "https://www.vitreogroup.ca/podcast/?format=rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 1,
+        "average_rating": 2,
+        "description": "Welcome to BrainTrust Philanthropy Powered by ViTreo! Bringing you free flowing conversations with top leaders in fundraising, philanthropy, and the nonprofit sector so that you can become a bolder leader, build better relationships, and raise more money for your organization. Sit back, relax, and enjoy as we share ideas that will transform your nonprofit.",
+        "itunes_id": "1223837479",
+        "content_rating": "clean",
+        "artist_name": "ViTreo",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/braintrust-philanthropy-podcast-powered-by-vitreo/id1223837479",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1223837479",
+        "website": "https://www.vitreogroup.ca/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "B-Change",
+        "rss_feed_url": "https://warrengg.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "This podcast is for leaders and emerging leaders who want to make a difference in the world. The podcast explores strategies, tools and stories to help you strengthen your social change and nonprofit leadership skills.",
+        "itunes_id": "1460038572",
+        "content_rating": "clean",
+        "artist_name": "B-Change",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/b-change/id1460038572",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460038572",
+        "website": "https://warrengg.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chamber Chat Podcast",
+        "rss_feed_url": "https://chamberchat.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "This is a show for Chamber professionals to get ideas so they can better serve their members and community.",
+        "itunes_id": "1450044916",
+        "content_rating": "clean",
+        "artist_name": "Brandon Burton",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chamber-chat-podcast/id1450044916",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450044916",
+        "website": "http://chamberchatpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nonprofit Thought's Podcast",
+        "rss_feed_url": "http://nonprofitthougts.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Welcome to the Nonprofits Thoughts podcast. My name is Scott Burlingame, and it as long been a dream of mine to create an opportunity for some of the smartest and most passionate leaders in the nonprofit sector to share their wisdom.  In each episode, we will explore what it takes to make nonprofits better.",
+        "itunes_id": "1470607033",
+        "content_rating": "clean",
+        "artist_name": "Scott Burlingame",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nonprofit-thoughts-podcast/id1470607033",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470607033",
+        "website": "http://nonprofitthougts.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Finding Impact Podcast",
+        "rss_feed_url": "http://findingimpact.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Welcome the Finding Impact Podcast, hosted by Andy Narracott. On this podcast, you'll hear interviews with strategies, tactics and tips from guests who have out-sized knowledge or experience on a particular challenge facing social entrepreneurs. That's everything from raising capital and creating successful partnerships, to training a workforce and engaging with government. Also, customer service systems, assessing credit worthiness, revenue collection strategies, talent recruitment, reaching the next level of scale whilst maintaining quality, in-country manufacturing for your next product, prioritizing fundraising vs. competing demands, investing in staff and employee retention, and finally, strategy development. Join the community of social entrepreneurs helping each other to create a better world for our children.",
+        "itunes_id": "1207668392",
+        "content_rating": "clean",
+        "artist_name": "Andy Narracott",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-finding-impact-podcast/id1207668392",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1207668392",
+        "website": "https://findingimpact.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The RLTK PHX Podcast",
+        "rss_feed_url": "https://anchor.fm/s/d47e50c/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "We have in depth conversations about culturally relevant, worldview shaping topics that influence the way we live and interact with one another.",
+        "itunes_id": "1478027382",
+        "content_rating": "clean",
+        "artist_name": "RLTK PHX",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-rltk-phx-podcast/id1478027382",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478027382",
+        "website": "www.rltkphx.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Conversations in Close Protection",
+        "rss_feed_url": "https://conversationsincloseprotection.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Conversations In Close Protection is a podcast supported by the  International Protective Security Board (IPSB). We seek to enhance the discussions and promote values, information and education within the Close Protection Community.",
+        "itunes_id": "1464565197",
+        "content_rating": "clean",
+        "artist_name": "Chris Story, Chuck Randolph, Close Protection",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/conversations-in-close-protection/id1464565197",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464565197",
+        "website": "http://conversationsincloseprotection.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "PureReinvention Podcast",
+        "rss_feed_url": "http://purereinvention.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Engage. Disrupt. Adapt. Repeat. The PureReinvention Podcast guides individuals on their journey through the reinvention process. Sustainable reinvention requires everyone's active participation to flourish. This is a space for curious individuals to explore the trials, successes and failures surrounding reinvention from thought leaders in the corporate and non-profit community.",
+        "itunes_id": "926134419",
+        "content_rating": "clean",
+        "artist_name": "MB Strategies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/purereinvention-podcast/id926134419",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=926134419",
+        "website": "http://purereinvention.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Steward's Journey Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/583396.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The journey of the faithful steward is the path of discipleship, obedience, discovery, adventure, service, and joy. It is the way of freedom and the way of the cross. It is the journey of every follower of Jesus. It is on this journey that we experience deeper levels of surrender, increased intimacy with Christ, clearer identity, more robust faith and greater passion to serve. It is the path upon which we become the image bearers of Christ in our world. Our driving motivation is to equip and inspire God’s people for this journey.",
+        "itunes_id": "1481480656",
+        "content_rating": "clean",
+        "artist_name": "The Steward's Journey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-stewards-journey-podcast/id1481480656",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481480656",
+        "website": "http://www.thestewardsjourney.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "لون الابتكار",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/b9916fc0-555b-488f-86d7-a87300952601/b7e9c18e-98bd-455a-ac0f-a95000b04660/70556f5f-d48b-410f-96d9-a9f4009daac8/podcast.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "\"لون الابتكار\" هو برنامج بودكاست لبرنامج الأمم المتحدة الإنمائي يعرض أمثلة عن الابتكار من أجل التنمية من جميع أنحاء الدول العربية والعالم.\nيكمن الابتكار من أجل التنمية في أن تعمل الأشياء بشكل مختلف، أو ربما لا ... واستخدام الأساليب الإبداعية لحل المشكلات الصعبة التي يواجهها الناس كل يوم. \n يقدم لكم هذا البرنامج قصصاً عن الإلهام والابتكار من جميع أنحاء الدول العربية.  يقدم برنامج الأمم المتحدة الإنمائي في كل حلقة مبتكرين اجتماعيين، ممن سيشاركون الجميع إلهامهم وأفكارهم، ومشاعرهم ومشاريعهم من أجل تغيير العالم.",
+        "itunes_id": "1459788600",
+        "content_rating": "clean",
+        "artist_name": "Sowt | صوت",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1/id1459788600",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459788600",
+        "website": "http://www.sowt.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Association Hustle",
+        "rss_feed_url": "https://moerycompany.com/feed/podcast/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "JP Moery’s Association Hustle Podcast: Host JP Moery, President of The Moery Company, offers a weekly episode featuring insights and strategies – and, a little bit of hustle – to help 21st-century associations thrive in a progressively complex and competitive business landscape.",
+        "itunes_id": "1040510027",
+        "content_rating": "clean",
+        "artist_name": "The Moery Company (JP Moery)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/association-hustle/id1040510027",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1040510027",
+        "website": "https://moerycompany.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "IAOMS Podcast Series",
+        "rss_feed_url": "https://feeds.buzzsprout.com/684011.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Have you heard the news? As IAOMS continues on our strategic path of digital transformation, we are excited to begin this new journey into the world of podcasting. The IAOMS community will have access to intimate conversations between some of the top surgeons across the globe from the comfort of their personal devices. Career advice, the power of mentorship, the future of the specialty and more! We are pleased to welcome you to the beginning of our next chapter: The IAOMS Podcast Series.",
+        "itunes_id": "1485294272",
+        "content_rating": "clean",
+        "artist_name": "IAOMS",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/iaoms-podcast-series/id1485294272",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485294272",
+        "website": "http://www.iaoms.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Women Veterans ROCK On The Hill - The Podcast!",
+        "rss_feed_url": "https://anchor.fm/s/dc35f98/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "It's New People, Policies, & Prose.\nThis podcast is a \"A Collection of Conversations\" featuring Today's Military Women In Post-Military Civic Business & Non-Profit Leadership.\" Listeners will hear conversations with women leaders in business, government, media, entertainment, entrepreneurship, higher education and, yes, public office too!",
+        "itunes_id": "1479097525",
+        "content_rating": "clean",
+        "artist_name": "Deborah Harmon-Pugh",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/women-veterans-rock-on-the-hill-the-podcast/id1479097525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479097525",
+        "website": "https://womenvetsrock.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fourth Corner Corner: Educator News from the Northwest",
+        "rss_feed_url": "https://anchor.fm/s/e12cad8/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Summer Stoner, WEA Fourth Corner President, will bring you the latest Union news and interviews from all 34 locals.",
+        "itunes_id": "1481491311",
+        "content_rating": "clean",
+        "artist_name": "Summer Stoner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fourth-corner-corner-educator-news-from-the-northwest/id1481491311",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481491311",
+        "website": "https://anchor.fm/summer-stoner"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "STRIVECast",
+        "rss_feed_url": "https://strivecast.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 25,
+        "average_rating": 5,
+        "description": "The STRIVECast is a new podcast brought to you by the team at STRIVE in South Portland, Maine — bringing you engaging, hilarious, and thoughtful conversation through one interview week by week. Co-Hosted by two young men with Down Syndrome, the STRIVECast aims to change the voices we typically hear on the radio and through podcasts, as well as to provide meaningful dialogues with all sorts of public figures in our world. We are very proud to be both hosted AND edited by people with disabilities! Like what you hear? Shoot us an email at strivecast@pslstrive.org!",
+        "itunes_id": "1438562803",
+        "content_rating": "clean",
+        "artist_name": "PSL STRIVE",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/strivecast/id1438562803",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438562803",
+        "website": "https://www.pslstrive.org/strivecast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "All Things CoNimby",
+        "rss_feed_url": "https://anchor.fm/s/b2bd1ac/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "An unfiltered exploration into community development, and all things CoNimby®. E-mail us Info@CoNimby.org, Tweet us @CoNimby, and Facebook: www.facebook.com/CoNimby  Support this podcast: https://anchor.fm/conimby/support",
+        "itunes_id": "1469773159",
+        "content_rating": "clean",
+        "artist_name": "CoNimby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/all-things-conimby/id1469773159",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469773159",
+        "website": "www.CoNimby.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My Corner Of The Universe",
+        "rss_feed_url": "https://mycorneroftheuniverse.libsyn.com/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Can changing your corner of the universe change the world? We think so! You’ve heard the quote “be the change you want to see in the world” but what does that look like? This is where we meet the people that are walking that out, one person, one idea, one decision at time.",
+        "itunes_id": "1472911288",
+        "content_rating": "clean",
+        "artist_name": "Vaden Hoffman and Rex Garland",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-corner-of-the-universe/id1472911288",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472911288",
+        "website": "http://mycorneroftheuniverse.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Coworking Conversations",
+        "rss_feed_url": "https://www.coworkingaccelerator.network/podcast?format=rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Listen in on our conversations with coworking business leaders around the world. Find out how they started, and how they're growing their coworking businesses. Join the Coworking Accelerator to get the latest episodes as soon as they drop, at www.CoworkingAccelerator.network",
+        "itunes_id": "1353006878",
+        "content_rating": "clean",
+        "artist_name": "Coworking Accelerator",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/coworking-conversations/id1353006878",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1353006878",
+        "website": "https://www.coworkingaccelerator.network/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Portage County Safety Council Podcast",
+        "rss_feed_url": "https://portagesafetycouncil.podbean.com/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Weekly podcast aimed at helping employers improve workplace safety, wellness and more!",
+        "itunes_id": "1348428983",
+        "content_rating": "clean",
+        "artist_name": "Portage County Safety Council",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/portage-county-safety-council-podcast/id1348428983",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1348428983",
+        "website": "https://portagesafetycouncil.podbean.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Ask Your Lawyer",
+        "rss_feed_url": "https://feeds.transistor.fm/ask-your-lawyer",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Inspire FM’s law show hosted by solicitors and barristers discussing a variety of legal matters from immigration to employment. Inspire FM – Positively Inspiring the Community",
+        "itunes_id": "1449877275",
+        "content_rating": "clean",
+        "artist_name": "Inspire FM",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ask-your-lawyer/id1449877275",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449877275",
+        "website": "http://www.inspirefm.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Giving",
+        "rss_feed_url": "https://feeds.simplecast.com/G4h1ZpSp",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Technology"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "We’re in the middle of a philanthropic revolution.\n\nA new wave of changemakers are focusing on leverage and impact instead of the status quo.\n\nBusinesses are putting the community ahead of profits and building lasting organizations that make the world a better place.\n\nWelcome to Giving, a podcast where we visit the front lines with these revolutionaries.",
+        "itunes_id": "1438128546",
+        "content_rating": "clean",
+        "artist_name": "Alex Godin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/giving/id1438128546",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438128546",
+        "website": "http://givingpodcast.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Shepherd's Crook Orphan Ministry",
+        "rss_feed_url": "http://tscorphans.cast.rocks/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Kids & Family",
+          "Parenting"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "There are many children in the world growing up in institutions, who are available for adoption and need to be adopted. We aim to give those children a voice. Our podcast will cover individual orphans around the world, as well as other issues related to the world of adoption.",
+        "itunes_id": "1396750105",
+        "content_rating": "clean",
+        "artist_name": "The Shepherd's Crook Orphan Ministry",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-shepherds-crook-orphan-ministry/id1396750105",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1396750105",
+        "website": "http://tscorphans.cast.rocks/feed.xml"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nonprofit Luminaries",
+        "rss_feed_url": "https://nonprofitluminaries.com/feed/podcast/",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Sharing the positive impact of Nonprofit Organizations and the passion that drives them.",
+        "itunes_id": "1462481450",
+        "content_rating": "clean",
+        "artist_name": "Anibal Ruiz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nonprofit-luminaries/id1462481450",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462481450",
+        "website": "https://nonprofitluminaries.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Air Charter Podcast",
+        "rss_feed_url": "https://feeds.simplecast.com/NlbgoFq8",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Government"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Air Charter Industry's only official podcast brought to you by the Air Charter Association in partnership with Emerge Aviation.\nFull of industry news, features, interviews and fun from the world of aviation charter.",
+        "itunes_id": "1473329662",
+        "content_rating": "clean",
+        "artist_name": "The Air Charter Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-air-charter-podcast/id1473329662",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473329662",
+        "website": "https://www.theaircharterpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ron Brown's Kingdom Sports Minute",
+        "rss_feed_url": "https://anchor.fm/s/d6686d8/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Ron Brown is a former Nebraska football assistant coach and co-founder of Kingdom Sports. He talks about doing sports God's way in these radio shows.",
+        "itunes_id": "1478011094",
+        "content_rating": "clean",
+        "artist_name": "Gordon Thiessen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ron-browns-kingdom-sports-minute/id1478011094",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478011094",
+        "website": "www.kingdomsports.online"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Collateral Repair Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/b9916fc0-555b-488f-86d7-a87300952601/54385a27-2412-45c7-a850-a9f200b211de/73451f57-9b9b-47a9-a0d4-a9f200b296c1/podcast.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Society & Culture"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "The Collateral Repair Podcast aims to share the stories of refugees living in Amman, Jordan. On a monthly basis, CRP invites you into an intimate space that will allow you to hear and understand refugees’ experiences in their own words. Each episode features an interview with a member of one of Jordan’s refugee communities, a supporting interview with a professional or employee at CRP, a Q&A in response to listeners’ questions, and a quick update of developments that month at CRP.",
+        "itunes_id": "1454998559",
+        "content_rating": "clean",
+        "artist_name": "Collateral Repair Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/collateral-repair-podcast/id1454998559",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1454998559",
+        "website": "https://www.collateralrepairproject.org/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Generous Giving - Stories",
+        "rss_feed_url": "https://s3.amazonaws.com/ggvendor/GenerousGiving.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The story of Generous Giving began in the 1990s when five friends came together, challenged by the question of what could happen if Christians were truly generous with their resources, living out the joy of giving instead of the duty of tithing. They talked with a handful of people who were already experiencing this joy and asked them to share with others how living in faith-driven generosity had brought extreme transformation to their hearts and lives.",
+        "itunes_id": "899187359",
+        "content_rating": "clean",
+        "artist_name": "Generous Giving Inc",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/generous-giving-stories/id899187359",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=899187359",
+        "website": "http://s3.amazonaws.com/ggvendor/GenerousGiving.xml"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Breaking Barriers: Women Changemakers in Financial Inclusion",
+        "rss_feed_url": "https://feed.podbean.com/womensworldbanking/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Investing"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Breaking Barriers: Women Changemakers in Financial Inclusion is a podcast series about trailblazing women leaders who are driving change to ensure that women worldwide have access to and usage of financial products and services. It's brought to you by Women's World Banking, an organization that aims to empower low-income women around the world through financial inclusion.",
+        "itunes_id": "1478159844",
+        "content_rating": "clean",
+        "artist_name": "Women's World Banking",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/breaking-barriers-women-changemakers-in-financial-inclusion/id1478159844",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478159844",
+        "website": "https://womensworldbanking.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "You Can Do It Too",
+        "rss_feed_url": "https://anchor.fm/s/d397cc4/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The purpose of this podcast is to both showcase black excellence and increase awareness of the multitude of career possibilities out there for up and coming black professionals. Our vision is to create a world where young black men and women in high school and college can find role models in black professionals in Medicine, Engineering, Business, Education and Entrepreneurship around the world.",
+        "itunes_id": "1480073137",
+        "content_rating": "clean",
+        "artist_name": "MamBa Inspire CO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/you-can-do-it-too/id1480073137",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480073137",
+        "website": "https://anchor.fm/mambainspireco"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Alexander",
+        "rss_feed_url": "https://anchor.fm/s/f1eedd0/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Alexander es un ex militar mexicano que comparte su conocimiento con todos los ciudadanos así como sus historias de vida, como ser feliz en la vida civil, consejos sobre cómo utilizar los conocimientos adquiridos en el ejercito en la iniciativa privada. \n\nAdemás Alexander colabora como embajador institucional en la asociación Operación Finalmente en Casa A.C. que tiene como objetivo apoyara a los militares en su transición a la vida civil",
+        "itunes_id": "1483546341",
+        "content_rating": "clean",
+        "artist_name": "Alexander",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/alexander/id1483546341",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483546341",
+        "website": "https://anchor.fm/alexanderpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Weather Now",
+        "rss_feed_url": "https://anchor.fm/s/f1fb5d0/podcast/rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Daily weather updates.",
+        "itunes_id": "1482771271",
+        "content_rating": "clean",
+        "artist_name": "Owen Allee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-weather-now/id1482771271",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482771271",
+        "website": "https://www.facebook.com/MeteorologistOwen1/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The International Titanium Association",
+        "rss_feed_url": "https://podcast.rss.com/titaniumassociation/feed.xml",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business",
+          "Education"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The International Titanium Association Annual Conference Presentations",
+        "itunes_id": "1479647190",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Simpson",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-international-titanium-association/id1479647190",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479647190",
+        "website": "https://podcast.rss.com/titaniumassociation/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stress-Less Fundraising Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/869edb25-c010-4bb1-b04a-a75801470ed8/4fd7c202-f848-477f-ae32-a75a012fc95e/196f856e-60d9-4749-86bd-a75a01314b5f/podcast.rss",
+        "categories": [
+          "Non-Profit",
+          "Podcasts",
+          "Business"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.6,
+        "description": "Angie Smith and Deb Dale, CFRE, are fundraising consultants who’ve worn all the hats: development director, executive director, event volunteer, board member… and now, having worked with hundreds of nonprofits and funding organizations, they’ve seen it all! Learn why they want to share some of their stories ‘from the trenches’ with other industry professionals and volunteers ~ like you! Meet other folks who’ve been there, too ~ as fundraisers, funders, volunteers, and civic leaders ~ and learn from their perspectives, while having some fun.",
+        "itunes_id": "1229292789",
+        "content_rating": "clean",
+        "artist_name": "Smith & Dale",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stress-less-fundraising-podcast/id1229292789",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1229292789",
+        "website": "http://smith-dale.com/podcast/ ‎"
+      }
+    }
+  ]
+}

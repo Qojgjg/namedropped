@@ -1,0 +1,246 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+        "rss_feed_url": "https://rss.art19.com/sean-carrolls-mindscape",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Society & Culture",
+          "Philosophy"
+        ],
+        "rating_count": 1854,
+        "average_rating": 4.8,
+        "description": "Ever wanted to know how music affects your brain, what quantum mechanics really is, or how black holes work? Do you wonder why you get emotional each time you see a certain movie, or how on earth video games are designed? Then you’ve come to the right place. Each week, Sean Carroll will host conversations with some of the most interesting thinkers in the world. From neuroscientists and engineers to authors and television producers, Sean and his guests talk about the biggest ideas in science, philosophy, culture and much more.",
+        "itunes_id": "1406534739",
+        "content_rating": null,
+        "artist_name": "Sean Carroll | Wondery",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1406534739",
+        "website": "https://art19.com/shows/sean-carrolls-mindscape"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Titanium Physicists Podcast",
+        "rss_feed_url": "http://titaniumphysics.libsyn.com/rss",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Astronomy"
+        ],
+        "rating_count": 363,
+        "average_rating": 4.8,
+        "description": "Dr. Ben Tippett and his team of physicists believe that anyone can understand physics. Black Holes! Lightning! Coronal Mass Ejections! Quantum Mechanics!  Fortnightly, they explain a topic from advanced physics, using explanations, experiments and fun metaphors to a non-physicist guest. Visit the website to see a list of topics sorted by physics field.",
+        "itunes_id": "483978280",
+        "content_rating": "clean",
+        "artist_name": "Brachiolope Media Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-titanium-physicists-podcast/id483978280",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=483978280",
+        "website": "http://titaniumphysics.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Physics Frontiers",
+        "rss_feed_url": "http://physicsfrontiers-rantschler.podomatic.com/rss2.xml",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.7,
+        "description": "Jim Rantschler and Randy Morrison discuss physics from elementary particles to cosmological effects at the limits of our theoretical knowledge or have recently emerged.",
+        "itunes_id": "1171827836",
+        "content_rating": "clean",
+        "artist_name": "Jim Rantschler",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/physics-frontiers/id1171827836",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1171827836",
+        "website": "https://physicsfrontiers-rantschler.podomatic.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Shirtloads of Science",
+        "rss_feed_url": "https://shirtloadsofscience.libsyn.com/rss",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.7,
+        "description": "Dr Karl’s a curious optimist – a great combination for a science lover. Join him and his guests for weird facts, amazing conversation and remember, it’s never too late for a happy childhood. \nhttps://drkarl.com/",
+        "itunes_id": "1167803730",
+        "content_rating": "clean",
+        "artist_name": "Dr Karl Kruszelnicki",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shirtloads-of-science/id1167803730",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1167803730",
+        "website": "http://shirtloadsofscience.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Background Mode",
+        "rss_feed_url": "https://www.macobserver.com/rss/backgroundmode_mp3.xml",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "Join The Mac Observer's John Martellaro every week for fascinating interviews with tech industry pros and luminaries. It's more than a show about what they do; it's about who they are.",
+        "itunes_id": "1052879087",
+        "content_rating": "clean",
+        "artist_name": "John Martellaro from The Mac Observer",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/background-mode/id1052879087",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1052879087",
+        "website": "https://www.macobserver.com/show/background-mode"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Paranormal Into The Night",
+        "rss_feed_url": "https://paranormalintothenight.podbean.com/feed.xml",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Astronomy"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.8,
+        "description": "Hello and welcome to Paranormal Into The Night. We are a streaming internetradio station with a wide variety of shows. Talking The paranormal and more. A community dedicated to having fun and learning a bit along the way.",
+        "itunes_id": "1133002116",
+        "content_rating": "clean",
+        "artist_name": "PITN RADIO NETWORK",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/paranormal-into-the-night/id1133002116",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1133002116",
+        "website": "http://paranormalintothenight.podbean.com/feed/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Hyperfine Physics Podcast",
+        "rss_feed_url": "https://www.thehyperfine.com/feed/podcast/",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Mathematics"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "Zak and Derek solve physics puzzles and explore topics that a curious physics observer would be interested in.",
+        "itunes_id": "1434647685",
+        "content_rating": "clean",
+        "artist_name": "Derek Padilla and Zak Espley",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-hyperfine-physics-podcast/id1434647685",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1434647685",
+        "website": "https://www.thehyperfine.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "بالملّي | Belmilli",
+        "rss_feed_url": "https://belmilli.libsyn.com/rss",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Chemistry"
+        ],
+        "rating_count": 6,
+        "average_rating": 4,
+        "description": "بودكاست قصصي حيوي يقوم بطرح موضوع الحلقة عبر ذكر المواقف الواقعية التي يواجهها المستمع ويربطها بشكل مباشر بأنظمة القياس والمواصفات والجودة والمختبرات وتطوراتها وفروقاتها",
+        "itunes_id": "1474083357",
+        "content_rating": "clean",
+        "artist_name": "SASO | هيئة المواصفات",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%D8%A8%D8%A7%D9%84%D9%85%D9%84-%D9%8A-belmilli/id1474083357",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474083357",
+        "website": "http://belmilli.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Science of Fiction Podcast",
+        "rss_feed_url": "https://scioffi.podbean.com/feed.xml",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Astronomy"
+        ],
+        "rating_count": 2,
+        "average_rating": 2.5,
+        "description": "Join Dr Forgan, Stu and Stobbie as they explore the real life science behind your favourite sci-fi moments",
+        "itunes_id": "1450367609",
+        "content_rating": "clean",
+        "artist_name": "Science of Fiction",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-science-of-fiction-podcast/id1450367609",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450367609",
+        "website": "https://scioffi.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "EOD Gear IMPROVISED",
+        "rss_feed_url": "https://feeds.buzzsprout.com/500497.rss",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Health & Fitness"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "EOD Gear IMPROVISED brings in the top people from the EOD community and the communities working with or around us.",
+        "itunes_id": "1475639174",
+        "content_rating": "clean",
+        "artist_name": "Steve Cassidy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/eod-gear-improvised/id1475639174",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475639174",
+        "website": "https://eod-gear.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Can You Tell Me How?",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/9005",
+        "categories": [
+          "Physics",
+          "Podcasts",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "How do we beat superbugs and sustainably store energy to combat climate change? \nCan You Tell Me How is the second podcast produced by the University of Wollongong. Over six episodes we explore some of the world's biggest issues, and hear how UOW researchers are working on ground-breaking ways to solve them.\n\nYour hosts are Lizzie Jack and William Verity. Lizzie is a recent UOW graduate and podcast producer, while William brings over 30 years of journalism experience to the podcast.",
+        "itunes_id": "1479803895",
+        "content_rating": "clean",
+        "artist_name": "The University of Wollongong",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/can-you-tell-me-how/id1479803895",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479803895",
+        "website": "https://stand.uow.edu.au/podcast"
+      }
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Craft Industry Alliance",
+        "rss_feed_url": "https://abbyglassenberg.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 123,
+        "average_rating": 4.7,
+        "description": "A recommendation show for creatives.",
+        "itunes_id": "643885946",
+        "content_rating": "clean",
+        "artist_name": "Abby Glassenberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/craft-industry-alliance/id643885946",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=643885946",
+        "website": "https://abbyglassenberg.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Craft A Life You Love",
+        "rss_feed_url": "https://craftalifeyoulove.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 178,
+        "average_rating": 4.9,
+        "description": "Join craft maven and creative coach Amy Tangerine as she extracts juicy wisdom from tastemakers, experts, and entrepreneurs. Her guests have found their own unique voices and infuse creativity, fun, and intention into their daily lives– so can you. Listen for the freshest takes on how to build the life of your dreams at the crossroads of creativity, passion, and purpose.",
+        "itunes_id": "1463447461",
+        "content_rating": "clean",
+        "artist_name": "Amy Tangerine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/craft-a-life-you-love/id1463447461",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1463447461",
+        "website": "http://www.amytangerine.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Ewes Fiber Adventures",
+        "rss_feed_url": "http://twoewesdyeing.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 108,
+        "average_rating": 4.6,
+        "description": "Who are we and why are we podcasting? We are Kelly and Marsha.  We came at yarn and fiber from different directions, but we both love it. Marsha is an accomplished knitter, learning to dye yarn.  Kelly is a spinner who knits and weaves.  Fiber is one of the many interests we share after over 30 years of friendship. ",
+        "itunes_id": "928864628",
+        "content_rating": "clean",
+        "artist_name": "Kelly and Marsha",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-ewes-fiber-adventures/id928864628",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=928864628",
+        "website": "http://twoewesdyeing.libsyn.com/webpage"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Just Wanna Quilt",
+        "rss_feed_url": "http://www.spreaker.com/show/2760795/episodes/feed",
+        "categories": [
+          "Visual Arts",
+          "Podcasts",
+          "Arts"
+        ],
+        "rating_count": 106,
+        "average_rating": 4.2,
+        "description": "Conversations with quilters, designers, tool-makers, all kinds of people connected to the quilting industry.  Hobby quilters, famous quilters, and everyone in between.  A research podcast from Tulane Law School hosted by Elizabeth Townsend Gard.  Yes, some talk about copyright and intellectual property law too and how it connects to quilting.",
+        "itunes_id": "1341376118",
+        "content_rating": "clean",
+        "artist_name": "Elizabeth Townsend Gard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/just-wanna-quilt/id1341376118",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1341376118",
+        "website": "http://www.spreaker.com/show/just-wanna-quilt"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Planner Girl Chatter",
+        "rss_feed_url": "http://plannergirlchatter.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 107,
+        "average_rating": 4.4,
+        "description": "Three planner gals that met through their obsession decorating their day planners share their adventures, friends, product reviews, and thoughts on all things planning. Covering real life adult topics, while talking about stickers, intentions, and sometimes the lack of having it together expect big laughs and adult language.",
+        "itunes_id": "1233966392",
+        "content_rating": "explicit",
+        "artist_name": "Planner Girl Chatter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/planner-girl-chatter/id1233966392",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1233966392",
+        "website": "https://plannergirlchatter.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Off-Kilter Quilt",
+        "rss_feed_url": "https://offkilterquilt.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Home & Garden"
+        ],
+        "rating_count": 148,
+        "average_rating": 4.9,
+        "description": "A weekly podcast about all things quilty",
+        "itunes_id": "372536736",
+        "content_rating": "clean",
+        "artist_name": "Frances O'Roark Dowell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-off-kilter-quilt/id372536736",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=372536736",
+        "website": "https://offkilterquilt.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Yarnspinners Tales's Podcast",
+        "rss_feed_url": "http://yarnspinnerstales.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 41,
+        "average_rating": 4.9,
+        "description": "Join me as each time I either prep fiber for spinning, or sit at my spinning wheel.  There is also music and stories while we spin our fiber into yarn.",
+        "itunes_id": "266791433",
+        "content_rating": "clean",
+        "artist_name": "yarnspinners@gmail.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/yarnspinners-taless-podcast/id266791433",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=266791433",
+        "website": "http://yarnspinnerstales.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Teaching Your Brain to Knit",
+        "rss_feed_url": "http://teachingyourbraintoknit.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 74,
+        "average_rating": 4.8,
+        "description": "Margaret and Catherine talk about what they are learning from their knitting, something about the brain or learning, Behind the Redwood Curtain, the area where they live along the Northcoast of California, and a knitting tip",
+        "itunes_id": "942230950",
+        "content_rating": "clean",
+        "artist_name": "Margaret and Catherine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/teaching-your-brain-to-knit/id942230950",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=942230950",
+        "website": "http://teachingyourbraintoknit.libsyn.com/webpage"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hip to be a Square Quilting Podcast",
+        "rss_feed_url": "http://www.hiptobeasquarepodcast.com/feed/podcast/",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 113,
+        "average_rating": 4.6,
+        "description": "Hip to Be A Square is a podcast for quilters and crafters, nerds and geeks. And my mom. Hi mom! Every week, I’ll talk about my ongoing projects, which range from personal to charity quilts to challenge quilts, to all the Helper Cats that are part of my life. I’ll provide tips and project ideas for the quilty nerd in you begging to be let out. \n\n\n\nTwice a month, audio episodes from The Stitch TV Show on YouTube will appear in the feed so you can listen to the audio for the latest Stitch TV episode.",
+        "itunes_id": "576266746",
+        "content_rating": "clean",
+        "artist_name": "Pam the Head Rhombus",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hip-to-be-a-square-quilting-podcast/id576266746",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=576266746",
+        "website": "http://www.hiptobeasquarepodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scrapbook Your Way",
+        "rss_feed_url": "https://simplescrapper.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.9,
+        "description": "In a world where a camera is always within reach and creative options are abundant, “Your Way” is the memory-keeping approach that fills you up and fits your life right now. This free, scrapbooking-focused show celebrates the breadth of ways to be a memory keeper today. Our format varies week to week, with a healthy mix of teaching, listener Q and A, roundtable discussions, and interviews with everyday scrapbookers. Scrapbook Your Way is hosted by Jennifer Wilson, owner of Simple Scrapper and author of The New Rules of Scrapbooking.",
+        "itunes_id": "1451026260",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Wilson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scrapbook-your-way/id1451026260",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451026260",
+        "website": "https://www.simplescrapper.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Scrapbook Your Way",
+        "rss_feed_url": "https://simplescrapper.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.9,
+        "description": "In a world where a camera is always within reach and creative options are abundant, “Your Way” is the memory-keeping approach that fills you up and fits your life right now. This free, scrapbooking-focused show celebrates the breadth of ways to be a memory keeper today. Our format varies week to week, with a healthy mix of teaching, listener Q and A, roundtable discussions, and interviews with everyday scrapbookers. Scrapbook Your Way is hosted by Jennifer Wilson, owner of Simple Scrapper and author of The New Rules of Scrapbooking.",
+        "itunes_id": "1451026260",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Wilson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/scrapbook-your-way/id1451026260",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451026260",
+        "website": "https://www.simplescrapper.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Simple. Handmade. Everyday.",
+        "rss_feed_url": "https://kristinesser.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 80,
+        "average_rating": 4.9,
+        "description": "The Simple Handmade Everyday podcast is where I talk about living a creative, intentional life. I like to chat about quilting, knitting, what I’m reading and watching, and even a little bit about keeping a cozy, organized home.",
+        "itunes_id": "1345755593",
+        "content_rating": "clean",
+        "artist_name": "Kristin Esser",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/simple-handmade-everyday/id1345755593",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1345755593",
+        "website": "https://kristinesser.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Very Serious Crafts Podcast",
+        "rss_feed_url": "http://podcast.veryseriouscrafts.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 62,
+        "average_rating": 4.8,
+        "description": "A very serious crafts podcast from three very serious crafters.",
+        "itunes_id": "1372908592",
+        "content_rating": "clean",
+        "artist_name": "Heidi Gustad, Mollie Johanson and Haley Pierson-Cox",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-very-serious-crafts-podcast/id1372908592",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1372908592",
+        "website": "https://www.veryseriouscrafts.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Quilters Circle Podcast",
+        "rss_feed_url": "https://feed.podbean.com/nationalquilterscircle/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Arts"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "National Quilters Circle is your go-to resource for quilting instruction and information. Now, we’re bringing you The Quilters Circle Podcast, where our host Ashley Hough will interview various quilters about their lives and stories.",
+        "itunes_id": "1475965495",
+        "content_rating": "clean",
+        "artist_name": "National Quilters Circle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-quilters-circle-podcast/id1475965495",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475965495",
+        "website": "https://nationalquilterscircle.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Creative Queso Podcast",
+        "rss_feed_url": "https://feed.pippa.io/public/shows/5c19902d9eee64de6605a8a4",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 32,
+        "average_rating": 5,
+        "description": "Welcome to Creative Queso with Jennifer Perkins, where we taco about the business of being creative and the creativity behind running a business .\nLearn more at: https://creativequeso.com/",
+        "itunes_id": "1447316085",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Perkins",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/creative-queso-podcast/id1447316085",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1447316085",
+        "website": "https://creativequeso.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Craft Hangout",
+        "rss_feed_url": "https://crafthangout.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 47,
+        "average_rating": 5,
+        "description": "Welcome to the artsy crafty inspiration destination podcast with an upbeat & fun edge. We exist to help our crafty tribe get better at whatever they’re doing, provide encouragement, inspo, & a fun listen. Let's hang out & get crafty!",
+        "itunes_id": "1363536403",
+        "content_rating": "explicit",
+        "artist_name": "Love Eliza, LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/craft-hangout/id1363536403",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363536403",
+        "website": "https://crafthangout.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "My Creative Corner3- quilting, crafts and creativity",
+        "rss_feed_url": "https://mycreativecorner3.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Visual Arts"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.6,
+        "description": "My Creative Corner3 is a podcast about my creative journey in quilting, crafts and life in a northern town.",
+        "itunes_id": "1152146807",
+        "content_rating": "clean",
+        "artist_name": "Vicki Holloway",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/my-creative-corner3-quilting-crafts-and-creativity/id1152146807",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1152146807",
+        "website": "https://mycreativecorner3.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sew-organised-style",
+        "rss_feed_url": "https://seworganisedstylepodcast.libsyn.com/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Sew organised style- listen to people just like you.\nWe'll cover sewing, style and interview people who are the backbone of our sewing community and provide you with reputable organisations you can go to for help when you need it. Go to our website: https://seworganisedstylepodcast.com/\nThere will be evolving playlist series as we find experts with gems of information and resources to keep you creative. \nDon't keep our podcast channel a secret. Tell your friends and rate us on Itunes.",
+        "itunes_id": "1477905385",
+        "content_rating": "clean",
+        "artist_name": "Maria Theoharous",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sew-organised-style/id1477905385",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477905385",
+        "website": "https://seworganisedstylepodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stamp With Us",
+        "rss_feed_url": "https://anchor.fm/s/e5709f0/podcast/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "Join stamping gurus of the cardmaking industry, Simon Hurley and Rina K. as they discuss the ups and downs of life, share hilarious stories and their input all while making cards! Their guests have paved a way for themselves in the crafting industry and share their knowledge, journey, and insight on how they made their dreams a reality. Grab your craft supplies and get ready to laugh out loud!",
+        "itunes_id": "1480955561",
+        "content_rating": "clean",
+        "artist_name": "Simon Hurley and Rina K",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stamp-with-us/id1480955561",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480955561",
+        "website": "https://anchor.fm/stamp-with-us"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Make and Decorate with Stephanie Socha Design",
+        "rss_feed_url": "https://feeds.buzzsprout.com/191386.rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.9,
+        "description": "A creative lifestyle podcast for those who like to sew, quilt, decorate and make things for the home.",
+        "itunes_id": "1413384728",
+        "content_rating": "clean",
+        "artist_name": "Stephanie Socha",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/make-and-decorate-with-stephanie-socha-design/id1413384728",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413384728",
+        "website": "http://www.stephaniesochadesign.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TB UNICORN POD",
+        "rss_feed_url": "https://anchor.fm/s/c88866c/podcast/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.5,
+        "description": "Somewhere over the rainbow..... way up high , the magical dust of unicorns can save our life.\n\nWith a positive mind, a caring heart, strength, struggle, triumphs, defeat, glory, hustle, motherhood, childhood, and everything in between. \n\nOur neighborhood of unicorns has managed to bring a unique approach to planning a productively chaotic day, and empowering each other in the process. \n\nHere you will find, hopes, dreams, love and a way to turn your To Do’s into Ahh Hah’s. \n\nTake a trip over the rainbow with Tina .......",
+        "itunes_id": "1472305411",
+        "content_rating": "clean",
+        "artist_name": "Tinabopper",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tb-unicorn-pod/id1472305411",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472305411",
+        "website": "https://anchor.fm/tinabopper"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spin Control Podcast: a knitting, spinning, and fiber craft podcast.",
+        "rss_feed_url": "https://spincontrolpodcast.com/feed/podcast",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "A podcast about knitting, spinning, sewing and a bit about me.",
+        "itunes_id": "1229524677",
+        "content_rating": "clean",
+        "artist_name": "Shilo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spin-control-podcast-knitting-spinning-fiber-craft/id1229524677",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1229524677",
+        "website": "https://spincontrolpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Build Guild Podcast : A Professionally Unprofessional Podcast for Makers",
+        "rss_feed_url": "https://anchor.fm/s/c53c8dc/podcast/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 38,
+        "average_rating": 5,
+        "description": "A Professionally Unprofessional Podcast for Makers.\nHosted by:\nBen - Myers Woodshop\nBrian - Fiery Squirrel Art\nCoty - Arganic Woodwork Support this podcast: https://anchor.fm/thebuildguildpodcast/support",
+        "itunes_id": "1459324924",
+        "content_rating": "clean",
+        "artist_name": "The Build Guild Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/build-guild-podcast-professionally-unprofessional-podcast/id1459324924",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459324924",
+        "website": "https://www.thebuildguildpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Craft Cook Read Repeat",
+        "rss_feed_url": "https://craftcookreadrepeat.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "A bi-weekly conversation featuring crafty goodness, wonderful reads and tasty eats",
+        "itunes_id": "1444667419",
+        "content_rating": "clean",
+        "artist_name": "craftcookreadrepeat",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/craft-cook-read-repeat/id1444667419",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444667419",
+        "website": "https://craftcookreadrepeat.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Casting On",
+        "rss_feed_url": "https://anchor.fm/s/f4b34f8/podcast/rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "A crochet, knitwear and fibre arts podcast discussing all things yarn!",
+        "itunes_id": "1483794404",
+        "content_rating": "clean",
+        "artist_name": "Bethany",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/casting-on/id1483794404",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483794404",
+        "website": "http://knottygurlcrochet.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Brave Knitting",
+        "rss_feed_url": "https://feeds.buzzsprout.com/552562.rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A knitting podcast to inspire knitters of all levels to take the next step!",
+        "itunes_id": "1481720117",
+        "content_rating": "clean",
+        "artist_name": "Ann & Linda",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brave-knitting/id1481720117",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481720117",
+        "website": "http://www.braveknitting.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Charmed Knits Podcast",
+        "rss_feed_url": "https://charmedknits.podbean.com/feed.xml",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "A podcast about knitting, spinning, crochet, dyeing (the fun kind), and our attempts to learn all of the things in the fiber arts!",
+        "itunes_id": "1392853450",
+        "content_rating": "clean",
+        "artist_name": "Charmed Knits",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/charmed-knits-podcast/id1392853450",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1392853450",
+        "website": "https://charmedknits.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stud Or Scrub Gaming",
+        "rss_feed_url": "https://feeds.buzzsprout.com/210798.rss",
+        "categories": [
+          "Crafts",
+          "Podcasts",
+          "Leisure",
+          "Games"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Warhammer 40k stream where two average players share their journey in an attempt to make it onto ETC Team Canada!  They discuss their tournaments, lists, the meta, thoughts and experiences leading up to the final moment where they find out if they make the team and are indeed Studs, or Scrubs.",
+        "itunes_id": "1438265923",
+        "content_rating": "explicit",
+        "artist_name": "Dustin Henshaw",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stud-or-scrub-gaming/id1438265923",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438265923",
+        "website": null
+      }
+    }
+  ]
+}

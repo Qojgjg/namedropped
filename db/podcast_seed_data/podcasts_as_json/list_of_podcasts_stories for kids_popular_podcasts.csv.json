@@ -1,0 +1,2023 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Wow in the World",
+        "rss_feed_url": "https://www.npr.org/rss/podcast.php?id=510321",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 10041,
+        "average_rating": 4.6,
+        "description": "Hosts Mindy Thomas and Guy Raz guide curious kids and their grown-ups on a journey into the wonders of the world around them. We'll go inside our brains, out into space and deep into the coolest new stories in science and technology.",
+        "itunes_id": "1233834541",
+        "content_rating": null,
+        "artist_name": "NPR",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/wow-in-the-world/id1233834541",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1233834541",
+        "website": "http://www.wowintheworld.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storynory - Stories for Kids",
+        "rss_feed_url": "http://feeds.feedburner.com/Storynory",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction"
+        ],
+        "rating_count": 1474,
+        "average_rating": 4.2,
+        "description": "Storynory brings you an audio story every week. Each one is  beautifully read by Natasha and friends. Let Natasha's voice beguile you with classic fairy tales, new children's stories, poems, myths, adventures and romance.",
+        "itunes_id": "94571049",
+        "content_rating": "clean",
+        "artist_name": "Storynory",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storynory-stories-for-kids/id94571049",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=94571049",
+        "website": "https://www.storynory.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Creeping Hour",
+        "rss_feed_url": "https://feeds.wgbh.org/250/feed-rss.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 266,
+        "average_rating": 3.5,
+        "description": "Beware, these scary stories will transform you! The Creeping Hour is a horror anthology series hosted by the Creeps, three friends who listened to so many scary stories that they turned into monsters themselves.\n\nGather your whole family to shiver with fright as you listen to the terrifying tales of The Creeping Hour. Listen if you dare. Don’t say we didn’t warn you!\n\nThe Creeping Hour is a co-production of WGBH and Elie Lichtschein. It is appropriate for all ages and recommended for kids ages 8-12.",
+        "itunes_id": "1479709811",
+        "content_rating": "clean",
+        "artist_name": "WGBH",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-creeping-hour/id1479709811",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479709811",
+        "website": "https://beta.prx.org/series/38847"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Circle Round",
+        "rss_feed_url": "https://rss.wbur.org/circleround/podcast",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 1909,
+        "average_rating": 4.5,
+        "description": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 4 to 10. Each 10- to 20-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
+        "itunes_id": "1246443751",
+        "content_rating": "clean",
+        "artist_name": "WBUR",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/circle-round/id1246443751",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1246443751",
+        "website": "http://www.wbur.org/circleround"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Story Time — Children's bedtime stories for kids. Storytime anytime.",
+        "rss_feed_url": "https://bedtime.fm/storytime/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 1266,
+        "average_rating": 4.4,
+        "description": "Children's bedtime stories delivered fortnightly as a free audiobook. For toddlers, preschoolers, young children aged 2-13, or the whole family. Download the mp3, listen in Apple Podcasts, Google Play, Stitcher, Leela Kids, or listen online at https://bedtime.fm/storytime\nProud member of Kids Listen, a grass roots organisation promoting content just for children",
+        "itunes_id": "991313597",
+        "content_rating": "clean",
+        "artist_name": "Bedtime FM",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/story-time/id991313597",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=991313597",
+        "website": "https://bedtime.fm/storytime"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "What If World - Stories for Kids",
+        "rss_feed_url": "https://whatifworld.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Comedy",
+          "Improv"
+        ],
+        "rating_count": 1641,
+        "average_rating": 4.5,
+        "description": "What if a tiny dragon lived in my closet? What if there were a never-ending bowl of ice cream? What if cats ruled the world? Join Abacus P Grumbler, Randall Radbot, and Whendiana Joan as they help Mr. Eric tell wacky stories inspired by your questions! Call to leave a voicemail at 205-605-WHAT and be featured on the show. More at www.whatifworldpodcast.com",
+        "itunes_id": "1164278826",
+        "content_rating": "clean",
+        "artist_name": "Eric O'Keeffe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/what-if-world-stories-for-kids/id1164278826",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1164278826",
+        "website": "http://www.whatifworldpodcast.com/episodes/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Little Stories for Tiny People: Anytime and bedtime stories for kids",
+        "rss_feed_url": "https://www.littlestoriestinypeople.com/podcast.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 1017,
+        "average_rating": 4.6,
+        "description": "Little Stories for Tiny People is a kids' podcast featuring original kids' stories and poems that will delight the tiny people in your life. Perfect for bleary-eyed parents, innovative preschool teachers, and at-wits’-end babysitters looking for an alternative and non-annoying way to engage the toddlers and young kids they love at bedtime or anytime! Each story for children is lovingly written and performed with attention to the whimsical senses of humor children often possess. Visit www.littlestoriestinypeople.com for more info and to learn about the upcoming picture book.",
+        "itunes_id": "1039511252",
+        "content_rating": "clean",
+        "artist_name": "Rhea Pechter",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/little-stories-for-tiny-people-anytime-bedtime-stories/id1039511252",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1039511252",
+        "website": "https://www.littlestoriestinypeople.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Radio Adventures of Dr. Floyd",
+        "rss_feed_url": "http://drfloyd.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "History"
+        ],
+        "rating_count": 420,
+        "average_rating": 4.5,
+        "description": "Since November 7, 2004 - The first, and longest running, professionally produced audio drama podcast!  This family friendly new twist on \"old time radio\" features the adventures and exploits of the World's Most Brilliant Scientist, Dr. Floyd!  Join Dr. Floyd as he tries to thwart the plans of his evil arch nemesis, Dr. Steve, all the while learning about the people and events that shaped the history of the Earth.  If satirist Stan Freberg and Jay Ward, creator of Rocky & Bullwinkle, had created Mystery Science Theater 3000 mixed in a little Time Bandits and gave it an educational spin, the result would have been...The Radio Adventures Of Dr. Floyd!   The Podcast for Gifted Children and Adults!",
+        "itunes_id": "73329877",
+        "content_rating": "clean",
+        "artist_name": "Grant Baciocco/Doug Price/Saturday Morning Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-radio-adventures-of-dr-floyd/id73329877",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=73329877",
+        "website": "http://www.doctorfloyd.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Molly of Denali",
+        "rss_feed_url": "https://feeds.wgbh.org/193/feed-rss.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 482,
+        "average_rating": 4.7,
+        "description": "Meet Molly Mabray, an Alaska Native girl growing up with her parents, family and friends. Over eight episodes, Molly and her friend Tooey discover the identity of a mystery creature that has stolen Molly’s birthday cake. Join Molly and the gang and discover what life is like for a typical kid on big adventures in Alaska!\n\nThe Molly of Denali podcast is made by the folks behind some of your all-time favorite PBS television shows: Arthur, Curious George, Pinkalicious and Peterrific and more! Molly of Denali, the TV series, premieres on your local PBS station on July 15, 2019!\n\nConnect with Molly on Facebook, Twitter and Instagram.\n\nmollyofdenalipodcast.org",
+        "itunes_id": "1450820162",
+        "content_rating": "clean",
+        "artist_name": "Molly of Denali",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/molly-of-denali/id1450820162",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450820162",
+        "website": "http://mollyofdenalipodcast.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Be Calm on Ahway Island Bedtime Stories",
+        "rss_feed_url": "https://www.ahwayisland.com/feed/podcast/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 324,
+        "average_rating": 4.5,
+        "description": "Original Children's Stories and Meditations for nap time, bedtime, and any time it's relax time! Be calm with us at www.ahwayisland.com for original bedtime stories with a positive message.",
+        "itunes_id": "1203289615",
+        "content_rating": "clean",
+        "artist_name": "Sheep Jam Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/be-calm-on-ahway-island-bedtime-stories/id1203289615",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1203289615",
+        "website": "https://www.ahwayisland.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bedtime Stories Podcast Fairytales and Folk Tales from the Lilypad for kids",
+        "rss_feed_url": "https://talesfromthelilypad.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 320,
+        "average_rating": 4.6,
+        "description": "Lily, a frog, tells fairytales, folk tales and bedtime stories to kids.",
+        "itunes_id": "942052626",
+        "content_rating": "clean",
+        "artist_name": "Lily, a frog",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bedtime-stories-podcast-fairytales-folk-tales-from/id942052626",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=942052626",
+        "website": "https://talesfromthelilypad.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Reading Bug Adventures -  Original Stories with Music for Kids",
+        "rss_feed_url": "http://readingbugadventures.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 249,
+        "average_rating": 4.6,
+        "description": "Let's Fly! Reading Bug Adventures is a story podcast for kids from The Reading Bug. Each episode is a new adventure with original songs -- just hop into the Reading Bug's magic book bag, and we'll be transported to whatever time or place is in the books inside! Join us for action and adventure, and bring your crayons and paper so you can color your own illustrations. Reading Bug Adventures is created, written, and produced by The Reading Bug, an independent, family-owned children's bookstore. Learn more at  www.thereadingbug.com/adventures",
+        "itunes_id": "1339010925",
+        "content_rating": "clean",
+        "artist_name": "The Reading Bug",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/reading-bug-adventures-original-stories-music-for-kids/id1339010925",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1339010925",
+        "website": "http://www.thereadingbug.com/adventures"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fierce Girls",
+        "rss_feed_url": "http://www.abc.net.au/radio/programs/fierce-girls/feed/9405360/podcast.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 255,
+        "average_rating": 4.6,
+        "description": "From skaters to singers, mountaineers to Mars mission-leaders. From the deep blue sea to the dark, black skies. Australia is full of girls who dare to do things differently. Adventurous girls. Girls with guts and spirit. Girls who stand-up and say, \"watch out world, here I come!\". Do you know what they are? They're FIERCE. These are their stories. Join the amazing Amy Shark, Julie Bishop, Yael Stone and more as they tell the inspiring tales of some of Australia's most extraordinary women.",
+        "itunes_id": "1351065618",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fierce-girls/id1351065618",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1351065618",
+        "website": "http://www.abc.net.au/radio/programs/fierce-girls/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tara Tremendous: The Secret Diaries",
+        "rss_feed_url": "https://www.spreaker.com/show/3594236/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Drama"
+        ],
+        "rating_count": 223,
+        "average_rating": 4.5,
+        "description": "When 11-year-old Tara Callahan accidentally acquires the powers of every superhero in the world, her life goes from ordinary to extraordinary overnight.  Filled with mystery, action-adventure and comedy, Tara Tremendous: The Secret Diaries is a musically-infused audio serial for the whole family.  Tara Tremendous: The Secret Diaries features a large ensemble cast of over 50 performers, with lead performances by Tayla Hadley as Tara Callahan, Stewart St John as Dr Epic and Michael Plahuta as Mr. Barrington.  Special guest stars include Sarah Douglas (Superman I and II) and Gina Liano (Real Housewives of Melbourne).  Written and directed by Stewart St John (Mighty Morphin Power Rangers, Sabrina: The Animated Series).  Original Score and over twenty Songs written, performed and produced by music partners Stewart St John & Michael Plahuta.  Sound Design by Michael Plahuta.  Produced by Todd Fisher, Stewart St John and Michael Plahuta for Wonkybot Studios.",
+        "itunes_id": "1413333566",
+        "content_rating": "clean",
+        "artist_name": "Wonkybot Studios",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tara-tremendous-the-secret-diaries/id1413333566",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413333566",
+        "website": "https://www.wonkybot.com/tara-tremendous-the-secret-diaries-series/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "VIDEO STORY OF THE DAY - StoryCub - Video Picture Books™ - Bedtime or Anytime℠",
+        "rss_feed_url": "http://feeds.feedburner.com/storycub",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 165,
+        "average_rating": 3.7,
+        "description": "Storytime that is both fun and educational, Your child will enjoy and learn from our online  - Video Picture Books™\nIt’s Storytime, Anytime℠.\nViewed in more than 200 countries!\nThe StoryCub early childhood mission is to promote reading while enhancing skills needed to be successful in life.\nStoryCub™ - Video Picture Books™ take on issues such as problem-solving, decision-making, responsibility, and getting along with others.\nWe're bridging the gap between the traditional and digital storytime experience with REAL Storytellers and Beautiful Picture Book Images that connect and engage kids of ALL ages.\nRecognized by the Society of Children’s Book Writers and Illustrators (SCBWI) for the way it connects parents and educators with authors and publishers of children's picture books in today’s digital world, StoryCub has become a bedtime favorite. Our video bedtime stories have become a nightly ritual for families around the world.    However, we all know...It's always a great time for a story! Free online children books read aloud, perfect for children in kindergarten, preschool, as well as toddlers, early-learners, special needs...KIDS OF ALL AGES!\nWatch the best-recommended kids video storybooks.  \nIt's Always Storytime Here.℠   Parents, Read With Your Kids.\n\nVisit us at: StoryCub.com",
+        "itunes_id": "528201226",
+        "content_rating": "clean",
+        "artist_name": "StoryCub - Video Picture Books™",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/video-story-day-storycub-video-picture-books-bedtime/id528201226",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=528201226",
+        "website": "https://www.StoryCub.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Calm Kids Podcast",
+        "rss_feed_url": "https://calmkidspodcast.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 71,
+        "average_rating": 4.5,
+        "description": "Do your children enjoy listening to stories while falling asleep, on a car ride or simply whenever they get a chance? This pocast features unique stories invented and read by us: Lucie (11 years old) and Charlotte (8 years old). This podcast is appropriate for all ages. From light hearted tales to relaxation techniques, we hope your little ones will enjoy them as much as we enjoyed inventing them. If you like our stories, please leave us some feedback as we love hearing back from other kids.",
+        "itunes_id": "1223779511",
+        "content_rating": "clean",
+        "artist_name": "Lucie and Charlotte",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-calm-kids-podcast/id1223779511",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1223779511",
+        "website": "https://calmkidspodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Adventure of The Month - Kids and Children",
+        "rss_feed_url": "https://templetonneurology.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 68,
+        "average_rating": 4.5,
+        "description": "Developed by Amr Al-Hariri, MD author and a board certified neurologist to help trigger imagination of kids through the power of the word in amazing stories from cultures all over the world.",
+        "itunes_id": "893412458",
+        "content_rating": "clean",
+        "artist_name": "Amr Al-Hariri, MD",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/adventure-of-the-month-kids-and-children/id893412458",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=893412458",
+        "website": "https://templetonneurology.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Comedy for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/5ea58688-98f4-4774-9f06-a4f500e6d198/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 85,
+        "average_rating": 3.4,
+        "description": "Fancy a giggle? Than sit back and enjoy as Alex brings you some Comedy Bites! Listen to Fun Kids on DAB Digital Radio in London and across the UK at funkidslive.com",
+        "itunes_id": "592385155",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/comedy-for-kids/id592385155",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=592385155",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Purple Rocket Podcast",
+        "rss_feed_url": "https://purplerocketpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 104,
+        "average_rating": 4.7,
+        "description": "A storytelling podcast for kids ages 5-12. Enjoy fun, educational audio adventures like Grandpa’s Globe, Space Train, Winglings under the Willow Tree and more! Each season is a unique, originally written series and most function like an audio book, so be sure to start with Episode 1 to follow along. Visit PurpleRocketPodcast.com to learn more!",
+        "itunes_id": "1243077660",
+        "content_rating": "clean",
+        "artist_name": "Greg Webb",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-purple-rocket-podcast/id1243077660",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1243077660",
+        "website": "https://www.PurpleRocketPodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cricket - A Kids Bedtime Story Podcast",
+        "rss_feed_url": "http://thecricketpodcast.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 71,
+        "average_rating": 3.8,
+        "description": "The Cricket Podcast is a project to capture the art of storytelling at bedtime with the stories that we tell our kids. Sometimes they are funny, sometimes they are scary, usually a bit of both. But they are always kid-safe, entertaining, yet calm enough to fall asleep to. Most importantly, we get right into the story without a bunch of self-promoting meta talk. Production is kept minimal with intention: we try to preserve the craft of storytelling by presenting the story exactly as we would when telling our own children, using only our voices.\n\nRead more at http://thecricketpodcast.com",
+        "itunes_id": "1134423006",
+        "content_rating": "clean",
+        "artist_name": "The Cricket",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cricket-a-kids-bedtime-story-podcast/id1134423006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1134423006",
+        "website": "http://thecricketpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Discovery Mountain",
+        "rss_feed_url": "http://www.spreaker.com/show/2408141/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 153,
+        "average_rating": 4.7,
+        "description": "Discover a new kid's audio drama where listeners experience adventure, mystery, campfire songs and, most importantly, get to know Jesus.",
+        "itunes_id": "1239901676",
+        "content_rating": "clean",
+        "artist_name": "Discovery Mountain",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/discovery-mountain/id1239901676",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1239901676",
+        "website": "http://www.discoverymountain.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "April Eight Songs & Stories",
+        "rss_feed_url": "http://aprileight.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.7,
+        "description": "Hooray! Your family is heading for delight. April Eight Songs & Stories is a charming original fairytale podcast series for the whole family. Listen together as a lovely green world of wonder full of humble gnomes, sparkling fairies and grouchy trolls, mischievous woodland creatures and magical butterflies who are more than they appear to be, take you on adventures where everyday kids, tricky witches, lost crowns and fearless queens encounter magical potions and wondrous journeys. Giggle, laugh out loud, think a little deeper, hold your breath, smile – and get ready for your kids to say, “Play it again!” For on the April Eight Songs & Stories Podcast, unexpected heroes take the day in pursuit of life’s simple truth: Love conquers all and will always find a way. Start with Episode 1, and let the fun roll on from there. Subscribe today and never miss a story!",
+        "itunes_id": "1123249983",
+        "content_rating": "clean",
+        "artist_name": "April Eight",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/april-eight-songs-stories/id1123249983",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1123249983",
+        "website": "http://www.aprileight.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spooky Troop: The Last Halloween",
+        "rss_feed_url": "https://www.spreaker.com/show/3594090/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Drama"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.7,
+        "description": "In a world ravaged by an ancient monster race-war, a group of young tween supernatural friends from different backgrounds, codenamed “Spooky Troop”, come together to try and restore peace and harmony between monster kind. In this thrilling holiday special called Spooky Troop: The Last Halloween, the Spooky Troop kids discover the Demon King’s plan to wipe out the pitifuls (humans!) on Halloween… and unite to stop him! Filled with mystery, action-adventure and comedy, the musically-infused audio drama is a show the whole family can enjoy featuring a full-cast adventure with dialogue, sound effects, instrumental score and original songs.  Written and directed by Stewart St John (Mighty Morphin Power Rangers, Sabrina: The Animated Series).  Original Score and over twenty Songs written, performed and produced by music partners Stewart St John & Michael Plahuta. Sound Design by Michael Plahuta.  Produced by Todd Fisher, Stewart St John and Michael Plahuta for Wonkybot Studios.",
+        "itunes_id": "1429993278",
+        "content_rating": "clean",
+        "artist_name": "Wonkybot Studios",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spooky-troop-the-last-halloween/id1429993278",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1429993278",
+        "website": "https://www.wonkybot.com/spooky-troop-the-last-halloween-series/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Story Quest - Stories for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/fa359a58-12e1-46f0-beda-a4e9008e6e10/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.1,
+        "description": "New episodes every week! Stories for kids and families from Fun Kids - the UK's children's radio station. Perfect for all ages - listen in the car, when chilling at home and before bedtimes. \n\nIf you like this, explore our other podcasts and listen to Fun Kids on DAB Digital Radio across the UK, on the free Fun Kids app and online at funkidslive.com.",
+        "itunes_id": "469008348",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/story-quest-stories-for-kids/id469008348",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=469008348",
+        "website": "http://www.funkidslive.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Welcome to Tinsel Town – A Christmas Adventure",
+        "rss_feed_url": "https://feeds.simplecast.com/9ty_i815",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 80,
+        "average_rating": 4.5,
+        "description": "After making a wish on the Christmas Star, Holly finds herself popping in and out of Tinsel Town, a magical place where it’s Christmas everyday. But after getting stuck there, her friends - a giant candy cane, a mysterious ornament, and a polar bear Queen - need to band together to help her get home. As things start to fall apart in Tinsel Town, the curmudgeonly Conductor accuses Holly of ruining Christmas and does everything in his power to try to ban her from celebrating ever again. Will Holly and her friends figure out where her wish went wrong in time to get her home for the holidays? \"Welcome to Tinsel Town\" is a Christmas podcast audio drama, suitable for all ages. All episodes are available now!",
+        "itunes_id": "1437177288",
+        "content_rating": "clean",
+        "artist_name": "Triangle Content",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/welcome-to-tinsel-town-a-christmas-adventure/id1437177288",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437177288",
+        "website": "https://tinseltown.show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Timestorm",
+        "rss_feed_url": "http://feeds.feedburner.com/timestorm",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 52,
+        "average_rating": 4.9,
+        "description": "The Ventura twins are yanked into another dimension where they meet a distant cousin who gives them an extraordinary mission: travel through time to preserve their culture’s true history. Along the way, they meet people from Africa, Europe, and the Americas who have left their mark on Puerto Rican heritage. In the twenty-first century, Alexa and Beni navigate school, friendship, and family while keeping their time-traveling quests a secret. When a natural disaster devastates islands across the Caribbean, the twins understand what’s at stake for their ancestral homeland. As Puerto Rico faces an uncertain future, the twins do all they can to witness, find, and remember its past. Timestorm is produced by Cocotazo Media with support from PRX and the Google Podcasts creator program. Series creator / writer / producer: Dania Ramos. Audio engineer / sound designer / producer: Michael Aquino. | Podsite: TimestormSeries.com | Members of KidsListen.org | Support Timestorm at ko-fi.com/K3K0HZPU",
+        "itunes_id": "1439817061",
+        "content_rating": "clean",
+        "artist_name": "Cocotazo Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/timestorm/id1439817061",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439817061",
+        "website": "https://timestormseries.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sleep Tight Stories",
+        "rss_feed_url": "https://sleeptightstories.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education",
+          "Language Learning"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.2,
+        "description": "Sleep Tight Stories brings you new and captivating bedtime stories every week. The stories range from retellings of fairy tales, folk stories, classic Canadian works, and original stories written by guest authors. Each episode is beautifully read by Sheryl MacLeod and friends, and is usually less than 20 minutes long. \n\nSleep Tight Stories is suitable for kids of all ages.",
+        "itunes_id": "1440863621",
+        "content_rating": "clean",
+        "artist_name": "Sleep Tight Stories",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sleep-tight-stories/id1440863621",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440863621",
+        "website": "http://sleeptightstories.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baalgatha- Classic Stories for Children",
+        "rss_feed_url": "https://audioboom.com/channels/4708289.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 27,
+        "average_rating": 4.8,
+        "description": "Welcome to Baalgatha, the audio show that brings to you amazing bedtime stories for kids. The name Baalgatha means Children's stories, and you can listen to hundreds of tales from India. We bring to you hundreds of stories with morals from Pachatantra, Jataka and Hitopadesha stories, and more. These are stories that not only entertain, but educate your child!\nBaalgatha is available in English, Hindi, Marathi, Gujarati, Telugu and Kannada languages.\nHow to Subscribe to Baalgatha Podcast?\nYou can listen to Baalgatha podcast on several awesome podcast apps and websites. These include Spotify, Apple Podcasts, Google Podcasts, Stitcher, Castbox, Radio Public, and Storiyoh. You can also subscribe to our shows for free on these apps.\nReceive Classic Bedtime Stories over WhatsApp\nWould you like to be notified on WhatsApp whenever a new story has been published? Simply send a message via WhatsApp on +91-9850800464, or visit our website https://gaathastory.com/baalgatha to learn more.",
+        "itunes_id": "1116571844",
+        "content_rating": "clean",
+        "artist_name": "gaatha story",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baalgatha-classic-stories-for-children/id1116571844",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1116571844",
+        "website": "https://gaathastory.com/baalgatha"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kids Short Stories",
+        "rss_feed_url": "https://anchor.fm/s/f7c6334/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.5,
+        "description": "We love stories at our house! Every night for the past 6 years, I’ve told my boys a new story that we make up together. Listen along to some of our favorites.",
+        "itunes_id": "1484336413",
+        "content_rating": "clean",
+        "artist_name": "Kid’s Short Stories",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kids-short-stories/id1484336413",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484336413",
+        "website": "https://podcasts.apple.com/us/podcast/kids-short-stories/id1484336413"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "African Folktales Podcast",
+        "rss_feed_url": "https://feed.podbean.com/afolktales/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Drama"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.9,
+        "description": "An in-depth exploration of folktales from all parts of Africa. Listen to popular and obscure folktales from all over Africa.",
+        "itunes_id": "1466699089",
+        "content_rating": "clean",
+        "artist_name": "afolktales",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/african-folktales-podcast/id1466699089",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466699089",
+        "website": "https://afolktales.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tales from the Moosiverse",
+        "rss_feed_url": "https://feed.podbean.com/moosiverse/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Deep in the woods of Maine, Montgomery the Moose was stuck.  And so begins... Tales from the Moosiverse! This weekly series will explore tales of moose, mice, dragons, frogs and an Unpredictable Horse as they attempt to fix magic and save the world from being turned to chocolate. Ideal for family listening; kids from 4-11 will all enjoy and create their own tales.",
+        "itunes_id": "1481920763",
+        "content_rating": "clean",
+        "artist_name": "Moosiverse Media / Ian Jackson",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tales-from-the-moosiverse/id1481920763",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481920763",
+        "website": "https://moosiverse.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The World Of Buddy Pegs Children's Podcast",
+        "rss_feed_url": "http://theworldofbuddypegs.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Health & Fitness"
+        ],
+        "rating_count": 31,
+        "average_rating": 4.9,
+        "description": "The World of Buddy Pegs is a series of free original children’s audio stories for families who want to share the inspiration and empowerment of bicycling with the next generation.\n\nEach episode starts at the local bike shop Buddy Pegs which is run by two dogs who are on a mission to bring the power of the bicycle to all the animal characters who reside in the fictional town Spokesville.",
+        "itunes_id": "1239189458",
+        "content_rating": "clean",
+        "artist_name": "Buddy Pegs Media - Creating Children's Podcasts to Inspire Families Through The Bicycle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-world-of-buddy-pegs-childrens-podcast/id1239189458",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1239189458",
+        "website": "https://buddypegs.com/pages/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kids Bedtime Stories",
+        "rss_feed_url": "https://feeds.buzzsprout.com/536944.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.6,
+        "description": "Short childrens' bedtime stories.",
+        "itunes_id": "1477261410",
+        "content_rating": "clean",
+        "artist_name": "Kids Stories",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kids-bedtime-stories/id1477261410",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477261410",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spooky Troop: A Very Scary Christmas",
+        "rss_feed_url": "https://www.spreaker.com/show/3572284/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Drama"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.2,
+        "description": "With ‘Scary Christmas’ quickly approaching, all of the United Netherworld is ushering in the “season of greed”. That is, until the “misfit monster kids” discover the true meaning of Christmas. In this thrilling holiday special called Spooky Troop: A Very Scary Christmas, the Spooky Troop kids work together to bring the message of joy, love and giving, not taking, to the citizens of Asterlin.  Filled with mystery, action-adventure and comedy, the musically-infused audio drama is a show the whole family can enjoy featuring a full-cast adventure with dialogue, sound effects, instrumental score and original songs.  Written and directed by Stewart St John (Mighty Morphin Power Rangers, Sabrina: The Animated Series).  Original Score and over twenty Songs written, performed and produced by music partners Stewart St John & Michael Plahuta.  Sound Design by Michael Plahuta.  Produced by Todd Fisher, Stewart St John and Michael Plahuta for Wonkybot Studios.",
+        "itunes_id": "1441323875",
+        "content_rating": "clean",
+        "artist_name": "Wonkybot Studios",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spooky-troop-a-very-scary-christmas/id1441323875",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441323875",
+        "website": "https://www.wonkybot.com/spooky-troop-a-very-scary-christmas-series/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fun Kids Book Club",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/7a05b76a-7d42-4baf-a4ea-a4f400dc021c/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 10,
+        "average_rating": 2.8,
+        "description": "Join Bex from the children's radio station Fun Kids as she meets top authors who tell her about their books and also read us chapters from them!\n\nIf you like this, you can listen to Bex on Fun Kids (weekdays from 4pm) on DAB Digital Radio across the UK, on the free Fun Kids app and online at funkidslive.com.",
+        "itunes_id": "513265306",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fun-kids-book-club/id513265306",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=513265306",
+        "website": "http://www.funkidslive.com/podcast/fun-kids-book-club/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "iGhe3 | آی قصه",
+        "rss_feed_url": "https://anchor.fm/s/cf3d0d4/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.7,
+        "description": "آی‌قصه؛ جایی برای قصه گفتن و قصه شنفتن!",
+        "itunes_id": "1475766100",
+        "content_rating": "clean",
+        "artist_name": "iGhe3",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ighe3-%D8%A2%DB%8C-%D9%82%D8%B5%D9%87/id1475766100",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475766100",
+        "website": "https://anchor.fm/ighe3"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Professor Theo's Mystery Lab",
+        "rss_feed_url": "https://anchor.fm/s/6e6ff2c/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.7,
+        "description": "The town of Splendid, West Virginia has a higher than average number of kid superheroes, giant bugs, time travelling teens, and much more bizarre activity. Professor Theo's Mystery Lab on the campus of Splendid University is somehow at the heart of it all. Though he doesn't like to divulge all his secrets, the Professor does enjoy sharing his hometown bedtime stories, sure to delight the young, imaginative one in your life. \n\nWritten by Jonathan Joy, based on his newspaper column of stories for kids, this is a 10-15 minute podcast, updated weekly, rich in fun, playful tales. Support this podcast: https://anchor.fm/professortheo/support",
+        "itunes_id": "1437197205",
+        "content_rating": "clean",
+        "artist_name": "Jonathan Joy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/professor-theos-mystery-lab/id1437197205",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437197205",
+        "website": "https://anchor.fm/professortheo"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Catch Cade | For Teens By Teens",
+        "rss_feed_url": "https://catchcade.com/feed/podcast/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Society & Culture",
+          "Relationships"
+        ],
+        "rating_count": 124,
+        "average_rating": 4.8,
+        "description": "Catch Cade is the podcast made by teens for teens. Each Episode we'll bring you interesting stories, love advice, and we'll talk about those pesky parents.",
+        "itunes_id": "1325690720",
+        "content_rating": "clean",
+        "artist_name": "Cade Ortego",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/catch-cade-for-teens-by-teens/id1325690720",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1325690720",
+        "website": "https://catchcade.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sophie and Sebastian",
+        "rss_feed_url": "http://sophieandsebastian.com/index.php/feed/podcast/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 5,
+        "average_rating": 3.8,
+        "description": "Listen to the adventures of Sophie and Sebastian. Inspired by the author's own children, as well as children's classics such as Winnie the Pooh, these whimsical stories are sure to delight the whole family. If you're a new listener, start with episode 1 (\"The New Neighbours\") and after that you can listen to pretty well any episode. You'll find us on Facebook, where we share the latest news and provide a look behind the scenes. If you love art then check out the numerous illustrations of the stories on our website, www.sophieandsebastian.com.",
+        "itunes_id": "1275078865",
+        "content_rating": "clean",
+        "artist_name": "Conrad van Dyk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sophie-and-sebastian/id1275078865",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1275078865",
+        "website": "http://sophieandsebastian.com/index.php/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Fina Mendoza Mysteries",
+        "rss_feed_url": "https://thefinamendozamysteries.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "News",
+          "Politics"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "It's \"The West Wing\" meets \"Nancy Drew\" - a podcast for little girls and political junkies.\n\nLegend says whoever sees the Demon Cat of Capitol Hill is cursed. Fina Mendoza, the 10-year old daughter of a congressman, just saw it. Can she save her family from “cat”astrophe? \n\nThese are the Fina Mendoza Mysteries.\n\nwww.finamendozamysteries.com",
+        "itunes_id": "1481926408",
+        "content_rating": "clean",
+        "artist_name": "Kitty Felde",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fina-mendoza-mysteries/id1481926408",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481926408",
+        "website": "http://www.finamendozamysteries.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Car Line Chats",
+        "rss_feed_url": "https://anchor.fm/s/d88b7f8/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Need something to pep up your commutes as you chauffer your kids around town? Join Katie, a real-life mom, and her three kids as they chat about all of life's things on their way to school. Both parents and children will love this fun, silly, surprising and thought provoking podcast!",
+        "itunes_id": "1477770209",
+        "content_rating": "clean",
+        "artist_name": "Katie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/car-line-chats-with-katie-and-her-kids/id1477770209",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477770209",
+        "website": "https://anchor.fm/katie796"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "बालगाथा हिंदी कहानियाँ - Baalgatha Hindi",
+        "rss_feed_url": "https://audioboom.com/channels/4905080.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education",
+          "Language Learning"
+        ],
+        "rating_count": 3,
+        "average_rating": 3.3,
+        "description": "बालगाथा पाड्कैस्ट हर हफ़्ते आप के लिए पंचतंत्र, जातक कथाओं जैसी अद्भुत कहानियों को लेकर आता है। कहानियों की इस जादुई दुनिया में आकर आप यहाँ खो जाएँगे। इस पाड्कैस्ट को आप whatsapp पर भी सुन सकते है। अधिक जानकारी के लिए विज़िट कीजिए https://gaathastory.com/baalgatha-hindi\nEvery week, we will bring you stories from India and around the world, these are stories from Panchatantra, Jataka stories, and other classic sources. Some are brand new stories contributed by our listeners!\nAdd the number +91-9850800464 to your contacts and send the message \"Add Baalgatha\" to be notified every time a new episode is published, or visit https://gaathastory.com/whatsapp to learn more.",
+        "itunes_id": "1224464467",
+        "content_rating": "clean",
+        "artist_name": "gaatha story",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%E0%A4%AC-%E0%A4%B2%E0%A4%97-%E0%A4%A5-%E0%A4%B9-%E0%A4%A6-%E0%A4%95%E0%A4%B9-%E0%A4%A8-%E0%A4%AF-baalgatha-hindi/id1224464467",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1224464467",
+        "website": "https://www.gaathastory.com/baalgatha-hindi"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Space Cadets: Story for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/f076571c-095c-47f7-9f22-a4f400df42be/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "In this new show, Harry and Terry accidentally get rocketed into space when they were queuing for a hotdog! Now they are Space Cadets with missions across the universe! Listen to childrens radio station Fun Kids on DAB Digital Radio in London and online.",
+        "itunes_id": "502528197",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/space-cadets-story-for-kids/id502528197",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=502528197",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mel and Warp's Time-Travel Adventures: Story for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/dece95ef-1a16-44f6-a771-a4bf00c9c363/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "History"
+        ],
+        "rating_count": 7,
+        "average_rating": 3.3,
+        "description": "From the children's radio station Fun Kids: Follow Mel and Warp's time-travel adventures.",
+        "itunes_id": "458371107",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mel-and-warps-time-travel-adventures-story-for-kids/id458371107",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=458371107",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kahani",
+        "rss_feed_url": "https://kahani.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education",
+          "Language Learning"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "This podcast has episodes with short and long stories for children in hindi language. The stories will have a variety from Panchatantra, Grimm Brothers fairy tales and folk tales to stories written by children themselves.\nThe hindi stories will have english translations of difficult hindi words and sentences.  These stories are fun and great way to learn both the languages Hindi and English at the same time. \nWe want this podcast to be a platform for children to show off and share their creative writing abilities. If you know of a child who is a story writer, encourage them to share their work with us. If their work is selected, it will be published on our podcast with full credit given to them.",
+        "itunes_id": "1288109451",
+        "content_rating": "clean",
+        "artist_name": "Prachi Gangwal",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kahani/id1288109451",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1288109451",
+        "website": "https://kahani.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Les p'tites histoires",
+        "rss_feed_url": "https://rss.acast.com/les-ptites-histoires",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Chaque semaine, deux nouvelles histoires. Le mardi : un p'tit portrait qui raconte la vie d'une personne étonnante. Le jeudi : une p'tite histoire pour rêver, voyager et vivre des aventures dans un univers à chaque fois différent !",
+        "itunes_id": "1407689929",
+        "content_rating": "clean",
+        "artist_name": "Taleming",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/les-ptites-histoires/id1407689929",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1407689929",
+        "website": "https://taleming.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Go With Nugget for Kids",
+        "rss_feed_url": "https://nugget.travel/feed/gowithnuggetforkids/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 38,
+        "average_rating": 5,
+        "description": "Go With Nugget for Kids is a travel podcast for curious kids. Together, we go on an incredible journey of discovery around the world and explore the common threads that connect us all. Each episode, we meet a local kid from places near and far and hear firsthand what it’s like to grow up where they live. Join us as we learn about different countries and cultures, and fuel your child’s wanderlust! \n\n\n\nIf your family would like to share where you live or hear about a place you’re super curious about, please email us at podcast@nugget.travel.",
+        "itunes_id": "1478511028",
+        "content_rating": "clean",
+        "artist_name": "Nugget",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/go-with-nugget-for-kids/id1478511028",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478511028",
+        "website": "https://nugget.travel"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Readastorus - Timeless Tales for Tots",
+        "rss_feed_url": "https://www.spreaker.com/show/3389494/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "While they may seem prehistoric, the best children's stories never grow old. Readastorus presents classic tales for kids that have entertained for generations. These are the stories that our parents and grandparents enjoyed and they haven't lost their charm. Let the Readastorus \"read a story to us.\"",
+        "itunes_id": "1455639994",
+        "content_rating": "clean",
+        "artist_name": "Don McDonald",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/readastorus-timeless-tales-for-tots/id1455639994",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455639994",
+        "website": "https://readastorus.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bryony Brownwell's Mystery Project: Story for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/2c012cf9-8440-41da-865c-a4f400e0c13c/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.5,
+        "description": "Bryony may be a bit lazy when it comes to doing homework, but certainly not when solving mysteries! \n\nFollow her adventures on childrens radio station Fun Kids, available on DAB Digital Radio in London and online across the UK.",
+        "itunes_id": "507465042",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bryony-brownwells-mystery-project-story-for-kids/id507465042",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=507465042",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storytime With Teta",
+        "rss_feed_url": "https://feeds.buzzsprout.com/352184.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Books"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "Introducing ‘Storytime with Teta’. Arabic Language Podcast for kids! ​Arabic stories from around the world and from famous publishing houses, narrated by your loving Teta Amal (grandma).Listen to fun and engaging stories on the go, wherever you are on iTunes and other podcast streaming platforms.Storytime with Teta is always a Fun time! الجديد والمتميز في عالم البودكاست للاطفال!\"حكايات تيتا\"  قصص للاطفال باللغة العربية. تيتا أمل تروي لكم قصص وحكايات جميلة  في كل حلقة.نبحث عن أجمل القصص من  أشهر دور النشر العربية والعالمية ونأتي لكم .بالحكايات المفيدة. تابعونا على مواقع التواصل الاجتماعي وعلى مواقع البودكاست الرئيسية",
+        "itunes_id": "1470708012",
+        "content_rating": "clean",
+        "artist_name": "Teta Amal",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storytime-with-teta/id1470708012",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470708012",
+        "website": "http://www.storytimewithteta.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Tales from the Shed: Funny Stories for Kids from Chickenshed Theatre",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/512b0eb3-13ea-410f-8efd-a4f400f6d40b/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Comedy",
+          "Improv"
+        ],
+        "rating_count": 6,
+        "average_rating": 3.7,
+        "description": "Enter the very weird and funny world of the Chickenshed! Each episode is packed with funny characters, stories, songs and more! Listen to Fun Kids on DAB Digital Radio in London and across the UK at funkidslive.com",
+        "itunes_id": "577765105",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tales-from-shed-funny-stories-for-kids-from-chickenshed/id577765105",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=577765105",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Coisa de Criança",
+        "rss_feed_url": "https://www.spreaker.com/show/3281728/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Um podcast feito para crianças curiosas... e adultos também! Entre nessa aventura com o Thiago e a Anne para descobrir como as coisas funcionam de uma forma científica e divertida!",
+        "itunes_id": "1355985652",
+        "content_rating": "clean",
+        "artist_name": "Paizinho, Vírgula!",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/coisa-de-crian%C3%A7a/id1355985652",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355985652",
+        "website": "https://coisadecrianca.com.br"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Swamp Mysteries: The Treasure of Jean Lafitte",
+        "rss_feed_url": "https://feeds.buzzsprout.com/278881.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "A spooky new audio adventure story for kids.",
+        "itunes_id": "1482469402",
+        "content_rating": "clean",
+        "artist_name": "Elizabeth Singer Hunt",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/swamp-mysteries-the-treasure-of-jean-lafitte/id1482469402",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482469402",
+        "website": "http://www.elizabethsingerhunt.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Era Uma Vez Um Podcast",
+        "rss_feed_url": "https://anchor.fm/s/8097948/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Era uma vez um Podcast foi feito pra crianças com imaginação fértil. Aqui são contadas histórias infantis de todos os tipos: desde clássicos contos de fadas , à fábulas de todos os lugares do mundo e também histórias originais.\nVocê pode ouvir tanto no carro, quanto antes de dormir, ou até mesmo durante o dia, evitando que seu filho fique por muito tempo em frente a uma tela enquanto você precisa fazer algo importante. \n\nAssine grátis ao podcast e receba novas histórias para crianças instantaneamente! \nWww.eraumavezumpodcast.com.br",
+        "itunes_id": "1446097718",
+        "content_rating": "clean",
+        "artist_name": "Carol Camanho",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/era-uma-vez-um-podcast/id1446097718",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1446097718",
+        "website": "eraumavezumpodcast.com.br"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Just Us Weirdos",
+        "rss_feed_url": "https://justusweirdos.com/feed/podcast/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 43,
+        "average_rating": 5,
+        "description": "Strange superpowers start emerging among a group of pre-teens from Quadropolis, and they're going to have to figure out how to use them to save the city. It starts as a simple effort to become the sidekick of the local superhero, but these kids discover a role that goes far beyond sidekick. Listen as they uncover villains, find creative ways to use their powers, and realize that titles \"hero\" and \"villain\" are more complicated than they first seem.",
+        "itunes_id": "1434573267",
+        "content_rating": "clean",
+        "artist_name": "Charlie & Gabe White",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/just-us-weirdos/id1434573267",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1434573267",
+        "website": "https://justusweirdos.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The HappyGoLukky Podcast",
+        "rss_feed_url": "https://feed.podbean.com/happygolukky/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction"
+        ],
+        "rating_count": 29,
+        "average_rating": 5,
+        "description": "Join a podcasting family as they build a world together in an actual-play format that infuses mystery with humor in a conversational story that is sure to delight. Each season brings weekly episodes of the main story along with the eclectic LukkyGo Variety Show which is like a story laboratory that goes behind the scenes while testing out new improv and story ideas. The HappyGoLukky Podcast is good clean family fun for all ages and audiences.",
+        "itunes_id": "1462599356",
+        "content_rating": "clean",
+        "artist_name": "PodiconGO",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-happygolukky-podcast/id1462599356",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462599356",
+        "website": "https://happygolukky.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "La voix haute",
+        "rss_feed_url": "https://feed.ausha.co/b5rGYTlLJkDq",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 4,
+        "average_rating": 4,
+        "description": "Pleins d’histoires au choix, narrées par un comédien Matthieu Farcy qui,  par nature, sait donner vie et corps à ses récits. Pour tous les âges  (à partir de 8 ans) et tous les goûts. \nparolesdemamans.com",
+        "itunes_id": "1107738271",
+        "content_rating": "clean",
+        "artist_name": "Matthieu Farcy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/la-voix-haute/id1107738271",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1107738271",
+        "website": "https://lavoixhaute.wordpress.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Elderberry Tales",
+        "rss_feed_url": "http://www.elderberrytales.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.8,
+        "description": "Inspiring and engaging stories for kids, featuring ancient wisdom, timeless tales, and contemporary heroes.",
+        "itunes_id": "1460206153",
+        "content_rating": "clean",
+        "artist_name": "elderberrytales",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/elderberry-tales/id1460206153",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460206153",
+        "website": "https://elderberrytales.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mister Cricket's Fire Fables",
+        "rss_feed_url": "https://mistercricketsfirefables.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Religion & Spirituality"
+        ],
+        "rating_count": 19,
+        "average_rating": 5,
+        "description": "Conceived for kids 6-12, (but loved by parents everywhere), Mister Cricket’s Fire-Fables are tales that teach the common courtesies of life through humor and intrigue. Set in a fictional woods known as, “Suavity Bosk”, each fable begins with a question, and each question is answered by John Cricket––the only human being in the bosk. Of course, Cricket’s answers are always a mixture of fact and fiction, but through this embroidered truth, the characters in Mister Cricket’s Fire-Fables gain wisdom, make better choices, treat others as they should be treated, and, in general, lead more fulfilling lives. If you’re looking for family entertainment wrapped in sound advice, Mister Cricket’s Fire-Fables are something you and your children can warm up to.",
+        "itunes_id": "1476112265",
+        "content_rating": "clean",
+        "artist_name": "Will Cunningham",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mister-crickets-fire-fables/id1476112265",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476112265",
+        "website": "https://www.missionhills.org/mister-crickets-fire-fables/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ice Cream Musical",
+        "rss_feed_url": "https://icecreamusical.com/feed/podcast",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "Ice Cream Musical is a fun, faith-filled, educational podcast for childlike hearts. It takes place inside Whimsical Creamery where you can order any flavor you can imagine.",
+        "itunes_id": "1460645820",
+        "content_rating": "clean",
+        "artist_name": "Daniela Morales",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ice-cream-musical/id1460645820",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460645820",
+        "website": "https://icecreamusical.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storyberries Radio",
+        "rss_feed_url": "https://feed.podbean.com/storyberries/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Storyberries Radio features stories that you can read at Storyberries.com. All of our stories are free to read online! We offer quality bedtime stories, fairy tales, short stories, picture books, poems for kids, chapter books and comic books. Visit us at https://www.storyberries.com/Visit Storyberries.com to read along with the audio and see our whole collection!",
+        "itunes_id": "1474796049",
+        "content_rating": "clean",
+        "artist_name": "Storyberries",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storyberries-radio/id1474796049",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474796049",
+        "website": "https://storyberries.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "STORIES FOR KIDS",
+        "rss_feed_url": "https://storiesforkids.podomatic.com/rss2.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Fun stories for kids that are full of imagination that are perfect for bedtime and riding in the car. Visit writer Russell Corey's author website at www.RussellCorey.com or contact at Russ.Corey@yahoo.com",
+        "itunes_id": "1483003004",
+        "content_rating": "clean",
+        "artist_name": "Russell Corey",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stories-for-kids/id1483003004",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483003004",
+        "website": "https://storiesforkids.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storyberries Radio",
+        "rss_feed_url": "https://feed.podbean.com/storyberries/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Storyberries Radio features stories that you can read at Storyberries.com. All of our stories are free to read online! We offer quality bedtime stories, fairy tales, short stories, picture books, poems for kids, chapter books and comic books. Visit us at https://www.storyberries.com/Visit Storyberries.com to read along with the audio and see our whole collection!",
+        "itunes_id": "1474796049",
+        "content_rating": "clean",
+        "artist_name": "Storyberries",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storyberries-radio/id1474796049",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474796049",
+        "website": "https://storyberries.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "STORIES FOR KIDS",
+        "rss_feed_url": "https://storiesforkids.podomatic.com/rss2.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Fun stories for kids that are full of imagination that are perfect for bedtime and riding in the car. Visit writer Russell Corey's author website at www.RussellCorey.com or contact at Russ.Corey@yahoo.com",
+        "itunes_id": "1483003004",
+        "content_rating": "clean",
+        "artist_name": "Russell Corey",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stories-for-kids/id1483003004",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483003004",
+        "website": "https://storiesforkids.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dreamful Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/387070.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Health & Fitness"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Each episode is a dreamful story accompanied by music to help you drift into a deep sleep.",
+        "itunes_id": "1476007966",
+        "content_rating": "clean",
+        "artist_name": "Jordan Blair",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dreamful-podcast/id1476007966",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476007966",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bible Stories for Heathen Children",
+        "rss_feed_url": "https://feeds.buzzsprout.com/596905.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "I'm Robbie, and I'll be telling family-friendly, fun, and somewhat irreverent retellings of Bible stories for kids who aren't already familiar with them. I couldn't find the stories told as myth without attempts at indoctrination, so I'm trying to do that. The audience I always have in mind for my stories are my two brilliant and sarcastic children, ages 8 and 9. Text versions will be posted for free at https://www.patreon.com/BSFHC .Subscribe to my Patreon for bonus content and early access to episodes!",
+        "itunes_id": "1480175191",
+        "content_rating": "clean",
+        "artist_name": "Robbie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bible-stories-for-heathen-children/id1480175191",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480175191",
+        "website": "https://www.patreon.com/bsfhc"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cuentos infantiles con La Tia Botas",
+        "rss_feed_url": "https://anchor.fm/s/dc29220/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Descubre 12 cuentos con VALORES de La Tia Botas en estos Podcasts y disfrútalos junto a los más pequeños de la casa.\nEscucha las canciones de los cuentos en Spotify o Apple Music.\nTe invito a que los veas en mi canal también: \nhttps://www.youtube.com/tiabotas Support this podcast: https://anchor.fm/la-tia-botas/support",
+        "itunes_id": "1478413195",
+        "content_rating": "clean",
+        "artist_name": "La Tia Botas",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cuentos-infantiles-con-la-tia-botas/id1478413195",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478413195",
+        "website": "https://latiabotas.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Baalgatha (Gujarati) બાાલ ગાથા બાાલકાોનિ કથા",
+        "rss_feed_url": "https://audioboom.com/channels/5002763.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "We at gaathastory are delighted to launch our first ever podcast in Gujarati- Baalgatha, a podcast of Children’s Bedtime stories.\nચિલ્ડ્રન્સ સ્ટોરીઝનું ગુજરાતીમાં આપણું પહેલું પોડકાસ્ટ ગાથાસ્ટોરીમાં . પંચતંત્ર, જાતાક અને હિતોપદેશાની ઉત્તમ વાર્તાઓ તેમજ સમકાલીન લેખકોની વાર્તાઓ સાંભળો. દરેક વાર્તા નૈતિકતા પણ શીખવે છે, તેથી આ વાર્તાઓ તમારા મનોરંજન માટે જ નહીં, પરંતુ તમારા બાળકને શિક્ષિત પણ કરશે.\nApple પોડકાસ્ટ, ગૂગલ પોડકાસ્ટ્સ, સ્પોટાઇફાઇ, જિઓ સાવન અને અન્ય ઘણી પોડેસ્ટ એપ્સ અને વેબસાઇટ્સ પર બાલગાથાને સાંભળો અને સબ્સ્ક્રાઇબ કરો.",
+        "itunes_id": "1485142331",
+        "content_rating": "clean",
+        "artist_name": "gaatha story",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/baalgatha-gujarati-%E0%AA%AC-%E0%AA%B2-%E0%AA%97-%E0%AA%A5-%E0%AA%AC-%E0%AA%B2%E0%AA%95-%E0%AA%A8-%E0%AA%95%E0%AA%A5/id1485142331",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485142331",
+        "website": "https://gaathastory.com/baalgatha-gujarati"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Car Ride Stories for GIGI Kids",
+        "rss_feed_url": "http://gigigirlstories.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Religion & Spirituality",
+          "Religion"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A wonderful world of inspiring stories awaits you here at ‘Car Ride Stories for GIGI Kids.’\nHere you will find stories that are original for the podcast plus some awesome bible stories brought to life and written specifically for YOU.\nThese stories will delight and inspire your boys and girls imagination and excite them to know more about God.\nYou can listen in the car, at home or in bed. \nBe inspired anywhere!\nHelp us spread the word so more kids can listen to these stories.\nPlus please leave us a review which will help us immensely.",
+        "itunes_id": "1380554029",
+        "content_rating": "clean",
+        "artist_name": "Esther Espinoza",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/car-ride-stories-for-gigi-kids/id1380554029",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1380554029",
+        "website": "http://gigigirlstories.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Froggy Stories",
+        "rss_feed_url": "https://feed.podbean.com/froggystories/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "These bedtime stories are all about the adventures of Froggy and his friends out in the city of Frogopolis.",
+        "itunes_id": "1453359912",
+        "content_rating": "clean",
+        "artist_name": "Dan Taylor",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/froggy-stories/id1453359912",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453359912",
+        "website": "https://froggystories.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Newer Humans",
+        "rss_feed_url": "https://newerhumans.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Parenting"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.9,
+        "description": "Newer Humans is a children’s story podcast featuring original stories, songs, and interviews with children about the way they see the world.",
+        "itunes_id": "1476365383",
+        "content_rating": "clean",
+        "artist_name": "Newer Humans LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/newer-humans/id1476365383",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476365383",
+        "website": "http://newerhumans.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Histoires pour enfants",
+        "rss_feed_url": "http://rss.castbox.fm/everest/b9a98438aab84dfda98f529a1fc17ab0.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Sélection d'albums jeunesses lus pour les enfants de 3 à 10 ans\nLes albums sont disponibles dans vos librairies préférées!\n\nHistoires racontées par Gwenn Lebreton\nGwenn Lebreton - Comédienne/Voix-Off\nhttps://www.facebook.com/lebreton.gwenn.1",
+        "itunes_id": "1484876112",
+        "content_rating": "clean",
+        "artist_name": "Gwenn Lebreton",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/histoires-pour-enfants/id1484876112",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484876112",
+        "website": "https://castbox.fm/ch/2363037"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Tales of Deputy Guppy",
+        "rss_feed_url": "http://deputyguppy.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.9,
+        "description": "From the creator of The Radio Adventures of Dr. Floyd! Return with us now to the thrilling days of not too long ago when the west was wild and the rivers in the west were even wilder!  Luckily there was one fish to maintain law and order, one fish to reel in those who dared disturb the peace and tranquility of Driftwood Gulch, one fish to stand for truth, justice and honor in the untamed rivers of the wild west...Deputy Guppy!",
+        "itunes_id": "1371288072",
+        "content_rating": "clean",
+        "artist_name": "Saturday Morning Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-tales-of-deputy-guppy/id1371288072",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1371288072",
+        "website": "http://www.deputyguppy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Josh Ke Saath - weekly kids podcast of made-up Hindi stories",
+        "rss_feed_url": "https://joshkesaath.podbean.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Josh and his mummy make up Hindi stories for kids every week. We start with a WHO, WHERE and WHAT and build our story sentence by sentence. We call this a “story-starter”. Send us YOUR story-starter idea. Ask a grown up to help you record a message that includes: Your name, age, and your Story Starter idea. Email us your Story-Starters at: JoshKeSaath[at]gmail[dot]com",
+        "itunes_id": "1450748408",
+        "content_rating": "clean",
+        "artist_name": "Josh and Deepti",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/josh-ke-saath-weekly-kids-podcast-of-made-up-hindi-stories/id1450748408",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450748408",
+        "website": "https://joshkesaath.podbean.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Quest Company Junior",
+        "rss_feed_url": "https://questcompanyjunior.libsyn.com/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Leisure",
+          "Games"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "The Quest Company is a group of storytellers playing through our own original adventures on this live-play RPG podcast! Join us as we introduce you to new games and explore worlds full of fun and creativity! \nFun at the table, fun for the family. Join The Quest Company today!",
+        "itunes_id": "1468573720",
+        "content_rating": "clean",
+        "artist_name": "The Quest Company",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/quest-company-junior/id1468573720",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468573720",
+        "website": "http://questcompanyjunior.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Goodnight Moon",
+        "rss_feed_url": "https://www.spreaker.com/show/3169647/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "In this mini-podcast, I teach my 4yo daughter about space exploration, astronomy, and history. To ignite the spark of curiosity and cause her skyward gaze to be filled with wonder. If you would like to contribute to our patreon you will be not only helping me produce this show but allowing me to purchase books, videos, and field trips to better communicate the wonders of space to Lizzy.",
+        "itunes_id": "1173164221",
+        "content_rating": "clean",
+        "artist_name": "The Nerd Party",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/goodnight-moon/id1173164221",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1173164221",
+        "website": "https://www.thenerdparty.com/goodnightmoon.html"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Adventures of Bubby the Bear",
+        "rss_feed_url": "https://feed.podbean.com/bubbythebear/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "These are quick bedtime Stories all about Bubby the Bear and his woodland creature friends. What crazy adventures will Bubby and his friends get into next? Lets find out now!",
+        "itunes_id": "1475396582",
+        "content_rating": "clean",
+        "artist_name": "bubbythebear",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-adventures-of-bubby-the-bear/id1475396582",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475396582",
+        "website": "https://bubbythebear.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gute Nacht, Sonnenschein. Der Märchen Podcast.",
+        "rss_feed_url": "https://gute-nacht-sonnenschein.podigee.io/feed/mp3",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Education for Kids"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Gute Nacht, Sonnenschein. Der märchenhafte Podcast für kleine und große Leute.\nHier findest Du jeden Samstag vertraute und weniger geläufige Märchen und Gute Nacht Geschichten in der Originalfassung von den Brüdern Grimm, H.C. Andersen, Ludwig Bechstein u. v. a. Autoren. Und bevor Du dann in Dein Traumland reist, denken wir gemeinsam an Dein schönstes Erlebnis vom Tag.\n\nDie heutigen Märchenversionen sind editiert und abgeschwächt. Die hier vorliegenden Fassungen entsprechen den originalen, teils drastischen Fassungen und einige vertretenen politischen Ansichten, die heutzutage nicht mehr zeitgemäß sind.",
+        "itunes_id": "1415364505",
+        "content_rating": "clean",
+        "artist_name": "Anne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gute-nacht-sonnenschein-der-m%C3%A4rchen-podcast/id1415364505",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1415364505",
+        "website": "https://www.gutenachtsonnenschein.de"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The It's Time for Bed's Podcast",
+        "rss_feed_url": "https://feed.podbean.com/itstimeforbed/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Classic Bedtime stories to help busy little ones relax and get ready for bed. Using calm meditation music to help them drift off peacefully to sleep. Good night...sweet dreams.  xx",
+        "itunes_id": "1478116413",
+        "content_rating": "clean",
+        "artist_name": "itstimeforbed",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-its-time-for-beds-podcast/id1478116413",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478116413",
+        "website": "https://itstimeforbed.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Children's Bible Study",
+        "rss_feed_url": "https://anchor.fm/s/d59ad00/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Play a 12 year old boy who wants to spread the word of god",
+        "itunes_id": "1476937708",
+        "content_rating": "clean",
+        "artist_name": "Andrew Booth",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/childrens-bible-study/id1476937708",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476937708",
+        "website": "https://anchor.fm/god12"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Catholic Family Stories",
+        "rss_feed_url": "https://feed.podbean.com/alypius/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "New fiction for families inspired in the style of the classics meditating on the Sacraments, the Gospel, and Catholic Family Life.  Featured music by Emerald Wind.",
+        "itunes_id": "1481714954",
+        "content_rating": "clean",
+        "artist_name": "Joseph Scordato, OFS",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/catholic-family-stories/id1481714954",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481714954",
+        "website": "http://www.catholicfamilystories.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Captain Ryan Stories",
+        "rss_feed_url": "https://feed.podbean.com/captainryanstories/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Stories for kids to listen to before bed , on a car drive, or anytime they need something to capture their attention.",
+        "itunes_id": "1476452038",
+        "content_rating": "clean",
+        "artist_name": "Captain Ryan Stories",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/captain-ryan-stories/id1476452038",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476452038",
+        "website": "https://captainryanstories.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Storytime with Dad",
+        "rss_feed_url": "https://podcast.storytimewithdad.com/feed.xml",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Get lost in some of your favorite short stories, read to you by Dad.  His style isn't flashy, but it's always comfortable!",
+        "itunes_id": "1472826500",
+        "content_rating": "clean",
+        "artist_name": "Storytime with Dad",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/storytime-with-dad/id1472826500",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472826500",
+        "website": "https://podcast.storytimewithdad.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Petty Wednesday",
+        "rss_feed_url": "https://anchor.fm/s/59928ac/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 24,
+        "average_rating": 5,
+        "description": "The Youth Vibez podcast is another arc under the Petty Wednesday Umbrella. With this podcast, we give the youth a chance to speak freely about various topics that interest them. Our goal with the Youth Vibez podcast is to help motivate and uplift teens as they go through this thing called life all while living an laughing. Support this podcast: https://anchor.fm/pettywednesday/support",
+        "itunes_id": "1474152663",
+        "content_rating": "clean",
+        "artist_name": "Petty Wednesday",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/petty-wednesday/id1474152663",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474152663",
+        "website": "https://anchor.fm/pettywednesday"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Kelirondu Katheya  ಕೇಳಿರೊಂದು ಕಥೆಯ",
+        "rss_feed_url": "http://kelirondukatheya.org/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Arts"
+        ],
+        "rating_count": 36,
+        "average_rating": 4.9,
+        "description": "೩ ರಿಂದ ೧೦ ವರ್ಶದ ಮಕ್ಕಳಿಗಾಗಿಯೇ ರೂಪಿಸಿದ ಮೊದಲ ಕನ್ನಡ ಕಾರ್ಯಕ್ರಮ .  ಪ್ರಪಂಚದ ಹಲವಾರು ದೇಶಗಳಿಂದ ಆಯ್ದ ಜನಪದ ಕತೆಗಳು ಪುಟ್ಟ ಮಕ್ಕಳಿಗಾಗಿಯೇ ನಮ್ಮ ತಂಡದ ಮಧುರ ಧ್ವನಿ ಮತ್ತು ಇಂಪಾದ  ಹಿನ್ನಲೆ ಸಂಗೀತದ ಜೊತೆಗೆ ಕೇಳಿ ಮತ್ತು ಆನಂದಿಸಿ . \nನಮ್ಮೊಡನೆ ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ಹಂಚಿಕೊಳ್ಳಲು kelirondu@gmail.com  ಗೆ  ಇಮೇಲ್ ಕಳಿಸಿ .\n\nKannada Kids Storytelling show thats produced with young kids aged 3-12 years in age. We aim to bring tales from across the world, panchatantra, Aesop's fables etc. in Kannada for Kannada kids around the world. \nFind us on iTunes , Stitcher, Google play etc by searching for Kelirondu Katheya.\n\nConnect us for updates and other interesting activities on twitter at https://twitter.com/KKatheya and Facebook at https://www.facebook.com/kelirondukatheya/\n \nEnjoy.",
+        "itunes_id": "1430545076",
+        "content_rating": "clean",
+        "artist_name": "Kelirondu Katheya Team",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kelirondu-katheya-%E0%B2%95-%E0%B2%B3-%E0%B2%B0-%E0%B2%A6-%E0%B2%95%E0%B2%A5-%E0%B2%AF/id1430545076",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1430545076",
+        "website": "http://www.kelirondukatheya.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Birds & One Story",
+        "rss_feed_url": "https://feeds.transistor.fm/two-birds-one-story",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Community fueled storytelling & art for kids",
+        "itunes_id": "1482393417",
+        "content_rating": "clean",
+        "artist_name": "Ema Anya",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-birds-one-story/id1482393417",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482393417",
+        "website": "http://www.twobirdsonestory.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Suzie Pugh and a Monster Too: Story for Kids",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/289ceca7-bef3-48af-9f74-a4ba0095cab1/8ac9406d-304d-441e-8532-a4ba00967cfc/c621ee11-9346-47a3-a2f1-a4ec00cbd5ff/podcast.rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Find out more about Suzie Pugh and a Monster Too, the show all about a girl and her alien friend.\n\nThis podcast is from the children's radio station Fun Kids, listen on DAB Digital Radio and online at funkidslive.com",
+        "itunes_id": "489840692",
+        "content_rating": "clean",
+        "artist_name": "Fun Kids",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/suzie-pugh-and-a-monster-too-story-for-kids/id489840692",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=489840692",
+        "website": "http://www.funkidslive.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Matilda’s stories",
+        "rss_feed_url": "https://anchor.fm/s/a08f96c/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Enjoy bedtime stories made up by 3 year old, Matilda or read by her mother Melissa.",
+        "itunes_id": "1482002209",
+        "content_rating": "clean",
+        "artist_name": "Melissa Singleton Robison",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/matildas-stories/id1482002209",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482002209",
+        "website": "https://anchor.fm/melissa-singleton-robison"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "First and Fourth-most | PartyOf8",
+        "rss_feed_url": "https://ourpartyof8.com/category/firstandfourthmost/feed/",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "A show where big sister (Anna) helps little sister (Rachel) navigate the middle school years.\n\n\n\nA PartyOf8 Network Show",
+        "itunes_id": "1432358702",
+        "content_rating": "clean",
+        "artist_name": "First and Fourth-most | PartyOf8",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/first-and-fourth-most-partyof8/id1432358702",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1432358702",
+        "website": "https://ourpartyof8.com/category/firstandfourthmost/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Vakaro pasaka",
+        "rss_feed_url": "https://www.spreaker.com/show/3085752/episodes/feed",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Kas vakarą po pasaką – mažiems ir dideliems. Gražiausios pasaulio tautų pasakos, klasikų kūriniai, šiuolaikinių užsienio ir lietuvių rašytojų knygos vaikams. Skaito žinomi šalies aktoriai – nuo pirmadienio iki penktadienio 20.03 val. per LRT RADIJĄ.",
+        "itunes_id": "1471974950",
+        "content_rating": "clean",
+        "artist_name": "LRT",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/vakaro-pasaka/id1471974950",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471974950",
+        "website": "https://www.spreaker.com/show/vakaro-pasaka"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Gigantic Adventures of Jeff and Simon",
+        "rss_feed_url": "https://www.necropodicon.com/tgaojas?format=RSS",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family",
+          "Fiction",
+          "Comedy Fiction"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Jeff & Simon is a family-friendly actual play podcast using the Suited RPG system by Escape Box Games. It's a story about a mouse named Jeff and a Pigeon named Simon who go on a gigantic adventure together in a strange new realm.  Based on characters created in the Fate of Isen podcast.",
+        "itunes_id": "1470158139",
+        "content_rating": "clean",
+        "artist_name": "PodiconGO",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-gigantic-adventures-of-jeff-and-simon/id1470158139",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470158139",
+        "website": "https://www.necropodicon.com/tgaojas/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "3rd city",
+        "rss_feed_url": "https://anchor.fm/s/d3903ac/podcast/rss",
+        "categories": [
+          "Stories for Kids",
+          "Podcasts",
+          "Kids & Family"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "THEY have taken over the world and only WE can take it back. Join Jimmy Beat in an adventure to find Dr. Free and his school where he can learn what the spirit spies are and how they can be defeated through the power to Vobalize. Along the way get updates from fictional podcast host Brandon “the blu” Smith\nabout the nature of 3rd. City and how you may be part of WE too.",
+        "itunes_id": "1476999448",
+        "content_rating": "clean",
+        "artist_name": "Brandon \"The Blu\" Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/3rd-city/id1476999448",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476999448",
+        "website": "www.worthwhileendeavor.com"
+      }
+    }
+  ]
+}

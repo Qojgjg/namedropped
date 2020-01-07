@@ -1,0 +1,726 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Science Friday",
+        "rss_feed_url": "http://feeds.wnyc.org/science-friday/",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Life Sciences"
+        ],
+        "rating_count": 3003,
+        "average_rating": 4.4,
+        "description": "Brain fun for curious people.",
+        "itunes_id": "73329284",
+        "content_rating": "clean",
+        "artist_name": "Science Friday and WNYC Studios",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/science-friday/id73329284",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=73329284",
+        "website": "https://www.wnycstudios.org/podcasts/science-friday"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Moonrise",
+        "rss_feed_url": "https://podcast.posttv.com/itunes/moonrise.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "History"
+        ],
+        "rating_count": 2099,
+        "average_rating": 3.8,
+        "description": "“Truer, but also darker.” This is the real origin story behind America’s decision to go to the moon. The story we learn starts with Sputnik, then President Kennedy’s challenge, and ends with triumph: an American flag on the lunar surface. But in the 50 years that have passed since the moon landing, as presidential documents have been declassified and secret programs have been revealed, a wilder story has begun to emerge. “Moonrise,” a new Washington Post narrative mini-series, digs into the nuclear arms race of the Cold War, the transformation of American society and politics, and even the birth of science fiction, to unearth what really drove us to the moon. Join host Lillian Cunningham as she uncovers a story that has so much to reveal about America -- and about the dreams and nightmares of being human on this Earth.",
+        "itunes_id": "1469151663",
+        "content_rating": "clean",
+        "artist_name": "The Washington Post",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/moonrise/id1469151663",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469151663",
+        "website": "https://www.washingtonpost.com/moonrise"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Everyday Einstein's Quick and Dirty Tips for Making Sense of Science",
+        "rss_feed_url": "https://www.quickanddirtytips.com/xml/einstein.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 162,
+        "average_rating": 4,
+        "description": "How do astronomers photograph a black hole? How often do planes get hit by lightning? What does the EPA actually do? Science is all around us and transforming our world at a rapid pace. Extragalactic astrophysicist Sabrina Stierwalt is here to guide you through it. She'll help you make sense of the everyday and the once-in-a-lifetime.",
+        "itunes_id": "510036484",
+        "content_rating": "clean",
+        "artist_name": "QuickAndDirtyTips.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/everyday-einsteins-quick-dirty-tips-for-making-sense/id510036484",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=510036484",
+        "website": "https://www.quickanddirtytips.com/everyday-einstein"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Naked Astronomy, from the Naked Scientists",
+        "rss_feed_url": "https://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 39,
+        "average_rating": 4.7,
+        "description": "Naked Astronomy: the Naked Scientists' Astronomy and Space Science Podcast - audio that's out of this world...",
+        "itunes_id": "348852826",
+        "content_rating": "clean",
+        "artist_name": "The Naked Scientists",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/naked-astronomy-from-the-naked-scientists/id348852826",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=348852826",
+        "website": "https://www.thenakedscientists.com/podcasts/astronomy-podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Universe Today podcasts with Fraser Cain",
+        "rss_feed_url": "https://feeds.fireside.fm/universetoday/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 80,
+        "average_rating": 4.9,
+        "description": "The Guide to Space is a series of space and astronomy poddcasts by Fraser Cain, publisher of Universe Today",
+        "itunes_id": "794058155",
+        "content_rating": "clean",
+        "artist_name": "Universe Today",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/universe-today-podcasts-with-fraser-cain/id794058155",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=794058155",
+        "website": "https://www.universetoday.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spacepod",
+        "rss_feed_url": "http://spacepod.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 279,
+        "average_rating": 5,
+        "description": "Hear stories about the alien moons orbiting our Sun, of cold stars, and the future of space exploration.  Every week, scientist Dr. Carrie Nugent chats about an amazing part of our universe with an expert guest. Spacepod is the podcast that gives you an inside look into space exploration. Learn more: http://listentospacepod.com",
+        "itunes_id": "1025470195",
+        "content_rating": "clean",
+        "artist_name": "Carrie Nugent",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spacepod/id1025470195",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1025470195",
+        "website": "http://www.listentospacepod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TMRO:Space",
+        "rss_feed_url": "https://tmrospace.podbean.com/feed.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.6,
+        "description": "TMRO:Space is a weekly, live show about exploration of the cosmos. We have updates on rocket launches, new technology being developed to get humans off-world and comments from inside and outside the industry. Recorded live every Saturday at 18:00 UTC!",
+        "itunes_id": "285582454",
+        "content_rating": "clean",
+        "artist_name": "TMRO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tmro-space/id285582454",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=285582454",
+        "website": "https://www.tmro.tv/category/tmrospace/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hostile Worlds: Exploring Space",
+        "rss_feed_url": "http://hostileworlds.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Fiction",
+          "Science Fiction"
+        ],
+        "rating_count": 73,
+        "average_rating": 4.8,
+        "description": "Join us on a journey to some of the most inhospitable, humbling, and frighteningly beautiful places in the known universe. \n\nHostile Worlds is a podcast that lets you explore alien landscapes and extra-terrestrial terrain - all from the comfort of your headphones. \nFrom the freezing hydrocarbon oceans of Titan, to the scorched, and suffocating wastes of Venus – we’ll take you on an educational and immersive audio tour to all the places you’d die to see… and places you’d die if you saw. \n\nYou’ll join the crew of The Tardigrade, an all-purpose vehicle that can float, fly, dive, and dig through any environment in the universe.  \nAnd you’ll learn all the facts you'll ever needed to present yourself as THE space exploration authority down your local pub on a Friday night. \n\nHostile Worlds is a unique documentary/audio drama hybrid – brought to you by the folks at ThePodcastHost.com",
+        "itunes_id": "1274020794",
+        "content_rating": "clean",
+        "artist_name": "The Podcast Host",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hostile-worlds-exploring-space/id1274020794",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1274020794",
+        "website": "http://hostileworlds.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Radio Astronomy",
+        "rss_feed_url": "https://rss.acast.com/radio-astronomy",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 11,
+        "average_rating": 3.7,
+        "description": "The monthly astronomy podcast from the makers of BBC Sky at Night Magazine",
+        "itunes_id": "278968170",
+        "content_rating": "clean",
+        "artist_name": "Immediate media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/radio-astronomy/id278968170",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=278968170",
+        "website": "http://www.skyatnightmagazine.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cosmic Vertigo - ABC RN",
+        "rss_feed_url": "http://www.abc.net.au/radionational/feed/8294152/podcast.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 43,
+        "average_rating": 5,
+        "description": "Do you ever feel dizzy when you think about the incomprehensible scale of space? We call that feeling Cosmic Vertigo. Welcome to a head-spinning conversation between two friends who study the sky for a living. ",
+        "itunes_id": "1213591127",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio National",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cosmic-vertigo-abc-rn/id1213591127",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1213591127",
+        "website": "http://www.abc.net.au/radionational/programs/cosmicvertigo/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Space Nuts",
+        "rss_feed_url": "https://feeds.megaphone.fm/BIT6774874752",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 47,
+        "average_rating": 4.9,
+        "description": "All things Space – astronomy, news, travel, discoveries, the mysteries and more…with world renown and respected Astronomer Professor Fred Watson and Broadcaster/Journalist Andrew Dunkley. Website: www.bitesz.com/spacenuts",
+        "itunes_id": "1080090608",
+        "content_rating": "clean",
+        "artist_name": "bitesz.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/space-nuts/id1080090608",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1080090608",
+        "website": "https://www.bitesz.com/spacenuts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Space Nuts",
+        "rss_feed_url": "https://feeds.megaphone.fm/BIT6774874752",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 47,
+        "average_rating": 4.9,
+        "description": "All things Space – astronomy, news, travel, discoveries, the mysteries and more…with world renown and respected Astronomer Professor Fred Watson and Broadcaster/Journalist Andrew Dunkley. Website: www.bitesz.com/spacenuts",
+        "itunes_id": "1080090608",
+        "content_rating": "clean",
+        "artist_name": "bitesz.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/space-nuts/id1080090608",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1080090608",
+        "website": "https://www.bitesz.com/spacenuts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Radio Astronomy",
+        "rss_feed_url": "https://rss.acast.com/radio-astronomy",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 11,
+        "average_rating": 4,
+        "description": "The monthly astronomy podcast from the makers of BBC Sky at Night Magazine",
+        "itunes_id": "683231712",
+        "content_rating": "clean",
+        "artist_name": "Immediate media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/radio-astronomy/id683231712",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=683231712",
+        "website": "http://www.skyatnightmagazine.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Daily Space",
+        "rss_feed_url": "https://dailyspace.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.7,
+        "description": "Get your daily dose of all that's new in space and astronomy.  The sky is not the limit, as we bring you a fast-paced roundup of launches, landings, and everyday discoveries. The Daily Space is brought to you by the team behind CosmoQuest at the Planetary Science Institute, and features hosts Dr. Pamela L. Gay & Annie Wilson.",
+        "itunes_id": "1479137502",
+        "content_rating": "clean",
+        "artist_name": "Dr. Pamela Gay & Annie Wilson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-daily-space/id1479137502",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479137502",
+        "website": "https://cosmoquest.org/x/dailyspace"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Everyday Astrology Podcast",
+        "rss_feed_url": "https://everydayastrologypodcast.podbean.com/feed.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "Everyday astrology is a weekly podcast hosted by practicing holistic Astrologer Hillory Skott.  Everyday Astrology forecasts the planetary plans for the week ahead.  \n\nWe are all connected to the cosmos whether we realize it or not.  If we tune into the flow of the Universe it makes our journey on this earth plain magical, productive and deeply fulfilling. Dreams really do come true! \n\nWe will discuss everything astrology with helpful guests and popular experts in the field of astrology.\n\nTune in to learn how to use astrology in your everyday to help you in everyway.\n\nFor questions about astrology, to book a private consultation, or to be a guest on the show please do contact me.",
+        "itunes_id": "1217591309",
+        "content_rating": "clean",
+        "artist_name": "Hillory Skott: International Holistic Astrologer/Writer/Speaker",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-everyday-astrology-podcast/id1217591309",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1217591309",
+        "website": "http://everydayastrologypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The State of The Universe",
+        "rss_feed_url": "http://thestateoftheuniverse.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.7,
+        "description": "The State of the Universe is an accessible science and social podcast hosted by Astrophysicist Brendan Drachler. Listen to Brendan and other renowned members of the scholarly community discuss and explain cutting edge research and profound ideas.",
+        "itunes_id": "1429808898",
+        "content_rating": "explicit",
+        "artist_name": "Brendan Drachler",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-state-of-the-universe/id1429808898",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1429808898",
+        "website": "http://thestateoftheuniverse.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Space Cadets",
+        "rss_feed_url": "https://anchor.fm/s/ef99f6c/podcast/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Just a group of bros looking far and wide for cosmic answers about our universe.",
+        "itunes_id": "1483183935",
+        "content_rating": "explicit",
+        "artist_name": "Starship Commander",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-space-cadets/id1483183935",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483183935",
+        "website": "https://anchor.fm/thespacecadets"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "exocast",
+        "rss_feed_url": "http://www.exocast.org/feed/podcast/",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.6,
+        "description": "The podcast taking you far beyond the solar system to explore exotic exoplanets around distant stars. Featuring exoplanet astronomers Hugh Osborn, Andrew Rushby and Hannah Wakeford.",
+        "itunes_id": "1109360879",
+        "content_rating": "clean",
+        "artist_name": "exocast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/exocast/id1109360879",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1109360879",
+        "website": "http://www.exocast.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Urban Astronomer Podcast",
+        "rss_feed_url": "https://www.urban-astronomer.com/feed/podcast/",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Urban Astronomer podcast is the audio version of the popular Urban Astronomer website, which has been sharing news and information about space science and astronomy since the year 2009.  The website has undergone several facelifts, and changes in editorial style and focus over the years, but it's always stayed true to its principles of honest science presented simply, without oversimplifying.\n\nWhile Urban Astronomer is not the largest or most popular astronomy website on the internet, we've managed to retain a small, loyal following who have stuck with us through both good times (Allen won a special commendation in a science journalism award ceremony), and bad (when output slowed to about one new posting per month, thanks to increased family and work pressure). \n\nThis podcast is the next chapter in the Urban Astornomer story, and features News, Science, Interviews, and the occasional rant on the role and perception of science and astronomy in the modern world.\n\nWe at Urban Astonomer expect to become one of South Africa's leading science and astronomy podcasts within the year.  If we think we deserve that position, you can help us by simply listening the the episodes, and sharing them with your friends.  And if we don't meet your standard, we're definitely open to criticism.\n\n\n\nThanks for listening!",
+        "itunes_id": "1209851600",
+        "content_rating": "clean",
+        "artist_name": "The Urban Astronomer Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-urban-astronomer-podcast/id1209851600",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1209851600",
+        "website": "https://www.urban-astronomer.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Today In Space",
+        "rss_feed_url": "http://todayinspace.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Comedy"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "The award-winning space science podcast about all things space! Hosted by Alex G. Orphanos, science communicator, maker, and aerospace engineer. Our mission: to spread love and spread science!",
+        "itunes_id": "943279351",
+        "content_rating": "explicit",
+        "artist_name": "Alex G. Orphanos, Science Communicator",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/today-in-space/id943279351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=943279351",
+        "website": "http://www.todayinspace.net/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "En 5 minutes",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/bf51a523-1f9d-4e51-9cdf-a8d501394d60/225705e1-7984-479e-bba7-a94400e5104d/f955ede0-f65a-4b67-ac3b-a94400e56cdf/podcast.rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "En 5 minutes s'intéresse à la science, l'actualité et l'histoire. lnspiré de la page En 5 minutes publiée dans le Journal de Montréal, le balado est diffusé du lundi au vendredi tous les matins dès 6h. En cinq minutes top chrono, il vous invite à découvrir et comprendre les grandes questions de notre temps.",
+        "itunes_id": "1438061488",
+        "content_rating": "clean",
+        "artist_name": "QUB radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/en-5-minutes/id1438061488",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438061488",
+        "website": "https://www.qub.radio/#/balado?id=225705e1-7984-479e-bba7-a94400e5104d"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mothman Podcast",
+        "rss_feed_url": "https://www.spreaker.com/show/3688530/episodes/feed",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Fiction",
+          "Science Fiction"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The #1 podcast for all things paranormal and extraterrestrial. Hosted by \"The Mothman\" himself Darrell Roark. Co-hosted by Lead Paranormal Investigator, Bruce Osnoe, and Amanda, our resident Medium. Like and Subscribe to our YouTube Channel! Follow us on Twitter and Instagram! Wanna share your paranormal experiences with us? Want us to conduct a paranormal investigation for you? Email us at mothmanpodcast@gmail.com",
+        "itunes_id": "1480077061",
+        "content_rating": "clean",
+        "artist_name": "Mothman Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mothman-podcast/id1480077061",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480077061",
+        "website": "https://www.spreaker.com/show/mothman-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cosmic Savannah",
+        "rss_feed_url": "http://thecosmicsavannah.com/feed/podcast/",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.5,
+        "description": "Welcome to The Cosmic Savannah, a podcast giving you a behind-the-scenes peek into the world-class astronomy and astrophysics happening in Africa. Each episode, hosts Dr Jacinta Delhaize and Dr Daniel Cunnama chat to different guests and introduce you to the people, the technology, the science and the fascinating discoveries emerging from African astronomy. No matter who you are or where you're from, we welcome you to join us on a safari through the skies!",
+        "itunes_id": "1455791934",
+        "content_rating": "clean",
+        "artist_name": "The Cosmic Savannah",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cosmic-savannah/id1455791934",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455791934",
+        "website": "http://thecosmicsavannah.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TMRO Audio Edition",
+        "rss_feed_url": "https://tmroaudio.podbean.com/feed.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The audio only edition of the TMRO Shows. Live, weekly webcasts about Space, Science and Technology at tmro.tv",
+        "itunes_id": "1434249778",
+        "content_rating": "clean",
+        "artist_name": "tmroaudio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tmro-audio-edition/id1434249778",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1434249778",
+        "website": "https://tmroaudio.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The GEMMA Podcast",
+        "rss_feed_url": "https://anchor.fm/s/f348e24/podcast/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "A podcast about Gemini Observatory and its role in the Era of Multi-Messenger Astronomy. Featuring news related to multi-messenger astronomy (MMA), time-domain astronomy (TDA), our visiting instrument program, and more through interviews with astronomers, engineers, and staff both here at Gemini (North and South) and abroad.",
+        "itunes_id": "1483511648",
+        "content_rating": "clean",
+        "artist_name": "Gemini Observatory",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-gemma-podcast/id1483511648",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483511648",
+        "website": "https://anchor.fm/gemini-observatory-gemma"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "syzygy : astronomy podcast",
+        "rss_feed_url": "https://www.syzygy.fm/podcast?format=rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Join astronomer Emily and enthusiastic science nerd Chris as they explore the universe.",
+        "itunes_id": "1367672340",
+        "content_rating": "clean",
+        "artist_name": "Chris Stewart & Emily Brunsden",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/syzygy/id1367672340",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1367672340",
+        "website": "https://www.syzygy.fm/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Good Heavens!  The Human Side of Astronomy",
+        "rss_feed_url": "https://goodheavens.podbean.com/feed.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Good Heavens!  The human side of astronomy with Wayne and Dan.",
+        "itunes_id": "1441696714",
+        "content_rating": "clean",
+        "artist_name": "goodheavens",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/good-heavens-the-human-side-of-astronomy/id1441696714",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441696714",
+        "website": "https://goodheavens.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lunch Hour Lectures - Spring 2011 - Video",
+        "rss_feed_url": "http://itunes.ucl.ac.uk/rss-feeds/public-lectures/lunch-hour-lectures-spring-2011-video/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Chemistry"
+        ],
+        "rating_count": 3,
+        "average_rating": 3.7,
+        "description": "Spring 2011 - UCL's Lunch Hour Lecture Series is an opportunity for anyone to sample the exceptional research work taking place at the university, in bite-size chunks. Speakers are drawn from across UCL and lectures frequently showcase new research and recent academic publications. Lunch Hour Lectures require no pre-booking, are free to attend and are open to anyone on a first-come, first-served basis.",
+        "itunes_id": "416063936",
+        "content_rating": "clean",
+        "artist_name": "Various",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lunch-hour-lectures-spring-2011-video/id416063936",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=416063936",
+        "website": "http://itunes.ucl.ac.uk/rss-feeds/public-lectures/lunch-hour-lectures-spring-2011-video"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Astroholic Explains",
+        "rss_feed_url": "https://anchor.fm/s/ae9c44c/podcast/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Have you got burning questions about Space? Do you want to know more about stars, galaxies, and black holes? Well, you've come to the right place!\n\nDr. Alfredo and his husband Chris are here to answer burning questions about the present, past, and future of our Universe.",
+        "itunes_id": "1461707895",
+        "content_rating": "clean",
+        "artist_name": "Alfredo Carpineti",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-astroholic-explains/id1461707895",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1461707895",
+        "website": "https://theastroholic.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TMRO:Space",
+        "rss_feed_url": "https://tmrospace.podbean.com/feed.xml",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "TMRO:Space is a weekly, live show about exploration of the cosmos. We have updates on rocket launches, new technology being developed to get humans off-world and comments from inside and outside the industry. Recorded live every Saturday at 18:00 UTC!",
+        "itunes_id": "1227449849",
+        "content_rating": "clean",
+        "artist_name": "TMRO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tmro-space/id1227449849",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1227449849",
+        "website": "https://www.tmro.tv/category/tmrospace/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Generic Drift",
+        "rss_feed_url": "http://genericdrift.libsyn.com/rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "A British science podcast where two biologists discuss dinosaurs, astrobiology, neanderthals and more...",
+        "itunes_id": "1356596470",
+        "content_rating": "clean",
+        "artist_name": "Harvey Broadhurst & Adam Bakewell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/generic-drift/id1356596470",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1356596470",
+        "website": "http://www.genericdrift.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cosmic Companion",
+        "rss_feed_url": "https://api.substack.com/feed/podcast/12283.rss",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The latest astronomy and space news from around the world, delivered in an easy-to-understand style with a dash of humor.  \n\nthecosmiccompanion.substack.com",
+        "itunes_id": "1484707674",
+        "content_rating": "clean",
+        "artist_name": "The Cosmic Companion",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cosmic-companion/id1484707674",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484707674",
+        "website": "https://thecosmiccompanion.substack.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dark Sky Conversations",
+        "rss_feed_url": "https://beachshackpodcasts.com/feed/podcast/darkskyconversations",
+        "categories": [
+          "Astronomy",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Marnie Ogg is talking to some of the brightest minds about the topic of light pollution and ways to protect our night skies.",
+        "itunes_id": "1464617065",
+        "content_rating": "clean",
+        "artist_name": "Marnie Ogg",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dark-sky-conversations/id1464617065",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464617065",
+        "website": "https://beachshackpodcasts.com/"
+      }
+    }
+  ]
+}
