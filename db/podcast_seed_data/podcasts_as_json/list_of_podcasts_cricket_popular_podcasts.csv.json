@@ -1,0 +1,539 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Switch Hit Podcast",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=23531277",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.6,
+        "description": "Lively debate and discussion about the game on and off the field with a focus on English cricket. Featuring former England batsman Mark Butcher alongside ESPNcricinfo's writers and reporters.",
+        "itunes_id": "304534298",
+        "content_rating": "clean",
+        "artist_name": "ESPN",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/switch-hit-podcast/id304534298",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=304534298",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "World Cricket Show",
+        "rss_feed_url": "http://rss.acast.com/worldcricketshow",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.9,
+        "description": "A cricket podcast by two guys whose school team once got bowled out for 22, and the next week got bowled out for 13. And they never let it go. 'Acclaimed' - Financial Times",
+        "itunes_id": "296714733",
+        "content_rating": "clean",
+        "artist_name": "World Cricket Show",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/world-cricket-show/id296714733",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=296714733",
+        "website": "https://play.acast.com/s/worldcricketshow"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ESPNcricinfo Stump Mic Podcast",
+        "rss_feed_url": "http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=23531229",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.9,
+        "description": "Zesty, peppy, clued-in, and with a distinctly subcontinental flavour, Stump Mic is your regular fix of cricket talk on things that matter to you, and things that you didn't know should matter to you. Featuring ESPNcricinfo's top writers and insiders.",
+        "itunes_id": "1386771685",
+        "content_rating": "clean",
+        "artist_name": "ESPNcricinfo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/espncricinfo-stump-mic-podcast/id1386771685",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1386771685",
+        "website": "http://www.espn.com/espnradio/podcast/index"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cricket Unfiltered",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/3874",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.8,
+        "description": "If you love cricket then this podcast is for you. Get closer to the game than ever before with in-depth analysis, discussion and debate. The podcast is hosted by Andrew Menczel & Paul Dennett and features a wide variety of cricket journalists, current players and retired cricket greats. This is must listen for cricket fans. Subscribe now!",
+        "itunes_id": "690389135",
+        "content_rating": "clean",
+        "artist_name": "Piccolo Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cricket-unfiltered/id690389135",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=690389135",
+        "website": "https://player.whooshkaa.com/shows/cricket-unfiltered"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Final Word Cricket Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/ad4ac715-121e-4de7-98e9-a5da0072a7a0/85029845-e31d-4c36-9e40-a9b8001e4b2b/74abfc3e-e1c5-42b9-b1ed-a9b8001e4b39/podcast.rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.8,
+        "description": "Cricket for everyone - your friendly guide to the world's weirdest sport. Geoff Lemon and Adam Collins combine deep analysis with irreverence and political nous as they follow the game they love around the globe, and run in-depth interviews with a range of guests.\n\nYou can support the show on Patreon, at patreon.com/thefinalword.",
+        "itunes_id": "1315888074",
+        "content_rating": "clean",
+        "artist_name": "Bad Producer Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-final-word-cricket-podcast/id1315888074",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1315888074",
+        "website": "https://finalwordcricket.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Grade Cricketer Podcast",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1308",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Cricket is great if you're into things like wasted youth, failed relationships, sun damage and broken dreams. A weekly show featuring news, views and interviews with major names from across the cricket scene.",
+        "itunes_id": "1164374262",
+        "content_rating": "explicit",
+        "artist_name": "Sam Perry, Ian Higgins, Dave Edwards",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-grade-cricketer-podcast/id1164374262",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1164374262",
+        "website": "http://diamantina.com.au/the-grade-cricketer"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Can't Bowl Can't Throw Cricket Show",
+        "rss_feed_url": "http://feeds.feedburner.com/CantBowlCantThrow",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 10,
+        "average_rating": 4.7,
+        "description": "The second season of the Can't Bowl Can't Throw Cricket Show, in which we talk about cricket on a podcast. In a second season.",
+        "itunes_id": "783201244",
+        "content_rating": "clean",
+        "artist_name": "Dan Liebke",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cant-bowl-cant-throw-cricket-show/id783201244",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=783201244",
+        "website": "https://player.whooshkaa.com/shows/cant-bowl-cant-throw-cricket-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Edges & Sledges Cricket Podcast",
+        "rss_feed_url": "https://edgesandsledges.libsyn.com/rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Edges & Sledges is a weekly cricket podcast focussing on Indian cricket and the IPL.\n\nConceived by the 1tip1hand blog team, the three podcast hosts are ordinary Indian cricket fans based in Singapore, London and Cincinnati. Edges & Sledges is where they come together to talk about the week’s biggest cricketing stories.\n\nDo get in touch with comments and queries on contact@1tip1hand.com or on Twitter @1tip1hand.\n\nKeep listening!",
+        "itunes_id": "1355526144",
+        "content_rating": "clean",
+        "artist_name": "IVM Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-edges-sledges-cricket-podcast/id1355526144",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355526144",
+        "website": "https://ivmpodcasts.com/edges-and-sledges"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Guerilla Cricket Podcast",
+        "rss_feed_url": "https://guerillacricket.podbean.com/feed.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The musings of everyone's favourite revolutionary independent cricket commentary service.\n\nLISTEN to live ball-by-ball commentary: guerillacricket.com\nFOLLOW us on Twitter: twitter.com/guerillacricket\nSUPPORT us on Patreon: patreon.com/guerillacricket",
+        "itunes_id": "1465778040",
+        "content_rating": "explicit",
+        "artist_name": "guerillacricket",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-guerilla-cricket-podcast/id1465778040",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465778040",
+        "website": "https://guerillacricket.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Guerilla Cricket Podcast",
+        "rss_feed_url": "https://guerillacricket.podbean.com/feed.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "The musings of everyone's favourite revolutionary independent cricket commentary service.\n\nLISTEN to live ball-by-ball commentary: guerillacricket.com\nFOLLOW us on Twitter: twitter.com/guerillacricket\nSUPPORT us on Patreon: patreon.com/guerillacricket",
+        "itunes_id": "1465778040",
+        "content_rating": "explicit",
+        "artist_name": "guerillacricket",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-guerilla-cricket-podcast/id1465778040",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1465778040",
+        "website": "https://guerillacricket.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sounds from the Pitch",
+        "rss_feed_url": "https://feed.podbean.com/soundsfromthepitch/feed.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Talking about cricket. Not much more.",
+        "itunes_id": "1485162187",
+        "content_rating": "clean",
+        "artist_name": "soundsfromthepitch",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sounds-from-the-pitch/id1485162187",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485162187",
+        "website": "https://soundsfromthepitch.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Follow-On",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1139",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Fox Cricket team follow-on, as all the summer's action unfolds.",
+        "itunes_id": "1015189267",
+        "content_rating": "clean",
+        "artist_name": "Fox Sports Australia",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-follow-on/id1015189267",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1015189267",
+        "website": "https://player.whooshkaa.com/shows/the-follow-on"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Agenda",
+        "rss_feed_url": "https://www.spreaker.com/show/3214240/episodes/feed",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 3,
+        "average_rating": 4.7,
+        "description": "Introducing the official podcast of The Alternative Commentary Collective. Featuring interviews and all the major talking points from the world of sports, urban dictionary and more. Your #2 favourite sports podcast! Brought to you by TAB",
+        "itunes_id": "1440085392",
+        "content_rating": "explicit",
+        "artist_name": "The ACC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-agenda/id1440085392",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440085392",
+        "website": "https://www.spreaker.com/show/the-agenda"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "HotSpot - A Cricket Podcast By Chetan Narula & Deep Dasgupta",
+        "rss_feed_url": "https://audioboom.com/channels/5005986.rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Of MS Dhoni’s helicopter shots, of Virat Kohli’s screaming cover drives, of Rohit Sharma’s effortless sixes, of Ravichandran Ashwin’s carom ball, of Ravindra Jadeja’s chutzpah, of Jasprit Bumrah’s once-in-a-lifetime brilliance…\nHello, hello and hello… welcome to the brand new cricket podcast Hotspot, where we will be discussing all things Indian cricket. Whether it is about team selection, or how the cricketers are faring on the field, to some topics off the field… we have got you covered. And as we go along in our journey, with your support we hope to expand the topic of discussion to world cricket as well.\nFirst things first, WE here are two cricket lovers.\nSports journalist and broadcaster Chetan Narula, known on Twitter as the guy who doesn’t like to talk about rain forecasts… but ask him anything else, and he is game to talk cricket!\nAnd, co-host of this podcast is former Indian wicket keeper and batsman, and now broadcaster Deep Dasgupta…\nA very warm hello to our listeners!",
+        "itunes_id": "1481858587",
+        "content_rating": "clean",
+        "artist_name": "HotSpot - The Cricket Podcast with Chetan Narula and Deep Dasgupta",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hotspot-a-cricket-podcast-by-chetan-narula-deep-dasgupta/id1481858587",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481858587",
+        "website": "https://audioboom.com/channel/hotspot-the-cricket-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nightwatchmen: Cricket Podcast",
+        "rss_feed_url": "https://anchor.fm/s/db7bc4c/podcast/rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "A new and dynamic podcast focusing on the hopes and fears for Proteas cricket. Brought to you by Joburg-based cricket journalist Ken Borland and cricket enthusiast Pete Ahmad (a.k.a. the Zoo Lake Opener) based in Cape Town.",
+        "itunes_id": "1479101766",
+        "content_rating": "clean",
+        "artist_name": "Pete Ahmad",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nightwatchmen-cricket-podcast/id1479101766",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479101766",
+        "website": "https://anchor.fm/nightwatchmencricket"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Emerging Cricket Podcast",
+        "rss_feed_url": "https://emergingcricket.podbean.com/feed.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "More than just Associate cricket. News, insight, interviews and opinion on the sport at its frontiers, beyond the boundaries of mainstream cricket coverage. All fueled by a collective passion for growing the game across its own emerging, new world.",
+        "itunes_id": "1445443315",
+        "content_rating": "clean",
+        "artist_name": "Emerging Cricket",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-emerging-cricket-podcast/id1445443315",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1445443315",
+        "website": "https://emergingcricket.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Waddaplayah!",
+        "rss_feed_url": "https://waddaplayah.libsyn.com/rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Waddaplayah is your regular dose of sports fresh from the IVM studio, where two sports fanatics bring you updates, previews, reviews and insights from the latest games.\nWho scored the most runs ? Which team will score the most goals ? Who will win the grand slam ? Who'll get the most raid points ?\nThey discuss and speculate on all this and more.",
+        "itunes_id": "1458098849",
+        "content_rating": "clean",
+        "artist_name": "IVM Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/waddaplayah/id1458098849",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458098849",
+        "website": "http://ivmpodcasts.com/waddaplayah"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Grandstand At Stumps",
+        "rss_feed_url": "https://www.abc.net.au/radio/programs/grandstand-at-stumps/feed/10584512/podcast.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Cricket news and interviews from the ABC Grandstand Team.",
+        "itunes_id": "1445812977",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/grandstand-at-stumps/id1445812977",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1445812977",
+        "website": "https://www.abc.net.au/radio/programs/grandstand-at-stumps/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Three Slips, No Cover - The Sportsbet Cricket Podcast (With The Grubs)",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/5282",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "The Grubs have got their own podcast!\n\nThe boys from East Gardens have gone from your eyeballs to your ear holes.\n\nGrab yourself a lime coola,  a box of shapes and enjoy!\n\nSend The Grubs your questions or fines using #GrubUp",
+        "itunes_id": "1445511492",
+        "content_rating": "clean",
+        "artist_name": "Sportsbet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/three-slips-no-cover-sportsbet-cricket-podcast-grubs/id1445511492",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1445511492",
+        "website": "https://player.whooshkaa.com/shows/three-slips-no-cover-the-sportsbet-cricket-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "First XI Cricket Show",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/9274",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Introducing Adelaide's brand-new local cricket show, the First XI Cricket Show, on FIVEaa.\n\nThe First XI Cricket Show starts on Saturday October 5 and will run right across the summer, every Saturday from 6pm on Adelaide's #1 sports station, FIVEaa.\n\nFocusing on all things cricket in South Australia; from the Redbacks, Scorpions, and Strikers through to SACA Premier Grade Cricket, Adelaide Turf and other local competitions.\n\nHosted by Sam Tugwell and Paul Bonsor, the First XI Cricket Show will feature interviews with South Australian cricketing stars, discuss the events of the week and give local clubs the exposure they deserve.\n\nWe will put the spotlight on local clubs, volunteers, players and events, bringing Adelaide's rich cricketing community together to one destination.",
+        "itunes_id": "1482520162",
+        "content_rating": "clean",
+        "artist_name": "FIVEaa",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/first-xi-cricket-show/id1482520162",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482520162",
+        "website": "https://player.whooshkaa.com/shows/first-xi-cricket-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cricket Show: Ashes Edition with Ian Chappell",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/88b564ea-a9a6-4751-910a-a5d800019396/7bd559f1-1ed0-4058-844d-aa960162b863/23834c82-56c7-4501-aa63-aa960164e241/podcast.rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "It’s sport’s most enduring rivalry; cricket’s two oldest teams fiercely competing for the game’s most revered trophy.\n\nThe Ashes.\n\nFormer Australian Test captain Ian Chappell and co-host Julian King will pad up once again for The Cricket Show: Ashes Edition, starting 8:00 am on Saturday, July 27.\n\nChappelli and Julian will chart Australia’s defense of the iconic Urn and their attempt to knock off The Old Enemy by winning the five-match series on English soil for the first time since 2001.\n\nHear the latest news from both camps, sharpen your cricketing mind with analysis and insights from the game’s leading experts, and have your say via the open line – 13 12 83.",
+        "itunes_id": "1475312165",
+        "content_rating": "clean",
+        "artist_name": "Macquarie Sports Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cricket-show-ashes-edition-with-ian-chappell/id1475312165",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475312165",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cordon",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/4973",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Paul Hooper and Justin Lui bring you the latest news and results from the Box Hill Reporter District Cricket Association.  Listen live Mondays at 7pm on 94.1FM 3WBC or directly to your device via our podcast.",
+        "itunes_id": "1451788544",
+        "content_rating": "clean",
+        "artist_name": "94.1FM 3WBC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cordon/id1451788544",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451788544",
+        "website": "https://player.whooshkaa.com/shows/the-cordon"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ladies Who Legspin",
+        "rss_feed_url": "http://www.abc.net.au/radio/programs/ladies-who-legspin/feed/9070300/podcast.xml",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "An unorthodox delivery of the gentleman’s game.",
+        "itunes_id": "1298966366",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ladies-who-legspin/id1298966366",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1298966366",
+        "website": "http://www.abc.net.au/radio/programs/ladies-who-legspin/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two For None",
+        "rss_feed_url": "http://twofornone.libsyn.com/rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Two for None is a comedy cricket podcast featuring two great mates who are terrible cricketers but what they lack in skill they make up for in banter, research and a tragic love of the game! Featuring correspondents from all over the globe!",
+        "itunes_id": "1320375866",
+        "content_rating": "clean",
+        "artist_name": "Ginger Snap Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-for-none/id1320375866",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1320375866",
+        "website": "https://www.gingersnapsydney.com/two-for-none"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Essex League Cricketer",
+        "rss_feed_url": "https://feeds.buzzsprout.com/522559.rss",
+        "categories": [
+          "Cricket",
+          "Podcasts",
+          "Sports",
+          "Comedy"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "If you have a dependency on alcohol, struggle with the short ball, and just generally battle your way through life, you are in the right place.",
+        "itunes_id": "1476435763",
+        "content_rating": "explicit",
+        "artist_name": "Alfie Taylor | Billy Rhone | Phil Marsh",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/essex-league-cricketer/id1476435763",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476435763",
+        "website": null
+      }
+    }
+  ]
+}

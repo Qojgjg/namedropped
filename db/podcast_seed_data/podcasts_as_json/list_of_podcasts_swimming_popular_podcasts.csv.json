@@ -1,0 +1,227 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "The Effortless Swimming Podcast",
+        "rss_feed_url": "http://www.effortlessswimming.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.5,
+        "description": "Faster times and better technique aren't a guarantee when you train hard. What really makes a difference to your speed and efficiency in the water? The Effortless Swimming podcast helps make a complex sport really simple to better your swimming. We cover open water swimming, triathlon swimming and pool swimming. Hosted by Australian National swimmer and coach Brenton Ford.",
+        "itunes_id": "1042517353",
+        "content_rating": "clean",
+        "artist_name": "Brenton Ford",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-effortless-swimming-podcast/id1042517353",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1042517353",
+        "website": "http://effortlessswimming.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Swim Coaches Base",
+        "rss_feed_url": "http://rittersp.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.6,
+        "description": "Welcome to the Swim Coaches Base podcast. Get ready to build up your knowledge base from other swim coaches around the world. The SCB is the #1 podcast for swim coaches, bringing you the best conversations with top coaches to help you become a better coach. The Swim Coaches Base podcast is hosted by Chris Ritter and powered by RITTER Sports Performance. Check out more swim coach resources from RITTER - rittersp.com",
+        "itunes_id": "801493885",
+        "content_rating": "clean",
+        "artist_name": "Chris Ritter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/swim-coaches-base/id801493885",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=801493885",
+        "website": "http://rittersp.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ProSwimTalk",
+        "rss_feed_url": "https://proswimtalk.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Results, news and reactions in the professional world of swimming.",
+        "itunes_id": "1481882435",
+        "content_rating": "clean",
+        "artist_name": "Chris Ritter",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/proswimtalk/id1481882435",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481882435",
+        "website": "https://rittersp.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Champion's Mojo",
+        "rss_feed_url": "http://championsmojo.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Hosted by two World Record Holders, Kelly Palace and Maria Parker bring you conversations with champions. They interview the most elite Swimmers and Coaches in the sport on Odd Numbered shows and Even numbered shows they discuss topics around Motivation, Mindset, Health & Wellness.",
+        "itunes_id": "1457917756",
+        "content_rating": "clean",
+        "artist_name": "Kelly Palace and Maria Parker",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/champions-mojo/id1457917756",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457917756",
+        "website": "https://championsmojo.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Champion's Mojo",
+        "rss_feed_url": "http://championsmojo.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Mental Health"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Hosted by two World Record Holders, Kelly Palace and Maria Parker bring you conversations with champions. They interview the most elite Swimmers and Coaches in the sport on Odd Numbered shows and Even numbered shows they discuss topics around Motivation, Mindset, Health & Wellness.",
+        "itunes_id": "1457917756",
+        "content_rating": "clean",
+        "artist_name": "Kelly Palace and Maria Parker",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/champions-mojo/id1457917756",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457917756",
+        "website": "https://championsmojo.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Social Kick Podcast",
+        "rss_feed_url": "https://feed.podbean.com/thesocialkick/feed.xml",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.9,
+        "description": "Welcome to The Social Kick podcast. Tune every week for up-to-date swim talk to fill your social kick needs!",
+        "itunes_id": "1478682639",
+        "content_rating": "clean",
+        "artist_name": "The Social Kick",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-social-kick-podcast/id1478682639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478682639",
+        "website": "https://thesocialkick.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tidecast",
+        "rss_feed_url": "https://tideswimming.libsyn.com/rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Tidecast is the podcast for Tide Swimming.  A high performing swimming program in Hampton Roads Virginia.",
+        "itunes_id": "1477876772",
+        "content_rating": "clean",
+        "artist_name": "Fred Steele",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tidecast/id1477876772",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477876772",
+        "website": "https://tideswimming.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Pod: Ocean Swimming",
+        "rss_feed_url": "http://www.thepodpodcast.net/feed.xml",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "There is more to ocean swimming than just swimming in the ocean. In The Pod, we chat about all aspects of ocean swimming, from how we can keep the oceans swimmable, to oceans on other planets.",
+        "itunes_id": "1315159668",
+        "content_rating": "clean",
+        "artist_name": "Marc West",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-pod-ocean-swimming/id1315159668",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1315159668",
+        "website": "http://www.thepodpodcast.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The SwimBrain Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/387352.rss",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "This podcast is designed for swim coaches and swimmers (and maybe even swim parents) who are not satisfied with the surface understanding and want to dive deeper into concepts to understand more, to swim faster and to make our sport better.  Whether you swim breaststroke, freestyle, butterfly or backstroke we all want the same thing: to be better and faster.",
+        "itunes_id": "1476926032",
+        "content_rating": "clean",
+        "artist_name": "Denaj",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-swimbrain-podcast/id1476926032",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476926032",
+        "website": "http://swimbrain.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Swimming with Autism",
+        "rss_feed_url": "https://feed.podbean.com/swimmingwithautism/feed.xml",
+        "categories": [
+          "Swimming",
+          "Podcasts",
+          "Sports",
+          "Education"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Learn from the 3 of us how to work effectively with students who have autism from our 80 years of combined experience. We are a parent, instructor and behavior specialist.",
+        "itunes_id": "1469173023",
+        "content_rating": "clean",
+        "artist_name": "swimmingwithautism",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/swimming-with-autism/id1469173023",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469173023",
+        "website": "https://swimmingwithautism.podbean.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Breaking Math Podcast",
+        "rss_feed_url": "https://anchor.fm/s/7a32d64/podcast/rss",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 140,
+        "average_rating": 4.2,
+        "description": "Breaking Math is a podcast that aims to make math accessible to everyone, and make it enjoyable. Every other week, topics such as chaos theory, forbidden formulas, and more will be covered in detail. If you have 45 or so minutes to spare, you're almost guaranteed to learn something new! Support this podcast: https://anchor.fm/breakingmathpodcast/support",
+        "itunes_id": "1201114838",
+        "content_rating": "clean",
+        "artist_name": "Breaking Math Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/breaking-math-podcast/id1201114838",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1201114838",
+        "website": "www.breakingmathpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Relatively Prime: Stories from the Mathematical Domain",
+        "rss_feed_url": "http://feeds.feedburner.com/relprime",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 97,
+        "average_rating": 4.7,
+        "description": "Relatively Prime features stories and interviews from the mathematical world. Featuring math stories from people like Fields Medalists to indie rockers to linguists on topics ranging as wide as the artificial intelligence which defeated checkers and mathematics haiku battles. Relatively Prime has a mathematics story for anyone and everyone.",
+        "itunes_id": "560923828",
+        "content_rating": "clean",
+        "artist_name": "ACMEScience",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/relatively-prime-stories-from-the-mathematical-domain/id560923828",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=560923828",
+        "website": "http://relprime.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sum Of All Parts - ABC RN",
+        "rss_feed_url": "http://www.abc.net.au/radionational/feed/8826774/podcast.xml",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 77,
+        "average_rating": 4.9,
+        "description": "Sum of All Parts tells extraordinary stories about the unseen influence that numbers have on the way we think, feel and behave. ",
+        "itunes_id": "1288412022",
+        "content_rating": "clean",
+        "artist_name": "ABC Radio National",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sum-of-all-parts-abc-rn/id1288412022",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1288412022",
+        "website": "http://www.abc.net.au/radionational/programs/sum-of-all-parts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Universe Speaks in Numbers",
+        "rss_feed_url": "https://rss.acast.com/theuniversespeaksinnumbers",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "In The Universe Speaks in Numbers award-winning science writer Graham Farmelo is in conversation with some of the great names in modern physics and mathematics. Among the interviewees are Michael Atiyah, Ruth Britto, Lance Dixon, Simon Donaldson, Freeman Dyson, Juan Maldacena, Michela Massimi, Roger Penrose, Martin Rees, Simon Schaffer and Edward Witten.\n\nTo read more see Graham's book The Universe Speaks in Numbers: How Modern Maths Reveals Nature's Deepest Secrets.",
+        "itunes_id": "1479389232",
+        "content_rating": "clean",
+        "artist_name": "Faber and Faber",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-universe-speaks-in-numbers/id1479389232",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479389232",
+        "website": "https://grahamfarmelo.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Universe Speaks in Numbers",
+        "rss_feed_url": "https://rss.acast.com/theuniversespeaksinnumbers",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "Physics"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "In The Universe Speaks in Numbers award-winning science writer Graham Farmelo is in conversation with some of the great names in modern physics and mathematics. Among the interviewees are Michael Atiyah, Ruth Britto, Lance Dixon, Simon Donaldson, Freeman Dyson, Juan Maldacena, Michela Massimi, Roger Penrose, Martin Rees, Simon Schaffer and Edward Witten.\n\nTo read more see Graham's book The Universe Speaks in Numbers: How Modern Maths Reveals Nature's Deepest Secrets.",
+        "itunes_id": "1479389232",
+        "content_rating": "clean",
+        "artist_name": "Faber and Faber",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-universe-speaks-in-numbers/id1479389232",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479389232",
+        "website": "https://grahamfarmelo.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Opinionated History of Mathematics",
+        "rss_feed_url": "http://intellectualmathematics.com/feed/podcast/",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "History"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Cracking tales of historical mathematics and its interplay with science, philosophy, and culture. Revisionist history galore. Contrarian takes on received wisdom. Implications for teaching. Informed by current scholarship. By Dr Viktor Blåsjö.",
+        "itunes_id": "1444227264",
+        "content_rating": "clean",
+        "artist_name": "Intellectual Mathematics",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/opinionated-history-of-mathematics/id1444227264",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444227264",
+        "website": "http://intellectualmathematics.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mathematical Objects",
+        "rss_feed_url": "http://feeds.podtrac.com/ln1fY9vfLyuW",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Katie Steckles and Peter Rowlett chat about some aspect of mathematics using a mathematical object as inspiration.",
+        "itunes_id": "1455894620",
+        "content_rating": "clean",
+        "artist_name": "Katie Steckles and Peter Rowlett",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mathematical-objects/id1455894620",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455894620",
+        "website": "https://aperiodical.com/category/main/podcasts/mathematical-objects/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Other Half",
+        "rss_feed_url": "https://feeds.feedburner.com/acmeScienceTheOtherHalf",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "Social Sciences"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "The Other Half is an exploration of the the other half of bunch of things. First, Anna and Annie want to take you on a tour of the other half of math — the fun half you might be missing when you learn math in school, the half that helps you makes sense of your own life. Undoubtedly you’ve struggled with math at some point and asked yourself, “what would I ever use this for?” They hope to give you some compelling and unexpected answers to that question.",
+        "itunes_id": "994999190",
+        "content_rating": null,
+        "artist_name": "ACMEScience",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-other-half/id994999190",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=994999190",
+        "website": "http://theotherhalf.acmescience.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Summit",
+        "rss_feed_url": "https://anchor.fm/s/c92dfa4/podcast/rss",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Math Students discuss the wonderful world of math.",
+        "itunes_id": "1477276779",
+        "content_rating": "clean",
+        "artist_name": "Aaron Estes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-summit/id1477276779",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477276779",
+        "website": "https://anchor.fm/aaron-estes6"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Modellansatz - English episodes only",
+        "rss_feed_url": "http://modellansatz.de/rss/en/",
+        "categories": [
+          "Mathematics",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "On closer inspection, we find science and especially mathematics throughout our everyday lives, from the tap to automatic speed regulation on motorways, in medical technology or on our mobile phone. What the researchers, graduates and academic teachers in Karlsruhe puzzle about, you experience firsthand in our podcast \"The modeling approach\".",
+        "itunes_id": "1069316145",
+        "content_rating": "clean",
+        "artist_name": "Gudrun Thäter, Sebastian Ritterbusch",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/modellansatz-english-episodes-only/id1069316145",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1069316145",
+        "website": "http://modellansatz.de/en"
+      }
+    }
+  ]
+}

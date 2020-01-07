@@ -1,0 +1,2532 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "The Finer Points - Aviation Podcast",
+        "rss_feed_url": "http://tfpaviation.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 175,
+        "average_rating": 4.7,
+        "description": "The Finer Points is the original educational aviation podcast. Launched in 2005, TFP delivers expert CFI wisdom from award winning certified flight instructor, Jason Miller. Over the last 20 years Jason has been working to perfect the art of flight instruction. He was named FAA Wester Pacific CFI of the year in 2009 and 2016, works as an AOPA Air Safety Institute instructor, and writes monthly columns for FLYING magazine. Jason is passionate about conveying accurate, meaningful information to pilots.",
+        "itunes_id": "84885574",
+        "content_rating": "clean",
+        "artist_name": "Jason Miller",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-finer-points-aviation-podcast/id84885574",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=84885574",
+        "website": "https://www.learnthefinerpoints.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Betty in the Sky with a Suitcase!",
+        "rss_feed_url": "http://betty.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 274,
+        "average_rating": 4.7,
+        "description": "Travel the world with Flight Attendant Betty!!!  This is a airline and travel podcast with funny stories from the airplane and around the world!!  I actually have a book coming out...if go to my website www.bettyinthesky.com you can find out more about the book and e-book!",
+        "itunes_id": "79898010",
+        "content_rating": "clean",
+        "artist_name": "Flight Attendant Betty",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/betty-in-the-sky-with-a-suitcase/id79898010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=79898010",
+        "website": "http://bettyinthesky.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airplane Geeks Podcast",
+        "rss_feed_url": "http://www.airplanegeeks.com/?feed=podcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 226,
+        "average_rating": 4.6,
+        "description": "Our aim to educate and inform you, explore and develop your passion for aviation, and entertain you a little along the way.",
+        "itunes_id": "282825594",
+        "content_rating": "clean",
+        "artist_name": "Airplane Geeks",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airplane-geeks-podcast/id282825594",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=282825594",
+        "website": "http://www.airplanegeeks.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Uncontrolled Airspace: General Aviation Podcast",
+        "rss_feed_url": "http://feeds.feedburner.com/uncontrolledairspace",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Government"
+        ],
+        "rating_count": 142,
+        "average_rating": 4.4,
+        "description": "Every week the UCAP gang gathers to talk about all things GA. You can listen-in as some of General Aviation's most knowledgeable, opinionated, and plain-spoken characters do some online, hangar-flying. Show-notes can be found at http://www.uncontrolledairspace.com/",
+        "itunes_id": "185237578",
+        "content_rating": "clean",
+        "artist_name": "Jack Hodgson, Jeb Burnside, Dave Higdon",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/uncontrolled-airspace-general-aviation-podcast/id185237578",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=185237578",
+        "website": "http://www.uncontrolledairspace.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ask Drone U",
+        "rss_feed_url": "https://www.thedroneu.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 310,
+        "average_rating": 4.6,
+        "description": "We’re Drone U, a group of guys who have turned their passion for flight into a profitable business. We love hearing from our fans, and we love helping by answering their questions. That’s why we started the Ask Drone U podcast in 2015. Since then, we are one of the largest, most popular DAILY drone podcasts out there. Each episode features an actual question submitted from someone just like you! We wish we could answer everyone’s question(s), but we’ll do our best to get through as many of them as we can. So plug in those headphones because it’s time to learn together about everything drone: FAA, insurance, business strategies, videography, drone tips, flight techniques, drone tricks, expert advice, cameras, gimbals, and so much more. #askdroneu",
+        "itunes_id": "967352832",
+        "content_rating": "clean",
+        "artist_name": "Drone U",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ask-drone-u/id967352832",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=967352832",
+        "website": "https://www.thedroneu.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airline Pilot Guy - Aviation Podcast",
+        "rss_feed_url": "http://airlinepilotguy.com/podcast.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 397,
+        "average_rating": 4.8,
+        "description": "Aviation Podcasts",
+        "itunes_id": "441028270",
+        "content_rating": "clean",
+        "artist_name": "Capt Jeff",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airline-pilot-guy-aviation-podcast/id441028270",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=441028270",
+        "website": "http://airlinepilotguy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The UND AeroCast (HD VIDEO)",
+        "rss_feed_url": "http://feeds.feedburner.com/UniversityOfNorthDakotaAerocast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Courses"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.4,
+        "description": "UND Aerospace helps professional and aspiring aviation enthusiasts explore the joy and science of aviation through innovative video training topics narrated by experienced Certified Flight Instructors. The material presented in this series should not be used in place of actual ground or flight instruction.  Consult a Certified Flight Instructor for aviation instruction.  Prospective students, begin your aviation training at UND Aerospace in Grand Forks, North Dakota or any of our satellite locations by visiting our website at:http://www.fly.und.edu",
+        "itunes_id": "120980516",
+        "content_rating": "clean",
+        "artist_name": "UND Aerospace",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-und-aerocast-hd-video/id120980516",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=120980516",
+        "website": "http://www.fly.und.edu"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Fighter Pilot Podcast",
+        "rss_feed_url": "https://api.podcache.net/shows/87e44bb8-fa63-4642-a11d-e341c14c2243/feed",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 576,
+        "average_rating": 4.9,
+        "description": "The Fighter Pilot Podcast explores the fascinating world of air combat: the aircraft, the weapons systems, and most importantly--the people.  Each episode features a guest who helps explain the topic at hand such as how ejection seats work or what it's like to fly on and off nuclear-powered aircraft carriers.\n\nStrap in and hang on for this incredible show!\n\nIf you love the roar of a high-speed flyby or are enamored by the poise and confidence of the brave men and women who pilot these aircraft, then this show is for you!",
+        "itunes_id": "1330534712",
+        "content_rating": "clean",
+        "artist_name": "Vincent \"Jell-O\" Aiello, Retired US Navy Fighter Pilot",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fighter-pilot-podcast/id1330534712",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1330534712",
+        "website": "https://redcircle.com/shows/the-fighter-pilot-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aviation News Talk podcast",
+        "rss_feed_url": "http://aviationnewstalk.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News"
+        ],
+        "rating_count": 320,
+        "average_rating": 4.9,
+        "description": "General Aviation news, pilot tips for beginners & experts, interviews, listener questions answered, technical details on G1000 & Perspective glass cockpits & flying GPS approaches. 40 yrs experience flying general aviation aircraft. As an active flight instructor, I bring my daily experiences in the air to this show to help teach pilots and future pilots to fly safely. I'm a Platinum Cirrus CSIP instructor and work with people who are thinking about buying a new or used SR20 or SR22. Go to AviationNewsTalk.com for my contact information, or to click on Listener Questions, which lets you speak into your phone to leave a question you’d like answered on the show.",
+        "itunes_id": "1223782070",
+        "content_rating": "clean",
+        "artist_name": "Max Trescott | Glass Cockpit Publishing",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aviation-news-talk-podcast/id1223782070",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1223782070",
+        "website": "http://aviationnewstalk.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AviatorCast: Flight Training & Aviation Podcast",
+        "rss_feed_url": "http://www.aviatortraining.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Courses"
+        ],
+        "rating_count": 225,
+        "average_rating": 4.9,
+        "description": "Become the pilot you've always wanted to be. AviatorCast bridges the gap between actual flight training and flight simulation to give prospective aviators, current pilots, and even the seasoned flyer new perspectives in aviation. \n\n\n\nThrough studying Human Factors we learn to combat the worst enemy to our flying success; ourselves. How can we become better aviators by interacting with our airplanes more effectively? How can we overcome the shortcomings of our human condition to make better decisions on the flight deck? \n\n\n\nWe believe in learning to a confidence level, not learning to a level required by law. When you get a license, you should be ready to go out and fly in those conditions, with those aircraft, and do so with refined skills. \n\n\n\nFlight simulators these days are very advanced, and we will discuss how you can sure up your flight training with a home based simulator, giving you limitless hours and practice in IFR with scenario based training. \n\n\n\nLearn how to fly, become better at your flying craft, mold into a safer pilot, or perfect your professional skills. \n\n\n\nAviatorCast is an engaging and entertaining podcast that is sure to deliver on the topics you care about.",
+        "itunes_id": "799239198",
+        "content_rating": "clean",
+        "artist_name": "Chris Palmer | Angle of Attack",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aviatorcast-flight-training-aviation-podcast/id799239198",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=799239198",
+        "website": "https://angleofattack.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Private Pilot Podcast by MzeroA.com",
+        "rss_feed_url": "http://theprivatepilotpodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 72,
+        "average_rating": 4.6,
+        "description": "A Good Pilot Is Always Learning",
+        "itunes_id": "1010686786",
+        "content_rating": "clean",
+        "artist_name": "Private Pilot Podcast by MzeroA.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/private-pilot-podcast-by-mzeroa-com/id1010686786",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1010686786",
+        "website": "http://theprivatepilotpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pilot to Pilot - Aviation Podcast",
+        "rss_feed_url": "http://pilottopilot.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 371,
+        "average_rating": 4.9,
+        "description": "The Pilot to Pilot podcast is a place for aviators to come for inspiration and encouragement. We aim to help all types of aviators to continue pursuing their aviation dreams, whether that be flying commercially or flying for fun.",
+        "itunes_id": "1208147571",
+        "content_rating": "clean",
+        "artist_name": "Justin Siems",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pilot-to-pilot-aviation-podcast/id1208147571",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1208147571",
+        "website": "http://www.pilottopilothq.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Stuck Mic AvCast – An Aviation Podcast About Learning to Fly, Living to Fly, & Loving to Fly",
+        "rss_feed_url": "http://stuckmicavcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 72,
+        "average_rating": 4.3,
+        "description": "A mix of flight instruction discussion, flying techniques, aviation product reviews, virtual hangar flying, and more! Brought to you by Carl Valeri (airline pilot/flight instructor) with co-hosts Victoria Zajko (GA flying enthusiast/blogger), Rick Felty (GA flying enthusiast/in-flight video artist), and Sean Moody (GA flying enthusiast/aspiring CFI). Fly Smart. Fly Safe.",
+        "itunes_id": "437751010",
+        "content_rating": "clean",
+        "artist_name": "Carl Valeri, Rick Felty, Victoria Neuville, Sean Moody",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/stuck-mic-avcast-aviation-podcast-about-learning-to/id437751010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=437751010",
+        "website": "http://stuckmicavcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flite Test: Aviation - RC Planes - Multirotors",
+        "rss_feed_url": "http://flitetest.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 526,
+        "average_rating": 4.9,
+        "description": "Flite Test is an entertainment company that is all about flight. We love to test, fly and sometimes even crash when things go wrong! We often talk about flying, building & repairing RC airplanes, setting up quadcopters, occasionally helicopters and anything else related to radio control flight.  FliteTest After Hours is hosted by Chris and he often goes into the behind the scenes of the webshow, the radio control industry, and has very entertaining guests on the show.",
+        "itunes_id": "698727774",
+        "content_rating": "clean",
+        "artist_name": "FliteTest.com | Radio Control Flight",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flite-test-aviation-rc-planes-multirotors/id698727774",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=698727774",
+        "website": "http://flitetest.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Commercial Drones FM",
+        "rss_feed_url": "http://drones.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 96,
+        "average_rating": 4.9,
+        "description": "The commercial drone industry is projected to be worth more than $20 billion in the next 10 years. Commercial Drones FM is the podcast for the drone industry. Your host, Ian Smith—a helicopter pilot and international drone operator—guides you in discovering the people who power the drone industry, the concepts that drive it, and the global industries who already use drones in their businesses today.",
+        "itunes_id": "1130464057",
+        "content_rating": "clean",
+        "artist_name": "Ian Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/commercial-drones-fm/id1130464057",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1130464057",
+        "website": "http://commercialdrones.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Instrument Pilot Podcast by MzeroA.com",
+        "rss_feed_url": "http://instrumentpilotpodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.6,
+        "description": "A Good Pilot Is Always Learning",
+        "itunes_id": "1010687213",
+        "content_rating": "clean",
+        "artist_name": "Instrument Pilot Podcast by MzeroA.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/instrument-pilot-podcast-by-mzeroa-com/id1010687213",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1010687213",
+        "website": "http://instrumentpilotpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AvTalk - Aviation Podcast",
+        "rss_feed_url": "https://www.flightradar24.com/blog/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 172,
+        "average_rating": 4.9,
+        "description": "An aviation podcast by aviation geeks for anyone who looks up when they hear an airplane fly overhead. Listen in as Ian Petchenik and Jason Rabinowitz bring you aviation news, views, and special guests for a half hour every other week. If you're a new avgeek or just can't get enough aviation in your life, get your avgeek fix with us.",
+        "itunes_id": "1215571407",
+        "content_rating": "clean",
+        "artist_name": "Flightradar24",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/avtalk-aviation-podcast/id1215571407",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1215571407",
+        "website": "https://www.flightradar24.com/blog"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "There I was...",
+        "rss_feed_url": "http://aopathereiwas.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 58,
+        "average_rating": 4.9,
+        "description": "There I was…, presented by the AOPA Air Safety Institute, invites you into the cockpit with pilots across the aviation community. We fly with them as they encounter unpredictable scenarios and we learn from the knowledge and skills they utilize to fly safely out of them. This podcast honors the tradition and heritage in aviation to leverage “hangar flying” as an avenue to pass along knowledge and experience.",
+        "itunes_id": "1240482999",
+        "content_rating": "clean",
+        "artist_name": "AOPA Air Safety Institute",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/there-i-was/id1240482999",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1240482999",
+        "website": "http://www.airsafetyinstitute.org/thereiwas"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hangar Talk",
+        "rss_feed_url": "http://aopahangartalk.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News"
+        ],
+        "rating_count": 40,
+        "average_rating": 4.5,
+        "description": "Every other week the experts at AOPA bring you up to speed on all things flying.",
+        "itunes_id": "1156258045",
+        "content_rating": "clean",
+        "artist_name": "AOPA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hangar-talk/id1156258045",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1156258045",
+        "website": "http://aopahangartalk.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Student Pilot Journal Aviation Podcast",
+        "rss_feed_url": "http://feeds.feedburner.com/StudentPilotJournal",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 31,
+        "average_rating": 4.2,
+        "description": "An aviation video podcast documenting flight training, topics, and more.  Join Pilot Greg and CFI Casey as we do our best to entertain and educate.",
+        "itunes_id": "268977062",
+        "content_rating": "clean",
+        "artist_name": "Greg Summers",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/student-pilot-journal-aviation-podcast/id268977062",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=268977062",
+        "website": "http://www.studentpilotjournal.com/"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Skydive Radio",
+        "rss_feed_url": "http://www.skydiveradio.com/skydiveradio_rss.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 76,
+        "average_rating": 5,
+        "description": "Discussions including skydiving disciplines, safety, news, and feature interviews with industry experts.",
+        "itunes_id": "78571725",
+        "content_rating": "clean",
+        "artist_name": "Unknown",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/skydive-radio/id78571725",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=78571725",
+        "website": "http://www.SkydiveRadio.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Opposing Bases: Air Traffic Talk",
+        "rss_feed_url": "https://opposingbases.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 143,
+        "average_rating": 4.9,
+        "description": "RH and AG are two experienced air traffic controllers and pilots that host a weekly show answering listener questions, breaking down complex aviation topics, and relating their experiences to everyday occurrences in the national airspace system.  \n\nThe hosts and guests do not represent the FAA or NATCA and express their own views and opinions.",
+        "itunes_id": "1330865695",
+        "content_rating": "clean",
+        "artist_name": "Air Traffic Talk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/opposing-bases-air-traffic-talk/id1330865695",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1330865695",
+        "website": "https://opposingbases.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "EAA's The Green Dot - An Aviation Podcast",
+        "rss_feed_url": "http://inspire.eaa.org/feed/podcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Government"
+        ],
+        "rating_count": 118,
+        "average_rating": 4.9,
+        "description": "A podcast by Experimental Aircraft Association for those who fly for the love of it or are simply fascinated by the world of flight. The Green Dot is sponsored by GE Aviation and features EAA news, general aviation topics, history, personal experiences from the hosts and a variety of guests, and anything fun, interesting, or cool in and around the world of flight.",
+        "itunes_id": "1213042361",
+        "content_rating": "clean",
+        "artist_name": "EAA - Experimental Aircraft Association",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/eaas-the-green-dot-an-aviation-podcast/id1213042361",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1213042361",
+        "website": "http://inspire.eaa.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Inspired Pilot Podcast",
+        "rss_feed_url": "http://inspiredpilot.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Careers"
+        ],
+        "rating_count": 70,
+        "average_rating": 4.8,
+        "description": "The Inspired Pilot Podcast is an audio podcast hosted by Marvyn Robinson.  A weekly show interviewing pilots with inspiring journeys from all around the world. Each week we will highlight the life of our featured pilot, follow their aviation journey, experiences gained and lessons learned.  Every episode will be packed with actionable advice and resources to INSPIRE seasoned pilots, low hour pilots, wannabe pilots and pilot enthusiasts alike.  Wherever you are on your pilot journey, be prepared to be inspired!",
+        "itunes_id": "955053039",
+        "content_rating": "clean",
+        "artist_name": "Marvyn Robinson chats with inspiring pilots from around the world about their aviation and flying journey's",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-inspired-pilot-podcast/id955053039",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=955053039",
+        "website": "http://www.inspiredpilot.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The UAV Digest",
+        "rss_feed_url": "http://theuavdigest.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 55,
+        "average_rating": 4.8,
+        "description": "The UAV Digest is an audio podcast devoted to Unmanned Aerial Vehicles and Systems. We cover new developments in the industry, regulatory issues, unmanned technology, and a lot more. We consider both commercial and military applications, from all perspectives.",
+        "itunes_id": "693140131",
+        "content_rating": "clean",
+        "artist_name": "The UAV Digest",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-uav-digest/id693140131",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=693140131",
+        "website": "http://theuavdigest.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "CFI Podcast by MzeroA.com",
+        "rss_feed_url": "http://cfipodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.6,
+        "description": "A Good Pilot Is Always Learning",
+        "itunes_id": "1010694405",
+        "content_rating": "clean",
+        "artist_name": "CFI Podcast by MzeroA.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cfi-podcast-by-mzeroa-com/id1010694405",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1010694405",
+        "website": "http://cfipodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Student Pilot Cast (mp3)",
+        "rss_feed_url": "http://studentpilotcast.com/category/podcasts/audio/feed/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Follow Bill as he progresses through his flight training. This is the audio only feed. The audio podcasts are NOT the same content as the video podcasts, so if you want all the content, please subscribe to both.  The audio feed is more tied to the student experience, in cockpit training, with a few features and special events.  The video feed includes in-cockpit video sometimes, but is more feature oriented and does not typically coincide as closely with the training.",
+        "itunes_id": "278093331",
+        "content_rating": "clean",
+        "artist_name": "Bill Williams",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-student-pilot-cast-mp3/id278093331",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=278093331",
+        "website": "http://studentpilotcast.com/category/podcasts/audio/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flight Safety Detectives",
+        "rss_feed_url": "https://feed.podbean.com/flightsafetydetectives/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News"
+        ],
+        "rating_count": 27,
+        "average_rating": 5,
+        "description": "World-renowned former NTSB lead investigator Greg Feith and former NTSB board member John Goglia talk about everything aviation.",
+        "itunes_id": "1477655202",
+        "content_rating": "clean",
+        "artist_name": "flightsafetydetectives",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flight-safety-detectives/id1477655202",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477655202",
+        "website": "https://www.flightsafetydetectives.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rotary Wing Show - Interviews from the Helicopter Industry",
+        "rss_feed_url": "http://rotarywingshow.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.9,
+        "description": "Capturing stories of helicopter pilots and crew from around the world. Find out about different helicopter career paths, pick up some tips and learn more about what life as helicopter aircrew has to offer.",
+        "itunes_id": "903691746",
+        "content_rating": "clean",
+        "artist_name": "Mick Cullen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rotary-wing-show-interviews-from-the-helicopter-industry/id903691746",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=903691746",
+        "website": "http://rotarywingshow.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airplane Intel Podcast - Aviation Podcast",
+        "rss_feed_url": "https://adam-sipe-drm7.squarespace.com/airplane-intel-podcast?format=rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 56,
+        "average_rating": 4.7,
+        "description": "Join us each week for in-depth discussions about aircraft ownership including interviews and aircraft comparisons.",
+        "itunes_id": "1196155959",
+        "content_rating": "explicit",
+        "artist_name": "The Prebuy Guys",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airplane-intel-podcast-aviation-podcast/id1196155959",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1196155959",
+        "website": "https://www.airplaneprebuy.com/airplane-intel-podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pilots Journey Aviation Podcast",
+        "rss_feed_url": "http://www.pilotsjourneypodcast.com/rss/pilotsjourney.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 33,
+        "average_rating": 4.8,
+        "description": "Welcome to the Pilot's Journey Podcast, where we discuss aviation, proficiency and enjoying the journey. The show is hosted by Stuart Stevenson aka PilotStu, a private pilot in north Dallas, Stewart Stoll aka CFIStew, a certificated flight instructor near Fort Worth, Texas, and Mike Hart (aka Idaho Mike) a private pilot and aircraft owner in Idaho Falls.",
+        "itunes_id": "308192284",
+        "content_rating": "clean",
+        "artist_name": "crew@pilotsjourney.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pilots-journey-aviation-podcast/id308192284",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=308192284",
+        "website": "http://www.pilotsjourneypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SimpleFlight Radio",
+        "rss_feed_url": "http://simpleflight.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 44,
+        "average_rating": 4.8,
+        "description": "Welcome to the SimpleFlight Radio show! We are here to help you define your personal aviation lifestyle. We've got the tips, pilot hacks and introductions to the people who give their aviation secrets.",
+        "itunes_id": "551513897",
+        "content_rating": "clean",
+        "artist_name": "Marc Epner, Al Waterloo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/simpleflight-radio/id551513897",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=551513897",
+        "website": "http://www.simpleflight.net/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AOPA Live This Week",
+        "rss_feed_url": "https://www.aopa.org/playlist.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.6,
+        "description": "Weekly update of general aviation news from the Aircraft Owners and Pilots Association",
+        "itunes_id": "434406265",
+        "content_rating": "clean",
+        "artist_name": "Aircraft Owners and Pilots Association",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aopa-live-this-week/id434406265",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=434406265",
+        "website": "http://www.aopa.org/thisweek"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Traffic Pattern",
+        "rss_feed_url": "https://www.spreaker.com/show/3224714/episodes/feed",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 78,
+        "average_rating": 5,
+        "description": "A New York native turned southern gentleman! Derek found a niche for public speaking and aviation early on during his years of high school and ultimately realized that he wanted to give back to the community. He comes from a family of those that have served, as his step father was a Huey and Chinook pilot in the U.S. Army, and currently flies a Sikorsky S-76D. His mother was a flight attendant for TWA and currently works as a CSR at FlightSafety Intl. Derek is currently an air traffic controller at Atlanta TRACON in Peachtree City, Georgia. While being an advocate for personal growth, he is also a proponent of social justice and ensuring that people use their voice on any platform they desire. Derek believes facilitating meaningful and constructive dialogue surrounding emotional and complex topics is the first step toward plausible and sensible solutions. It goes without saying, Derek’s passion for aviation is undeniable! Although Personal Development is something he is fully committed to because of the impact it has on our everyday lives, his  goal is to help others understand their worth with the talents they currently possess and to solidify core values such as morals and ethics. Pro-social intervention is the answer! In Derek’s spare time he enjoys flying with friends, traveling to new destinations and trying new craft beers!",
+        "itunes_id": "1440722596",
+        "content_rating": "clean",
+        "artist_name": "Derek Vento",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-traffic-pattern/id1440722596",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440722596",
+        "website": "https://www.spreaker.com/show/the-traffic-pattern"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aviation LO Down",
+        "rss_feed_url": "https://feeds.buzzsprout.com/251734.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Comedy"
+        ],
+        "rating_count": 64,
+        "average_rating": 4.8,
+        "description": "Modern, engaging, and unique, Aviation LO Down is the official podcast of David Lombardo, also known by his operating initials, LO. Full of the passion, humor, and the famous improvisational style found on many of his past social media projects, Aviation LO Down features fascinating interviews and soundbites from across the industry in an exciting and energy-fueled format anyone can enjoy. A podcast that explores not just flying, but the art and science of what makes people in aviation tick. Whether it's a teen flight student playing a flight simulator, an air traffic controller working at an understaffed facility, a flight attendant on her 7th flight of the day, or a 25,000-hour airline captain on the brink of retirement, there really is something for everyone on the Aviation LO Down. Welcome aboard!",
+        "itunes_id": "1451263656",
+        "content_rating": "clean",
+        "artist_name": "David Lombardo (LO)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aviation-lo-down/id1451263656",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451263656",
+        "website": "http://AviationLOdown.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Radar Contact",
+        "rss_feed_url": "http://feeds.feedburner.com/radarcontactpodcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Sports"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.9,
+        "description": "Whether you are an experienced pilot, a new pilot, or a student pilot, Radar Contact is your source for pilot-to-air traffic control communication. Real-life stories, how-to, tips, tricks, and quizzes. What to say, and how to say it when working the ATC system in VFR or IFR flight.",
+        "itunes_id": "578704049",
+        "content_rating": "clean",
+        "artist_name": "Jeff Kanarish",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/radar-contact/id578704049",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=578704049",
+        "website": "http://atccommunication.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AIN's Tales from the Flight Deck",
+        "rss_feed_url": "http://humanfactor.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.5,
+        "description": "Furthering aviation safety awareness by exploring first-person experiences.",
+        "itunes_id": "1259394657",
+        "content_rating": "clean",
+        "artist_name": "Aviation International News",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ains-tales-from-the-flight-deck/id1259394657",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1259394657",
+        "website": "https://www.ainonline.com/aviation-news/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Just Plane Radio",
+        "rss_feed_url": "https://justplaneradio.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "Just Plane Radio is the first and only nationally syndicated radio show devoted to flying and the aviation lifestyle! It airs on radio stations throughout the U.S. every Saturday from 11-Noon EST and can heard worldwide through JustPlaneRadio.com.",
+        "itunes_id": "632094862",
+        "content_rating": "clean",
+        "artist_name": "Greg Your Co-Pilot",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/just-plane-radio/id632094862",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=632094862",
+        "website": "https://justplaneradio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Just Plane Radio",
+        "rss_feed_url": "https://justplaneradio.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "Just Plane Radio is the first and only nationally syndicated radio show devoted to flying and the aviation lifestyle! It airs on radio stations throughout the U.S. every Saturday from 11-Noon EST and can heard worldwide through JustPlaneRadio.com.",
+        "itunes_id": "632094862",
+        "content_rating": "clean",
+        "artist_name": "Greg Your Co-Pilot",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/just-plane-radio/id632094862",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=632094862",
+        "website": "https://justplaneradio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Drone Trainer Podcast",
+        "rss_feed_url": "http://thedronetrainer.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 31,
+        "average_rating": 4.9,
+        "description": "Are you looking to have a successful drone business? Join The Drone Trainer, Chris Anderson, as he interviews other successful drone pilots from around the world. In these weekly interviews, you'll hear about everything from marketing your drone business to flight tips, and a variety of ideas that you can use to help your drone business really take off! Yes, that pun was intended! Subscribe now :)",
+        "itunes_id": "1319123753",
+        "content_rating": "clean",
+        "artist_name": "The Drone Trainer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-drone-trainer-podcast/id1319123753",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1319123753",
+        "website": "https://thedronetrainer.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airways Podcast",
+        "rss_feed_url": "http://airways.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 63,
+        "average_rating": 4.5,
+        "description": "Welcome to the Airways Podcast, the digital audio extension of one of the world's leading aviation publications, Airways Magazine (www.airwaysmag.com). Hosted by Enrique Perrella (@enrique77w), Vinay Bhaskara (@TheABVinay), and Rohan Anand (@rohanaanand), the podcast is a bi-monthly deep-dive into three important aviation stories or trends, featuring exclusive interviews, journalist reports, and coverage from worldwide aviation events.",
+        "itunes_id": "1129287619",
+        "content_rating": "clean",
+        "artist_name": "Airways Magazine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airways-podcast/id1129287619",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1129287619",
+        "website": "http://airways.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Podcasting On A Plane",
+        "rss_feed_url": "http://shoutengine.com/PodcastingOnAPlane.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 68,
+        "average_rating": 5,
+        "description": "Your Aviation Audio Magazine - A unique view... from both sides of the mic!Welcome! My name is Brandon Gonzales, I’m an Air Traffic Tower Controller at a busy General Aviation airport, but I also have a 25 year background in aviation as a Pilot, Flight Instructor, Aircraft Salesman, Ramper for a 2 major Airlines, FBO Line Serviceman, Plane Crash Survivor, and now Aviation Podcaster. My goal is to serve the aviation community at large, and to help you in your aviation endeavors, no matter what level you’re at.We discuss Aviation from as many angles as possible!",
+        "itunes_id": "1229949501",
+        "content_rating": "clean",
+        "artist_name": "Brandon Gonzales",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/podcasting-on-a-plane/id1229949501",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1229949501",
+        "website": "http://shoutengine.com/PodcastingOnAPlane/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "IFR Flight Radio Show – IFR Flight Radio",
+        "rss_feed_url": "http://ifrflightradio.com/category/ifr-flight-radio-show/feed/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.6,
+        "description": "Your questions asked and answered about how to communicate with ATC while flying IFR. Hosted by former fighter pilot, former corporate pilot, current airline pilot, and author of 3 books on ATC communication, Jeff Kanarish.",
+        "itunes_id": "1058002796",
+        "content_rating": null,
+        "artist_name": "Jeff Kanarish",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ifr-flight-radio-show-ifr-flight-radio/id1058002796",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1058002796",
+        "website": "http://ifrflightradio.com/category/ifr-flight-radio-show/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flying the Line",
+        "rss_feed_url": "https://feed.podbean.com/alpa/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 48,
+        "average_rating": 4.9,
+        "description": "Recount an exciting chapter in aviation history and the beginnings of the Air Line Pilots Association, the world's largest pilot union and nongovernmental air safety organization, through an abridged retelling of the book by George E. Hopkins, \"Flying the Line.\" Narrated by Corey Kuhn.",
+        "itunes_id": "1451649159",
+        "content_rating": "clean",
+        "artist_name": "Air Line Pilots Association, International",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flying-the-line/id1451649159",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451649159",
+        "website": "https://www.alpa.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Accelerated Flight School Podcast",
+        "rss_feed_url": "http://www.acceleratedflightschoolpodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.4,
+        "description": "What does it take to master flying and become an airline pilot?  Join me on my journey from private pilot to commercial airline pilot through the wonders of an accelerated flight school.",
+        "itunes_id": "1219833877",
+        "content_rating": "clean",
+        "artist_name": "Dan Freeman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/accelerated-flight-school-podcast/id1219833877",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1219833877",
+        "website": "http://www.acceleratedflightschoolpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Litocast",
+        "rss_feed_url": "https://anchor.fm/s/f634778/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Litocast, uma nova forma de comunicação para você perder o seu medo de voar e ainda descobrir diversas curiosidades sobre aviação, de maneira divertida. Os episódios sempre contarão com ouvintes convidados. Venha se apaixonar pela aviação.",
+        "itunes_id": "1485266884",
+        "content_rating": "clean",
+        "artist_name": "Lito",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/litocast/id1485266884",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485266884",
+        "website": "https://anchor.fm/litocast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Student Pilot Cast (mp4)",
+        "rss_feed_url": "http://studentpilotcast.com/category/podcasts/video/feed/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Follow Bill as he progresses through his flight training. This is the video only feed.  The audio podcasts are NOT the same content as the video podcasts, so if you want all the content, please subscribe to both.  The audio feed is more tied to the student experience, in cockpit training, with a few features and special events.  The video feed includes in-cockpit video sometimes, but is more feature oriented and does not typically coincide as closely with the training.",
+        "itunes_id": "278093427",
+        "content_rating": "clean",
+        "artist_name": "Bill Williams",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-student-pilot-cast-mp4/id278093427",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=278093427",
+        "website": "http://studentpilotcast.com/category/podcasts/video/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Private Jet Podcast",
+        "rss_feed_url": "http://feeds.feedburner.com/privatejetpodcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Increase value and reduce risk with the Private Jet Podcast. In this show for private jet principles. partners, and passengers you'll learn how to own, operate, and fly on private jet.  Get industry expertise on aircraft, operations, support, staffing, strategies, systems, platforms, and tools that will help you avoid costly mistakes and get full enjoyment out of your business, corporate, chartered, or personal jet. Your host Tom Wachowski has over 20 years of experience and nearly 7000 flight hours in public, private, charter, and corporate aviation operations. If increasing value and reducing risk is important in your private aviation ventures... or if you'd like to learn all about private jets, this show is for you!",
+        "itunes_id": "596024360",
+        "content_rating": "clean",
+        "artist_name": "Tom Wachowski",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/private-jet-podcast/id596024360",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=596024360",
+        "website": "http://privatejetpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Airplane Owners Podcast",
+        "rss_feed_url": "https://rss.simplecast.com/podcasts/1788/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.8,
+        "description": "Aircraft ownership simplified.   From light sport on up to turboprops and owner-flown jets.   We talk about everything aviation.",
+        "itunes_id": "719309884",
+        "content_rating": "clean",
+        "artist_name": "David J Fill II",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-airplane-owners-podcast/id719309884",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=719309884",
+        "website": "http://www.airplane-owner.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RC Afterhours",
+        "rss_feed_url": "https://rcafterhours.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 73,
+        "average_rating": 4.9,
+        "description": "Join us bi-weekly for news, products and entertainment in the RC world of flight.",
+        "itunes_id": "1220616094",
+        "content_rating": "clean",
+        "artist_name": "RC Afterhours hosted André Rousseau",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rc-afterhours/id1220616094",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1220616094",
+        "website": "http://www.rcafterhours.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pilot Briefing",
+        "rss_feed_url": "https://aopatop5.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Get your top five general aviation news updates each week right here!",
+        "itunes_id": "1481356064",
+        "content_rating": "clean",
+        "artist_name": "AOPA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pilot-briefing/id1481356064",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481356064",
+        "website": "http://pilotbriefing.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Why We Fly",
+        "rss_feed_url": "http://whywefly.org/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.7,
+        "description": "Why We Fly is a General Aviation podcast sharing pilot stories that illustrate the reasons behind why we choose to fly airplanes. We hope to share the adventure, excitement, and incredible experiences of flying. The goal is to entertain pilots and more importantly to inspire potential pilots to learn more about flying and hopefully one day become pilots themselves. Almost anyone can fly. We are here to share the Why.",
+        "itunes_id": "1077135613",
+        "content_rating": "clean",
+        "artist_name": "Mike Harris",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/why-we-fly/id1077135613",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1077135613",
+        "website": "http://whywefly.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rotor Riot: UNRESTRICTED",
+        "rss_feed_url": "http://rotorriot.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 33,
+        "average_rating": 4.5,
+        "description": "UNRESTRICTED presented by Rotor Riot is a new podcast for FPV mini quad pilots and anyone interested in the exciting world of FPV flight. UNRESTRICTED will explore a variety of topics pertaining to the drone industry and community. Come along for the ride!",
+        "itunes_id": "1330698152",
+        "content_rating": "explicit",
+        "artist_name": "Rotor Riot",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rotor-riot-unrestricted/id1330698152",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1330698152",
+        "website": "http://rotorriot.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "21.FIVE - Professional Pilots Podcast",
+        "rss_feed_url": "https://21five.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 43,
+        "average_rating": 5,
+        "description": "A podcast for Professional Pilots, by Professional Pilots. Join hosts Dylan and Max, both professional pilots with backgrounds in Flight Instructing, Airlines, and Business Aviation, on their quest to improve as travelers, pilots, and professionals. Expect to find interesting conversations with industry experts in a variety of aviation fields, thought-provoking discussions on hot topics, and hilarious stories from the (sometimes) wild aviation industry. \nWhether you’re corporate, airline, charter, or anywhere in between, you’ll love our fresh and often funny take on all things aviation.\nCome find us online at 21fivepodcast.com and connect with us via Insta/Facebook/Twitter: @21fivepodcast",
+        "itunes_id": "1460355472",
+        "content_rating": "clean",
+        "artist_name": "21Five Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/21-five-professional-pilots-podcast/id1460355472",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1460355472",
+        "website": "http://www.21fivepodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flying and Life Podcast",
+        "rss_feed_url": "http://flyingandlife.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Kids & Family"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.6,
+        "description": "A show discussing the current aviation topics and the adventures of my family.",
+        "itunes_id": "1041003003",
+        "content_rating": "clean",
+        "artist_name": "Dispatcher Mike",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flying-and-life-podcast/id1041003003",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1041003003",
+        "website": "http://flyingandlife.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plane Tales",
+        "rss_feed_url": "http://airlinepilotguy.com/feed/pt/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 85,
+        "average_rating": 4.8,
+        "description": "Captain Nick Anderson, aka The Old Pilot, takes us on an aviation audio journey each week on the Airline Pilot Guy Aviation Podcast",
+        "itunes_id": "1367495532",
+        "content_rating": "clean",
+        "artist_name": "Capt Nick",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plane-tales/id1367495532",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1367495532",
+        "website": "http://airlinepilotguy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plane Safety Podcast - Safety from the flightdeck",
+        "rss_feed_url": "http://planesafetypodcast.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 25,
+        "average_rating": 5,
+        "description": "Join Pilot Pip for a look at aviation safety news, incidents and your plane safety feedback.",
+        "itunes_id": "849992269",
+        "content_rating": "clean",
+        "artist_name": "Pilot Pip",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plane-safety-podcast-safety-from-the-flightdeck/id849992269",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=849992269",
+        "website": "http://planesafetypodcast.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Flite Test Community Podcast",
+        "rss_feed_url": "https://ftcommunitypodcast.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 18,
+        "average_rating": 5,
+        "description": "Welcome to the Flite Test Community Podcast, A Podcast by the community, for the community! Brought to you by Mike Finley, Patrick Murphy and Joel Cannon. Find all our shownotes at Flitetest.com/podcast",
+        "itunes_id": "1095157047",
+        "content_rating": "clean",
+        "artist_name": "Flite Test Community Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/flite-test-community-podcast/id1095157047",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1095157047",
+        "website": "https://ftcommunitypodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The LogBook - Aviation Storytelling Podcast",
+        "rss_feed_url": "http://thelogbookpodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.9,
+        "description": "Everytime I go to some aviation event I don't think its possible to leave without a good story. Storytelling is enjoyed by all ages, especially in the aviation community where stories are the main way to share one's experiences when off the ground. While listening to The LogBook, you'll hear stories from people in aviation from every experience level: enthusiasts, complete beginners, airline pilots, aerobatic pilots, cross country/long distance pilots, test pilots, military veterans. And they'll all tell stories that will entertain, inspire, and educate the next generation of aviators. Find out more information at: thelogbookpodcast.com",
+        "itunes_id": "978833445",
+        "content_rating": null,
+        "artist_name": "Lucas Weakley",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-logbook-aviation-storytelling-podcast/id978833445",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=978833445",
+        "website": "http://thelogbookpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "FreeFall RC Podcast",
+        "rss_feed_url": "https://freefallrcpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 69,
+        "average_rating": 4.9,
+        "description": "Freefall RC podcast is a group of guys who love all things RC flight. Steve, Kevin, and Fred share our experiences in the hobby!",
+        "itunes_id": "1069759999",
+        "content_rating": "explicit",
+        "artist_name": "FreeFallRCPodcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/freefall-rc-podcast/id1069759999",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1069759999",
+        "website": "https://freefallrcpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airpower Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/171604.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture"
+        ],
+        "rating_count": 113,
+        "average_rating": 5,
+        "description": "The inside and out of the Aviation Industry!",
+        "itunes_id": "1374333823",
+        "content_rating": "clean",
+        "artist_name": "Scott Yoak",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airpower-podcast/id1374333823",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1374333823",
+        "website": null
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AvGeek Chronicles",
+        "rss_feed_url": "https://anchor.fm/s/24906cc/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.9,
+        "description": "Welcome to the AvGeek Chronicles Podcast, hosted by pilot and aviation enthusiast Colin Hodges. On this podcast you will find a plethora of audio experiences from first hand insight into training that he goes through, interviews with fellow millennial aviators that are making a difference, and other random but great aviation content which will have everyone saying \"I'm an AvGeek\" after listening to an episode. Colin is the perfect example of putting your dreams into flight and he wants to help others accomplish their aviation goals too!  Support this podcast: https://anchor.fm/avgeekchronicles/support",
+        "itunes_id": "1345050660",
+        "content_rating": "clean",
+        "artist_name": "Colin Hodges",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/avgeek-chronicles/id1345050660",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1345050660",
+        "website": "https://anchor.fm/avgeekchronicles"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "FLY8MA Flight Training",
+        "rss_feed_url": "https://www.spreaker.com/show/3411287/episodes/feed",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Careers"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Listen here for helpful tips and lessons to help you get through your flight training in the easiest and quickest way possible, saving time and money along the way!  Welcome to Aviation!",
+        "itunes_id": "1468181343",
+        "content_rating": "clean",
+        "artist_name": "Jonathan Kotwicki",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fly8ma-flight-training/id1468181343",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1468181343",
+        "website": "https://www.spreaker.com/show/fly8ma-flight-training"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plane Talking UK's Podcast",
+        "rss_feed_url": "http://planetalkinguk.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News",
+          "Daily News"
+        ],
+        "rating_count": 23,
+        "average_rating": 4.8,
+        "description": "Carlos, Nev & Matt bring you a weekly Podcast that will focus on the Aviation news relating to us long suffering passengers.",
+        "itunes_id": "739369066",
+        "content_rating": "clean",
+        "artist_name": "Carlos, Nev, Armando & Matt",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plane-talking-uks-podcast/id739369066",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=739369066",
+        "website": "http://www.planetalkinguk.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Desert Pilot Podcast",
+        "rss_feed_url": "http://feeds.feedburner.com/desertpilotpodcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "History"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.2,
+        "description": "Commercial Airplane Land, Sea, and tailwheel Pilot from Arizona podcasting aviation flying adventures.",
+        "itunes_id": "336016515",
+        "content_rating": "clean",
+        "artist_name": "Trevor Smith",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/desert-pilot-podcast/id336016515",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=336016515",
+        "website": "http://desertpilot.blogspot.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Thermal Podcast",
+        "rss_feed_url": "https://thethermalpodcast.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "The Thermal is a monthly podcast devoted to the sport of gliding. You’ll hear about the latest cutting-edge sailplanes and technology. We’ll also be talking about gliding safety, instructing, gliding history, cool pilot interviews, towing, winching and a whole lot more. New podcasts will be released the 1st Saturday of every month.",
+        "itunes_id": "1463204309",
+        "content_rating": "clean",
+        "artist_name": "Herrie ten Cate",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-thermal-podcast/id1463204309",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1463204309",
+        "website": "http://thethermalpodcast.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "سوالف ناس Nastalks",
+        "rss_feed_url": "https://nastalk.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Crafts"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.6,
+        "description": "متخصص من طيران ناس لمناقشة المواضيع المتعلقة بصناعة الطيران والسفر والسياحة. نناقش المسؤولين والمؤثرين والمهتمين لنجعل عالم الطيران والسياحة أقرب",
+        "itunes_id": "1461663435",
+        "content_rating": "clean",
+        "artist_name": "Flynas | طيران ناس",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%D8%B3%D9%88%D8%A7%D9%84%D9%81-%D9%86%D8%A7%D8%B3-nastalks/id1461663435",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1461663435",
+        "website": "http://nastalk.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RC Roundtable",
+        "rss_feed_url": "http://rcroundtable.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.7,
+        "description": "RC Roundtable is a podcast about all kinds of radio control vehicles...but mostly the kind that fly. Fitz, Lee, and Terry seem to get their hands into just about every corner of this hobby. We like it all! The truth is, we share a lot of common interests, but we each have our own specific favorites and specialties. That's probably why we have so much fun when we get together. We use the recording sessions to catch up with each other, get things off our chests, and throw around a few light-hearted insults. We start each episode with a short list of topics we plan to cover, but you never know where the conversation will go.",
+        "itunes_id": "1114936271",
+        "content_rating": "clean",
+        "artist_name": "Fitz Walker, Lee Ray, & Terry Dunn",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rc-roundtable/id1114936271",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1114936271",
+        "website": "http://www.rcroundtable.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airman For Life Podcast",
+        "rss_feed_url": "http://www.airforceassoc.org/blog?format=rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.7,
+        "description": "Episodes will focus on professional development, career transition, and advice for Airmen navigating their Air Force careers during and beyond their time in uniform.",
+        "itunes_id": "1351497073",
+        "content_rating": "clean",
+        "artist_name": "Air Force Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airman-for-life-podcast/id1351497073",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1351497073",
+        "website": "http://www.airforceassoc.org/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The FlyLife Podcast",
+        "rss_feed_url": "https://anchor.fm/s/58787c8/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 39,
+        "average_rating": 5,
+        "description": "The FlyLife Podcast is a Drone/FPV podcast hosted by Martin Novak.  Support this podcast: https://anchor.fm/theflylifepodcast/support",
+        "itunes_id": "1433124605",
+        "content_rating": "explicit",
+        "artist_name": "Martin Novak",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-flylife-podcast/id1433124605",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1433124605",
+        "website": "yawspin.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Soaring the sky a glider pilot's Podcast",
+        "rss_feed_url": "https://gliderboy.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.5,
+        "description": "An Aviation podcast about soaring with sailplanes. Adventures in soaring with your host Chuck. Join us for each episode to hear whats next ! Talk with you soon on Soaring The Sky !",
+        "itunes_id": "1450115847",
+        "content_rating": "clean",
+        "artist_name": "gliderboy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/soaring-the-sky-a-glider-pilots-podcast/id1450115847",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450115847",
+        "website": "https://gliderboy.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "From The Runway Up: An Airport and Aviation Podcast",
+        "rss_feed_url": "https://feeds.podcastmirror.com/ftru",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 20,
+        "average_rating": 5,
+        "description": "Like a beacon leading a plane to the runway, this podcast guides you through the innerworkings of one of the nation’s fastest-growing airports. In episodes shorter than a flight from Knoxville to Atlanta, join us as we share stories about aviation in East Tennessee.",
+        "itunes_id": "1014731221",
+        "content_rating": "clean",
+        "artist_name": "McGhee Tyson Airport, Knoxville TN",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/from-the-runway-up-an-airport-and-aviation-podcast/id1014731221",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1014731221",
+        "website": "https://fromtherunwayup.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plane Spoken",
+        "rss_feed_url": "http://www.planespokenpodcast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.8,
+        "description": "Welcome to Plane Spoken, the podcast that takes you through everything you need to know about becoming a Private Pilot - starting from the very basics! Whether you're interested in learning how to fly, or you are about to take your checkride, you've come to the right place!",
+        "itunes_id": "1435727140",
+        "content_rating": "clean",
+        "artist_name": "Plane Spoken",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plane-spoken/id1435727140",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435727140",
+        "website": "http://www.planespokenpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RC Heli Hooligans Podcast",
+        "rss_feed_url": "https://reversecrash.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.6,
+        "description": "The place for all things RC Heli related.  The Fast Flying, Rad Tricks, Killer Crashes, and Jaw Dropping Engineering of the Awesome Birds.",
+        "itunes_id": "1207613963",
+        "content_rating": "explicit",
+        "artist_name": "Walt Rager",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rc-heli-hooligans-podcast/id1207613963",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1207613963",
+        "website": "http://reversecrash.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aircrew Interview",
+        "rss_feed_url": "https://feeds.buzzsprout.com/155362.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.9,
+        "description": "Interviews with past and present aircrew of both military and civilian types.Copyright © Aircrew Interview 2018",
+        "itunes_id": "1180010629",
+        "content_rating": "clean",
+        "artist_name": "Mike Young",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aircrew-interview/id1180010629",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1180010629",
+        "website": "http://www.aircrewinterview.tv"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pilot Protection Services Podcast",
+        "rss_feed_url": "https://pilotprotectionservices.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Welcome to the Pilot Protection Services Podcast, where AOPA’s legal and medical certification staff and leading industry voices take on the challenges and developments that all pilots deal with, from staying out of trouble with the FAA, to becoming a better pilot, and staying healthy so you can stay in the left seat longer. \n\nIf you’re a fan of our monthly article content on aopa.org/pps, our podcasts are going to be the perfect addition to your audio library.",
+        "itunes_id": "1461470244",
+        "content_rating": "clean",
+        "artist_name": "AOPA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pilot-protection-services-podcast/id1461470244",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1461470244",
+        "website": "http://pilotprotectionservices.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Hangardeck Podcast",
+        "rss_feed_url": "http://thehangardeckpodcast.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.8,
+        "description": "If you love all things about Aviation as we do, then you will certainly enjoy our crew and show.  We are presenting this Podcast for the Aviation Enthusiast featuring news and technology discussions on all things Aviation.\n\nOur Goal is to have fun and present discussions on diverse Aviation topics with our partners and various guests from commercial and military aviation communities.  The Hangar Deck Podcast team aims at bringing a relaxed, enthusiastic and entertaining experience while talking about cool aviation topics and perhaps learn a thing or two along the way.  Our content and topics range from the Amateur to Expert Level Aviation Enthusiast.\n\nOur multiple segment Podcast includes interviews with Pilots, Analysts, Maintenance Specialists, Aerospace Engineers ad Aviation Business Owners.",
+        "itunes_id": "1121816957",
+        "content_rating": "clean",
+        "artist_name": "Pitchlock Pete",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-hangardeck-podcast/id1121816957",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1121816957",
+        "website": "http://www.thehangardeck.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aviation Emergency Communications",
+        "rss_feed_url": "http://feeds.feedburner.com/aviationemergencycommunications",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 3,
+        "average_rating": 4,
+        "description": "Aviation Emergency Communications is a collection of FFA cockpit audio recordings from accidents and incidences.",
+        "itunes_id": "707766770",
+        "content_rating": "clean",
+        "artist_name": "AEC Podcast – Flying With Gary",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aviation-emergency-communications/id707766770",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=707766770",
+        "website": "https://www.flyingwithgary.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Cirrus Aircraft Flight Fix",
+        "rss_feed_url": "https://flightfix.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "At Cirrus Aircraft, we believe all aviators should make learning their lifestyle. In that spirit, the Cirrus Approach Flight Fix has been developed as a bite-sized, episodic flight training series with the goal of inspiring pilots, from rookies to pros, to always make learning an an active and continuous process. Each episode will explore topics that pilots deal with on a daily basis, to include cockpit tech, flight procedures, aeronautical knowledge, airplane systems and anything else pertinent to the General Aviation pilot community. So subscribe, enjoy the show and visit cirrusapproach.com to take your flight training to the next level. See you at the next Fix!",
+        "itunes_id": "1437758855",
+        "content_rating": "clean",
+        "artist_name": "Cirrus Aircraft",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/cirrus-aircraft-flight-fix/id1437758855",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437758855",
+        "website": "https://www.cirrusapproach.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aerospace Unplugged",
+        "rss_feed_url": "https://feeds.buzzsprout.com/337793.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "The Aerospace industry makes a world that is both intriguing and exciting. If you want to learn more about it, join in and listen to interviews with special guests from the industry in our first podcast entitled Aerospace Unplugged. Organized as a series of 11 episodes, the podcast focuses on providing listeners like you with a behind-the-scenes look into all things aerospace. Every episode is themed around the main challenges that the aviation industry currently faces and discusses the way Honeywell solutions approach these challenges.With specific subjects that touch on matters such as Safety, Efficiency, Productivity, Engine Performance or Mission Readiness, our Aerospace Unplugged podcast series aims to show you the common and the not so familiar angles of the aerospace world. So if you work in the industry, are passionate about the ins and outs of the aerospace world or just want to know how Honeywell solutions help take the industry to new heights – this is the podcast for you.",
+        "itunes_id": "1476434291",
+        "content_rating": "clean",
+        "artist_name": "Honeywell Aerospace",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aerospace-unplugged/id1476434291",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476434291",
+        "website": "https://aerospace.honeywell.com/en/pages/aerospace-unplugged"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spread Aviation Podcast",
+        "rss_feed_url": "https://spreadaviation.com/feed/podcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.7,
+        "description": "Find out what happens when you cross a talk-show format with in-flight pilot training and a hefty dose of irreverence for practically everything, including gravitational forces. That’s the Spread Aviation Podcast with Matt & Rob.",
+        "itunes_id": "1352138166",
+        "content_rating": "clean",
+        "artist_name": "Spread Aviation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spread-aviation-podcast/id1352138166",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1352138166",
+        "website": "https://spreadaviation.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SonexFlight",
+        "rss_feed_url": "http://sonexflight.com/rss.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "Welcome to SonexFlight. The podcast devoted to all things Sonex. SonexFlight is a monthly podcast discussing current events, news and topics of interest to the Sonex community. We aim to entertain and educate builders and pilots of Sonex Aircraft designs, inspiring them to complete and operate their aircraft safely and efficiently.",
+        "itunes_id": "1155828849",
+        "content_rating": "clean",
+        "artist_name": "Jeff Shultz, Sonex 604",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sonexflight/id1155828849",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1155828849",
+        "website": "http://www.sonexflight.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Alert 5 Podcast",
+        "rss_feed_url": "https://alert5podcast.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 14,
+        "average_rating": 4.6,
+        "description": "The Alert 5 Podcast brings you the latest news of your favorite combat flight simulators. We will discuss the history, knowledge, and tactics of old and modern air combat. We welcome you and your feedback!",
+        "itunes_id": "1438547222",
+        "content_rating": "clean",
+        "artist_name": "alert5podcast",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-alert-5-podcast/id1438547222",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438547222",
+        "website": "https://alert5podcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Not So Straight and Level Podcast",
+        "rss_feed_url": "https://straightlevel.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Host Steve Johnson founder of SuperCub.Org talks aviation and other subjects with all kinds of folks.",
+        "itunes_id": "1477117097",
+        "content_rating": "clean",
+        "artist_name": "Steve Johnson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-not-so-straight-and-level-podcast/id1477117097",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477117097",
+        "website": "https://straightlevel.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "VR Flight World Podcast",
+        "rss_feed_url": "https://vrflightworld.com/index.php/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The VR Flight World Podcast will take you into the heart of aviation, while showing you the ins and outs of flight simulation. This podcast goes over everything you need to know about virtual reality flight simulation, which will include showing you how to apply flight simulation to your real world flight training. At VR Flight World we have used many flight simulators over the years, including FSX, X-Plane 9, 10, 11 and Aerofly FS2. Our latest addition to the VR Flight World has been virtual reality, which has been a game changer for us.",
+        "itunes_id": "1345444704",
+        "content_rating": "clean",
+        "artist_name": "Dan - Flight Sim Enthusiast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/vr-flight-world-podcast/id1345444704",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1345444704",
+        "website": "https://vrflightworld.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fly Maui",
+        "rss_feed_url": "https://flymaui.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "Husband and wife general aviation pilots living on Maui sharing their love of aviation, adventure and life.",
+        "itunes_id": "1437686021",
+        "content_rating": "clean",
+        "artist_name": "John & Leslie Caubble",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fly-maui/id1437686021",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437686021",
+        "website": "http://flymaui.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cirrus Minute",
+        "rss_feed_url": "https://cirrusminute.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "I'm Al Waterloo with Cirrus Aircraft. The best part of my role is to help people grow and lead aviation in Illinois and Wisconsin. This  is an every other week 5 minute update sharing events, ideas, stories and noteworthy ideas! This is the Cirrus Minute.",
+        "itunes_id": "1464612277",
+        "content_rating": "clean",
+        "artist_name": "Al Waterloo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cirrus-minute/id1464612277",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464612277",
+        "website": "https://cirrusminute.libsyn.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "SHOW CENTER The Airshow Podcast",
+        "rss_feed_url": "https://feed.podbean.com/ricrobmatt/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "History"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "SHOW CENTER The Airshow Podcast - We're three air show announcers, and thought a podcast about airshows would be fun.  Subscribe now and never miss a minute of our all star guests like: Mike Goulian, Chuck Aaron and Ken Reider from Red Line Air Shows, plus many more still to come.",
+        "itunes_id": "1453978907",
+        "content_rating": "clean",
+        "artist_name": "ricrobmatt",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/show-center-the-airshow-podcast/id1453978907",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453978907",
+        "website": "https://ricrobmatt.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "НебоНутые",
+        "rss_feed_url": "https://feed.podbean.com/nebonutye/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Просто об  авиации от Алексея Кочемасова Почему самолет летает, что такое аэрофобия и как с ней бороться? Ответы на вопросы, которые всех беспокоят -что происходит в кабине пилотов в то время пока мы пьем кофе? Как стать пилотом? Гроза – это страшно? Техник на перроне покрутил пальцем - это хорошо? Почему такие тарифы на билеты? Куда пропал мой чемодан? В салоне два раза раздался сигнал – это что? НЛО пролетало рядом? И, многое другое связанное с авиацией.",
+        "itunes_id": "1476511330",
+        "content_rating": "clean",
+        "artist_name": "SoundStream",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%D0%BD%D0%B5%D0%B1%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5/id1476511330",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476511330",
+        "website": "http://www.nebonutye-audio.ru"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Casey Aviation Podcast",
+        "rss_feed_url": "https://caseyaviationpodcast.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "The Casey Aviation Podcast features interviews and discussions about all things PA46. We'll talk about everything from PA46 acquisition, training, and ownership to emergency survival stories to just about anything else in the aviation world. If you fly (or are just thinking about flying) a PA46, this is the podcast for you.",
+        "itunes_id": "1459399711",
+        "content_rating": "clean",
+        "artist_name": "Casey Aviation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/casey-aviation-podcast/id1459399711",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459399711",
+        "website": "http://www.flycasey.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Galleycast",
+        "rss_feed_url": "http://galleycast.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "O primeiro podcast em português de Comissários de voo para Comissários de voo  - e amantes da aviação em geral. Saiba um pouco mais sobre a rotina e os bastidores da profissão de Aeromoça / Comissária de Bordo.",
+        "itunes_id": "1032555599",
+        "content_rating": "clean",
+        "artist_name": "Galleycast",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/galleycast/id1032555599",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1032555599",
+        "website": "http://galleycast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pilot Episodes",
+        "rss_feed_url": "https://rss.acast.com/pilotepisodes",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.8,
+        "description": "Welcome to Pilot Episodes, the podcast all about flying. Every episode Godders Parky and Dunc share their experiences about flying above the clouds.\n\n\nThe boys between them have over 16,000 hours of fast jet experience with the RAF, Dutch Air Force and US Air Force.\n\n\nTalk about their experiences flying Harriers, Tornadoes, F-16s, Hawks, Red Arrows, Spitfires and in fact anything you can think of. If they haven’t flown it they know somebody who has.",
+        "itunes_id": "1353814156",
+        "content_rating": "clean",
+        "artist_name": "JB",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pilot-episodes/id1353814156",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1353814156",
+        "website": "https://play.acast.com/s/pilotepisodes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Parkflyer Podcast",
+        "rss_feed_url": "http://parkflyerpodcast.com/index.php/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "your ParkFlyer Hosts talk about Flying RC aircraft at your local park. Discussion of new planes and radios and items necessary for the new park flyer",
+        "itunes_id": "1182265803",
+        "content_rating": "clean",
+        "artist_name": "Michael Mohn / Jay Neeley - Host",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/parkflyer-podcast/id1182265803",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1182265803",
+        "website": "http://parkflyerpodcast.com/index.php/news/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "LOFT Aviation Podcast",
+        "rss_feed_url": "https://www.loft.aero/feed/podcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "The LOFT Podcast explores the love of Aviation. From basic to advanced topics, we will conversate with as many aviation enthusiasts as possible.\n\n\n\nLOFT is a Part 142 Simulator Training company, specializing in CE-525 and CE-500 Initial and\n\nrecurrent training. We also offer L39 Jet Upset recovery courses tailored directly to the corporate world.\n\n\n\nFor any questions, comments, or concerns about the podcast feel free to send us an email podcast@loft.aero or visit our website www.loft.aero",
+        "itunes_id": "1442129856",
+        "content_rating": "explicit",
+        "artist_name": "LOFT Aviation Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/loft-aviation-podcast/id1442129856",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1442129856",
+        "website": "https://www.loft.aero"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Learning to fly",
+        "rss_feed_url": "https://anchor.fm/s/2d6d45c/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "I'm a general aviation enthusiast who longed to learn to fly. My passion started long before I can remember. Most of my free time was spent, dreaming about flying, reading about flying, watching videos about flying, building wooden planes, drawing aircraft, flying in various flight simulators, joining other pilot communities in order to learn even more, etc....\nThis year, I'm taking the leap. That's right! I'm going to learn to fly and earn my private pilot license. This podcast is to document my progress from now, 6 months from my \"first\" in cockpit lesson. Contact me at ltf@mail.com Support this podcast: https://anchor.fm/learning-to-fly/support",
+        "itunes_id": "1359262274",
+        "content_rating": "clean",
+        "artist_name": "Kpinzou",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/learning-to-fly/id1359262274",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1359262274",
+        "website": "https://anchor.fm/learning-to-fly"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Routes Aviation Podcast",
+        "rss_feed_url": "https://www.routesonline.com/news/podcasts.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "News",
+          "Business News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Routes podcast offers insight on route development and aviation, featuring some of the most pivotal people from the global industry. We’ll explore the major issues facing airlines, airports and destinations now and into the future. This podcast is created by Routes, the world’s leading air service development conference and networking event business.",
+        "itunes_id": "1265161973",
+        "content_rating": "clean",
+        "artist_name": "Routes",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-routes-aviation-podcast/id1265161973",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1265161973",
+        "website": "https://www.routesonline.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "TAKING OFF with Chellie Cameron",
+        "rss_feed_url": "https://takingoff.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Government"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.6,
+        "description": "Chellie Cameron, CEO of the Philadelphia Division of Aviation, takes you behind the scenes of Philadelphia International Airport (PHL) and the Northeast Philadelphia Airport (PNE). From cultural initiatives to critical improvements, to aviation experts and local heroes, it’s a rare glimpse inside one of the busiest U.S. airports.",
+        "itunes_id": "1438074318",
+        "content_rating": "clean",
+        "artist_name": "Philadelphia International Airport",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/taking-off-with-chellie-cameron/id1438074318",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438074318",
+        "website": "https://takingoff.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Squawk Ident",
+        "rss_feed_url": "https://anchor.fm/s/ec03d30/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Squawk Ident chronicles the journey and the challenges of its host, Av8rTony, a career airline pilot with close to 20 years on the flight line. With each episode we venture further into an exploration of what the life of this career aviator entails. Join us on this amazing quest among the clouds and subscribe anywhere you listen to podcasts. Support this podcast: https://anchor.fm/SquawkIdent/support",
+        "itunes_id": "1482481719",
+        "content_rating": "explicit",
+        "artist_name": "Av8rTony",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/squawk-ident/id1482481719",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482481719",
+        "website": "www.av8rtony.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Airspeed",
+        "rss_feed_url": "http://airspeed.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Science"
+        ],
+        "rating_count": 62,
+        "average_rating": 4.7,
+        "description": "Join host Stephen Force for coverage of aviation and aerospace that includes general aviation, space exploration, military aviation, flight music, and a healthy dose of flying philosophy.",
+        "itunes_id": "208990540",
+        "content_rating": "clean",
+        "artist_name": "Stephen Force",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/airspeed/id208990540",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=208990540",
+        "website": "http://airspeedonline.blogspot.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Jetlagged ✈️",
+        "rss_feed_url": "https://anchor.fm/s/bf56594/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Welcome aboard the podcast about me, aviation, and everything in between. This is truly a lifestyle that you want to buckle up your seatbelts and get ready for takeoff!",
+        "itunes_id": "1479657741",
+        "content_rating": "clean",
+        "artist_name": "Kiahjea Ward",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/jetlagged/id1479657741",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479657741",
+        "website": "https://anchor.fm/jetlagged"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Bird Craft - Aviation Podcast",
+        "rss_feed_url": "https://anchor.fm/s/35cd8f4/podcast/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Welcome to The Bird Craft where Joshua explores being a healthy aviation professional and the many rewards, risk, and sacrifices rooted deep in our culture. Support this podcast: https://anchor.fm/thebirdcraft/support",
+        "itunes_id": "1398614218",
+        "content_rating": "clean",
+        "artist_name": "Joshua Jones",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-bird-craft-aviation-podcast/id1398614218",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1398614218",
+        "website": "www.thebirdcraft.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aerospace Business & Leadership",
+        "rss_feed_url": "https://feeds.simplecast.com/ulK_6nhY",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Careers"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "It’s hard to create a successful aerospace career without feeling overwhelmed and undervalued. Each week join Steven Foust, a 30+ year industry veteran, as he shares advice on getting unstuck, growing as a leader, and discovering the clarity and mindset needed to achieve all of your goals and dreams.\n\nWhether you seek to overcome a specific business or leadership gap or to simply reduce stress and get home on-time for dinner again, this is the podcast for you.",
+        "itunes_id": "1474291418",
+        "content_rating": "clean",
+        "artist_name": "Steven Foust & Michael Tanner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aerospace-business-leadership/id1474291418",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474291418",
+        "website": "https://aerospacepodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Defying the Status Quo",
+        "rss_feed_url": "http://renebanglesdorf.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Health & Fitness"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Defy the status quo and NEVER settle! Learn how the best companies empower women--and how empowered women empower others.",
+        "itunes_id": "1426833479",
+        "content_rating": "clean",
+        "artist_name": "Rene Banglesdorf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/defying-the-status-quo/id1426833479",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1426833479",
+        "website": "http://renebanglesdorf.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Aunty Monkey - The Balloon Podcast",
+        "rss_feed_url": "https://feeds.blubrry.com/feeds/auntymonkey.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Aunty Monkey is a podcast for ballooning enthusiasts. In each episode we discuss different aspects of the sport of ballooning.",
+        "itunes_id": "1300448271",
+        "content_rating": "clean",
+        "artist_name": "Aunty Monkey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/aunty-monkey-the-balloon-podcast/id1300448271",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1300448271",
+        "website": "http://www.auntymonkey.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "AvFacts - Aviation knowledge without limits",
+        "rss_feed_url": "https://www.avfacts.org/episodes.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Fascinating aviation knowledge, civilian and military, big and small.",
+        "itunes_id": "1271248926",
+        "content_rating": "clean",
+        "artist_name": "Tim Morgan",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/avfacts-aviation-knowledge-without-limits/id1271248926",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1271248926",
+        "website": "https://www.avfacts.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Preferred Altitude Podcast:  Unique and Timeless Aviation Podcast",
+        "rss_feed_url": "http://podcast.preferredaltitude.com/feed/podcast/",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "There are so many fascinating stories to be told about unique and timeless aviation.  Take a listen to some of them on this unique and timeless aviation podcast - the Preferred Altitude Podcast.  Produced by PreferredAltitude.com - Preferred Altitude, LLC.",
+        "itunes_id": "1269830487",
+        "content_rating": "clean",
+        "artist_name": "Preferred Altitude, LLC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/preferred-altitude-podcast-unique-timeless-aviation/id1269830487",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1269830487",
+        "website": "http://podcast.preferredaltitude.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "World of Aviation Radio",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/3415",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The official podcast of the World of Aviation magazine, and its sister publication, the Australian Aviation Magazine.",
+        "itunes_id": "1402359431",
+        "content_rating": "clean",
+        "artist_name": "WOFA",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/world-of-aviation-radio/id1402359431",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1402359431",
+        "website": "https://thewofa.com/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Private Aviation Insider",
+        "rss_feed_url": "https://privateaviationinsiders.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Pilots have some of the best stories. They know inside scoop on what's good and bad about the private jets they fly. And their adventures sometimes are stranger than fiction. On this podcast, I interview some of the most interesting ones I've met over the years of selling private planes.",
+        "itunes_id": "1459906445",
+        "content_rating": "clean",
+        "artist_name": "René Banglesdorf - Private Jet Sales Expert",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/private-aviation-insider/id1459906445",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459906445",
+        "website": "http://privateaviationinsiders.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Taking Flight",
+        "rss_feed_url": "http://feeds.feedburner.com/takingflightpodcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Come along with me as I learn what it takes for an average, ordinary guy, to take to the skies and conquer aviation",
+        "itunes_id": "1220633408",
+        "content_rating": "clean",
+        "artist_name": "Jon Amadio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/taking-flight/id1220633408",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1220633408",
+        "website": "http://soundcloud.com/takingflightpodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Asian Skycast",
+        "rss_feed_url": "https://www.asianskymedia.com/multimedia?format=rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Investing"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Asian Skycast now brings insight direct from professionals in the aviation industry. Listen to their experiences, challenges and visions for the future.",
+        "itunes_id": "1470191622",
+        "content_rating": "clean",
+        "artist_name": "Asian Sky Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/asian-skycast/id1470191622",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470191622",
+        "website": "https://www.asianskymedia.com/multimedia/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Two Thousand Feet Aviation Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/265656.rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Technology"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "A bi-weekly show about light aviation and private flying. Artyom Liss, a journalist and pilot, shares flying-related tips, news and reviews; and introduces listeners to fascinating people you meet around airfields.",
+        "itunes_id": "1455738733",
+        "content_rating": "clean",
+        "artist_name": "Artyom Liss",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-two-thousand-feet-aviation-podcast/id1455738733",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455738733",
+        "website": "http://2kft.buzzsprout.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Parlons Aviation",
+        "rss_feed_url": "https://pinecast.com/feed/parlons-aviation",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Parlons aviation est un podcast qui a pour objectif de parler tout ce qui s'approche de près ou de loin de l'aviation. Lors de chaque épisode, nous regarderons l'actualité des semaines passées avant de proposer une rubrique thématique puis nous conclurons sur la vidéo de la semaine. Les sujets traités iront du sujet technique aux sujets moins techniques en passant par des interviews de passionnés d'aviation et des récits de voyage en avion",
+        "itunes_id": "1321479854",
+        "content_rating": "clean",
+        "artist_name": "Antoine",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/parlons-aviation/id1321479854",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1321479854",
+        "website": "https://www.parlonsaviation.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Xtended",
+        "rss_feed_url": "http://feeds.feedburner.com/AviationXtendedPodcast",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.7,
+        "description": "Welcome to Xtended, the aviation podcast with a focus on news, views and great guest interviews.",
+        "itunes_id": "529742666",
+        "content_rating": "clean",
+        "artist_name": "XTP Media",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/xtended/id529742666",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=529742666",
+        "website": "https://aviation-xtended.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plane Hunters Podcast",
+        "rss_feed_url": "https://planehunters.libsyn.com/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "History"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Podcast all about historic aviation and aircraft.  If your interested in aircraft from Sopwiths to Spitfires or Mustangs to Migs this is a show you'll enjoy. We go out and about to museums, airshows and airfields talking to veterans, pilots and anyone connected with historic aviation.  Presented by Andy Jones.",
+        "itunes_id": "1448595799",
+        "content_rating": "clean",
+        "artist_name": "Plane Hunters",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plane-hunters-podcast/id1448595799",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448595799",
+        "website": "http://www.planehunters.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Deadstick Radio",
+        "rss_feed_url": "https://deadstickradio.podbean.com/feed.xml",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Untold Aviation Adventure Stories",
+        "itunes_id": "1440528225",
+        "content_rating": "clean",
+        "artist_name": "Deadstick Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/deadstick-radio/id1440528225",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440528225",
+        "website": "http://deadstickradio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Logbook Memories",
+        "rss_feed_url": "https://rss.simplecast.com/podcasts/10784/rss",
+        "categories": [
+          "Aviation",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Logbook Memories is a an aviation podcast where we discuss stories that are torn right from the pages of your pilot logbooks. We're here to remind each other why we fly (or flew, in some cases), and to encourage others to do the same. Our guests look back in the pages of their logbooks and find a flight that was particularly memorable or meaningful, and share the story of that flight or adventure in their own words.",
+        "itunes_id": "1458177519",
+        "content_rating": "clean",
+        "artist_name": "David Allen and Mike Ladd",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/logbook-memories/id1458177519",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458177519",
+        "website": "http://logbookmemories.com"
+      }
+    }
+  ]
+}

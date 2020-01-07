@@ -1,0 +1,1852 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "The Money Pit Home Improvement Podcast",
+        "rss_feed_url": "https://feeds.moneypit.com/the-money-pit-home-improvement-podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 68,
+        "average_rating": 4.1,
+        "description": "The Money Pit is a nationally syndicated, call-in radio show & podcast that helps listeners with their home improvement and decor projects. Expert DIY'rs Tom Kraeutler and Leslie Segrete entertain, educate and inspire listeners with an encyclopedic knowledge that just plain fun to listen to! With this team you can do-it-yourself, but you really don't have to do-it-alone.  Listeners can call in questions 24/7 to 1-888-MONEY PIT (888-666-3974).",
+        "itunes_id": "121809318",
+        "content_rating": "clean",
+        "artist_name": "Tom Kraeutler & Leslie Segrete",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-money-pit-home-improvement-podcast/id121809318",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=121809318",
+        "website": "https://www.moneypit.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Clearstory",
+        "rss_feed_url": "https://feeds.megaphone.fm/clearstory",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "History"
+        ],
+        "rating_count": 155,
+        "average_rating": 4.9,
+        "description": "From This Old House, Clearstory is a window that sheds light on the surprising stories behind our homes. Host Kevin O'Connor digs into the systems, structures and materials in our homes from unexpected angles. Why is the window the ultimate machine? What can Las Vegas teach us about lowering our water bills? How did the Great Chicago Fire change the way we frame houses today? How do you build the perfect roof? You’ll hear from Richard Trethewey, Tom Silva, Jeff Sweenor and the This Old House experts, as well as industry leaders, historians, and builders. Clearstory – your home in a new light.",
+        "itunes_id": "1480991718",
+        "content_rating": "clean",
+        "artist_name": "This Old House",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/clearstory/id1480991718",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480991718",
+        "website": "http://www.thisoldhouse.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Clear Your Clutter Inside & Out",
+        "rss_feed_url": "http://clearingclutterinsideout.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 127,
+        "average_rating": 4.3,
+        "description": "Clutter is stuck stagnant energy and can prevent you from creating the life you choose, desire and deserve.  We discuss clutter in all its forms: spiritual, energetic, emotional, mental & physical and provide tips for decluttering your life, home organizing and how to organize your life.   We're thinking outside the box on areas where people might not realize where clutter is blocking them.  When we remove clutter from our lives we can discover our passions, lead the extraordinary lives we are all meant to live and share our gifts with the world.  Join award winning professional organizer and coach Julie Coraccio as she shares decluttering tips and more!",
+        "itunes_id": "914959979",
+        "content_rating": "clean",
+        "artist_name": "Julie Coraccio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/clear-your-clutter-inside-out/id914959979",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=914959979",
+        "website": "http://reawakenyourbrilliance.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ClutterBug Podcast - Organize, Clean and Transform your Home",
+        "rss_feed_url": "http://podcast.clutterbug.me/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 357,
+        "average_rating": 4.8,
+        "description": "Organize, Declutter, Clean and Transform your Home from \"Cluttered\" to \"Clean\" with these easy Organizing Tips!",
+        "itunes_id": "1098781682",
+        "content_rating": "clean",
+        "artist_name": "Cas",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/clutterbug-podcast-organize-clean-and-transform-your-home/id1098781682",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1098781682",
+        "website": "https://clutterbug.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Epic Gardening: Daily Growing Tips and Advice",
+        "rss_feed_url": "http://epicgardening.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 281,
+        "average_rating": 4.8,
+        "description": "The Epic Gardening podcast is a daily gardening tips and advice show brought to you by Kevin Espiritu, an urban gardener, hydroponics enthusiast, and all-around plant lover. Every day, a gardening question from YOU will be answered in a fun and informative way in under 10 minutes!",
+        "itunes_id": "1221085548",
+        "content_rating": "clean",
+        "artist_name": "Kevin Espiritu | Urban Gardener, Hydroponics Enthusiast, Plant Lover",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/epic-gardening-daily-growing-tips-and-advice/id1221085548",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1221085548",
+        "website": "https://epicgardening.libsyn.com/rss"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bloom and Grow Radio",
+        "rss_feed_url": "https://bloomandgrowradio.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 465,
+        "average_rating": 4.9,
+        "description": "Bloom and Grow Radio is a weekly Podcast designed for the Urban Jungle Dweller, Houseplant Enthusiast and Succulent Killer alike. Maria Failla, a \"plant killer turned plant lady\" interviews different Plant People in the Urban Gardening community to source houseplant care tips, stories and lessons they’ve learned from caring for their plants along the way.  Each episode has practical and spiritual tips and stories that empower and inspire the listener to have their own houseplant collection and #keepblooming and #keepgrowing.",
+        "itunes_id": "1313519159",
+        "content_rating": "clean",
+        "artist_name": "Maria Failla- Plant Lady and Host of Bloom and Grow Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bloom-and-grow-radio/id1313519159",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1313519159",
+        "website": "http://www.bloomandgrowradio.com"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Gardeners' Question Time",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/b006qp2f.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 102,
+        "average_rating": 4.7,
+        "description": "A panel of horticultural experts answer gardening questions from a live audience. Recorded in a different location each week",
+        "itunes_id": "325945259",
+        "content_rating": "clean",
+        "artist_name": "BBC Radio 4",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gardeners-question-time/id325945259",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=325945259",
+        "website": "http://www.bbc.co.uk/programmes/b006qp2f"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "On The Ledge",
+        "rss_feed_url": "http://ontheledge.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 220,
+        "average_rating": 4.9,
+        "description": "On The Ledge is a podcast all about indoor gardening - helping you to grow everything from Aloe vera to the ZZ plant.  Presenter Jane Perrone has been nuts about houseplants since she was knee high to a Swiss cheese plant. She quizzes the experts, helps you find cool new stuff to grow and figures out how to fix your plant problems. For more information, email ontheledgepodcast@gmail.com or visit janeperrone.com.",
+        "itunes_id": "1211183700",
+        "content_rating": "clean",
+        "artist_name": "Jane Perrone",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/on-the-ledge/id1211183700",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1211183700",
+        "website": "http://www.janeperrone.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Who Knew's Quick and Dirty Household Tips and Lifehacks",
+        "rss_feed_url": "https://www.quickanddirtytips.com/who-knew.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 51,
+        "average_rating": 4.3,
+        "description": "A podcast filled with surprisingly simple household hacks to help you save money and live better. Hosts Jeanne and Bruce Lubin offer simple solutions to everyday problems and easy, innovative tips for cleaning, DIY, cooking, organizing, and more. To download podcast episodes not shown here, visit QuickandDirtyTips.com",
+        "itunes_id": "1116997629",
+        "content_rating": "clean",
+        "artist_name": "QuickAndDirtyTips.com",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/who-knews-quick-and-dirty-household-tips-and-lifehacks/id1116997629",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1116997629",
+        "website": "https://www.quickanddirtytips.com/who-knew"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Sustainable Minimalists Podcast",
+        "rss_feed_url": "http://mamaminimalist.com/feed/podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Kids & Family"
+        ],
+        "rating_count": 156,
+        "average_rating": 4.7,
+        "description": "The Sustainable Minimalists Podcast is where sustainability, minimalism, zero-waste living, decluttering, parenting + conscious consumerism intersect. Stephanie Seferian offers eco-friendly tips + incremental strategies for responsibly cutting through clutter as a means to more fully enjoy life's sweetest moments. Learn more at MamaMinimalist.com.",
+        "itunes_id": "1329830361",
+        "content_rating": "clean",
+        "artist_name": "Stephanie Seferian",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-sustainable-minimalists-podcast/id1329830361",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1329830361",
+        "website": "http://mamaminimalist.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Beginner's Garden with Jill McSheehy",
+        "rss_feed_url": "http://journeywithjill.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 153,
+        "average_rating": 4.8,
+        "description": "Welcome to the Beginner's Garden Podcast! This is the podcast with easy-to-understand resources, tips, and information to help beginning gardeners get the most out of their gardening adventure -- big or small. When I began gardening in 2013, I scoured books and Internet resources to find all the information I could. Although good information was abundant, I had trouble understanding all the gardening lingo and sifting through the information to figure out what would work for me. In this podcast, my aim is to provide helpful information while explaining the gardening lingo as we go. I want to equip YOU to have the best start ever this gardening season!",
+        "itunes_id": "1191490065",
+        "content_rating": "clean",
+        "artist_name": "Jill McSheehy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-beginners-garden-with-jill-mcsheehy/id1191490065",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1191490065",
+        "website": "http://journeywithjill.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "You Bet Your Garden",
+        "rss_feed_url": "https://YouBetYourGarden.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 151,
+        "average_rating": 4.7,
+        "description": "“You Bet Your Garden” touted as an hour of “chemical-free horticultural hijinks,” is a weekly, nationally syndicated broadcast hosted by Mike McGrath. It is produced in the studios of PBS39 in Bethlehem, PA. This weekly call-in program offers ‘fiercely organic’ advice to gardeners far and wide.",
+        "itunes_id": "1438148749",
+        "content_rating": "clean",
+        "artist_name": "PBS39",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/you-bet-your-garden/id1438148749",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438148749",
+        "website": "https://YouBetYourGarden.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Best to the Nest with Margery & Elizabeth",
+        "rss_feed_url": "http://feeds.hubbardpodcasts.com/mytalk1071/BestToTheNestWithMargeryElizabeth",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Kids & Family",
+          "Parenting"
+        ],
+        "rating_count": 250,
+        "average_rating": 4.9,
+        "description": "When Elizabeth Ries and Margery Punnett hosted a myTalk 107.1 radio show together, they joked that their most personal conversations happened during the commercial breaks. During one of these pauses, Margery shared an important family principle: bringing your best self to your home. Being an urban farmer with a flock of chickens, Elizabeth quipped, \"Bring your best to the nest!\" The outside world shouldn't get the smiling happy version of you while your family gets the crabby and exhausted one. On \"Best To The Nest,\" Margery & Elizabeth explore the simple concept of creating strong, comforting, beautiful nests that prepare us to fly.",
+        "itunes_id": "1450267467",
+        "content_rating": "clean",
+        "artist_name": "PodcastOne / Hubbard Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/best-to-the-nest-with-margery-elizabeth/id1450267467",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450267467",
+        "website": "https://www.podcastone.com/best-to-the-nest-with-margery-and-elizabeth"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Architecture Happy Hour",
+        "rss_feed_url": "https://www.hpdarch.com/feed/podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.4,
+        "description": "hpd architecture + interiors principals Laura Davis and Holly Hall share their thoughts and tips on architecture, from helping home owners select the right architect to never being too late to begin a career in architecture.",
+        "itunes_id": "338879769",
+        "content_rating": "clean",
+        "artist_name": "hpd architecture + interiors",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-architecture-happy-hour/id338879769",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=338879769",
+        "website": "https://www.hpdarch.com/blog/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Millennial Homemakers™: Interior Decorating, Hostessing, Homemaking, & Lifestyle Tips",
+        "rss_feed_url": "https://shabbyandchic.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 58,
+        "average_rating": 4.6,
+        "description": "Join Jackie Alexander & Jaclyn Humble as they discuss homemaking for millennials. Millennial Homemakers is your resource for all things home, hostessing, DIYs & more. Tips & takeaways to achieve your Pinterest perfect home on a entry-level budget!",
+        "itunes_id": "1188043651",
+        "content_rating": "clean",
+        "artist_name": "Jackie Alexander & Jaclyn Humble",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/millennial-homemakers-interior-decorating-hostessing/id1188043651",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1188043651",
+        "website": "https://shabbyandchic.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plant Daddy Podcast",
+        "rss_feed_url": "https://plantdaddypodcast.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture"
+        ],
+        "rating_count": 44,
+        "average_rating": 4.8,
+        "description": "This is Plant Daddy Podcast: serving you intersectional horticulture. I’m Matthew, and I’m Stephen.\nWe are Plant Daddies living in Seattle, WA, podcasting about our passion for cultivating plants. Since our identities are intersectional, and [we'd like to think] include much more than just being gay millennial Plant Daddies, we'll also get into pop culture, LGBTQ+ content, current events, and our own personal stories. We chat with such guests as gardening, botany and horticulture experts, amateur potted plant hobbyists, professionals in the houseplant industry, and some of our unsuspecting friends. We are going to teach, learn, and share. Up to 30% non-botanical content by volume.",
+        "itunes_id": "1473364526",
+        "content_rating": "clean",
+        "artist_name": "Plant Daddy Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plant-daddy-podcast/id1473364526",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473364526",
+        "website": "http://www.plantdaddypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Plantrama - plants, landscapes, & bringing nature indoors",
+        "rss_feed_url": "http://plantrama.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Food"
+        ],
+        "rating_count": 79,
+        "average_rating": 4.8,
+        "description": "Ellen Zachos and C.L. Fornari help you discover the amazing world of plants: in the garden, in the wild, and on your plate. They show you how to grow plants successfully, how to enjoy your natural surroundings, and how to make the most of your harvest, whether it's cultivated or foraged. (Spoiler alert: they don't always agree!) You'll find three different topics in each episode, plus email questions from listeners.",
+        "itunes_id": "1234419401",
+        "content_rating": "clean",
+        "artist_name": "Ellen Zachos and C.L. Fornari",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/plantrama-plants-landscapes-bringing-nature-indoors/id1234419401",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1234419401",
+        "website": "https://www.plantrama.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Sodshow, Garden Podcast - Sod Show",
+        "rss_feed_url": "https://audioboom.com/channels/719828.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.8,
+        "description": "Garden podcast. Hosted by garden speaker and award winning landscape garden designer Peter Donegan. Weekly, since 2011.",
+        "itunes_id": "386362948",
+        "content_rating": "clean",
+        "artist_name": "Peter Donegan, Sodshow.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-sodshow-garden-podcast-sod-show/id386362948",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=386362948",
+        "website": "http://sodshow.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "kiwimana Buzz Beekeeping Show - A Beekeeping Podcast/Show",
+        "rss_feed_url": "http://kiwimanabuzz.co.nz/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.9,
+        "description": "Established in 2009. If you want to learn about beekeeping this is the show for you. It's been described by many as fun and informative.  Hosts Gary and Margaret from New Zealand share tips, interviews and news about beekeeping. We discuss ways to bee more successful with your bees, get a sweet honey crop and keep your bees healthy.  Please give us a listen.",
+        "itunes_id": "528732255",
+        "content_rating": "clean",
+        "artist_name": "Gary Fawcett and Margaret Groot",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kiwimana-buzz-beekeeping-show-a-beekeeping-podcast-show/id528732255",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=528732255",
+        "website": "https://kiwimana.co.nz/category/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Beekeeper Confidential | Bees & Beekeeping",
+        "rss_feed_url": "https://beekeeperconfidential.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 30,
+        "average_rating": 5,
+        "description": "A podcast about the curious lives of beekeepers and their bees.",
+        "itunes_id": "1436653043",
+        "content_rating": "clean",
+        "artist_name": "Mandy Shaw",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/beekeeper-confidential-bees-beekeeping/id1436653043",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1436653043",
+        "website": "https://beekeeperconfidential.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Plant Based Podcast",
+        "rss_feed_url": "https://plantbasedradio.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "More people than ever are appreciating the importance of plants in our day to day lives. Whether it's a plant-based diet, clothes made from plants, the wellbeing qualities of plants, or simply a fun shelf of cacti and succulents!\n\nThe Plant Based Podcast is about anything that can be traced back to plants… with subjects ranging from foraging for medicinal plants and baking with edible flowers, to plant-based body builders and clothes made from bamboo...\n\nThis is not just another gardening podcast.. this is The Plant Based Podcast!",
+        "itunes_id": "1451392483",
+        "content_rating": "clean",
+        "artist_name": "Michael Perry & Ellen Mary",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-plant-based-podcast/id1451392483",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1451392483",
+        "website": "https://theplantbasedpodcast.net"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Declutter Hub Podcast",
+        "rss_feed_url": "https://declutterhub.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.5,
+        "description": "Weekly episodes with hints, tips, chat, practical solutions and psychological insight into clearing your clutter for good. It's not just us you'll be listening to, we'll have regular guests to delve deeper into specialist areas of organising your home too.",
+        "itunes_id": "1440892098",
+        "content_rating": "clean",
+        "artist_name": "The Declutter Hub",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-declutter-hub-podcast/id1440892098",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1440892098",
+        "website": "https://declutterhub.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mountain Woman Radio at TrayerWilderness.com",
+        "rss_feed_url": "http://www.trayerwilderness.com/feed/podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.8,
+        "description": "Faith Led Preparedness, Homesteading & Off-Grid Living ~ Educating Today For A Better Future Tomorrow\n\nTammy Trayer is an author, freelance writer, blogger at TrayerWilderness.com and the host of Mountain Woman Radio. Tammy is also a proficient programmer, web designer specializing in the outdoors, entrepreneur, homesteader, pioneer, an avid outdoorswoman, and huntress. She is a homeschool mother, wife, a forever optimist, a survivor, an embracer of dreams, a lover of traditional and primitive skills and an off-grid simple living girl that requires an IV to the outdoors. Tammy and her family live traditionally off-grid and have a passion to help educate others by sharing their experiences of living off the land, dealing with autism, gluten-free and dairy-free cooking as well as a whole foods diet, self-reliance, wilderness survival, traditional and primitive skills, and so much more. Follow Tammy's radio show on iTunes and her website. Keep up with Tammy's informative articles and videos by subscribing to: http://TrayerWilderness.com and  http://trayerwildernsss.com/youtube. \n\n\n\nYou can also find Tammy's articles in The New Pioneer, American Frontiersman, Survivor's Edge, Personal and Home Defense, Backwoodsman, Prepare Magazine and Cabin Life Magazine.\n\n\n\n#TrayerWilderness #MountainWomanRadio #EmbraceOffGrid #PositivelyEncouraging\n\n\n\nGod bless!",
+        "itunes_id": "808725122",
+        "content_rating": "clean",
+        "artist_name": "Tammy Trayer ~ Mountain Woman Radio",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mountain-woman-radio-at-trayerwilderness-com/id808725122",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=808725122",
+        "website": "http://www.trayerwilderness.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KSL Greenhouse",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/ae67cb41-0362-40e4-b08d-aa93013b1b5b/992fa36a-20a2-49a5-ba84-aa93013b1b60/podcast.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 12,
+        "average_rating": 4.3,
+        "description": "How does your garden grow? Utah experts help you keep your yard, plants and flowers in bloom. From farm and field to lawn and garden, if it grows, we're talking about it.",
+        "itunes_id": "215510110",
+        "content_rating": "clean",
+        "artist_name": "KSL Newsradio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ksl-greenhouse/id215510110",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=215510110",
+        "website": "http://www.kslnewsradio.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Little House Living Show",
+        "rss_feed_url": "https://littlehouseliving.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "The Little House Living Show is perfect for anyone trying to live a simpler, slower, and more frugal life. We want to encourage you as well as offer helpful frugal living tips, simple living ideas, and ways to live slower in this modern world. Each week you will find a brand new episode related to simpler or more frugal living as well as answers to community questions about the lifestyle and more.",
+        "itunes_id": "1482466564",
+        "content_rating": "clean",
+        "artist_name": "Merissa",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-little-house-living-show/id1482466564",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482466564",
+        "website": "https://www.littlehouseliving.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Home School'd Podcast",
+        "rss_feed_url": "https://homeschooldpodcast.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 29,
+        "average_rating": 5,
+        "description": "At Home Schooled, we know that becoming a homeowner changes your life in a big way- and we're here to help! Our show was created to educate and empower today’s homeowner, so you can tackle every aspect of your home with confidence. \n\nWhether you're a DIYer or prefer to let someone else tackle the work, we’ll give you the knowledge you need to turn your house into the home of your dreams...even if it means going through a few nightmares to get there.\n\nEvery week hosts Aaron Massey and Tracy Pendergast will introduce you to a guest instructor, who will walk your through an aspect of home ownership. Consider this “Adulting 101\". \n\nIf you’re ready to tackle some home-work, you’re in the right place. Press play to join the class!",
+        "itunes_id": "1478767232",
+        "content_rating": "clean",
+        "artist_name": "Aaron Massey, Tracy Pendergast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/home-schoold-podcast/id1478767232",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478767232",
+        "website": "https://homeschooldpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Daily Gardener",
+        "rss_feed_url": "https://thedailygardener.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 17,
+        "average_rating": 5,
+        "description": "The Daily Gardener is a gardening podcast that is published every weekday. \n\nJennifer Ebeling shares thoughts and brevities to help you grow. She writes and records the show in her home studio in lovely Maple Grove, Minnesota. \n\nShow notes and additional information are available at thedailygardener.org",
+        "itunes_id": "1458062597",
+        "content_rating": "clean",
+        "artist_name": "Jennifer Ebeling",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-daily-gardener/id1458062597",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458062597",
+        "website": "https://thedailygardener.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sunday Gardening with Tim Crowther",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/p02nrw3f.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Weekly gardening advice with Tim Crowther, including top tip, plant and job of the week and back to basics. Solutions to your gardening problems. BBC Radio Leeds",
+        "itunes_id": "414890677",
+        "content_rating": "clean",
+        "artist_name": "BBC Radio Leeds",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sunday-gardening-with-tim-crowther/id414890677",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=414890677",
+        "website": "http://www.bbc.co.uk/programmes/p02nrw3f"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sunday Gardening with Tim Crowther",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/p02nrw3f.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Weekly gardening advice with Tim Crowther, including top tip, plant and job of the week and back to basics. Solutions to your gardening problems. BBC Radio Leeds",
+        "itunes_id": "414890677",
+        "content_rating": "clean",
+        "artist_name": "BBC Radio Leeds",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sunday-gardening-with-tim-crowther/id414890677",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=414890677",
+        "website": "http://www.bbc.co.uk/programmes/p02nrw3f"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Easy Living Yards Podcast",
+        "rss_feed_url": "https://easylivingyards.com/feed/podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 31,
+        "average_rating": 4.5,
+        "description": "Is your family more important than your yard?  Do you want to have a beautiful and healthy landscape?  Landscape designer and DIY landscaping coach Ben Hale will help you reduce work on your lawn and gardens and increase curb appeal so you can create a positive change in your life.",
+        "itunes_id": "1355485207",
+        "content_rating": "clean",
+        "artist_name": "Ben Hale | Landscape design, DIY landscaping, low maintenance landscaping, garden design",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-easy-living-yards-podcast/id1355485207",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355485207",
+        "website": "https://easylivingyards.com/sprout/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Carmen Johnston Gardens",
+        "rss_feed_url": "https://anchor.fm/s/d11e858/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Planting tips and tricks, DIY inspiration, recipes, floral design, entertaining ideas and more straight from the garden. Follow Carmen Johnston for practical advice and for great ways to incorporate your garden in your day-to-day life and home.",
+        "itunes_id": "1475298586",
+        "content_rating": "clean",
+        "artist_name": "Carmen Johnston",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/carmen-johnston-gardens/id1475298586",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475298586",
+        "website": "https://anchor.fm/carmenjohnstongardens"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Non Toxic Environments Home Health & Wellness",
+        "rss_feed_url": "http://notox.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 55,
+        "average_rating": 5,
+        "description": "Healthy building expert Andrew Pace uses his 25+ years experience to produce this weekly podcast, dedicated to the discussion and education of home health and human wellness.  With over 20,000 satisfied clients all over the world, Andrew has a keen awareness of the issues relating to chemical sensitivity, green building, mold remediation and toxicity reduction.  As a healthy home consultant, Andrew continues to be sought after to assist on projects all over the world, but his true passion is to educate as many folks as possible, using this free platform.  Andrew's company GDC/Building For Health, continues to be the global leader of healthy home supply and education.  Partnering with AFM Safecoat as their Master Distributor for North America, Andrew has opened up the availability for toxin-free paints and coatings through hundreds of retailers.  Jay Watts, the VP of AFM Safecoat, is a frequent co-host of the program and brings his years of customer service and trouble shooting skills for all to learn from.",
+        "itunes_id": "1369344930",
+        "content_rating": "clean",
+        "artist_name": "Andrew Pace",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/non-toxic-environments-home-health-wellness/id1369344930",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1369344930",
+        "website": "http://www.degreeofgreen.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "True Tales From Old Houses",
+        "rss_feed_url": "http://blakehillhouse.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 32,
+        "average_rating": 5,
+        "description": "All the DIY talk you've grown to love from the Blake Hill House blog as well as interviews and stories from other old house lovers like you. Join me for project Q and A, games, and answers to the burning questions I ask in Instagram Stories. If you love old houses, vintage items, and good stories, this podcast is for you. Stacy Grinsfelder and her husband bought 135-year-old Blake Hill House, lovingly referred to as BHH, in 2014. She has been blogging about the joys and nightmares of old home ownership ever since.",
+        "itunes_id": "1435214503",
+        "content_rating": "clean",
+        "artist_name": "Stacy Grinsfelder",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/true-tales-from-old-houses/id1435214503",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435214503",
+        "website": "http://blakehillhouse.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Organic Gardening Podcast",
+        "rss_feed_url": "https://audioboom.com/channels/4987940.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Food"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Inspiration to help you garden the organic way, with advice, tips and interviews from the UK's leading organic gardening organisation, Garden Organic. Hosted by Sarah Brown and Chris Collins.",
+        "itunes_id": "1455955334",
+        "content_rating": "clean",
+        "artist_name": "Garden Organic",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-organic-gardening-podcast/id1455955334",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1455955334",
+        "website": "http://gardenorganic.org.uk/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Grow Well",
+        "rss_feed_url": "https://anchor.fm/s/8c07ff8/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 44,
+        "average_rating": 4.7,
+        "description": "Grow Well Podcast is a houseplant meets personal growth podcast. My name is Dusty Hegge and I can't help but see the parallels between plant growth and human growth and I KNOW that's by God's design. Join me each week and we'll chat about both! My goal is to challenge you to think deeper, have fun, and laugh a whole lot.\n\nInstagram\nhttp://instagram.com/growwellpodcast\n\nWebsite & Show Notes\nhttp://dustyhegge.com/grow-well",
+        "itunes_id": "1435760718",
+        "content_rating": "clean",
+        "artist_name": "Dusty Hegge",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/grow-well/id1435760718",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435760718",
+        "website": "https://anchor.fm/grow-well"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Daily Home Edit",
+        "rss_feed_url": "https://rss.acast.com/daily-home-edit",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Are you addicted to all things home? Join the Home Beautiful team every day as we deliver your daily dose, including easy styling hacks that will change your life, amazing tips and tricks for living beautifully plus plenty of renovation and design advice. We’ll discuss the big and small topics, including what house plant is said to stop you from snoring, yep – that’s a thing! That one mistake everybody makes when buying a new sofa, how to pick the right white paint – and SO much more! ",
+        "itunes_id": "1474905997",
+        "content_rating": "clean",
+        "artist_name": "Pacific Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-daily-home-edit/id1474905997",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474905997",
+        "website": "https://play.acast.com/s/daily-home-edit"
+      }
+    },
+    null,
+    {
+      "podcast_details": {
+        "podcast_name": "Tool Bags Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/58a22c8d-1810-4cd1-bce2-a849004eeede/24321f94-2a3c-47bb-ba3c-aab50146102a/28e91f9a-1498-4a08-8a05-aab501478907/podcast.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 7,
+        "average_rating": 4.7,
+        "description": "Get a helping hand with your DIY projects with two of 98.5 The Sports Hub's DIY specialists - Tony Massarotti and Dan O'Brien from the Toucher & Rich show!",
+        "itunes_id": "1480272559",
+        "content_rating": "clean",
+        "artist_name": "Tool Bags",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tool-bags-podcast/id1480272559",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480272559",
+        "website": "https://985thesportshub.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "WORLD ORGANIC NEWS",
+        "rss_feed_url": "https://worldorganicnews.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Philosophy"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "World ORGANIC NEWS is here to bring you the latest in Organic News from around the world!\n\nOnce a week World ORGANIC NEWS produces a short podcast covering the most interesting posts from the past seven days. To subscribe click the iTunes button on the top right of the page!\n\nWorld Organic News is brought to you by Jon Moore. Jon is an organic advocate, author, gardener and the editor/producer of the World ORGANIC NEWS blog & podcast.\n\nGardening, farming, food and energy are all within our scope. I also be dredge through the net for old ideas ripe for a come back. Too much research has been channeled to the chemical farming, gardening and industrial food sectors.\n\nWe must overgrow the system. Every time we make a purchase we are sending a message to the makers of that product to keep doing it. Consider your choices for we can change the world, one cabbage at a time!",
+        "itunes_id": "1112838129",
+        "content_rating": "clean",
+        "artist_name": "mrjonmoore",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/world-organic-news/id1112838129",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1112838129",
+        "website": "http://worldorganicnews.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Backyard Bounty",
+        "rss_feed_url": "https://feeds.buzzsprout.com/276371.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Kids & Family",
+          "Pets & Animals"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Welcome to the Backyard Bounty podcast by Heritage Acres Market! Join Nicole and guests as we discuss backyard poultry, beekeeping, gardening, sustainable living and more! Email us your questions at Ask@HeritageAcresMarket.com | Find us online @HeritageAcresMarket | Watch podcasts on YouTube- https://www.youtube.com/c/heritageacresmarket | Visit our website- HeritageAcresMarket.com | #heritageacresmarket #backyardbountypodcast",
+        "itunes_id": "1458558519",
+        "content_rating": "clean",
+        "artist_name": "Heritage Acres Market",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/backyard-bounty/id1458558519",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458558519",
+        "website": "https://HeritageAcresMarket.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Healthy Garden",
+        "rss_feed_url": "https://feed.podbean.com/thehealthygarden/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "The Healthy Garden Podcast, where soil is important and growing a healthier world is job #1!",
+        "itunes_id": "1477093383",
+        "content_rating": "clean",
+        "artist_name": "Randy Ritchie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-healthy-garden/id1477093383",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477093383",
+        "website": "https://malibucompost.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Countryside Hour",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/p02tfhrt.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science"
+        ],
+        "rating_count": 5,
+        "average_rating": 3.8,
+        "description": "Farmer and nature lover Chris Skinner shares wildlife recordings and answers questions.",
+        "itunes_id": "1060685475",
+        "content_rating": "clean",
+        "artist_name": "BBC Radio Norfolk",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-countryside-hour/id1060685475",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1060685475",
+        "website": "http://www.bbc.co.uk/programmes/p02tfhrt"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Lunch With Lou",
+        "rss_feed_url": "https://feeds.buzzsprout.com/489478.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "He answers your home improvement questions live every Saturday morning on radio stations across the country, he's got a nationally syndicated TV show - but if you follow Lou at all you know he is never short on questions!  Lou Manfredini digs a little bit deeper into the world of home improvement in his Lunch With Lou podcast  - bringing you the latest trends and technologies for the home.",
+        "itunes_id": "1475438018",
+        "content_rating": "clean",
+        "artist_name": "Lou Manfredini",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lunch-with-lou/id1475438018",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475438018",
+        "website": "http://www.housesmartstv.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Two Minutes in the Garden",
+        "rss_feed_url": "https://empressofdirt.net/briefing/full.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Bite-sized informative updates on gardening solutions, basics, garden myths and other subjects of interest to gardeners both new and experienced. From the popular Empress of Dirt website (empressofdirt.net), home of creative and frugal ideas for your backyard garden.",
+        "itunes_id": "1437916048",
+        "content_rating": "clean",
+        "artist_name": "Empress of Dirt",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/two-minutes-in-the-garden/id1437916048",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437916048",
+        "website": "https://empressofdirt.net/two-minutes-in-the-garden/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fresh From The Pod",
+        "rss_feed_url": "https://feeds.buzzsprout.com/315470.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science",
+          "Nature"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Fresh From the Pod follows Chelsea Flower Show judge Tamsin Westhope as she meets gardening celebrities, conservationists and environmentalists. In episode one, Tamsin chats with garden designer and TV presenter Chris Beardshaw. Subscribe now to hear the first episodes on the 17th of October.",
+        "itunes_id": "1462884931",
+        "content_rating": "clean",
+        "artist_name": "Tamsin Westhorpe and Candide",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fresh-from-the-pod/id1462884931",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462884931",
+        "website": "https://candidegardening.com/GB/podcasts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Natchez Glen House Stories",
+        "rss_feed_url": "https://natchezglenhouse.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture"
+        ],
+        "rating_count": 27,
+        "average_rating": 4.7,
+        "description": "Each podcast I tell the story of either a person, a place, or a plant and sometimes all three. This a different type of gardening podcast. Not the one where we share \"our top 5 picks for summer annuals\" that have been done for decades, but real conversations about topics from the natural world.",
+        "itunes_id": "1442171006",
+        "content_rating": "clean",
+        "artist_name": "Natchez Glen House Stories",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/natchez-glen-house-stories/id1442171006",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1442171006",
+        "website": "https://natchezglenhouse.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "How to Hardscape",
+        "rss_feed_url": "https://anchor.fm/s/d017248/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A podcast dedicated to hardscapers starting and growing their business. We interview leading experts to talk installation techniques, tools, products, marketing, and business.",
+        "itunes_id": "1483515221",
+        "content_rating": "clean",
+        "artist_name": "Michael Pletz",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/how-to-hardscape/id1483515221",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483515221",
+        "website": "https://www.howtohardscape.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Growing Wild",
+        "rss_feed_url": "https://audioboom.com/channels/4905931.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Charlotte Petts shows you the wonderful opportunities for connecting with nature in both the countryside and urban spaces. Covering wild food, foraging, allotments, environmental issues, adventure and more!\nFollow on @growingwildfm on Instagram and twitter.",
+        "itunes_id": "1108085115",
+        "content_rating": "clean",
+        "artist_name": "RadioReverb",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/growing-wild/id1108085115",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1108085115",
+        "website": "https://audioboom.com/channel/growing-wild"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Manage Mold",
+        "rss_feed_url": "https://feeds.simplecast.com/1ahm32oj",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 25,
+        "average_rating": 5,
+        "description": "The Manage Mold podcast was made for families on a health journey that NEED the real, no-holds-barred answers on how to create - and ensure - a healthy home.\n\nWith more than 35-years in the industry, your host Dean Mahlstedt will share how you can make your home the healthiest place for your family to be. \n\nDean, along with his guests, who are industry experts in their respective fields, will be sharing the latest information on mold, mold remediation, water intrusion, and what it takes to make (and keep) a healthy home.\n\nYou can learn more at: http://bit.ly/manage_mold",
+        "itunes_id": "1478628463",
+        "content_rating": "clean",
+        "artist_name": "Dean Mahlstedt",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/manage-mold/id1478628463",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478628463",
+        "website": "https://managemold.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In the Landscape",
+        "rss_feed_url": "https://feed.podbean.com/kinggarden/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "Pros Kate & Charles Sadler share Landscape Design & Care acumen as they travel the world with their landscape design, specialty pruning & consulting practice, King Garden.",
+        "itunes_id": "1472544809",
+        "content_rating": "clean",
+        "artist_name": "Charles King Sadler",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-the-landscape/id1472544809",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472544809",
+        "website": "https://kinggarden.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Handyman Pros Radio Show",
+        "rss_feed_url": "https://anchor.fm/s/d8e2184/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Two professional handymen discuss how you can save money by doing home repair and improvements. We will be talking about the most common problems you will run across and how to deal with them; from main building structures and materials to new technology for your home. Topics will include home maintenance and property management skills, do it yourself tips and tricks, and purchasing strategies for real estate investing. Our weekly tips will keep your home running smooth and of course we will be answering your questions.",
+        "itunes_id": "1480260388",
+        "content_rating": "clean",
+        "artist_name": "Larry and John",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/handyman-pros-radio-show/id1480260388",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480260388",
+        "website": "http://handymanprosradioshow.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Home Space and Reason",
+        "rss_feed_url": "https://feed.podbean.com/homespaceandreason/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "Create a home that Thrives! Home Functionality Coach Kristina Browning discusses home functionality, aesthetics, and automation challenging you to think about your space differently. Daily life can be hectic and at times overwhelming. If your home is set up to thrive, you can be more present as a parent and a partner, with many opportunities to engage in the kind of quality experiences you love most. What’s important in your life? This podcast helps you align your home to those values.",
+        "itunes_id": "1478330055",
+        "content_rating": "clean",
+        "artist_name": "Kristina Browning",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/home-space-and-reason/id1478330055",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478330055",
+        "website": "https://homespaceandreason.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Around the House with Eric G",
+        "rss_feed_url": "https://feeds.captivate.fm/around-the-house-with-e/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.3,
+        "description": "Now in its 31st year! Real Home Improvement tips from Eric G that can help you anywhere Around the House.  From Interior Design to fence repairs Eric G can help you get any project back on track! This is one of the best Home Improvement Podcasts!",
+        "itunes_id": "869377733",
+        "content_rating": "clean",
+        "artist_name": "Eric Goranson",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/around-the-house-with-eric-g/id869377733",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=869377733",
+        "website": "http://www.aroundthehouseonline.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gardens, weeds and words",
+        "rss_feed_url": "http://gardensweedsandwords.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "A blend of slow radio, gardening advice and conversation, and readings from the best garden and wildlife writing. With Andrew O'Brien.",
+        "itunes_id": "1418870058",
+        "content_rating": "clean",
+        "artist_name": "Andrew O'Brien: gardener, blogger, podcaster",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gardens-weeds-and-words/id1418870058",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1418870058",
+        "website": "http://www.gardensweedsandwords.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Grow What You Love",
+        "rss_feed_url": "https://feed.podbean.com/growwhatyoulove/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Food"
+        ],
+        "rating_count": 35,
+        "average_rating": 4.9,
+        "description": "When you grow what you love wonderful things happen. Which is why Emily Murphy is sharing unexpected stories of people and plants. We hear how people are changing their lives and the lives of others thanks to the time and attention given to the things they love -- plants and so much more! Because we are the sum of our parts: the food we eat, the stories we share, and the places in which we live and grow. Grow What You Love captures the zeitgeist of this wonderfully, provocative mix from garden-to-table-to-you. Hear stories Unexpected stories of people and plants.",
+        "itunes_id": "1477648688",
+        "content_rating": "clean",
+        "artist_name": "Emily Murphy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/grow-what-you-love/id1477648688",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477648688",
+        "website": "https://passthepistil.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Talking Home Renovations with the House Maven",
+        "rss_feed_url": "https://feeds.captivate.fm/talking-home-renovation/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts",
+          "Design"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Are you planning a home renovation and worried that you don’t know what you are doing?  Talking Home Renovations with the House Maven is an educational and entertaining podcast that will ease your fears. Join architect Katharine MacPhail as she interviews contractors, vendors, other architects and homeowners and gathers tips and cautionary tales about home renovations.  Learn about materials, what to expect, what to avoid and how to make the most of the money that you will spend on your renovation.",
+        "itunes_id": "1481716218",
+        "content_rating": "clean",
+        "artist_name": "Katharine White MacPhail",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/talking-home-renovations-with-the-house-maven/id1481716218",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481716218",
+        "website": "https://www.talkinghomerenovations.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Diva Home & Lifestyle Podcast",
+        "rss_feed_url": "https://divahomeandlifestyle.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Kids & Family"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "The Diva Home & Lifestyle Podcast will inspire, motivate and empower you with information about real estate, home & garden ideas, and practical solutions to help make your house a happy home. Including: buying, selling and investing in real estate, credit repair, finances, housekeeping tips, recipes, DIY projects ideas, gardening advice, remedies and more. TUNE IN & SUBSCRIBE www.divahomeandlifestyle.podbean.com \nwww.facebook.com/realestatedivabrenda",
+        "itunes_id": "1366737279",
+        "content_rating": "clean",
+        "artist_name": "Real Estate Diva Brenda",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/diva-home-lifestyle-podcast/id1366737279",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1366737279",
+        "website": "https://divahomeandlifestyle.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Logan's Garden Shop Podcast featuring Bryce Lane",
+        "rss_feed_url": "https://feeds.buzzsprout.com/485896.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Join Logan's Garden Shop (or Logan Trading Company. or simply just \"Logan's\") for a gardening podcast that goes beyond the planting and digs deep into YOUR love of gardening. Hosted by celebrated teacher, speaker, and horticulturist, Bryce Lane.Bryce discovered his passion for plants and telling others about them while working at a small Massachusetts garden center throughout high school and college.  After earning his BS and MS in Horticulture, he came to the Department of Horticultural Science at NC State University as an Instructor and Undergraduate Teaching Coordinator.  He spent thirty-four years teaching and advising over 20,000 students.  Although Bryce retired in 2014 he still teaches part-time at NC State.  For eleven seasons he hosted and produced the three-time, Emmy winning, UNC TV public television show “In the Garden With Bryce Lane.”  Logan's is a family owned, award-winning garden center located in downtown Raleigh, North Carolina. From flowers to fountains, houseplants to hoses, ponds, trees, shrubs, and statuary we have everything you need for your gardening, home decor, and landscaping needs. For 54 years we've served local gardeners, horticulturists, and plant nerds from all walks of life. Join us on this new journey of discovery! Subscribe, share, and email us your questions.",
+        "itunes_id": "1484646186",
+        "content_rating": "clean",
+        "artist_name": "Logan's Garden Shop",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/logans-garden-shop-podcast-featuring-bryce-lane/id1484646186",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484646186",
+        "website": "http://logantrd.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Roots and All",
+        "rss_feed_url": "http://rootsandall.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Do you want to know how to grow plants and get the best out of your outdoor space? Do you find traditional gardening media baffling and/or boring? Then you’re in the right place, because the Roots and All podcast is here to dig deep into how to create a successful garden.\n\nIf you want honest information and insider knowledge about how to get results, join irreverent horticulturist Sarah Wilson as she chats to the best people from the world of plants and gardens. Sarah is on a mission to help you create your own beautiful green environment, with a focus on saving resources and working with nature.\n\nDon’t forget to subscribe to the podcast to make sure you don’t miss an episode.",
+        "itunes_id": "1399040612",
+        "content_rating": "clean",
+        "artist_name": "Sarah Wilson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/roots-and-all/id1399040612",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1399040612",
+        "website": "https://rootsandall.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Beautiful Mess Podcast",
+        "rss_feed_url": "https://abmpodcast.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 356,
+        "average_rating": 4.9,
+        "description": "Elsie + Emma are sisters and co-founders of the top DIY blog — A Beautiful Mess. They have written over seven thousand blog posts, so it seemed like a good time to start a podcast! The sisters have a lot to say on everything from home and DIY to family life and business. Visit abeautifulmess.com/podcast for show notes.",
+        "itunes_id": "1485472892",
+        "content_rating": "explicit",
+        "artist_name": "Elsie Larson and Emma Chapman",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-beautiful-mess-podcast/id1485472892",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485472892",
+        "website": "http://abmpodcast.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Community Garden Revolution",
+        "rss_feed_url": "http://www.blogtalkradio.com/communitygardenrevolution/podcast",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Community Gardens.  Advocate. \nContacting Community Gardens across the Nation and sharing information, success, failures, challenges, mission, and more.",
+        "itunes_id": "993374817",
+        "content_rating": "clean",
+        "artist_name": "Community Garden Revolution",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/community-garden-revolution/id993374817",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=993374817",
+        "website": "https://www.blogtalkradio.com/communitygardenrevolution"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Garden Log",
+        "rss_feed_url": "http://thegardenlog.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.8,
+        "description": "Weekly reports and reflections from an English head gardener.",
+        "itunes_id": "1291778248",
+        "content_rating": "clean",
+        "artist_name": "Ben Dark",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-garden-log/id1291778248",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1291778248",
+        "website": "http://thegardenlog.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Shop Stool Podcast",
+        "rss_feed_url": "https://www.robinlewismakes.com/shopstoolpodcast?format=rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "A podcast for woodworkers and the maker community in general. Hosted by Robin Lewis (RobinLewisMakes), Joey Chalk (KingPost TimberWorks) and Bryan Cush (Sawdust Bureau).",
+        "itunes_id": "1322423537",
+        "content_rating": "clean",
+        "artist_name": "The Shop Stool Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-shop-stool-podcast/id1322423537",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1322423537",
+        "website": "https://www.robinlewismakes.com/shopstoolpodcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Money Pit’s Calls & Answers",
+        "rss_feed_url": "https://feeds.moneypit.com/the-money-pits-calls-and-answers/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "For over a decade, expert hosts Tom Kraeutler and Leslie Segrete have fielded every home improvement, home decor, or home repair question imaginable. Your Calls, Our Answers features the best calls from their nationally syndicated home improvement radio show The Money Pit.",
+        "itunes_id": "1211948231",
+        "content_rating": null,
+        "artist_name": "Tom Kraeutler & Leslie Segrete",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-money-pits-calls-answers/id1211948231",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1211948231",
+        "website": "https://www.moneypit.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Skinny Jean Gardener Podcast",
+        "rss_feed_url": "http://skinnyjeangardener.co.uk/podcast?format=rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "One of the TOP 20 Gardening Podcasts in the world, made podcast finalist of the 2018 Garden Media Guild Awards, Presenter Lee Connelly AKA The Skinny Jean Gardener brings you an audio gardening 'experience' Every week. With gardening talk, phone ins and tales of the garden with his daughter Olive. Subscribe Today. Sponsored by #∞¢•º€∞57",
+        "itunes_id": "1215271075",
+        "content_rating": "clean",
+        "artist_name": "Skinny Jean Gardener",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-skinny-jean-gardener-podcast/id1215271075",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1215271075",
+        "website": "http://skinnyjeangardener.co.uk/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Money Pit Top Products Podcast",
+        "rss_feed_url": "https://feeds.moneypit.com/the-money-pit-top-products-podcast/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Money Pit Top Products Podcast focuses on the latest new product innovations for home improvement, home maintenance, home repair and home décor.  In each episode, nationally syndicated radio host Tom Kraeutler interviews experts to bring you the up to date information on products to make your home beautiful, energy efficient and eco-friendly.",
+        "itunes_id": "1211943216",
+        "content_rating": null,
+        "artist_name": "Tom Kraeutler",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-money-pit-top-products-podcast/id1211943216",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1211943216",
+        "website": "http://www.moneypit.com/top-products-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dream Home Movement",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/2752",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Business",
+          "Investing"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Your weekly dose of dream home inspiration, with clever hacks and tips from the very best dream home and lifestyle experts. \nPlus 'real-life reno' stories from Mornington Peninsula locals.\n\nTHIS POPULAR MORNINGTON PENINSULA LIVE RADIO SHOW IS NOW AVAILABLE AS A PODCAST!\n\nHosted by Jo Violeta; a coastal loving mum of 2, gardening and renovating novice and one half of the Violeta Finance team.\n\nEach week I interview a dream home expert or 'real-life reno' guest.\nKeep up-to-date and informed with the Property Geek-Out segment presented by Tara Vandeligt and the Finance segment presented by Carl Violeta.",
+        "itunes_id": "1355558846",
+        "content_rating": "clean",
+        "artist_name": "Jo Violeta",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dream-home-movement/id1355558846",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355558846",
+        "website": "https://player.whooshkaa.com/shows/dream-home-movement"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Money Pit Minute",
+        "rss_feed_url": "https://feeds.moneypit.com/the-money-pit-minute/",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The Money Pit Minute with Tom Kraeutler & Leslie Segrete delivers quick, insightful how-to tips on home improvement, remodeling, décor and home maintenance projects.",
+        "itunes_id": "1357312737",
+        "content_rating": null,
+        "artist_name": "Tom Kraeutler & Leslie Segrete",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-money-pit-minute/id1357312737",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1357312737",
+        "website": "http://www.moneypit.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "At Home with Lauren Keenan",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/1234",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Arts"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "At Home with Lauren Keenan is your authority on home, lifestyle and interior design.\n\nHosted by Sydney interiors stylist and award winning podcaster Lauren Keenan, this show gives you everything you need to create your perfect home.\n\nFrom the latest interiors trends and tips on how to introduce them successfully into your home, through to interviews with other experts and design professionals.\n\nLauren approaches design with a sense of fun and a firm belief that everyone deserves a home that they truly love.\n\nSo whether you're into real estate and renovation, buying your first home or if you love interiors and design, you've got to listen to this podcast as Lauren helps you create beautiful spaces for our modern lives.",
+        "itunes_id": "1090702230",
+        "content_rating": "clean",
+        "artist_name": "Lauren Keenan Home",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/at-home-with-lauren-keenan/id1090702230",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1090702230",
+        "website": "https://laurenkeenan.com.au/interior-design-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "UrbanAsh Seattle Real Estate",
+        "rss_feed_url": "https://anchor.fm/s/ded404c/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "An inside scoop on Seattle Real Estate from downtown Seattle’s top producing Broker and Leasing Specialist - UrbanAsh of Pointe3 Real Estate and Seattle Rental Group.",
+        "itunes_id": "1480293282",
+        "content_rating": "clean",
+        "artist_name": "Ashley J. Hayes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/urbanash-seattle-real-estate/id1480293282",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480293282",
+        "website": "UrbanAsh.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Savvy Guide to Real Estate",
+        "rss_feed_url": "https://anchor.fm/s/f00a7d0/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Does the thought of buying your first home or selling the place you raised your family in make your knees shake? Real estate is one of the largest investments you make in your lifetime, yet most consumers have very little working knowledge of what it takes to actually get to the closing table. Every week, NJ Realtor-Associate Heather Tindall Robillard of ERA Central Realty Group brings you market data, listings, past client scenarios, and insights to simplify the real estate process of selling or buying... helping you to become an more informed consumer and SAVVY buyer, seller or investor!",
+        "itunes_id": "1483057701",
+        "content_rating": "clean",
+        "artist_name": "Heather Tindall Robillard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-savvy-guide-to-real-estate/id1483057701",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483057701",
+        "website": "http://www.thesavvyguidetorealestate.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pain In My GRass: the podcast",
+        "rss_feed_url": "https://paininmygrass.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Sports",
+          "Golf"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Two life long friends have come together to help you create and maintain an amazing lawn and landscapes. Brad, a die-hard DIY'er, and Jim, a world-class turfgrass guru will guide you through the process week by week. Creating a lawn that is the envy of the neighborhood can become a battlefield. You vs the weeds. The climate. The insects. And even, your spouse. Listen, laugh and learn as these two share stories, product reviews, tips and tricks and WEEKLY actionable advice on how to be sure that your lawn never becomes a pain in your GRass.",
+        "itunes_id": "1478452389",
+        "content_rating": "clean",
+        "artist_name": "Pain in my Grass",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pain-in-my-grass-the-podcast/id1478452389",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478452389",
+        "website": "http://paininmygrass.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mind Body Garden",
+        "rss_feed_url": "https://anchor.fm/s/1ad8f30/podcast/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Gardening 4 Gains 🌰🌱🌳 \nBodybuilding 🏋️‍♂️\nMotivation🔥\nLife Philosophy 🤔🕉 Support this podcast: https://anchor.fm/gardening4gains/support",
+        "itunes_id": "1362576362",
+        "content_rating": "explicit",
+        "artist_name": "Danny Neth",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mind-body-garden/id1362576362",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1362576362",
+        "website": "www.gardening4gains.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Real World Redneck Podcast",
+        "rss_feed_url": "https://realworldredneck2.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Comedy"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Tapping into his rural upbringing, host Real World Redneck offers hacks, tips, and stories about hunting, fishing, mushrooms, gardening, and everything outdoors. There is an emphasis placed on real life experiences, not fake product pimping. 100% fair chase, free ranging with no baiting.",
+        "itunes_id": "1482523885",
+        "content_rating": "clean",
+        "artist_name": "Real World Redneck: backyard gardener and farmer",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/real-world-redneck-podcast/id1482523885",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482523885",
+        "website": "http://realworldredneck2.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Plants and Me podcast",
+        "rss_feed_url": "http://cast.rocks/hosting/17608/feeds/BJ61I.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Welcome to the Plants and Me podcast hosted by grower and horticulturist Alan Lodge. On this podcast you will get to learn about the people behind the plants as well as some fantastic tips from growers, gardeners, designers, product makers and everything in between. Want to learn more use #plantsandme",
+        "itunes_id": "1457824610",
+        "content_rating": "clean",
+        "artist_name": "Newlands Nursery",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-plants-and-me-podcast/id1457824610",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457824610",
+        "website": "https://plants-uk.co.uk/pages/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ken Crowther's Gardening Podcast",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/p004lmms.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Before you head into the garden, join Ken every Saturday morning for expert green fingered advice. Call 0800 111 4041.",
+        "itunes_id": "1039810126",
+        "content_rating": "clean",
+        "artist_name": "BBC Essex",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ken-crowthers-gardening-podcast/id1039810126",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1039810126",
+        "website": "http://www.bbc.co.uk/programmes/p004lmms"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Your Healthy House",
+        "rss_feed_url": "https://feeds.buzzsprout.com/571279.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Welcome to Your Healthy House, a podcast that explores and engages you to learn more about how to create your own health space to live, whether you rent, own, are in a house or an apartment. The information in this podcast for everyone. I'll break down technical jargon and fear mongering and put knowledge into your ears so you are empowered to make real decisions for you and your family.",
+        "itunes_id": "1478928214",
+        "content_rating": "clean",
+        "artist_name": "Stephen Collette",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/your-healthy-house/id1478928214",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478928214",
+        "website": "http://www.yourhealthyhouse.ca"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Radical Queers Podcast",
+        "rss_feed_url": "https://radicalqueerspodcast.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Jane and Nikki are queers who grow on you throughout the seasons, tune in for a deep-roots farming perspective. Get radical with us!",
+        "itunes_id": "1483154342",
+        "content_rating": "clean",
+        "artist_name": "Jane and Nikki",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/radical-queers-podcast/id1483154342",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483154342",
+        "website": "http://radicalqueerspodcast.libsyn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Galwad Cynnar",
+        "rss_feed_url": "https://podcasts.files.bbci.co.uk/b007rktl.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Trafodaeth wythnosol Radio Cymru ar natur a bywyd gwyllt. Radio Cymru's weekly nature and wildlife discussion.",
+        "itunes_id": "717181346",
+        "content_rating": "clean",
+        "artist_name": "BBC Radio Cymru",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/galwad-cynnar/id717181346",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=717181346",
+        "website": "http://www.bbc.co.uk/programmes/b007rktl"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Spoken Garden Podcast",
+        "rss_feed_url": "http://spokengarden.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "Self-Improvement"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Spoken Garden is a podcast and blog to help connect you with nature through smart, sustainable garden maintenance. Learn Earth-Friendly, Zero Waste Ideas + Time-Saving Landscape Tips. And have fun doing it!",
+        "itunes_id": "1281369972",
+        "content_rating": "clean",
+        "artist_name": "Sean and Allison McManus",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/spoken-garden-podcast/id1281369972",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1281369972",
+        "website": "https://www.spokengarden.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Internet of Things Made Simple",
+        "rss_feed_url": "https://iotms.podbean.com/feed.xml",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Business"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "This podcast series looks at the world of the Internet of Things (IoT) with an attempt to explain to a general audience how IoT is the power behind emerging technologies like Self-driving cars, Automation and the move towards a smarter home.",
+        "itunes_id": "1438265124",
+        "content_rating": "clean",
+        "artist_name": "Larry Bellehumeur",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-internet-of-things-made-simple/id1438265124",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438265124",
+        "website": "https://iotms.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Scottish Garden Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/268165.rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Scottish Garden Podcast is a podcast for plant lovers who want to know more about the gardens and growers of Scotland.  Julianne Robertson ventures into Scottish gardens, nurseries and horticultural events, meeting interesting people and plants along the way.  This podcast explores what's special about Scotland through the eyes of a garden lover and plant addict!",
+        "itunes_id": "1456181640",
+        "content_rating": "clean",
+        "artist_name": "Julianne Robertson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-scottish-garden-podcast/id1456181640",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456181640",
+        "website": "http://www.juliannerobertson.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The veg grower podcast",
+        "rss_feed_url": "http://theveggrowerpodcast.co.uk/?feed=podcast",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Podcasting recent events in the vegetable garden and allotment based in the uk this follows my fruit and vegatable growing.\n\nThis podcast is my account of my hobby of growing vegetables and fruit and herbs.",
+        "itunes_id": "703719979",
+        "content_rating": "clean",
+        "artist_name": "Richard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-veg-grower-podcast/id703719979",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=703719979",
+        "website": "http://theveggrowerpodcast.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Sprinkler Nerd Show",
+        "rss_feed_url": "https://sprinklernerd.libsyn.com/rss",
+        "categories": [
+          "Home & Garden",
+          "Podcasts",
+          "Leisure",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Former contestant on the ABC hit television series Shark Tank, irrigation technology expert, and multimillion-dollar eCommerce entrepreneur Andy Humphrey brings his curiosity & creativity to tease out the secrets of successful Green Industry influencers on The Sprinkler Nerd Show.\n\nDiscover how to get a leg up on the competition, to be the smartest person at the design table, and advance your career in the irrigation and landscape industry at any level.\n\nAll stones will be unturned as Andy digs into the nerdy details of business, technology, and personal growth here on the Sprinkler Nerd show.\n\n To join the community of Sprinkler Nerds transforming the Green Industry visit www.SprinklerNerd.com.",
+        "itunes_id": "1480857188",
+        "content_rating": "explicit",
+        "artist_name": "Andy Humphrey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-sprinkler-nerd-show/id1480857188",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480857188",
+        "website": "https://sprinklernerd.com"
+      }
+    }
+  ]
+}

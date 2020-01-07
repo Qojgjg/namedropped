@@ -1,0 +1,1453 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "La Terre au carré",
+        "rss_feed_url": "http://radiofrance-podcast.net/podcast09/rss_10212.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 42,
+        "average_rating": 4.8,
+        "description": "Nature, climat, pollution, idées, engagements, solutions : toute l'actualité de la planète pour imaginer le monde d'aujourd'hui et de demain.",
+        "itunes_id": "294060079",
+        "content_rating": "clean",
+        "artist_name": "France Inter",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/la-terre-au-carr%C3%A9/id294060079",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=294060079",
+        "website": "http://www.radiofrance.fr/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Green Dreamer: Sustainability and Regeneration From Ideas to Life",
+        "rss_feed_url": "http://greendreamer.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 158,
+        "average_rating": 4.9,
+        "description": "If we're headed down a path that's leading us to degradation, dehumanization, and disconnection from the things that matter most, simultaneously endangering our earth's clean water, clean air, and biodiversity, then we must ask boldly: What for?\n\nIn the midst of the uncertainty, it's become clear that it's time to redefine what it means to live lives of abundance, recalibrate our measurements of progress, and dream up the world that we do want to realize for our lifetimes and beyond.\n\nIlluminating our paths to ecological regeneration, intersectional sustainability, and true abundance and wellness for all, Green Dreamer with Kamea Chayne is a podcast and multimedia journal for those who are yearning to live with vitality and fulfillment and who are dreaming of a thriving planet to call home.",
+        "itunes_id": "1382371884",
+        "content_rating": "clean",
+        "artist_name": "Kamea Chayne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/green-dreamer-sustainability-regeneration-from-ideas/id1382371884",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1382371884",
+        "website": "https://www.greendreamer.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "American Birding Podcast",
+        "rss_feed_url": "http://birding.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 159,
+        "average_rating": 4.8,
+        "description": "The American Birding Podcast brings together staff and friends of the American Birding Association as we talk about birds, birding, travel and conservation in North America and beyond. Join host Nate Swick every other Thursday for news and happenings, recent rarities, guests from around the birding world, and features of interest to every birder.",
+        "itunes_id": "1186824033",
+        "content_rating": "clean",
+        "artist_name": "American Birding Association",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/american-birding-podcast/id1186824033",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1186824033",
+        "website": "http://birding.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Speak Up For The Ocean Blue",
+        "rss_feed_url": "http://scicon.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 145,
+        "average_rating": 4.8,
+        "description": "Speak Up For The Ocean Blue raises awareness of the variety of ocean science and conservation projects conducted all around the world. It educates you, the listener, on the different Ocean Conservation Projects that are happening around the world. By listening to our guests, I hope to inspire you to live an ocean-friendly life through their stories and the information I provide to guide you towards a living a life that will be healthy for the Ocean. On the podcast episodes, I discuss, sharks, marine mammals (whales, dolphins, manatees, sea lions, seals), seabirds, fish (tuna, salmon, mackerel, cod, etc) as well as ocean issues like climate change/global warming (ocean acidification, increased sea temperatures, sea level rise, arctic melting, changing weather patterns), water pollution, plastic pollution (single-use plastic), coastal development, overfishing, whale hunting, fish poaching and more.",
+        "itunes_id": "1010962669",
+        "content_rating": "clean",
+        "artist_name": "Andrew Lewin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/speak-up-for-the-ocean-blue/id1010962669",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1010962669",
+        "website": "http://www.speakupforblue.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Nature Guys",
+        "rss_feed_url": "http://natureguys.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 137,
+        "average_rating": 4.9,
+        "description": "Nature Guys connects you to the exciting natural world right in your own neighborhood. These nature connections will help you be cool, calm, collected and ready to make a positive difference in the world. Nature Guys is co-hosted by Bob a long time nature lover and Bill a professional naturalist for over 40 years.",
+        "itunes_id": "1168107709",
+        "content_rating": "clean",
+        "artist_name": "Bill and Bob",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/nature-guys/id1168107709",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1168107709",
+        "website": "http://www.natureguys.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "All Creatures Podcast",
+        "rss_feed_url": "https://allcreaturespod.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 129,
+        "average_rating": 4.8,
+        "description": "The mission of the All Creatures Podcast is to educate listeners on the diverse animals that share our planet.  We are in the midst of the Earth’s Six Mass Extinction and many animals need our help if they are to survive.Each week we will discuss a new species, conduct interviews with conservation experts from around the globe, and discuss recent conservation news.",
+        "itunes_id": "1311040782",
+        "content_rating": "clean",
+        "artist_name": "All Creatures Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/all-creatures-podcast/id1311040782",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1311040782",
+        "website": "https://allcreaturespod.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Parts Per Billion",
+        "rss_feed_url": "https://feeds.megaphone.fm/BL5057429316",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "News",
+          "Politics"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.4,
+        "description": "Parts Per Billion is an environmental policy podcast from Bloomberg Environment. Each episode of Parts Per Billion features discussions about what’s happening in Congress, in the courts, and in federal agencies. We cover everything from air pollution to toxic chemicals to corporate sustainability and, of course, climate change.",
+        "itunes_id": "1096811000",
+        "content_rating": "clean",
+        "artist_name": "Bloomberg Environment",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/parts-per-billion/id1096811000",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1096811000",
+        "website": "https://news.bloombergenvironment.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Business of Bees",
+        "rss_feed_url": "https://feeds.megaphone.fm/businessofbees",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 102,
+        "average_rating": 4.8,
+        "description": "These days about one in three bites of food you eat wouldn’t be possible without commercial bee pollination. And the economic value of insect pollination worldwide is estimated to be about $217 billion. But as important as bees have become for farming, there’s also increasing signs that bees are in trouble. In the decade-plus since the first cases of Colony Collapse Disorder were reported, bees are still dying in record numbers, and important questions remain unanswered. \n\nOver the course of one year, host Adam Allington and environment reporters David Schultz and Tiffany Stecker traveled to all corners of the honeybee ecosystem from Washington, D.C., to the California almond fields, and orchards of the upper Midwest to bring back answers to these questions.",
+        "itunes_id": "1462288566",
+        "content_rating": "clean",
+        "artist_name": "Bloomberg Environment",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/business-of-bees/id1462288566",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462288566",
+        "website": "https://www.bloomberg.com/podcasts/business_of_bees"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Eyes on Conservation Podcast",
+        "rss_feed_url": "https://api.podcache.net/shows/bdaac42e-84a2-41d4-82c1-8be4323aad30/feed",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 40,
+        "average_rating": 4.8,
+        "description": "The Eyes on Conservation Podcast is an interview series featuring conservations with top experts in the fields of conservation, wildlife and environmental justice.",
+        "itunes_id": "916341600",
+        "content_rating": "clean",
+        "artist_name": "The Wild Lens Collective",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-eyes-on-conservation-podcast/id916341600",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=916341600",
+        "website": "https://redcircle.com/shows/the-eyes-on-conservation-podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Successful Farming Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/successful-farming-podcast",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.7,
+        "description": "Listen as we go in-depth into the topics that affect farmers. Hear from industry leaders and experts on topics ranging from agronomy, technology, rural lifestyle, ag policy, and more. Join the discussion at agriculture.com/podcast and agriculture.com/radio.",
+        "itunes_id": "1176192313",
+        "content_rating": null,
+        "artist_name": "Successful Farming",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/successful-farming-podcast/id1176192313",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1176192313",
+        "website": "https://www.agriculture.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mongabay Newscast",
+        "rss_feed_url": "http://mongabay.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 17,
+        "average_rating": 4.9,
+        "description": "News and inspiration from nature’s frontline, featuring inspiring guests and deeper analysis of the global environmental issues explored every day by the Mongabay.com team, from climate change to biodiversity, tropical ecology, wildlife, and more. The show airs every other week.",
+        "itunes_id": "1155856616",
+        "content_rating": "clean",
+        "artist_name": "Mongabay.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mongabay-newscast/id1155856616",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1155856616",
+        "website": "http://mongabay.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Keeper Chat",
+        "rss_feed_url": "https://keeperchat.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 110,
+        "average_rating": 4.8,
+        "description": "Two zookeepers talk weird animals. Informative, irreverent, and sometimes funny. Learn about animals in a way you never have before, with all the dirty details from two people who aren't afraid to call animals out on their junk.",
+        "itunes_id": "1363803317",
+        "content_rating": "explicit",
+        "artist_name": "Flora & Fauna",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/keeper-chat/id1363803317",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363803317",
+        "website": "https://keeperchat.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mule Deer Foundation - Talking Mule Deer Podcast",
+        "rss_feed_url": "https://muledeer.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.4,
+        "description": "Talking Mule Deer is the official podcast of the Mule Deer Foundation and covers mule deer and black-tailed deer biology, hunting, and conservation issues. Hosted by Steve Belinda and Jodi Stemler, both passionate conservationist who bring a wealth of knowledge, humor and intrigue to mule deer conservation and help listeners underdstand what MDF does and what you can do to help mule deer.",
+        "itunes_id": "1384657797",
+        "content_rating": "clean",
+        "artist_name": "Mule Deer Foundation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mule-deer-foundation-talking-mule-deer-podcast/id1384657797",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1384657797",
+        "website": "https://muledeer.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Herpetological Highlights",
+        "rss_feed_url": "https://herphighlights.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Life Sciences"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.9,
+        "description": "In Herpetological Highlights we will explore the recent scientific discoveries in the field of Herpetology. We'll cover everything from lizards to frogs, snakes, and toads. Every episode we'll be digging into the biology and ecology of these reptiles and amphibians in an attempt to disentangle the science. Hosted by Tom Major and Ben Marshall. Like us on facebook: www.facebook.com/herphighlights",
+        "itunes_id": "1247615493",
+        "content_rating": "clean",
+        "artist_name": "Herpetological Highlights",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/herpetological-highlights/id1247615493",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1247615493",
+        "website": "https://herphighlights.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Marine Mammal Science",
+        "rss_feed_url": "https://marinemammalscience.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.9,
+        "description": "Marine Mammal Science is a podcast covering some of the latest scientific research on marine mammals – whales and dolphins, polar bears, seals and sea lions, manatees and dugongs, and sea otters. The podcast is produced by Speak Up For Blue Media on behalf of the Society for Marine Mammalogy and the journal Marine Mammal Science. The host is Dr. Chris Parsons.",
+        "itunes_id": "1475692072",
+        "content_rating": "clean",
+        "artist_name": "Speak Up For Blue",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/marine-mammal-science/id1475692072",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475692072",
+        "website": "http://www.speakupoforblue.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hakai Magazine Audio Edition",
+        "rss_feed_url": "https://hakaimagazine.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Society & Culture"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.9,
+        "description": "Hakai Magazine explores science, society, and the environment from a coastal perspective. This audio edition showcases readings of our long-form feature stories. New episodes are typically published Tuesdays.",
+        "itunes_id": "1193332670",
+        "content_rating": "clean",
+        "artist_name": "Hakai Magazine",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hakai-magazine-audio-edition/id1193332670",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1193332670",
+        "website": "https://hakaimagazine.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Marine Conservation Happy Hour",
+        "rss_feed_url": "https://marineconservationhappyhour.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.3,
+        "description": "The Marine Conservation Happy Hour is a podcast that looks at the many different sides of Marine Science and Conservation in an informal setting - a during a pub Happy Hour, chatting casually over a few (or more) drinks. The show is co-hosted by Andrew Lewin, @Craken_McCraic, @DrScarlettSmash and @MarineBrit. Everyone is a marine scientist who is passionate about the Ocean, marine mammals (whales, seals, dolphins, porpoises, polar bears and more), sharks and other fish, invertebrates (especially squid & octopuses because they are cool), and other marine biology things that live under the sea. Join us as we gossip about, for example, how shows like Game of Thrones are similar to Marine Conservation, the sex lives of sea creatures, hot marine science & conservation topics of the week and learn about the challenges of attaining a marine biology or conservation career.",
+        "itunes_id": "1358697135",
+        "content_rating": "clean",
+        "artist_name": "Speak Up For Blue: Marine Science and Conservation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/marine-conservation-happy-hour/id1358697135",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1358697135",
+        "website": "http://www.speakupforblue.com/mchh"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Vets Unleashed",
+        "rss_feed_url": "http://thevetsunleashed.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 24,
+        "average_rating": 4.8,
+        "description": "A Podcast For Animal Lovers!\nCocktails! Snacks! And crossing the unprofessional line. Animal Professionals and animal lovers discuss the wild kingdom - after hours.",
+        "itunes_id": "1482433220",
+        "content_rating": "explicit",
+        "artist_name": "The Vets Unleashed",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-vets-unleashed/id1482433220",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482433220",
+        "website": "http://thevetsunleashed.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Future Ecologies",
+        "rss_feed_url": "https://futureecologies.squarespace.com/listen?format=rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.8,
+        "description": "Broadcasting from the Pacific Northwest, Future Ecologies is an ongoing series of stories about the land around us. We examine the ecological processes that define planet earth: how they affect us, how we’ve affected them, and how we can align with them to create vibrant, biodiverse, and resilient societies.",
+        "itunes_id": "1413365130",
+        "content_rating": "clean",
+        "artist_name": "Future Ecologies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/future-ecologies/id1413365130",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1413365130",
+        "website": "https://www.futureecologies.net/listen/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Trustees on the Coast",
+        "rss_feed_url": "https://trusteesonthecoast.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Business",
+          "Non-Profit"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Our world is changing. The effects of climate change are all around us, impacting our daily lives, our homes, where we work, where our children play, and the places that we love. For coastal states like Massachusetts, our shores are on the front lines of these shifts, with visible, often dramatic transformations. As the state’s largest private owner of coastal property, the Trustees of Reservations is working to protect some of our most vulnerable places—cultural and historic treasures—for today and for future generations. In this podcast we will share with you not only the “why,” but the “what.” The boots-on-the-ground, action happening in and around your communities as part of our coastal vision. The time to act is now—and we’re on it. Welcome to: Trustees on the Coast!",
+        "itunes_id": "1485305394",
+        "content_rating": "clean",
+        "artist_name": "coast@thetrustees.org (coast@thetrustees.org)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/trustees-on-the-coast/id1485305394",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485305394",
+        "website": "https://www.onthecoast.thetrustees.org/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Casual Birder Podcast",
+        "rss_feed_url": "http://casualbirderpod.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 30,
+        "average_rating": 4.8,
+        "description": "Experience the wonder and excitement of watching wild birds!\nSuzy shares her observations, interviews and bird walks with guests, and stories from listeners around the world. \nFeatured birds are primarily from the UK, Europe and North America. \n\nSubscribe to the show!\n\nJoin us in the Facebook Group at bit.ly/CasualBirderFB \non Twitter @CasualBirderPod \nor on Instagram @CasualBirderPodcast",
+        "itunes_id": "1307570207",
+        "content_rating": "clean",
+        "artist_name": "Suzy Buttress",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-casual-birder-podcast/id1307570207",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1307570207",
+        "website": "http://casualbirderpod.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Northwest Nature Matters Podcast",
+        "rss_feed_url": "https://nwnaturematters.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Life Sciences"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "Sourcing accurate scientific information can be difficult in this age of polarized content. The goal of the podcast is to give you the opportunity to hear directly from the experts, through long-form conservation about natural history and conservation.\n\nThis podcast is produced by the Oregon Chapter of The Wildlife Society in partnership with the Oregon Wildlife Foundation. \n\nHosted by John Goodell. John is a wildlife biologist, curator, and conservation educator. He is the President of the Oregon Chapter of The Wildlife Society.",
+        "itunes_id": "1444717302",
+        "content_rating": "clean",
+        "artist_name": "John M Goodell",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/northwest-nature-matters-podcast/id1444717302",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1444717302",
+        "website": "https://www.myowf.org/nwnaturematters"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Breaching Extinction",
+        "rss_feed_url": "https://anchor.fm/s/e4746c8/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Breaching Extinction is an investigative podcast evaluating the complexities of the declining souther resident killer whale population in an effort to better understand the trials they currently face and find solutions through conversation and connection.",
+        "itunes_id": "1480638693",
+        "content_rating": "clean",
+        "artist_name": "Erica Wirth",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/breaching-extinction/id1480638693",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480638693",
+        "website": "https://anchor.fm/breachingextinction"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Futuremakers",
+        "rss_feed_url": "https://audioboom.com/channels/4973983.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Welcome to Futuremakers, from the University of Oxford.\nIt's your fly-on-the-wall into our colleges, where our academics debate key issues for the future of society.\nSeason Two: True Planet\nSeason One: Artificial Intelligence\nSpecial Episode: Quantum Computing",
+        "itunes_id": "1438883089",
+        "content_rating": "clean",
+        "artist_name": "Oxford University",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/futuremakers/id1438883089",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438883089",
+        "website": "http://po.st/true_planet"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Animal Training Fundamentals with Barbara Heidenreich",
+        "rss_feed_url": "https://animaltrainingfundamentals.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Kids & Family",
+          "Pets & Animals"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "From rabbits to rhinos! Have fun with practical application and get mental with behavior science. Animal training expert Barbara Heidenreich helps you solve your behavior problems and reach your training goals.",
+        "itunes_id": "1472891063",
+        "content_rating": "clean",
+        "artist_name": "Barbara Heidenreich",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/animal-training-fundamentals-with-barbara-heidenreich/id1472891063",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472891063",
+        "website": "https://animaltrainingfundamentals.com/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In The Reeds: Canada's Conservation Podcast",
+        "rss_feed_url": "http://ducanada.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.3,
+        "description": "Listen as we explore issues, ideas and research about wetlands in Canada. Wetlands are some of the most bio-diverse habitats in the country. \n\nWetlands are vital to the health of a wide variety of mammals, birds, amphibians reptiles plants - and, of course human beings. \n\nWe'll be interviewing research experts and frontline workers from Ducks Unlimited Canada in lively, engaging exchanges. They'll keep you up-to-date and up-to-speed on the best information and stories about these vital Canadian ecosystems.",
+        "itunes_id": "1203010995",
+        "content_rating": "clean",
+        "artist_name": "Ducks Unlimited Canada",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-the-reeds-canadas-conservation-podcast/id1203010995",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1203010995",
+        "website": "http://ducanada.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Let's Talk Hemp and The 422",
+        "rss_feed_url": "https://letstalkhemp.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Alternative Health"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.7,
+        "description": "We strive to provide neutral and balanced information about the burgeoning hemp industry nationally and globally. Rick has been to 30 + countries studying hemp across many legal frameworks. Morris brings event promotion to the podcast with customers from all over the world. Together they bring experience, network and entertainment to the educational podcast.",
+        "itunes_id": "1377729068",
+        "content_rating": "clean",
+        "artist_name": "Morris Beegle and Rick Trojan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/lets-talk-hemp-and-the-422/id1377729068",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1377729068",
+        "website": "http://www.letstalkhemp.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Amazing Wildlife",
+        "rss_feed_url": "https://feed.podbean.com/amazingwildlife/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Education"
+        ],
+        "rating_count": 16,
+        "average_rating": 5,
+        "description": "The educational series highlighting the wonders of the animal kingdom. Featuring fun and insightful facts about the world's most fantastic animals.",
+        "itunes_id": "1474472848",
+        "content_rating": "clean",
+        "artist_name": "Amazing Wildlife",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/amazing-wildlife/id1474472848",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474472848",
+        "website": "https://amazingwildlifepodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "De cause à effets, le magazine de l'environnement",
+        "rss_feed_url": "http://radiofrance-podcast.net/podcast09/rss_16410.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Place aux débats majeurs en matière d'environnement : expériences, recherches, solutions émergentes à côté de chez nous ou au bout du monde, en compagnie de chercheurs, décideurs et citoyens.",
+        "itunes_id": "1150938831",
+        "content_rating": "clean",
+        "artist_name": "France Culture",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/de-cause-%C3%A0-effets-le-magazine-de-lenvironnement/id1150938831",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1150938831",
+        "website": "https://www.franceculture.fr/emissions/de-cause-effets-le-magazine-de-lenvironnement"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "2 Minutes in the Yellowstone Ecosystem",
+        "rss_feed_url": "http://www.yellowstoneecosystem.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "A short weekly talk about the animals of the greater Yellowstone ecosystem, sponsored by the Yellowstone Wildlife Sanctuary.",
+        "itunes_id": "1371694563",
+        "content_rating": "clean",
+        "artist_name": "Yellowstone Wildlife Sanctuary",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/2-minutes-in-the-yellowstone-ecosystem/id1371694563",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1371694563",
+        "website": "https://yellowstoneecosystem.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "ORCA Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/537211.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Earth Sciences"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Produced by the Ocean Research and Conservation Association (ORCA), the ORCA Podcast  shares the scientific facts that drive real environmental change. Host, Aurora Aparicio, converses with marine scientists and researchers, policy advocates, environmental educators, and many others to illuminate the processes through which environmental science is conducted and applied to aquatic ecosystems. Press play and take the plunge into topics like citizen science, environmental justice, One Health, and more.",
+        "itunes_id": "1478571421",
+        "content_rating": "clean",
+        "artist_name": "Ocean Research and Conservation Association, Inc.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/orca-podcast/id1478571421",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478571421",
+        "website": "http://teamorca.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Climate Changers",
+        "rss_feed_url": "https://feeds.simplecast.com/i2wN6ksO",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Technology"
+        ],
+        "rating_count": 14,
+        "average_rating": 5,
+        "description": "Climate Changers features interviews with remarkable entrepreneurs, scientists, activists, educators and other leaders who are taking initiative as we face a growing climate crisis.\n\nClimate Changers is for people who are tired of feeling helpless and want to hear real stories from thoughtful and effective leaders who are on the front lines of building the products and coalitions that will create change \n\nThe future is worth fighting for, so join me in this weekly celebration of the heroes who are working to create a new and sustainable resource and energy economy.",
+        "itunes_id": "1481383415",
+        "content_rating": "clean",
+        "artist_name": "Ryan Flahive",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/climate-changers/id1481383415",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481383415",
+        "website": "https://climate-changers.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Target Zero Hunger",
+        "rss_feed_url": "http://targetzerohunger.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Society & Culture"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.3,
+        "description": "TARGET: Zero Hunger is a bi-weekly podcast on the stories, issues and policies at the root of global food security. With the latest research and the help of farmers, development experts and decision-makers around the world, each episode sheds a light on different parts of our food systems",
+        "itunes_id": "1106944351",
+        "content_rating": "clean",
+        "artist_name": "FAO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/target-zero-hunger/id1106944351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1106944351",
+        "website": "http://www.fao.org/news/podcast/en/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Conservation Connection",
+        "rss_feed_url": "https://anchor.fm/s/aa67b4c/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "Every day, scientists and conservationists around the globe are working to answer critical questions about our rapidly changing environment and the organisms that live there; the minute details of their work reveal both the beauty and the precarious balance of the natural world. Join the Last Chance Endeavors team as we interview today's leading wildlife scientists and conservationists about their most recent discoveries. Listen in to hear the ongoing story of the scientific studies being conducted to protect our planet's future!",
+        "itunes_id": "1453073959",
+        "content_rating": "clean",
+        "artist_name": "Last Chance Endeavors, Inc.",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/conservation-connection/id1453073959",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453073959",
+        "website": "http://www.lastchanceendeavors.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hannah and Erik Go Birding",
+        "rss_feed_url": "https://feeds.buzzsprout.com/187049.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 26,
+        "average_rating": 5,
+        "description": "Hannah and Erik love to spend their free time adventuring and birding.  Join them as they discuss their most recent adventures and other birding topics.  They are not experts but are always game to learn and experience new things.  Connect with us at IG: @HannahGoesBirding, FB: @HannahandErikGoBirding, or HannahandErikGoBirding@gmail.com.",
+        "itunes_id": "1403064308",
+        "content_rating": "clean",
+        "artist_name": "Hannah and Erik",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hannah-and-erik-go-birding/id1403064308",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1403064308",
+        "website": "https://www.gobirdingpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Environmental Studies and Sciences",
+        "rss_feed_url": "https://associationenvironmentalstudiessciences.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Environmental Studies and Sciences is a podcast covering some of the latest research on environmental issues and hot topics in the environmental field, with leading academics and upcoming environmental researchers. The podcast is produced by Speak Up for Blue Productions on behalf of the Association for Environmental Studies and Sciences, and the Journal of Environmental Studies and Sciences. The host is Dr. Chris Parsons.",
+        "itunes_id": "1475692098",
+        "content_rating": "clean",
+        "artist_name": "Speak Up For Blue",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/environmental-studies-and-sciences/id1475692098",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475692098",
+        "website": "https://aessonline.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside the Great Outdoors",
+        "rss_feed_url": "http://igoradio.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Leisure",
+          "Home & Garden"
+        ],
+        "rating_count": 9,
+        "average_rating": 4.9,
+        "description": "Inside the Great Outdoors is the best choice for Outdoors talk radio! Whether they're talking about hunting, hiking, birdwatching, fishing, nature or just some good old fashioned appreciation of the outdoors, it's guaranteed to be a great time! Inside the Great Outdoors is hosted every week by the legendary Joe \"Kastaway\" Kulis and is often joined by Joe \"Good News\" Keough! Other frequent co-hosts include Dr. Norm, Bob Faber, Carl Bachtel, Jason Samosky, Jim Peters, and many more!",
+        "itunes_id": "542037394",
+        "content_rating": "clean",
+        "artist_name": "Joe Kulis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-the-great-outdoors/id542037394",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=542037394",
+        "website": "http://www.igoradio.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "One to Grow On",
+        "rss_feed_url": "https://www.onetogrowonpod.com/feed/podcast",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Nutrition"
+        ],
+        "rating_count": 31,
+        "average_rating": 5,
+        "description": "One to Grow On is a podcast where we dig into questions about agriculture and try to understand how food production impacts us and our world. One to Grow On is hosted by resident expert Hallie Casey and her very own dad.",
+        "itunes_id": "1437683662",
+        "content_rating": "clean",
+        "artist_name": "Hallie Casey, Chris Casey, Catherine Arjet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/one-to-grow-on/id1437683662",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437683662",
+        "website": "https://www.onetogrowonpod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "In This Climate",
+        "rss_feed_url": "https://inthisclimate.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "News",
+          "Politics"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "We’re a podcast from Indiana University’s Environmental Resilience Institute and The Media School. We’re here to bring you the scientists working toward solutions, the legislation to watch and the ways you can remain resilient.",
+        "itunes_id": "1478935628",
+        "content_rating": "clean",
+        "artist_name": "In This Climate",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/in-this-climate/id1478935628",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478935628",
+        "website": "http://inthisclimate.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Salish Shes",
+        "rss_feed_url": "https://octogroup.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "This monthly podcast will explore the environment, people, politics, scandals, history, and creatures of the beautiful and economically vital Salish Sea, which includes Puget Sound. Episodes will feature guest experts on an array of topics with fun and informative discussions.",
+        "itunes_id": "1397689372",
+        "content_rating": "clean",
+        "artist_name": "OCTO",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/salish-shes/id1397689372",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1397689372",
+        "website": "http://octogroup.libsyn.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inevitable Change✨",
+        "rss_feed_url": "https://anchor.fm/s/d765360/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Inevitable Change is a podcast about all things growth, change and cyclical systems in the natural and emotional world. \n\nWe're Johanna and George, two horticulture students chatting about topics within the natural world and how we relate to them. \n\n\n🌻FIND US HERE\n\nInstagram: https://www.instagram.com/inevitable.change.podcast/\n\nGeorge: https://www.instagram.com/bryophytaboy/\n\nJohanna: https://www.instagram.com/fiorere/\n\nWebsite: https://eumycota.com/",
+        "itunes_id": "1480282074",
+        "content_rating": "clean",
+        "artist_name": "Inevitable Change",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inevitable-change/id1480282074",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480282074",
+        "website": "http://eumycota.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Outside Life",
+        "rss_feed_url": "https://feeds.captivate.fm/this-outside-life/",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "Fascinating interviews with people who work or play in the great outdoors. In this climate of depressing reports (Starving polar bears! Plastic in the oceans!) I want to turn from the tsunami of negative news and focus on what’s wonderful about our world. My aim is for you to fall in love with this gorgeous world of ours. I want you to notice the infinite storm of beauty that surrounds us. I want you to pause as you scurry out to your car and notice the bird song around you.  I want you to step outside and step into wonder. I want you to fall in love with this outside life. If this sounds like you then these are your people and this is your tribe. Subscribe!!",
+        "itunes_id": "1439670376",
+        "content_rating": "clean",
+        "artist_name": "Laurie Kehler",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-outside-life/id1439670376",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439670376",
+        "website": "https://www.thisoutsidelife.com/podcasts/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Faces of Wildlife",
+        "rss_feed_url": "https://facesofwildlife.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Sports",
+          "Wilderness"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Host Mike Pedersen, travels throughout North America to explore the issues that are threatening wildlife, and to meet the people spearheading initiatives to keep them on the landscape.",
+        "itunes_id": "1469972738",
+        "content_rating": "clean",
+        "artist_name": "Faces of Wildlife",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/faces-of-wildlife/id1469972738",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1469972738",
+        "website": "http://facesofwildlife.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Catch The Fever Fishing Podcast",
+        "rss_feed_url": "https://anchor.fm/s/e5e3d4c/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Catch The Fever fishing podcast is a performance fishing gear company on a mission to provide you with the best advice,tips and tricks to help you catch more and bigger fish out on the water.",
+        "itunes_id": "1481890792",
+        "content_rating": "clean",
+        "artist_name": "Kaleb Page",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/catch-the-fever-fishing-podcast/id1481890792",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481890792",
+        "website": "https://anchor.fm/kaleb-page"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Wild For Life",
+        "rss_feed_url": "https://wildforlife.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Wild For Life is the Toronto Zoo podcast that brings you behind the scenes and unveils the \"hidden zoo.\" Each episode brings you information on the critical conservation work that protects endangered species and works to preserve biodiversity. You will hear from nutritionists, ecologists, veterinarians, social scientists, wildlife biologists, and more that are working hard to help protect wildlife from all over the world.",
+        "itunes_id": "1456395854",
+        "content_rating": "clean",
+        "artist_name": "The Toronto Zoo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/wild-for-life/id1456395854",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456395854",
+        "website": "http://www.torontozoo.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DOC Sounds of Science Podcast",
+        "rss_feed_url": "https://departmentofconservation.podbean.com/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "A behind the scenes look at how the Department of Conservation looks after New Zealand’s unique native species and natural environment.",
+        "itunes_id": "1450346321",
+        "content_rating": "clean",
+        "artist_name": "Department of Conservation",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/doc-sounds-of-science-podcast/id1450346321",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450346321",
+        "website": "https://departmentofconservation.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Oregon Wildcast: The Lost Sea Otters of Oregon",
+        "rss_feed_url": "https://oregonwild.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "History"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Explore the tumultuous history sea otters endured, their fight to return, and future efforts to recover this native species. You can explore the rest of the project at OregonWild.org/lostotters",
+        "itunes_id": "1480894251",
+        "content_rating": "clean",
+        "artist_name": "Oregon Wild",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/oregon-wildcast-the-lost-sea-otters-of-oregon/id1480894251",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480894251",
+        "website": "https://www.oregonwild.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hunting and Fishing Stories With My Dad Gene",
+        "rss_feed_url": "https://anchor.fm/s/572bde8/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "My dad loves the outdoors. Especially hunting and fishing. He's 84 years old now, which means he’s got a lifetime of great stories to tell. So that’s what this show is. I’m Elden Nelson, and this is…Hunting and fishing stories with my dad, Gene.",
+        "itunes_id": "1479040985",
+        "content_rating": "clean",
+        "artist_name": "Elden Nelson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hunting-and-fishing-stories-with-my-dad-gene/id1479040985",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479040985",
+        "website": "https://anchor.fm/huntingwithgene"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Agir pour ma planète",
+        "rss_feed_url": "http://radiofrance-podcast.net/podcast09/rss_19870.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Retrouvez toutes les émissions et les chroniques sur le changement climatique, par les antennes de Radio France. Quel est l'impact du réchauffement climatique sur l'environnement ? Quels dangers, quelles solutions ?",
+        "itunes_id": "1442307492",
+        "content_rating": "clean",
+        "artist_name": "Radio France",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/agir-pour-ma-plan%C3%A8te/id1442307492",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1442307492",
+        "website": "http://www.radiofrance.fr/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "小農ラジオ",
+        "rss_feed_url": "http://5dan-farm.com/feed/podcast/",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "有機農業について一人語りしたりインタビューしたりしています。",
+        "itunes_id": "1481765269",
+        "content_rating": "clean",
+        "artist_name": "小農ラジオ",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%E5%B0%8F%E8%BE%B2%E3%83%A9%E3%82%B8%E3%82%AA/id1481765269",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481765269",
+        "website": "http://5dan-farm.com/%e3%81%b6%e3%82%8d%e3%81%90%e3%83%bc/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Natural Products Resource Center",
+        "rss_feed_url": "https://feeds.transistor.fm/natural-products-resource-center",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Health & Fitness",
+          "Medicine"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Natural Products Resource Center (NPRC) is separating fact from fiction for natural products. Seasoned podcast host, Dr. Hillary Blackburn, recognized the lack of education for healthcare professionals on natural products such as medical cannabis. As a pharmacist, she receives questions about cannabis and other supplements on a regular basis. This podcast is not intended to be medical advice, but is for healthcare professionals or others interested in learning more about the emerging field of natural products as medicine.\n\nNatural Products Resource Center (NPRC) is creating the standard for medical cannabis education for healthcare professionals.",
+        "itunes_id": "1479351851",
+        "content_rating": "clean",
+        "artist_name": "Hillary Blackburn",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/natural-products-resource-center/id1479351851",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479351851",
+        "website": "http://www.npr.center"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Connecting people and nature in Scotland",
+        "rss_feed_url": "https://feeds.buzzsprout.com/573418.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Leisure"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Scottish Natural Heritage presents a podcast telling stories about nature, our habits, landscapes and our native species. We want to inspire everyone to care more about it. Immerse yourself in our stories about nature in Scotland.  All carefully crafted together and delivered to you by the team at Scottish Natural Heritage. #connectingpeopleandnature  www.nature.scot",
+        "itunes_id": "1479545752",
+        "content_rating": "clean",
+        "artist_name": "Scottish Natural Heritage",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/connecting-people-and-nature-in-scotland/id1479545752",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479545752",
+        "website": "http://www.nature.scot"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "PietCast",
+        "rss_feed_url": "https://www.omropfryslan.nl/xml/podcast/697392",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "It waar, ien fan de ûnderwerpen dêr’t it measte oer praat wurdt. Foar de minsken dy’t ynteressearre binne yn mear as allinne de foarsizzing foar de kommende dagen, is der de PietCast. In podcast mei waarman Piet Paulusma. Tsien kear yn it jier dûkt presintator Wim Brons tegearre mei Piet djipper it waar yn. Hoe komt Piet oan syn ynformaasje? Krije we ea noch in alvestêdetocht? Hoe tinkt Piet oer de opwaarming fan de ierde? Allegear ûnderwerpen dy’t oan ‘e oarder komme kinne yn dizze podcast.\n\nReaksje of fraach? Graach! We komme derop werom. Mailtsje kin nei Wim Brons.\n\nDe PietCast fynst yn dyn podcastapp en op Spotify.",
+        "itunes_id": "1215276944",
+        "content_rating": "clean",
+        "artist_name": "Omrop Fryslân",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pietcast/id1215276944",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1215276944",
+        "website": "https://www.omropfryslan.nl/programma/pietcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Roy Dennis Wildlife Foundation: hands-on conservation",
+        "rss_feed_url": "https://feeds.buzzsprout.com/469015.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "There's a lot of talk about conservation, but this really is the hands-on kind.  Follow wildlife conservation in the field, as Roy Dennis, based in the Highlands of Scotland, works with his team on the restoration of species in the UK and abroad.",
+        "itunes_id": "1476073493",
+        "content_rating": "clean",
+        "artist_name": "Moira Hickey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/roy-dennis-wildlife-foundation-hands-on-conservation/id1476073493",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476073493",
+        "website": "http://www.roydennis.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Destination nature France Bleu Limousin",
+        "rss_feed_url": "http://radiofrance-podcast.net/podcast09/rss_14988.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Un regard curieux et intéressé sur la faune et la flore qui peuple le Limousin. La nature dans notre région est partout, pourvu qu'on ne l'oublie pas. Reportage contemplatif, instructif signé : Jean Michel Teulière.",
+        "itunes_id": "1064184505",
+        "content_rating": "clean",
+        "artist_name": "France Bleu",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/destination-nature-france-bleu-limousin/id1064184505",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1064184505",
+        "website": "https://www.francebleu.fr/emissions/destination-nature-sur-france-bleu-limousin/limousin"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "CO2 mon Amour",
+        "rss_feed_url": "http://radiofrance-podcast.net/podcast09/rss_10006.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "L'émission qui rapproche les hommes en nous rapprochant de la nature. avec Denis Cheissous",
+        "itunes_id": "115155893",
+        "content_rating": "clean",
+        "artist_name": "France Inter",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/co2-mon-amour/id115155893",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=115155893",
+        "website": "http://www.radiofrance.fr/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Songbirding",
+        "rss_feed_url": "https://pinecast.com/feed/songbirding",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Learning birdsong takes active listening and repeated exposure. Birding guide Rob Porter takes you into the field to experience birding by ear in this relaxed pace acoustic exploration of natural spaces in mid-western Ontario. Whether you're an aspiring or veteran birder looking to test and build upon your birdsong identification skills or someone who appreciates the natural world, this unique serial will bring you as close as you can get to birding in the field without going anywhere.\n\nSeason 1, \"The Bruce Peninsula\" was recorded in July of 2019, in the peak of songbird breeding season.\n\nFor those with high-frequency hearing loss, please search for \"Songbirding Under 5kHz\"\n\nThe Bruce Peninsula (also known as the Saugeen Peninsula) is the traditional territory of the Haudensaunee (Iroquois), Ojibway/Chippewa and Anishnabek. This territory is covered by the Upper Canada Treaties, with the exception of the Chippewas of Nawash Unceded First Nation which is unceded territory.\n\nCredits\n\nRecorded, engineered, narrated and created by Rob Porter.\n\nCreative Commons Credits:\n\nCreative Commons music from Scott Buckley, Creative Commons music from Keinzweiter, Creative Commons sounds from Jordan Powell.",
+        "itunes_id": "1480167042",
+        "content_rating": "clean",
+        "artist_name": "Rob Porter",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/songbirding/id1480167042",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480167042",
+        "website": "https://songbirding.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "It’s a Wild Life",
+        "rss_feed_url": "https://anchor.fm/s/d9e985c/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Adventures with wildlife\n\nNicholsphotography1.weebly.com",
+        "itunes_id": "1478041215",
+        "content_rating": "clean",
+        "artist_name": "Monica Anne",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/its-a-wild-life/id1478041215",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478041215",
+        "website": "Nicholsphotography1.weebly.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Trail Connection",
+        "rss_feed_url": "https://feeds.buzzsprout.com/342971.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The Trail Connection brings listeners/viewers alongside Tim Garland and various guests on outdoor excursions into many different locations around the country.  Episodes comprised of a range of topics including hiking, camping, site setups, campfire cooking, gear reviews, story-telling, and adventure previews. Inspiring interest in getting outdoors through sharing experiences, learning from some really cool folks, and engaging in good conversation.",
+        "itunes_id": "1479808463",
+        "content_rating": "clean",
+        "artist_name": "Tim Garland",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-trail-connection/id1479808463",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479808463",
+        "website": "http://www.trail-connection.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Harvest Kaplankaya",
+        "rss_feed_url": "https://harvestkaplankaya.libsyn.com/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Society & Culture",
+          "Places & Travel"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "A podcast following a 3-day experience filled with fascinating talks and workshops to harvest knowledge and nurture the planet.",
+        "itunes_id": "1476974950",
+        "content_rating": "clean",
+        "artist_name": "Harvest KaplanKaya",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/harvest-kaplankaya/id1476974950",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476974950",
+        "website": "https://harvestkaplankaya.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Compost",
+        "rss_feed_url": "https://anchor.fm/s/e17d834/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Hey y'all! Welcome to The Compost, the newest edition of an environmental podcast, brought to you by yours truly, Austin Huang. My vision is to impact and empower the lives of young people from all around the world to stand up for our planet. Welcome to a Sustainable Future! Support this podcast: https://anchor.fm/thecompost/support",
+        "itunes_id": "1475205342",
+        "content_rating": "clean",
+        "artist_name": "Austin Huang",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-compost/id1475205342",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475205342",
+        "website": "http://www.sustainablefuture.co/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Animals' iView",
+        "rss_feed_url": "https://feeds.buzzsprout.com/327653.rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Education",
+          "How To"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Animals' perspective of Earth and beyond",
+        "itunes_id": "1466866339",
+        "content_rating": "clean",
+        "artist_name": "Lizanne Flynn",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-animals-iview/id1466866339",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466866339",
+        "website": "http://www.lizanneflynn.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Conduct Science Podcast",
+        "rss_feed_url": "https://feed.podbean.com/conductscience/feed.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Comedy"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Interested in learning more about science? This topical podcast will reveal the complexities behind everything from neuroscience to climate change, the deep ocean to deep space and will even shed light on how you may conduct science. On Wednesdays find an interview with a special guest from the science world, Join our hosts Tom and Mitch as they cover a different topic each Thursday! And on Friday join Tom in The Method Section as he covers shorter topics aimed at scientists.",
+        "itunes_id": "1466758143",
+        "content_rating": "clean",
+        "artist_name": "Conduct Science",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-conduct-science-podcast/id1466758143",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466758143",
+        "website": "https://conductscience.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The EcoIQ Podcast",
+        "rss_feed_url": "https://anchor.fm/s/ee4b390/podcast/rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Fostering connection, deepening Ecological Intelligence",
+        "itunes_id": "1482252614",
+        "content_rating": "clean",
+        "artist_name": "Aharon",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-ecoiq-podcast/id1482252614",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482252614",
+        "website": "https://anchor.fm/aharon4"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Frack You Very Much",
+        "rss_feed_url": "http://unrelatedthings.net/frackyouverymuch?format=rss",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science",
+          "Natural Sciences"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "A podcast about fracking",
+        "itunes_id": "1480613182",
+        "content_rating": "clean",
+        "artist_name": "frackyouverymuch.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/frack-you-very-much/id1480613182",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480613182",
+        "website": "http://unrelatedthings.net/frackyouverymuch/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rendez-vous à la ferme - Fanny Agostini",
+        "rss_feed_url": "https://www.europe1.fr/rss/podcasts/fanny-a-la-ferme-fanny-agostini.xml",
+        "categories": [
+          "Nature",
+          "Podcasts",
+          "Science"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Depuis sa ferme pédagogique installée à Boisset en Haute-Loire, Fanny Agostini met à l'honneur l'alimentation, la santé et l'agriculture.",
+        "itunes_id": "1477805900",
+        "content_rating": "clean",
+        "artist_name": "Europe 1",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rendez-vous-%C3%A0-la-ferme-fanny-agostini/id1477805900",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477805900",
+        "website": "https://www.europe1.fr/emissions/fanny-a-la-ferme"
+      }
+    }
+  ]
+}

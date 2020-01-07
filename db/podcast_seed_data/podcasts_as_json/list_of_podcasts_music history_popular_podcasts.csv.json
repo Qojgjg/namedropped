@@ -1,0 +1,2605 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "Dolly Parton's America",
+        "rss_feed_url": "http://feeds.wnyc.org/dolly-partons-america",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 6828,
+        "average_rating": 4.6,
+        "description": "In this intensely divided moment, one of the few things everyone still seems to agree on is Dolly Parton—but why? That simple question leads to a deeply personal, historical, and musical rethinking of one of America’s great icons. Join us for a 9-episode journey into the Dollyverse. Hosted by Jad Abumrad, creator of Radiolab and More Perfect.\nDolly Parton’s America is co-produced by OSM Audio and WNYC Studios.",
+        "itunes_id": "1481398762",
+        "content_rating": "clean",
+        "artist_name": "WNYC Studios & OSM Audio",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dolly-partons-america/id1481398762",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481398762",
+        "website": "https://www.wnycstudios.org/podcasts/dolly-partons-america"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Slow Burn",
+        "rss_feed_url": "http://feeds.megaphone.fm/watergate",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 18880,
+        "average_rating": 4.7,
+        "description": "In its first two seasons, Slow Burn looked back at two of the biggest stories of the late 20th century—the Watergate scandal and the impeachment of Bill Clinton. Season three of the show tackles another: the murders of Tupac Shakur and the Notorious B.I.G.",
+        "itunes_id": "1315040130",
+        "content_rating": null,
+        "artist_name": "Slate Podcasts",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/slow-burn/id1315040130",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1315040130",
+        "website": "http://slate.com/slowburn"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DISGRACELAND",
+        "rss_feed_url": "https://feeds.megaphone.fm/HSW2452741958",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 9008,
+        "average_rating": 4.6,
+        "description": "Murder, infidelity, suicide, arson, overdose, religious cults, drug trafficking; this podcast explores the alleged true crime antics and criminal connections of musicians we love like Jerry Lee Lewis, The Rolling Stones, Tay K-47, Tupac Shakur, Mayhem, Amy Winehouse and many more. Why? Because real rock stars are more like feral, narcissistic animals than functioning members of society and that is precisely what makes them so damn entertaining. If you love true crime and you love music then get ready to love this podcast.",
+        "itunes_id": "1275172907",
+        "content_rating": "explicit",
+        "artist_name": "iHeartRadio & Jake Brennan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/disgraceland/id1275172907",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1275172907",
+        "website": "https://www.disgracelandpod.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mogul",
+        "rss_feed_url": "https://feeds.megaphone.fm/mogul",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 2649,
+        "average_rating": 4.9,
+        "description": "Mogul is a show about hip hop’s most iconic moments, told by the people who lived them. Season 2 dives into the birth of southern hip hop. It all started in Miami with the 2 Live Crew, a group that took hip hop and made it faster, harder, and nastier than anything anyone had heard before. But in 1990 their music was declared legally obscene, and what followed is known today as the most controversial trial in the history of hip hop. This group, this city and this trial changed the course of music history as we know it. Mogul Season 2 features exclusive interviews with Miami legends like Trick Daddy, Rick Ross, Trina, Luke Campbell, Brother Marquis, Mr. Mixx, Walshy Fire, and more.",
+        "itunes_id": "1247146656",
+        "content_rating": "explicit",
+        "artist_name": "Gimlet",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mogul/id1247146656",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1247146656",
+        "website": "https://gimletmedia.com/mogul/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hit Parade | Music History and Music Trivia",
+        "rss_feed_url": "http://feeds.megaphone.fm/hitparade",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 1096,
+        "average_rating": 4.8,
+        "description": "What makes a song a smash? Talent? Luck? Timing? All that—and more.\n \nChris Molanphy, pop-chart analyst and author of Slate’s “Why Is This Song No. 1?” series, tells tales from a half-century of chart history. Through storytelling, trivia and song snippets, Chris dissects how that song you love—or hate—dominated the airwaves, made its way to the top of the charts and shaped your memories forever.",
+        "itunes_id": "1291058235",
+        "content_rating": null,
+        "artist_name": "Slate Podcasts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hit-parade-music-history-and-music-trivia/id1291058235",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1291058235",
+        "website": "www.slate.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KERRANG! Inside Track",
+        "rss_feed_url": "https://rss.acast.com/kerranginsidetrack",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 39,
+        "average_rating": 5,
+        "description": "Kerrang!’s flagship podcast Inside Track tells the stories of some of the biggest, most influential and important moments in music history from the perspective of the rock stars who lived through them.",
+        "itunes_id": "1482333922",
+        "content_rating": "clean",
+        "artist_name": "Kerrang!",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kerrang-inside-track/id1482333922",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482333922",
+        "website": "http://www.kerrang.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Digging Deep with Robert Plant",
+        "rss_feed_url": "https://rss.art19.com/digging-deep-with-robert-plant",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 599,
+        "average_rating": 4.7,
+        "description": "Robert Plant is celebrating S2 of his hugely popular podcast, Digging Deep with Robert Plant, with the release of a very special limited edition 7’’ singles box set. DIGGING DEEP includes 16 A-sides and rare B-sides spanning three decades all beautifully packaged in a hardback book.  Pre-order here: https://lnk.to/RP_DiggingDeep_Vinyl\nRobert Plant’s music is the result of a lifetime striding around the globe, from The Midlands to Morocco, from Nashville to North Wales, and the influences and friends collected along the way can be heard in his songs. In this podcast he'll delve into his back catalogue to revisit a track from this remarkable history to tell stories of inspiration, collaboration and intervention. It’s Robert’s personal road map to an incredible and personal journey that’s ongoing to this very day…",
+        "itunes_id": "1459017391",
+        "content_rating": null,
+        "artist_name": "Robert Plant",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/digging-deep-with-robert-plant/id1459017391",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459017391",
+        "website": "https://art19.com/shows/digging-deep-with-robert-plant"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "After Midnight: Phish's Big Cypress Festival",
+        "rss_feed_url": "https://feeds.simplecast.com/giq9Zy7d",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 86,
+        "average_rating": 5,
+        "description": "The definitive retrospective of one of music’s most memorable festivals, Phish’s Big Cypress. In December of 1999, Phish drew an estimated 80,000 to the Big Cypress Indian Reservation in Florida’s Everglades, making this festival the largest Millennium Eve concert on earth. We look back on the festival 20 years later—and examine the legacy for Phish and the music world. Hosted and narrated by Jesse Jarnow,  this five-episode series draws on interviews with members of Phish and its crew, fan memories, and conversations with other people across the music industry.",
+        "itunes_id": "1485278388",
+        "content_rating": "explicit",
+        "artist_name": "Osiris Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/after-midnight-phishs-big-cypress-festival/id1485278388",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485278388",
+        "website": "https://after-midnight-phishs-big-cypress-festival.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Album | آلبوم",
+        "rss_feed_url": "https://albumpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 326,
+        "average_rating": 4.8,
+        "description": "The story behind making of greatest music albums of all time and criticizing their songs.",
+        "itunes_id": "1449000632",
+        "content_rating": "clean",
+        "artist_name": "Bardia Barj",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/album-%D8%A2%D9%84%D8%A8%D9%88%D9%85/id1449000632",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1449000632",
+        "website": "https://albumpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DJ Mike Rizzy",
+        "rss_feed_url": "https://deejaymikerizzy.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 227,
+        "average_rating": 4.8,
+        "description": "Hip Hop, R&B, Soul, 80's, Old School, Reggae, and just anything with soul all mixed by DJ Mike Rizzy.",
+        "itunes_id": "264773109",
+        "content_rating": "explicit",
+        "artist_name": "Mike Rizzy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dj-mike-rizzy/id264773109",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=264773109",
+        "website": "https://deejaymikerizzy.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Final Sessions",
+        "rss_feed_url": "https://rss.art19.com/final-sessions",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 26,
+        "average_rating": 4.8,
+        "description": "Every album tells a story.\nIntroducing \"Final Sessions,\" a new audio documentary series about music's most notable releases. The first season is a 4-part limited series detailing the long and fascinating narrative behind \"Losst And Founnd,\" singer and songwriter Harry Nilsson's last album of new music.\nKnown for timeless hits like \"Everybody's Talkin',\" \"Gotta Get Up\" (the theme to Netflix's \"Russian Doll\") and \"Without You,\" Harry was working on his final album right up to his untimely death in 1994, at the age of 52. Now, 25 years later, producer and collaborator Mark Hudson (Ringo Starr, Aerosmith, Ozzy Osbourne) and a cadre of friends, such as Jim Keltner, Van Dyke Parks, Jimmy Webb and even his son Kiefo Nilsson, have helped bring the album to life. \"Final Sessions\" is an in-depth exploration of Harry's music, his close friendship with the Beatles, his family life, and how his backstory informed his classic songs.\nA new episode airs every Friday in November, leading up to the release of \"Losst And Founnd\" on November 22nd.",
+        "itunes_id": "1485167348",
+        "content_rating": "explicit",
+        "artist_name": "Warner Chappell Music",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/final-sessions/id1485167348",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485167348",
+        "website": "https://art19.com/shows/final-sessions"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Blues Kitchen Podcast",
+        "rss_feed_url": "https://theblueskitchen.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 92,
+        "average_rating": 4.8,
+        "description": "Hosted by Liam & Gaz, Blues Kitchen Radio is a weekly rhythm ‘n’ roots show that celebrates anything from 1920′s Delta Blues, through gritty funk & soul all the way to the hottest contemporary tunes.",
+        "itunes_id": "366196294",
+        "content_rating": "clean",
+        "artist_name": "The Blues Kitchen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-blues-kitchen-podcast/id366196294",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=366196294",
+        "website": "https://theblueskitchen.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ongoing History of New Music",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/fdc2ad13-d199-4e97-b2db-a59300cb6cc2/f44fd2a1-69cf-4c65-898d-a706014d9800/06766371-6e68-4bb7-8550-a706014dfc2a/podcast.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 240,
+        "average_rating": 5,
+        "description": "Ongoing History of New Music  looks at things from the alt-rock universe to hip hop, from artist profiles to various thematic explorations. It is Canada’s most well known music documentary hosted by the legendary Alan Cross. Whatever the episode, you’re definitely going to learn something that you might not find anywhere else.  Trust us on this.",
+        "itunes_id": "1201968027",
+        "content_rating": "clean",
+        "artist_name": "Curiouscast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ongoing-history-of-new-music/id1201968027",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1201968027",
+        "website": "http://www.edge.ca/ongoinghistory/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Riki Rachtman's Cathouse Hollywood Podcast",
+        "rss_feed_url": "https://cathousehollywood.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 288,
+        "average_rating": 4.8,
+        "description": "From 1986-1992 The Cathouse was at the epicenter of the Hollywood Rock scene. Some of the biggest bands in rock would play unannounced shows at the Cathouse but it wasn't the performances by bands like Guns n Roses, Motorhead, Alice Cooper, Pearl Jam, Faster Pussycat, Black Crows  (the list goes on) that put Cathouse on the map. It was the sleaze and debauchery, the raunch and roll. Riki Rachtman former host of MTV's Headbangers Ball owned the Cathouse. He opened it with his roommate Taime Downe from the band Faster Pussycat with the premise of getting free drinks and meeting girls.\n\n    Riki enforced a no camera rule at the Cathouse so anything could and did happen. These stories have never been told......Until now\n\nEach episode of Cathouse Hollywood Riki recaps 1 night at the Cathouse and he recounts the night with a participant or witness to what took place that evening. His guest could be a a musician that sold 5 million records or the girl that worked the coat check. It doesn't matter at Riki Rachtman's World Famous Cathouse we were all Rock Stars",
+        "itunes_id": "1448178672",
+        "content_rating": "explicit",
+        "artist_name": "Riki Rachtman Cathouse Hollywood",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/riki-rachtmans-cathouse-hollywood-podcast/id1448178672",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448178672",
+        "website": "http://www.cathousehollywood.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Political Beats",
+        "rss_feed_url": "https://feeds.podcastmirror.com/political-beats",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 286,
+        "average_rating": 4.9,
+        "description": "Scot Bertram and Jeff Blehar ask guests from the world of politics about their musical passions. Scot can be found on Twitter @scotbertram. Jeff can be found @EsotericCD.",
+        "itunes_id": "1273580812",
+        "content_rating": "clean",
+        "artist_name": "National Review",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/political-beats/id1273580812",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1273580812",
+        "website": "https://www.nationalreview.com/media/political-beats"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Metronom - مترونوم",
+        "rss_feed_url": "https://metronom.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 169,
+        "average_rating": 4.9,
+        "description": "Metronom is a podcast about Iranian music and  famous Persian songs.\nMetronom talks about how the famous Persian hit songs has been made who are their creators and other stories about the music.",
+        "itunes_id": "1442175861",
+        "content_rating": "clean",
+        "artist_name": "metronom",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/metronom-%D9%85%D8%AA%D8%B1%D9%88%D9%86%D9%88%D9%85/id1442175861",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1442175861",
+        "website": "https://metronom.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bizarre Albums",
+        "rss_feed_url": "https://anchor.fm/s/c72e168/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 159,
+        "average_rating": 4.9,
+        "description": "Tony Thaxton explores the weirder side of music, celebrating and telling the story behind those strange albums that make you wonder how and why they exist. Doing deep dives on albums released by pro athletes, actors, fictional characters, and more. Support this podcast: https://anchor.fm/bizarrealbums/support Support this podcast: https://anchor.fm/bizarrealbums/support",
+        "itunes_id": "1471679636",
+        "content_rating": "clean",
+        "artist_name": "Tony Thaxton",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bizarre-albums/id1471679636",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1471679636",
+        "website": "https://www.bizarrealbums.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rock N Roll Archaeology",
+        "rss_feed_url": "https://feeds.megaphone.fm/rocknroll",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 57,
+        "average_rating": 4.8,
+        "description": "An episodic overview of the history of Rock Music. Think of it as a college level Rock N Roll 101 course...or if you prefer, a multi-part audio documentary.\n\nWe take in the music, culture and technology of the second half of the 20th Century to prove how significant and how much impact this art movement had to the times, while still resonating today. It’s carefully researched, fully scripted and highly produced...a little bit academic in tone, because we do our homework.\n\nBut we throw in a lot of fun too: music, storytelling, commentary and quotes, lots of sound design. The series is presented in chronological order, and we take our time making these, really trying to get the history right. \n\nWe’re part of the Osiris podcast network. Osiris is creating a community that connects people like you with podcasts and live experiences about artists and topics you love.",
+        "itunes_id": "1448931658",
+        "content_rating": "explicit",
+        "artist_name": "Pantheon Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rock-n-roll-archaeology/id1448931658",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448931658",
+        "website": "http://www.rocknrollarchaeology.com/rock-n-roll-archaeology"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Pamela Des Barres' Pajama Party!",
+        "rss_feed_url": "https://feeds.megaphone.fm/misspamela",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 32,
+        "average_rating": 5,
+        "description": "Pantheon is proud to present Pamela Des Barres podcast series, “Miss Pamela’s Pajama Party” Join Miss Pamela as she tells tales from her diary, has fun interviewing special guests, and shares her love of Rock n Roll.  She is known as “the World’s Most Famous Groupie” or “Queen of the Groupies,” - but listen as Miss P has many other facets, fascinations and unique talents!",
+        "itunes_id": "1458647174",
+        "content_rating": "explicit",
+        "artist_name": "Pamela Des Barres",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/pamela-des-barres-pajama-party/id1458647174",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458647174",
+        "website": "http://www.rocknrollarchaeology.com/miss-pamelas-pajama-party"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Opus",
+        "rss_feed_url": "https://rss.acast.com/theopus",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 60,
+        "average_rating": 4.6,
+        "description": "Consequence of Sound and Sony bring you an exploration of legendary albums and their ongoing legacy. Join The Opus as it learns how masterpieces continue to evolve: shaping lives, shaking rafters, and ingraining itself into our culture. Maybe you’re a longtime fan who wants to go deeper. Maybe you’re a first-time listener curious to hear more – either way, you’re in the right place.",
+        "itunes_id": "1441998476",
+        "content_rating": "explicit",
+        "artist_name": "Consequence Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-opus/id1441998476",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441998476",
+        "website": "http://consequenceofsound.net/theopus/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rock & Metal Combat Podcast",
+        "rss_feed_url": "https://wadzilla74.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 180,
+        "average_rating": 4.8,
+        "description": "Rock & Metal Reviews",
+        "itunes_id": "898635643",
+        "content_rating": "explicit",
+        "artist_name": "Ian Wadley",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rock-metal-combat-podcast/id898635643",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=898635643",
+        "website": "http://wadzilla74.podbean.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Beatles Naked",
+        "rss_feed_url": "https://feeds.blubrry.com/feeds/swingingthroughthesixties.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 80,
+        "average_rating": 4.7,
+        "description": "The ultimate Beatles podcast: Deep research, unconventional topics, probing interviews and hard-hitting info that doesn't pull any punches. Hosted by Erik Taros and Richard Buskin.",
+        "itunes_id": "1306616741",
+        "content_rating": "clean",
+        "artist_name": "Richard Buskin & Erik Taros",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-beatles-naked/id1306616741",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1306616741",
+        "website": "http://www.blubrry.com/thebeatlesnaked/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Who Cares About the Rock Hall?",
+        "rss_feed_url": "https://feeds.megaphone.fm/rockhall",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 75,
+        "average_rating": 4.7,
+        "description": "A podcast about the Rock and Roll Hall of Fame hosted by comedians Joe Kwaczala and Kristen Studard. He's a long-time devotee. She's a skeptic. Join them as he attempts to get her (and their guests) to care about this institution.",
+        "itunes_id": "1372323455",
+        "content_rating": "explicit",
+        "artist_name": "Joe Kwaczala & Kristen Studard",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/who-cares-about-the-rock-hall/id1372323455",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1372323455",
+        "website": "https://cms.megaphone.fm/channel/rockhall?selected=PAN3467610245"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Discography",
+        "rss_feed_url": "https://rss.acast.com/discography",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 158,
+        "average_rating": 4.7,
+        "description": "Discography is a deep dive into a legendary musician's catalogue - album by album - to give you the big picture on who they are and what's cemented their place in the annuls of sonic history. Walk in a novice, and come out well informed and with a new favorite record or two. Cult indie rocker, Marc With a C, is your host with the most and takes you on a voyage with a different classic artist every quarter.",
+        "itunes_id": "1367796922",
+        "content_rating": "explicit",
+        "artist_name": "Marc With a C",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/discography/id1367796922",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1367796922",
+        "website": "https://consequenceofsound.net/discography/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "When They Was Fab: Electric Arguments About the Beatles",
+        "rss_feed_url": "https://whentheywasfab.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.2,
+        "description": "Beatling About.  Anything about the Beatles, solo and related, past, present and future.",
+        "itunes_id": "1063469747",
+        "content_rating": "clean",
+        "artist_name": "Ed Chen and Lonnie Pena",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/when-they-was-fab-electric-arguments-about-the-beatles/id1063469747",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1063469747",
+        "website": "https://whentheywasfab.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Drum History",
+        "rss_feed_url": "https://feeds.megaphone.fm/GS3589987307",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 50,
+        "average_rating": 4.9,
+        "description": "A podcast all about the rich history of the drums - and how they became what they are today! Join Bart van der Zee as he speaks with experts about the curious journey of the ever-evolving drum set.",
+        "itunes_id": "1439751014",
+        "content_rating": "clean",
+        "artist_name": "Bart Vanderzee",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/drum-history/id1439751014",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439751014",
+        "website": "www.drumhistorypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A History Of Rock Music in Five Hundred Songs",
+        "rss_feed_url": "https://www.500songs.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 52,
+        "average_rating": 4.8,
+        "description": "A podcast which goes through the history of rock and roll music, one song at a time, starting in 1938 and ending up in 1999.",
+        "itunes_id": "1437402802",
+        "content_rating": "clean",
+        "artist_name": "Andrew Hickey",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-history-of-rock-music-in-five-hundred-songs/id1437402802",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437402802",
+        "website": "https://fivehundredsongs.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Listen Up - The Oasis Podcast",
+        "rss_feed_url": "https://listenupoasis.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 54,
+        "average_rating": 4.9,
+        "description": "Marking the 25th anniversary of Definitely Maybe, ‘Listen Up’ is an eye-witness account of the remarkable events leading up to and following the release of Oasis’ iconic debut album. A new four-part podcast series with contributions from fans, friends, fellow musicians and the band’s inner circle; this is the people’s story of that period, told by those who witnessed what happened when Oasis went supersonic.",
+        "itunes_id": "1477079450",
+        "content_rating": "explicit",
+        "artist_name": "Oasis",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/listen-up-the-oasis-podcast/id1477079450",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477079450",
+        "website": "http://www.oasisinet.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Ramble On Radio: The Led Zeppelin Podcast",
+        "rss_feed_url": "https://iambriandammit.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 28,
+        "average_rating": 4.5,
+        "description": "The only Led Zeppelin Podcast on this or any other known internets!",
+        "itunes_id": "458708576",
+        "content_rating": "clean",
+        "artist_name": "Brian Gardiner",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ramble-on-radio-the-led-zeppelin-podcast/id458708576",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=458708576",
+        "website": "https://iambriandammit.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "50 Years of Maximum Rock n' Roll",
+        "rss_feed_url": "http://bobheil.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 82,
+        "average_rating": 4.9,
+        "description": "50 Years of Maximum Rock & Roll is a podcast hosted by Dave Hines and features concert sound pioneer Bob Heil. Hear stories from his days touring with The Who, Humble Pie, the James Gang and others, to the development of the Talk Box made famous by Peter Frampton. The show will feature special guests who were \"in the trenches.\"  Bob will also talk about his current cutting edge microphone designs. Take a look back - and forward - at the inner workings of Heil Sound by the man who created it all.",
+        "itunes_id": "1073354021",
+        "content_rating": "clean",
+        "artist_name": "With Bob Heil",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/50-years-of-maximum-rock-n-roll/id1073354021",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1073354021",
+        "website": "http://bobheil.libsyn.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Behind the Song",
+        "rss_feed_url": "http://feeds.hubbardpodcasts.com/WDRVBehindTheSong",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.3,
+        "description": "Dig deep into the lyrics of classic rock songs and the storytellers that created them in \"Behind The Song,\" a podcast by The Drive's Janda Lane. Hear what was happening behind the scenes while some of the most iconic songs in rock history were being written.",
+        "itunes_id": "1437006895",
+        "content_rating": "clean",
+        "artist_name": "PodcastOne / Hubbard Radio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/behind-the-song/id1437006895",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1437006895",
+        "website": "https://www.podcastone.com/behind-the-song"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Band: A History",
+        "rss_feed_url": "https://feeds.megaphone.fm/theband",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 57,
+        "average_rating": 4.9,
+        "description": "Exploring the history of Canadian-American roots rock group, The Band.",
+        "itunes_id": "1452077561",
+        "content_rating": "clean",
+        "artist_name": "The Band: A History",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-band-a-history/id1452077561",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1452077561",
+        "website": "thebandpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Muses",
+        "rss_feed_url": "https://feeds.megaphone.fm/muses",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 38,
+        "average_rating": 4.7,
+        "description": "Chanty & Lynx are just a couple of fun-lovin’ rocker girls from Toronto, with chemistry and great rapport...they have done over 100 episodes of Muses!\n\nChanty and Lynx dish about the wives and girlfriends and groupies - the partners and muses who inspired their rock heroes. A little gossip and fun, plus book reviews, and in-depth, heartfelt conversations with other Rock N Roll Women--and the occasional Rock N Roll Dude.",
+        "itunes_id": "1163517605",
+        "content_rating": "explicit",
+        "artist_name": "Muses",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/muses/id1163517605",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1163517605",
+        "website": "https://musesandstuff.ptbopodcasters.ca"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Floyd Radio Show, Live From The Floyd Country Store",
+        "rss_feed_url": "http://www.floydcountrystore.com/category/frs-podcast/feed",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 18,
+        "average_rating": 4.9,
+        "description": "Live from The Floyd Country Store in the heart of downtown Floyd, Virginia, it's The Floyd Radio Show! We bring together a new variety show every month with original radio plays, comedy bits, ads, jingles, music and more. Each show features three of the area’s finest old-timey musical acts, from storytelling banjo players to flatpicking guitarists to hard-driving stringbands.",
+        "itunes_id": "592756379",
+        "content_rating": "clean",
+        "artist_name": "The Floyd Radio Show",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-floyd-radio-show-live-from-the-floyd-country-store/id592756379",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=592756379",
+        "website": "https://www.floydcountrystore.com/radio-show"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "amusic podcast   پادکست فارسی ای میوزیک",
+        "rss_feed_url": "https://amusic.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts"
+        ],
+        "rating_count": 32,
+        "average_rating": 4.7,
+        "description": "از خنیاگران اروپای سده‌های میانه تا تولد موسیقی جَز از ریتم‌های آفریقایی در قاره نو\n\nمن آرش رسولیان هستم، مدرس و نوازنده ویولون. طی سال‌هایی که مشغول به کار موسیقی بودم، به موارد زیادی برخورد کردم که نیاز به توضیح بیشتر برای هنرجویان موسیقی و یا یادگیری بیشتر توسط خودم داشت؛ در نهایت تصمیم گرفتم کاری برای این موضوع انجام دهم و ایده پادکست \"اِی‌میوزیک\" متولد شد. از شما دعوت می کنم در این سفر با من همراه باشید!",
+        "itunes_id": "1435139077",
+        "content_rating": "clean",
+        "artist_name": "Arash Rasoulian",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/amusic-podcast-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A7%DB%8C-%D9%85%DB%8C%D9%88%D8%B2%DB%8C%DA%A9/id1435139077",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435139077",
+        "website": "https://amusic.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Imbalanced History of Rock and Roll",
+        "rss_feed_url": "https://feeds.megaphone.fm/imbalancedhistory",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "This is a podcast that was created to discuss the humongous tree of music known as Rock and Roll. There are thousands of branches. There is so much information out there with even more to be learned. Together, we are going to have fun talking about our passion, the Imbalanced History of Rock and Roll. Between Ray and Markus, we have 50+ years of rock and roll radio experience and a thirst to know more! With your input we want to begin to balance the imbalanced. We look forward to connecting and sharing with you as we dig deep into the music.",
+        "itunes_id": "1456552351",
+        "content_rating": "clean",
+        "artist_name": "The Imbalanced History of Rock and Roll",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-imbalanced-history-of-rock-and-roll/id1456552351",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1456552351",
+        "website": "http://imbalancedhistory.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "#JCsMusicology",
+        "rss_feed_url": "https://feeds.fireside.fm/jcsmusicology/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts"
+        ],
+        "rating_count": 39,
+        "average_rating": 5,
+        "description": "Focusing on a creative peak in an artist's career, #JCsMusicology tells the story of how greatness was achieved.\n\"Must Listen!\" - RuPaul.\n\"Uh if you are a stan--this is Christmas.\" - Questlove.\n\"Meticulously stitched together by John Cameron. Get ready to go deep.\" - MuuMuse.",
+        "itunes_id": "1428856802",
+        "content_rating": "clean",
+        "artist_name": "John Cameron",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/jcsmusicology/id1428856802",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1428856802",
+        "website": "https://jcsmusicology.fireside.fm"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Hardcore Will Never Die",
+        "rss_feed_url": "https://bananaman.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.5,
+        "description": "The Worlds No1 Happy Hardcore Podcast. 360 Degrees Of Rave Music Past, Present and Future",
+        "itunes_id": "359718613",
+        "content_rating": "clean",
+        "artist_name": "Dj EZC",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/hardcore-will-never-die/id359718613",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=359718613",
+        "website": "http://bananaman.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Listen Now with Matt and Sam",
+        "rss_feed_url": "https://rss.acast.com/listen-now",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The podcast where Melbourne comedian Matt Stewart and his music lovin cousin Sam Tonkin go through the back catalogues of some of the most important bands, starting with Australian pub rock legends, Cold Chisel!",
+        "itunes_id": "1484808020",
+        "content_rating": "clean",
+        "artist_name": "Matt Stewart and Sam Tonkin",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/listen-now-with-matt-and-sam/id1484808020",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1484808020",
+        "website": "http://facebook.com/ListenNowPod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Music History Monday",
+        "rss_feed_url": "https://robertgreenbergmusic.com/category/podcast/feed/",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.9,
+        "description": "Exploring Music History with Professor Robert Greenberg one Monday at a time. Every Monday Robert Greenberg explores some timely, perhaps intriguing and even, if we are lucky, salacious chunk of musical information relevant to that date, or to … whatever. If on (rare) occasion these features appear a tad irreverent, well, that’s okay: we would do well to remember that cultural icons do not create and make music but rather, people do, and people can do and say the darndest things.",
+        "itunes_id": "1390707588",
+        "content_rating": "clean",
+        "artist_name": "Robert Greenberg",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/music-history-monday/id1390707588",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1390707588",
+        "website": "https://robertgreenbergmusic.com/category/podcast/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Let It Roll",
+        "rss_feed_url": "https://feeds.megaphone.fm/letitroll",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.9,
+        "description": "\"Let it Roll\" is a podcast about the history of popular music from the 19th Century to the 21st.",
+        "itunes_id": "1293313890",
+        "content_rating": "clean",
+        "artist_name": "Pantheon Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/let-it-roll/id1293313890",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1293313890",
+        "website": "http://www.letitrollpodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Tinsel Tunes - A Christmas Music Podcast",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/8070",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Religion & Spirituality"
+        ],
+        "rating_count": 12,
+        "average_rating": 5,
+        "description": "Tinsel Tunes podcast goes into great detail about Christmas music. Full of fun and interesting facts, it will get you into the Christmas Spirit. ​ ​Hear about your favorite classics or modern songs. Learn about those songs that you dislike. The stories behind these are just as interesting.  ​You may also find some new favorites and get a heads up on what will be new each season. Review us and get a free sticker. (contact me to let me know)",
+        "itunes_id": "1420985193",
+        "content_rating": "clean",
+        "artist_name": "Tinseltunespodcast",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/tinsel-tunes-a-christmas-music-podcast/id1420985193",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1420985193",
+        "website": "https://tinseltunes.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "I Guess That's Why They Call It The Elton John Podcast",
+        "rss_feed_url": "https://eltonpodcast.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 15,
+        "average_rating": 4.8,
+        "description": "An affectionate and detailed look at the music of Elton John, by a fan, not a fanatic.",
+        "itunes_id": "1301616136",
+        "content_rating": "clean",
+        "artist_name": "Neil Barrett",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/i-guess-thats-why-they-call-it-the-elton-john-podcast/id1301616136",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1301616136",
+        "website": "https://eltonpodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "History in Five Songs with Martin Popoff",
+        "rss_feed_url": "https://feeds.megaphone.fm/history5songs",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "History in Five Songs with Martin Popoff is the show that aims to make grand and often oddball hard rock and heavy metal points through a narrative built upon the tiny idea of a quintet of songs. Buttressed with illustrative clips, Martin argues quickly and succinctly why these songs - and the specific sections of these tracks - support his mad professor premise, from the wobbly invention of an “American” heavy metal, to the influence of Led Zeppelin in hair metal or to more succinct topics like tapping and twin leads. The songs serve as bricks, but Martin slathers plenty of mortar. At the end, hopefully he has sturdy house in which this week’s theory can reside unbothered by the elements.\n\nAt approximately 7000, Martin has had published in books more record reviews than anybody in the history of music writing across all genres. Additionally, Martin has penned approximately 85 books on hard rock, heavy metal, classic rock and record collecting.",
+        "itunes_id": "1470773952",
+        "content_rating": "clean",
+        "artist_name": "Pantheon Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/history-in-five-songs-with-martin-popoff/id1470773952",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1470773952",
+        "website": "https://www.pantheonpodcasts.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Radio Ga Ga Podcast",
+        "rss_feed_url": "http://radiogagapod.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 57,
+        "average_rating": 5,
+        "description": "The Radio Ga Ga Podcast is a weekly album review podcast that explores why we like the music we like. Host Justine Piehowski dives into each album in depth, with artist backgrounds, song-by-song meanings, and notes from the recording studio. The goal of the Radio Ga Ga Podcast is to help you as the listener feel more knowledgeable and connected to the music you love, and maybe even music you didn't know you would.\n\nAvailable wherever you listen to podcasts.\n\nhttps://radiogagapodcast.com/",
+        "itunes_id": "1419257639",
+        "content_rating": "clean",
+        "artist_name": "Radio Ga Ga",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-radio-ga-ga-podcast/id1419257639",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1419257639",
+        "website": "https://www.radiogagapodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "KUTX >> Liner Notes",
+        "rss_feed_url": "https://feeds.podtrac.com/DYqWlnI0jRcN",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 5,
+        "average_rating": 4.8,
+        "description": "Rabbi Neil Blumofe examines jazz greats and history in this week's Liner Notes.",
+        "itunes_id": "845291130",
+        "content_rating": "clean",
+        "artist_name": "Neil Blumofe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/kutx-liner-notes/id845291130",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=845291130",
+        "website": "https://kutpodcasts.org/category/liner-notes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rock Candy",
+        "rss_feed_url": "https://feeds.megaphone.fm/rockcandy",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 63,
+        "average_rating": 4.8,
+        "description": "Join Ashleigh and Maggie every week for sweet treats of stories from the world of music. They cover anything from album reviews, to stories about the artists, to music news, and some fun general drunken banter. Expect to hear about artists of old and new, spanning many genres, all while drinking a variety of brews!",
+        "itunes_id": "1342032280",
+        "content_rating": "explicit",
+        "artist_name": "Rock Candy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rock-candy/id1342032280",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1342032280",
+        "website": "https://rockcandypodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rock N Roll Librarian",
+        "rss_feed_url": "https://feeds.megaphone.fm/rocklibrarian",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.4,
+        "description": "The Rock N Roll Librarian: Our Monthly Rock N Roll Book Club, co-hosted by Shelley Sorenson and Christian Swain. Shelley picks a book, usually a Rock N Roll biography, she reads it and I purposely do not and then we dig into it together.\n\nShelley is a rocker from way back, and a professional librarian from way back. She goes way back with us too - the Librarian was our first “spin off” show! Shelley sees Rock N Roll Librarian as an opportunity to combine her love of books and love of music into something new!",
+        "itunes_id": "1459162001",
+        "content_rating": "clean",
+        "artist_name": "Pantheon",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rock-n-roll-librarian/id1459162001",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459162001",
+        "website": "http://www.rocknrollarchaeology.com/rock-n-roll-librarian"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rockin' Eddy Oldies Radio Show",
+        "rss_feed_url": "https://rockineddy.com/rss/rss.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "Featuring the Golden Era of American Rock & Roll.  The Rockin' Eddy Oldies Radio Show, brings you the widest selection of oldies anywhere on our planet Earth.  All the hits and misses from the genres of Soul, Motown, Country, Doo-Wop, Folk and Rock 'n' Roll.  We play the very first golden age of American Rock 'n' Roll.  You'll hear all the charted hits from and beyond the Top 40. !",
+        "itunes_id": "1359293892",
+        "content_rating": "clean",
+        "artist_name": "Rockin' Eddy",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rockin-eddy-oldies-radio-show/id1359293892",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1359293892",
+        "website": "https://rockineddy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Shout It Out Loudcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/shoutitoutloudcast",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 35,
+        "average_rating": 5,
+        "description": "A KISS podcast by 2 friends who share a love for the Hottest Band In The Land!  Laugh and listen along as we talk all things KISStory.",
+        "itunes_id": "1448604292",
+        "content_rating": "clean",
+        "artist_name": "Shout It Out Loudcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/shout-it-out-loudcast/id1448604292",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1448604292",
+        "website": "https://cms.megaphone.fm/channel/shoutitoutloudcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Beatles City",
+        "rss_feed_url": "https://rss.acast.com/beatlescity",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 20,
+        "average_rating": 4.8,
+        "description": "Welcome to Beatles City, the podcast that brings you the story of the band that shook the world from the place where it all began.\n\n\nJoin us on a journey along the sandstone-lined streets of John Lennon’s childhood Woolton, into the Kensington living room-turned-recording studio where the Quarrymen cut their first record and down the steep steps into the Cavern’s cellar nightclub.\n\n\nListen to memories of The Beatles’ early days told in the voices of the people who were there, from members of the Quarrymen to the band’s school friends, and hear from guests with a unique insight into the band.\n\n\nThis podcast is brought to you by the Liverpool Echo. Hosts Ellen Kirwin and Laura Davis, produced by Michael Pearson and Matt Aldus",
+        "itunes_id": "1442537044",
+        "content_rating": "clean",
+        "artist_name": "The Liverpool Echo",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/beatles-city/id1442537044",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1442537044",
+        "website": "https://www.liverpoolecho.co.uk/all-about/the-beatles"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rare & Scratchy Rock 'N Roll Podcast",
+        "rss_feed_url": "http://rareandscratchyrocknroll.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "\"Rare & Scratchy Rock 'N Roll\" is a rockumentary podcast series that tells the greatest rock and roll stories on record. This includes the untold tales of some great hits that time forgot, but maybe you'll still remember. These programs are hosted by Radio Dave, a veteran disc jockey and published authority on rock and pop music history. He draws his \"Rare & Scratchy Rock 'N Roll\" stories from his \"groove yard,\" an archive that has more music than most record libraries.",
+        "itunes_id": "1071148475",
+        "content_rating": "clean",
+        "artist_name": "Radio Dave",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rare-scratchy-rock-n-roll-podcast/id1071148475",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1071148475",
+        "website": "http://www.rareandscratchy.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rapidly Rotating Records",
+        "rss_feed_url": "http://www.glennrobison.com/?feed=podcast",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Glenn Robison's weekly, hour-long radio program of \"toe-tapping music from rapidly rotating 78 RPM records of the 1920s and 30s\" broadcast Sunday evenings at 6 on KISL 88.7 FM, Avalon, Santa Catalina Island, California.",
+        "itunes_id": "1166703514",
+        "content_rating": "clean",
+        "artist_name": "Glenn Robison",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rapidly-rotating-records/id1166703514",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1166703514",
+        "website": "https://www.glennrobison.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Well Of Sound",
+        "rss_feed_url": "https://wellofsound.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 29,
+        "average_rating": 4.9,
+        "description": "\"We read the liner notes so you don't have to.\" Lex and Dave conquer the history of rock, pop, and soul -- one podcast episode at a time.",
+        "itunes_id": "1435720647",
+        "content_rating": "clean",
+        "artist_name": "The Well Of Sound",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-well-of-sound/id1435720647",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1435720647",
+        "website": "https://wellofsound.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "For the Record: The 70s",
+        "rss_feed_url": "http://seventies.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "An audio documentary of 70s music. This podcast examines the intersection of a wide variety of musical genres -- pop, rock, country, country-pop, disco, punk, soul -- with the historic events and decisions that helped shape our modern world.",
+        "itunes_id": "1439388131",
+        "content_rating": "explicit",
+        "artist_name": "Amy Lively",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/for-the-record-the-70s/id1439388131",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439388131",
+        "website": "http://www.FTR70.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Promotion Man Podcast",
+        "rss_feed_url": "https://feed.podbean.com/promotionman/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 37,
+        "average_rating": 5,
+        "description": "Fred Meyers shares his stories with L.A. Lloyd about his adventures from his days at Warner Bros Records and Virgin Records and his relationships with some of the most influential bands that Fred worked with from the very beginning.",
+        "itunes_id": "1475330333",
+        "content_rating": "explicit",
+        "artist_name": "Promotion Man",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/promotion-man-podcast/id1475330333",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475330333",
+        "website": "https://promotionman.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Another Kind of Mind: A Fresh Look at the Beatles",
+        "rss_feed_url": "https://feed.podbean.com/anotherkindofmind/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 21,
+        "average_rating": 4.8,
+        "description": "Welcome to Another Kind of Mind: A Fresh Look at the Beatles. We’re a collective of artists, musicians, and professionals across a spectrum of fields who dissect and challenge established narratives about the band with irreverent, fearless, and thought-provoking analysis.",
+        "itunes_id": "1472107627",
+        "content_rating": "explicit",
+        "artist_name": "Another Kind of Mind: A Fresh Look at the Beatles",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/another-kind-of-mind-a-fresh-look-at-the-beatles/id1472107627",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1472107627",
+        "website": "https://anotherkindofmind.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chris Gaines: The Podcast",
+        "rss_feed_url": "https://weownthistown.net/category/shows/chris-gaines-the-podcast/feed/podcast/",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Hosts Ashley Spurgeon and Michael Eades explore the misunderstood career of Chris Gaines, the Garth Brooks pop alter-ego.",
+        "itunes_id": "1475313261",
+        "content_rating": "explicit",
+        "artist_name": "We Own This Town",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chris-gaines-the-podcast/id1475313261",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475313261",
+        "website": "https://chrisgainespodcast.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "WHEI Radio",
+        "rss_feed_url": "https://heimies.com/feed/podcast",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "All request and dedication show by Stan Turner, where your requests and dedications play with the backstory and historical context. \nRequests can be made by emailing us at requests@heimies.com",
+        "itunes_id": "1482048389",
+        "content_rating": "clean",
+        "artist_name": "Heimies Haberdashery",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/whei-radio/id1482048389",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482048389",
+        "website": "https://heimies.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rock's Backpages",
+        "rss_feed_url": "https://feeds.simplecast.com/EMIZWfM2",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.6,
+        "description": "They were so much older then, they're younger than that now: Mark Pringle and Barney Hoskyns reel in the years and riff on all that's new this week in the world's biggest library of music journalism – definitive interviews with legends of the last 60 years by the pop press' greatest writers ... and much much more. Produced by Jasper Murison-Bowie.",
+        "itunes_id": "1441099644",
+        "content_rating": "explicit",
+        "artist_name": "Mark Pringle, Barney Hoskyns, Jasper Murison-Bowie",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rocks-backpages/id1441099644",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441099644",
+        "website": "https://www.rocksbackpages.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BrandoCast with Brendan Smith",
+        "rss_feed_url": "https://feeds.buzzsprout.com/268243.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Comedy",
+          "Comedy Interviews"
+        ],
+        "rating_count": 32,
+        "average_rating": 5,
+        "description": "Host Brendan Smith guides his guests through the History of Rock",
+        "itunes_id": "1466901702",
+        "content_rating": "explicit",
+        "artist_name": "Brendan Smith",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brandocast-with-brendan-smith/id1466901702",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1466901702",
+        "website": "http://thebrandocast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The J. S. Bach Files Podcast",
+        "rss_feed_url": "https://thejsbachfiles.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 8,
+        "average_rating": 3.9,
+        "description": "Ever wanted to take a closer look at the music of J. S. Bach? The J. S. Bach Flies might make that a little easier.",
+        "itunes_id": "1407484038",
+        "content_rating": "clean",
+        "artist_name": "Terence J. O'Grady",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-j-s-bach-files-podcast/id1407484038",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1407484038",
+        "website": "https://thejsbachfiles.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Between the Lions",
+        "rss_feed_url": "https://feeds.transistor.fm/between-the-lions",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Religion & Spirituality",
+          "Christianity"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "A bi-weekly oral history of the ongoing mission by the musical collective known as My Soul Among Lions to put all 150 psalms from the Bible to music. For lovers of ... the Bible, the psalms, modern worship songs, music production, or just the creative process.",
+        "itunes_id": "1480726872",
+        "content_rating": "clean",
+        "artist_name": "Warhorn Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/between-the-lions/id1480726872",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480726872",
+        "website": "https://warhornmedia.com/podcasts/between-the-lions/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "От хора до хардкора",
+        "rss_feed_url": "https://thisishardcore.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Arts",
+          "Performing Arts"
+        ],
+        "rating_count": 3,
+        "average_rating": 3.7,
+        "description": "Подкаст «Радио Arzamas» об истории британской музыки. Почему рейвы невозможно было запретить? Откуда в советском «Шерлоке Холмсе» отголоски великого композитора эпохи барокко Генри Пёрселла? Как получилось, что скинхеды подсели на ямайские ритмы, а панки побратались с растафрианцами? Музыкальный журналист Лев Ганкин отвечает на эти и другие вопросы вместе с редакторами «Арзамаса» и приглашенными гостями. \n\nПодкаст сделан вместе с Отделом культуры и образования Посольства Великобритании в Москве и при поддержке Британского Совета.\n\nЭтот и другие подкасты «Арзамаса» удобнее всего слушать в мобильном приложении «Радио Arzamas».",
+        "itunes_id": "1467165010",
+        "content_rating": "clean",
+        "artist_name": "Arzamas / Арзамас",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/%D0%BE%D1%82-%D1%85%D0%BE%D1%80%D0%B0-%D0%B4%D0%BE-%D1%85%D0%B0%D1%80%D0%B4%D0%BA%D0%BE%D1%80%D0%B0/id1467165010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467165010",
+        "website": "https://arzamas.academy"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Satan and Rainbows",
+        "rss_feed_url": "https://satanandrainbows.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 19,
+        "average_rating": 4.9,
+        "description": "An in-depth music history podcast dedicated exclusively to the critically reviled genres of heavy metal and progressive rock! \n\n...Please listen anyway",
+        "itunes_id": "1347034981",
+        "content_rating": "explicit",
+        "artist_name": "Nate Treese and Jeff Partyka",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/satan-and-rainbows/id1347034981",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1347034981",
+        "website": "http://satanandrainbows.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Roots, Rednecks, and Radicals",
+        "rss_feed_url": "https://rootsrednecksradicals.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Roots, Rednecks and Radicals is a weekly Americana/Folk music show. I play old Outlaw Counrty and new Alt-Country along with a diverse mix of Roots music from various eras.",
+        "itunes_id": "1425544025",
+        "content_rating": "clean",
+        "artist_name": "Will Houk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/roots-rednecks-and-radicals/id1425544025",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1425544025",
+        "website": "https://rootsrednecksradicals.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Dastan-e Mousighi | داستان موسیقی",
+        "rss_feed_url": "https://feeds.transistor.fm/dastan-e-mousighi",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Education",
+          "Courses"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "مشهور است که موسیقی زبانی همگانی است اما الفبای این زبان برای همه آشنا نیست. گویی فقط نوازندگان و آهنگسازان این زبان را می‌فهمند و برای بقیه‌ی مردم نت‌های ﻣﻮﺳﻴﻘﯽ تنها ﻣﺠﻤﻮﻋﻪﺍﯼ اﺯ ﻧﻘﺎط ﺳﻴﺎه و ﺳﻔﯿﺪ است ﮐﻪ رﻭﯼ ﺧﻂ‌های ﻣﻮازﯼ ﭼﯿﺪه ﺷﺪه است.  ﺩاﻧﺴﺘﻦ معنای اﯾﻦ ﻧﻘﺎﻁ ﺳﯿﺎه و‬ ﺳﻔﻴﺪ تنها راه آشنایی با زبان موسیقی نیست. ﮔﻮﺵ ﺩادن هم ﻣﯽﺗﻮاند ما را به این دنیا وارد کند. در این مجموعه نگاه گذرایی خواهیم کرد به دوره‌های مختلف موسیقی از قرون وسطی تا امروز؛ ویژگی‌های کلی هر دوره را بررسی می‌کنیم و با شنیدن یکی دو اثر از هر دوره اشاره‌ای به عناصر موسیقایی آنها خواهیم کرد.",
+        "itunes_id": "1482586372",
+        "content_rating": "clean",
+        "artist_name": "Persian Media Production | رسانه پارسی",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/dastan-e-mousighi-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C/id1482586372",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482586372",
+        "website": "https://persianmediaproduction.org/5683/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "2Legs: A Paul McCartney Podcast",
+        "rss_feed_url": "https://2legspodcast.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Hi, Hi, Hi! 2Legs: A Paul McCartney podcast is hosted by Tom Hunyady and Andy Nicholes. \n As fans of McCartney's we explore his entire career. Email us at 2legspodcast@gmail.com, Facebook at 2Legs Podcast or Twitter @2Legspodcast",
+        "itunes_id": "1439281072",
+        "content_rating": "clean",
+        "artist_name": "Tom Hunyady and Andy Nicholes",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/2legs-a-paul-mccartney-podcast/id1439281072",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1439281072",
+        "website": "https://2legspodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Alpha Centauri FM",
+        "rss_feed_url": "https://feed.podbean.com/alphacentaurifm/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Weekly Radio Podcast with Disco Heat. Rare Disco, Funk, Italo, House, Electro & Everything in-between you might have missed. The soundtrack of the week for your interstellar travel through space.",
+        "itunes_id": "1482595403",
+        "content_rating": "explicit",
+        "artist_name": "Disco Heat",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/alpha-centauri-fm/id1482595403",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482595403",
+        "website": "https://alphacentaurifm.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Glory Days Radio",
+        "rss_feed_url": "https://glorydaysradio.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Everyone has those special songs that transport you to the Glory Days of youth. Dedicated to those popular & forgotten gems of the mid 60's through 90's!",
+        "itunes_id": "1485115928",
+        "content_rating": "clean",
+        "artist_name": "glorydaysradio",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/glory-days-radio/id1485115928",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485115928",
+        "website": "https://glorydaysradio.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Crime In Music",
+        "rss_feed_url": "https://crimeinmusic.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "True Crime"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.5,
+        "description": "Hello Again, and Welcome to Crime In Music! Every other Wednesday, we'll bring you a true-crime podcast about people in & around the Music Business and their mis-adventures in Law-Breaking! We talk about such things as: #CrimeHistory #MurderMystery #MusicHistory #CrimeStories #MusicLife #MusicBusiness #CrimeInMusic\nIf you like that sort of thing, Check Us Out, Hit Subscribe & Tell a Friend!",
+        "itunes_id": "1419855428",
+        "content_rating": "explicit",
+        "artist_name": "CrimeInMusic.com",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/crime-in-music/id1419855428",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1419855428",
+        "website": "https://crimeinmusic.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Holding Things Together",
+        "rss_feed_url": "https://holdingthingstogether.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 21,
+        "average_rating": 5,
+        "description": "Holding Things Together is an unofficial aftershow to Country Music: A Ken Burns Film. Your hosts Don, Becky and Nick bring years of experience as classic country music radio DJs for a spirited conversation about the series. In every new show you can expect a breakdown of the episode, in-depth discussion, music clips, missed opportunities and recommendations for further listening.",
+        "itunes_id": "1480615010",
+        "content_rating": "clean",
+        "artist_name": "Holding Things Together",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/holding-things-together/id1480615010",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480615010",
+        "website": "http://holdingthingstogether.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Capture The Culture",
+        "rss_feed_url": "https://feed.podbean.com/ctcpod/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "The one and only entertaining case study podcast diving into impactful moments, artists and albums involving hip-hop culture. Includes curated independent artist playlists, interviews and much more",
+        "itunes_id": "1482523318",
+        "content_rating": "explicit",
+        "artist_name": "Capture The Culture",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/capture-the-culture/id1482523318",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482523318",
+        "website": "https://ctcpod.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "I'd Buy That For A Dollar",
+        "rss_feed_url": "https://feed.podbean.com/idbuythat/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Leisure",
+          "Hobbies"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "A podcast about inexpensive, common and underappreciated records that are waiting to be rediscovered.",
+        "itunes_id": "1481869152",
+        "content_rating": "clean",
+        "artist_name": "idbuythat",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/id-buy-that-for-a-dollar/id1481869152",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481869152",
+        "website": "https://idbuythat.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "vasu gupta podcast",
+        "rss_feed_url": "https://anchor.fm/s/d82ea6c/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Something amazing",
+        "itunes_id": "1478645855",
+        "content_rating": "clean",
+        "artist_name": "Vasu Gupta",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/vasu-gupta-podcast/id1478645855",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478645855",
+        "website": "https://anchor.fm/vasu-gupta"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Sample Excavator",
+        "rss_feed_url": "https://feed.podbean.com/sampleexcavator/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 29,
+        "average_rating": 5,
+        "description": "A podcast by Angelo Robledo that digs through sample and production history to piece together the stories behind the world's biggest records.",
+        "itunes_id": "1480176264",
+        "content_rating": "explicit",
+        "artist_name": "Angelo Robledo",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/sample-excavator/id1480176264",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480176264",
+        "website": "https://sampleexcavator.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Musicians In Ordinary Podcast",
+        "rss_feed_url": "https://feed.podbean.com/musiciansinordinary/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "History"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "The historical and cultural context of music of the Renaissance at home, in court, in Shakespeare's theatre and beyond.",
+        "itunes_id": "1485178543",
+        "content_rating": "clean",
+        "artist_name": "musiciansinordinary",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/musicians-in-ordinary-podcast/id1485178543",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485178543",
+        "website": "https://musiciansinordinary.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Highway Hi-Fi Podcast",
+        "rss_feed_url": "https://feeds.megaphone.fm/highwayhifi",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 15,
+        "average_rating": 5,
+        "description": "We go track by track through the underbelly of music history using research and trivia to locate the roots of our obsession with vinyl records",
+        "itunes_id": "1291697368",
+        "content_rating": "explicit",
+        "artist_name": "Ryan & Joe",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/highway-hi-fi-podcast/id1291697368",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1291697368",
+        "website": "https://sites.google.com/view/highwayhifi/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Texas Music Hour of Power",
+        "rss_feed_url": "https://wimbmac.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Ever wonder where to go to get the best Texas has to offer? Top 40 charts overrun our need for quality, even here in the Lone Star Country. Kick back with the legendary Joe Nick Patoski to discover the best curated music from the most pleasurable moments of Texas' iconic musical ride.",
+        "itunes_id": "1483554945",
+        "content_rating": "clean",
+        "artist_name": "Joe Nick Patoski and TMHoP",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/texas-music-hour-of-power-salvation/id1483554945",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483554945",
+        "website": "https://joenickp.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Woodstock Nation with Marla Davies",
+        "rss_feed_url": "https://feeds.megaphone.fm/woodstocknation",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "TV & Film"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.2,
+        "description": "Bay Area Radio Personality Marla Davies Hosts Woodstock Nation - The Revolution, Evolution and Life Changing Magic of Music Festivals.  Woodstock Nation - The Podcast - Looks at 50 years of Music Festivals from Woodstock to Today and each week we'll talk to musicians, cultural icons and fans about the Woodstock spirit and the enduring power of music to influence, enlighten and empower.",
+        "itunes_id": "1467964218",
+        "content_rating": "clean",
+        "artist_name": "Marla Davies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/woodstock-nation-with-marla-davies/id1467964218",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467964218",
+        "website": "http://woodstocknationmovie.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Texas Music Hour of Power",
+        "rss_feed_url": "https://wimbmac.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Ever wonder where to go to get the best Texas has to offer? Top 40 charts overrun our need for quality, even here in the Lone Star Country. Kick back with the legendary Joe Nick Patoski to discover the best curated music from the most pleasurable moments of Texas' iconic musical ride.",
+        "itunes_id": "1483554945",
+        "content_rating": "clean",
+        "artist_name": "Joe Nick Patoski and TMHoP",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/texas-music-hour-of-power-salvation/id1483554945",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483554945",
+        "website": "https://joenickp.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Woodstock Nation with Marla Davies",
+        "rss_feed_url": "https://feeds.megaphone.fm/woodstocknation",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "TV & Film"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.2,
+        "description": "Bay Area Radio Personality Marla Davies Hosts Woodstock Nation - The Revolution, Evolution and Life Changing Magic of Music Festivals.  Woodstock Nation - The Podcast - Looks at 50 years of Music Festivals from Woodstock to Today and each week we'll talk to musicians, cultural icons and fans about the Woodstock spirit and the enduring power of music to influence, enlighten and empower.",
+        "itunes_id": "1467964218",
+        "content_rating": "clean",
+        "artist_name": "Marla Davies",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/woodstock-nation-with-marla-davies/id1467964218",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1467964218",
+        "website": "http://woodstocknationmovie.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The CoffeeHouse Classical",
+        "rss_feed_url": "https://coffeehouseclassical.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Documentary"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "The Coffeehouse Classical Podcast comes to you from Asa and Allison: two clarinetists and lovers of all things classical music, who are excited to share their love of the genre! Each 15-30 minute episode, we choose an excellent classical work and guide you through the history, technical aspects and more of what makes each piece great!",
+        "itunes_id": "1142370499",
+        "content_rating": "clean",
+        "artist_name": "Rocky Mountain Student Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-coffeehouse-classical/id1142370499",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1142370499",
+        "website": "https://coffeehouseclassical.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "This Song",
+        "rss_feed_url": "https://pinecast.com/feed/this-song",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Every song has its own history. The who, what, when, where, why, and how of the music we love. Join Thom Ruckert on This Song, and hear those stories.\n\nA production of LIU Public Radio. Visit us at WCWP.org",
+        "itunes_id": "1308307017",
+        "content_rating": "clean",
+        "artist_name": "LIU Studios",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/this-song/id1308307017",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1308307017",
+        "website": "http://www.wcwp.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "America's Top 40s",
+        "rss_feed_url": "https://feed.podbean.com/at40s/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Moving through America's Top 40 hits one week at a time beginning in 1958.",
+        "itunes_id": "1475263397",
+        "content_rating": "clean",
+        "artist_name": "America's Top 40s",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/americas-top-40s/id1475263397",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1475263397",
+        "website": "https://at40s.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "One Record",
+        "rss_feed_url": "http://onerecordproject.com/feed/podcast/",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 13,
+        "average_rating": 5,
+        "description": "The untold stories of Detroit music, one record at a time. Brand new oral history interviews with artists who created some of the most unforgettable forgotten records of the 1950s, '60s, and '70s. Learn more: http://onerecordproject.com",
+        "itunes_id": "1482353536",
+        "content_rating": "clean",
+        "artist_name": "One Record",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/one-record/id1482353536",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482353536",
+        "website": "http://onerecordproject.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Music Fun Facts",
+        "rss_feed_url": "https://anchor.fm/s/d3f4f00/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Volley.FM presents Music Fun Facts\n\nLearn a new fun and sometimes crazy music fun fact on this daily music podcast. We’ve rounded up awesome facts and bits of music trivia that just might blow you away.\n\nDid you know that:\n\n- the Kinks' Dave Davies came up with his signature distorted guitar sound by cutting his amplifier speaker?\n\n- \"Since U Been Gone\" was originally written for P!NK, not Kelly Clarson? \n\n- guitar strings were originally made from animal intestines?",
+        "itunes_id": "1476604921",
+        "content_rating": "clean",
+        "artist_name": "Music Fun Facts",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/music-fun-facts/id1476604921",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1476604921",
+        "website": "https://anchor.fm/music-fun-facts"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Chumbology: A Chumbawamba Anthology Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/572350.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 4,
+        "average_rating": 5,
+        "description": "Two pals dig song by song through the entire discography of one of the most overlooked bands in history, Chumbawamba.",
+        "itunes_id": "1479639131",
+        "content_rating": "explicit",
+        "artist_name": "Dan & Teddy",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/chumbology-a-chumbawamba-anthology-podcast/id1479639131",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1479639131",
+        "website": "http://chumbology.rocks"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Música latina",
+        "rss_feed_url": "https://anchor.fm/s/e7a8ee8/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Conoce mas acerca de bandas latinoamericana y el significado de sus letras de sus canciones.",
+        "itunes_id": "1481506892",
+        "content_rating": "clean",
+        "artist_name": "Regina López Álvarez",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/m%C3%BAsica-latina/id1481506892",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481506892",
+        "website": "https://anchor.fm/regina-l363pez-301lvarez"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Organist Encores",
+        "rss_feed_url": "https://Organistencores.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 4,
+        "average_rating": 4.8,
+        "description": "A 30 minute show featuring musical tracks of Theatre Organists and Organs around the UK. The show includes up to date tracks as well as archive material.",
+        "itunes_id": "957851409",
+        "content_rating": "clean",
+        "artist_name": "Damon Cox, Nigel Ogden & John Leeming",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-organist-encores/id957851409",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=957851409",
+        "website": "https://Organistencores.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mountain Folk",
+        "rss_feed_url": "https://feed.podbean.com/mountainfolk/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "This is \"Mountain Folk\" the show for people who enjoy bluegrass, folk, old-time, acoustic, outdoor, critter and mountain music!",
+        "itunes_id": "1463188372",
+        "content_rating": "clean",
+        "artist_name": "Mountain Folk",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/mountain-folk/id1463188372",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1463188372",
+        "website": "https://mountainfolk.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Deadhead Cannabis Show",
+        "rss_feed_url": "https://feeds.simplecast.com/pkEIpJU_",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Business",
+          "Entrepreneurship"
+        ],
+        "rating_count": 22,
+        "average_rating": 5,
+        "description": "Candid discussions about cannabis inspired music, great past and upcoming concerts and the social implications of legalized cannabis. Old-school Grateful Dead fans,.cannabis CPA Jim Marty & cannabis attorney Larry Mishkin share their cannabis stories and view of the industry.  Enjoy previous episodes at MJBulls.com",
+        "itunes_id": "1464617729",
+        "content_rating": "clean",
+        "artist_name": "MJBulls Media | Cannabis Podcast Network",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/deadhead-cannabis-show/id1464617729",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1464617729",
+        "website": "https://deadhead-cannabis-show.simplecast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "I'm With The Boyband",
+        "rss_feed_url": "https://imwiththeboyband.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture",
+          "Personal Journals"
+        ],
+        "rating_count": 48,
+        "average_rating": 4.6,
+        "description": "Friends for a decade, fangirls for a lifetime, join boyband junkies Amy and Zoe as they take you through the history of boybands as they compile the Ultimate Boyband Chart, one dreamy music combo at a time. \n\nGet in touch with us on twitter @theboybandpod, on instagram @imwiththeboyband or you can email us at theboybandpod@gmail.com\n\nAnd don't forget to leave us a review and subscribe for the next episode, out on Friday.\n\nTheme music is 'Dance With You' by Fire&Lights https://itunes.apple.com/us/album/dance-with-you-single/1273802350, taken from the trilogy of boyband novels Songs About a Girl, by Chris Russell.  For anyone that has ever dreamed of saying 'I'm with the band'.  Visit www.songaboutagirl.com",
+        "itunes_id": "1450106895",
+        "content_rating": "explicit",
+        "artist_name": "Long/Linkson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/im-with-the-boyband/id1450106895",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450106895",
+        "website": "https://imwiththeboyband.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Minha Canção",
+        "rss_feed_url": "https://estado04.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Sarah Oliveira apresenta as músicas e os artistas que fazem a trilha sonora de nossas vidas",
+        "itunes_id": "1482326686",
+        "content_rating": "clean",
+        "artist_name": "Estadão",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/minha-can%C3%A7%C3%A3o/id1482326686",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1482326686",
+        "website": "http://estado04.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "DISCovery with Eric Senich",
+        "rss_feed_url": "https://www.spreaker.com/show/3429237/episodes/feed",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "From the vinyl disc to the compact disc join host Eric Senich as he uncovers the stories behind the greatest artists, albums and songs of the classic rock era.",
+        "itunes_id": "1457266239",
+        "content_rating": "clean",
+        "artist_name": "DISCovery with Eric Senich",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/discovery-with-eric-senich/id1457266239",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457266239",
+        "website": "https://www.spreaker.com/show/thediscoverypodcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Music and Me",
+        "rss_feed_url": "https://rss.acast.com/musicandme",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 1,
+        "average_rating": 4,
+        "description": "Music can evoke some of your most precious memories, like your first kiss, special childhood moments and the first record you ever bought yourself. We all have tracks that can take us there.\n \n‘Music and Me’ is a new podcast series hosted by music journalist and presenter Kylie Olsson, with some of rock music’s finest musicians, producers and industry people talking about the tracks helped shaped their lives and the story behind them.",
+        "itunes_id": "1363974528",
+        "content_rating": "clean",
+        "artist_name": "Want Some Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/music-and-me/id1363974528",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1363974528",
+        "website": "http://www.kylieolsson.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rave & Drool: A Chronicle of '90s CanRock",
+        "rss_feed_url": "https://feeds.buzzsprout.com/617086.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Welcome to Rave and Drool: A Chronicle of 90s CanRock, the companion podcast to the (in-development) documentary about nineties Canadian rock. Rave and Drool is a look into the nurture of music and the nature of business through a Canadian lens. By chatting in depth with the folks who made it all happen, this podcast tells the story of how alternative rock captured the national spotlight during one ridiculously awesome decade and who knows, maybe we’ll even chat with some famous fans along the way…",
+        "itunes_id": "1481004891",
+        "content_rating": "clean",
+        "artist_name": "ravedrool",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rave-drool-a-chronicle-of-90s-canrock/id1481004891",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1481004891",
+        "website": "https://twitter.com/ravedrool"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "How Good It Is",
+        "rss_feed_url": "http://howgooditis.podomatic.com/rss2.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "Every week I choose a song from the 50s through the 80s and dive into its history, the story behind the song and other items of interest. Find more stuff at www.howgooditis.com",
+        "itunes_id": "1273652102",
+        "content_rating": "clean",
+        "artist_name": "Claude Call",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/how-good-it-is/id1273652102",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1273652102",
+        "website": "https://howgooditis.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Makings of an Artist",
+        "rss_feed_url": "https://waldenproductions.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 9,
+        "average_rating": 5,
+        "description": "'The Makings of an Artist' is a podcast hosted by Sebastian Cowsill, in conjunction with Walden Productions. Each episode aim's to tell the story of how a particular artist or band leaped into the public's eye. Each story is told as accurate as possible, detailing all the struggles, setbacks, and heartbreaks that each artist has gone through, showing that even the greatest didn't make it easy. Tune in every month to hear about a new artist!",
+        "itunes_id": "1459289809",
+        "content_rating": "clean",
+        "artist_name": "Walden Productions",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-makings-of-an-artist/id1459289809",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1459289809",
+        "website": "http://waldenproductions.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Version Standard",
+        "rss_feed_url": "https://feed.ausha.co/yO6whW9K13Zo",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Le podcast des morceaux qui racontent le jazz. Découvrez dans chaque épisode un grand morceau de Jazz sous tous les angles, son histoire et six versions différentes.",
+        "itunes_id": "1269543953",
+        "content_rating": "clean",
+        "artist_name": "Paul Decherf",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/version-standard/id1269543953",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1269543953",
+        "website": "https://versionstandard.fr/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RTL2 : Pop-Rock Story",
+        "rss_feed_url": "https://www.rtl2.fr/podcast/rtl2-pop-rock-story.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Retrouvez une histoire en musique consacrée à la vie et l’oeuvre d’un artiste, un groupe ou un album Pop-Rock racontée par Stéphanie Renouvin.",
+        "itunes_id": "1151839171",
+        "content_rating": "clean",
+        "artist_name": "RTL2",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rtl2-pop-rock-story/id1151839171",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1151839171",
+        "website": "https://www.rtl2.fr/emission/rtl2-pop-rock-story"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "BLAM BLAM PODCAST",
+        "rss_feed_url": "https://blamblampod.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 5,
+        "average_rating": 5,
+        "description": "Burn learn and music. Bringing classic albums and mixtapes paired with a high grade strain. No Reggie! Makes for the perfect combination. Hosted by Don Pachino and Chan da Champ. blamblampodcast@gmail.com @blampodcast @donpachino @chandachamp",
+        "itunes_id": "1417752380",
+        "content_rating": "explicit",
+        "artist_name": "Don Pachino & Chan da Champ",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/blam-blam-podcast/id1417752380",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1417752380",
+        "website": "https://blamblampod.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rádiofobia Classics",
+        "rss_feed_url": "https://radiofobia.com.br/podcast/category/podcast/classics/feed/",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Technology"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Programa mensal apresentado por Leo Lopes, apresentando a biografia e alguns dos maiores sucessos dos grandes nomes da música mundial!",
+        "itunes_id": "646787434",
+        "content_rating": null,
+        "artist_name": "Rádiofobia Podcast Network",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/r%C3%A1diofobia-classics/id646787434",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=646787434",
+        "website": "https://radiofobia.com.br/podcast/category/podcast/classics/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Les Nocturnes",
+        "rss_feed_url": "https://www.rtl.fr/podcast/les-nocturnes.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "Ecoutez l’émission-fétiche de Georges Lang les samedi et dimanche soirs. Depuis 1973, l’animateur des nuits propose une programmation qui vous permettra de vous tenir au courant des nouveautés du rock tout en vous rappelant les grands succès qui ont jalonné son émission depuis plusieurs décennies. De Pink Floyd à Led Zeppelin, de Jonathan Wilson à Joe Bonamassa, en passant par Leonard Cohen, Les Eagles ou Greta Von Fleet.  Et souvent le dimanche soir, il accueille des artistes, des personnalités de tous horizons qui viennent programmer  et animer « leurs Nocturnes » pendant 2 heures",
+        "itunes_id": "896652347",
+        "content_rating": "clean",
+        "artist_name": "RTL",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/les-nocturnes/id896652347",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=896652347",
+        "website": "https://www.rtl.fr/emission/les-nocturnes"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Muses",
+        "rss_feed_url": "https://feeds.megaphone.fm/muses",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Interviews"
+        ],
+        "rating_count": 2,
+        "average_rating": 3,
+        "description": "Chanty & Lynx are just a couple of fun-lovin’ rocker girls from Toronto, with chemistry and great rapport...they have done over 100 episodes of Muses!\n\nChanty and Lynx dish about the wives and girlfriends and groupies - the partners and muses who inspired their rock heroes. A little gossip and fun, plus book reviews, and in-depth, heartfelt conversations with other Rock N Roll Women--and the occasional Rock N Roll Dude.",
+        "itunes_id": "1462270462",
+        "content_rating": "explicit",
+        "artist_name": "Muses",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/muses/id1462270462",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1462270462",
+        "website": "https://musesandstuff.ptbopodcasters.ca"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Liquid Sunshine Sound System - The Best Deep Funk, Rare Groove, Disco & Beats - All The Good Stuff!!",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/7197",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Society & Culture"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Put on your boogie pants and dancing shoes and come on down for some Liquid Sunshine. It's sexy music, for sexy people.\n\nThe Liquid Sunshine Sound System is run by deejay Maarten Vlot, bringing you the best deep funk, rare groove, disco & beats - All The Good Stuff!!\n\nThere's a radio show, events, festivals - and we even DJ out in the wild. \n\nBookings: liquidsunshineradio@gmail.com\n\nThe Liquid Sunshine radio show is on air every Thursday from 9:30 to 10:30 on 2XX FM in Canberra - 2xxfm.org.au\n\nStay up to date with all the latest funks, beats and discos or sign up for the podcast via this link:\nhttps://linktr.ee/liquidsunshineradio",
+        "itunes_id": "1419866859",
+        "content_rating": "clean",
+        "artist_name": "Deejay Maarten Vlot",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/liquid-sunshine-sound-system-best-deep-funk-rare-groove/id1419866859",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1419866859",
+        "website": "http://hearthis.at/liquid-sunshine/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Musical Footprints",
+        "rss_feed_url": "https://feed.podbean.com/musicalfootprints/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Exploring the lives of the greatest composers of classcial music.",
+        "itunes_id": "1483144797",
+        "content_rating": "clean",
+        "artist_name": "Steve Moretti, Paul van Geldrop",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/musical-footprints/id1483144797",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483144797",
+        "website": "https://musicalfootprints.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bluesandgrooves' Podcast",
+        "rss_feed_url": "http://jaffo1.podomatic.com/rss2.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Broadcast every Sunday at 5:00pm on The Face Radio.com. Blues & Grooves brings the best in soul, funk, R&B, reggae, disco and a whole lot more!",
+        "itunes_id": "458869347",
+        "content_rating": "clean",
+        "artist_name": "Bluesandgrooves",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bluesandgrooves-podcast/id458869347",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=458869347",
+        "website": "https://jaffo1.podomatic.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Earfool",
+        "rss_feed_url": "https://earfool.podbean.com/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "Wrecking into your ears one song at a time. Listen as we explore the depths of popular music.",
+        "itunes_id": "1371095278",
+        "content_rating": "explicit",
+        "artist_name": "Earfool",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/earfool/id1371095278",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1371095278",
+        "website": "http://www.earfoolpodcast.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Mylène Farmer : histoires de...",
+        "rss_feed_url": "https://feed.ausha.co/ygd9qFvQ83Je",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Histoires de... C'est le premier podcast entièrement consacré à Mylène Farmer... Vous pensez avoir tout lu sur Mylène Farmer ? Vous êtes loin d’avoir tout entendu ! Références culturelles, coulisses, production et exploitation… Pendant une heure on va vous raconter, décrypter et débattre à juste hauteur d’un album ou d’une tournée de la chanteuse.",
+        "itunes_id": "1457322572",
+        "content_rating": "clean",
+        "artist_name": "HDMF",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/myl%C3%A8ne-farmer-histoires-de/id1457322572",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457322572",
+        "website": "https://www.histoiresdemf.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rockhistorier",
+        "rss_feed_url": "https://heartbeats.dk/feed/podcast/rockhistorier",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Musik og røverhistorier fra rocken i dens bredeste forstand med Klaus Lynggaard og Henrik Queitsch.",
+        "itunes_id": "1226376623",
+        "content_rating": "clean",
+        "artist_name": "Klaus Lynggaard og Henrik Queitsch",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rockhistorier/id1226376623",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1226376623",
+        "website": "https://heartbeats.dk/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Each and Every Door",
+        "rss_feed_url": "https://feeds.buzzsprout.com/547159.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Religion & Spirituality"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Each and Every Door is an educational podcast about Bob Dylan, Religion and Spirituality.  Arguably the most influential singer/songwriter of our era, Dylan has been making music, in the words of some English folk, for \"donkey's years.\"  That means a very long time.  During his long, unpredictable career, he has exhibited a fascinating relationship with religion and spirituality, one that extends far beyond his \"gospel years.\"  On this podcast, Malcolm Gold, a sociologist of religion at Messiah College and Jay Case, a professor of American religious history at Malone University, explore everything from what Dylan may or may not have believed, to the ways spirituality emerges in his songs and music, to the shifting religious context framing his life, and much more. (Artwork by David Everett.  everettdavide@gmail.com)",
+        "itunes_id": "1478273225",
+        "content_rating": "clean",
+        "artist_name": "Jay Case and Malcolm Gold",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/each-and-every-door/id1478273225",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478273225",
+        "website": "http://www.buzzsprout.com/547159"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Up To Your Ears",
+        "rss_feed_url": "https://uptoyourears.libsyn.com/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 11,
+        "average_rating": 5,
+        "description": "Up To Your Ears is a podcast that teaches you about the music you like and the music you don't like... yet.  Whether you're hoping to expand your musical horizons or just get more enjoyment out of the music you already love, Garrett and Amanda want to help you level up as a listener.  Their secret weapon?  Simple definitions and a strict policy against musical snobbery.",
+        "itunes_id": "1477410598",
+        "content_rating": "clean",
+        "artist_name": "Amanda Morrill and Garrett Pearson",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/up-to-your-ears/id1477410598",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477410598",
+        "website": "http://uptoyourears.libsyn.com/website"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Pete Zapit Podcast",
+        "rss_feed_url": "https://feeds.buzzsprout.com/12378.rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Music Commentary"
+        ],
+        "rating_count": 6,
+        "average_rating": 5,
+        "description": "Dj collective. Mixtapes released periodically. Free, fast and hot.",
+        "itunes_id": "1355844558",
+        "content_rating": "explicit",
+        "artist_name": "Pete Zapit",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-pete-zapit-podcast/id1355844558",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1355844558",
+        "website": "http://petezapit.buzzsprout.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Gramophone | پادکست گرامافون",
+        "rss_feed_url": "https://feeds.transistor.fm/5935df6c-8b4b-4041-b77c-28b881ec8cd5",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 2,
+        "average_rating": 3,
+        "description": "پادکست گرامافون به بررسی آهنگ‌های تاثیرگذار در تاریخ موسیقی می‌پردازد که به صلح و مسائل اجتماعی پرداخته اند.",
+        "itunes_id": "1480089609",
+        "content_rating": "clean",
+        "artist_name": "PersianBMS",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/gramophone-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%DA%AF%D8%B1%D8%A7%D9%85%D8%A7%D9%81%D9%88%D9%86/id1480089609",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480089609",
+        "website": "https://persianbahaimedia.org/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Real 2 Reel FM",
+        "rss_feed_url": "https://anchor.fm/s/dd79a80/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 2,
+        "average_rating": 5,
+        "description": "This Podcast Hip Hop Old School & Songs that you forgot about and song that might of never been played. If you sick of the radio come check this out a new Hip Hop Station! ft. DJ SWANN & Etc. Thank you Anchor",
+        "itunes_id": "1478958423",
+        "content_rating": "clean",
+        "artist_name": "DJ Swann",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/real-2-reel-fm/id1478958423",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478958423",
+        "website": "Root of Hip Hop"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "OHVA Music Appreciation",
+        "rss_feed_url": "https://anchor.fm/s/d5a0de0/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Weekly podcast covering topics in Music Appreciation.",
+        "itunes_id": "1477340049",
+        "content_rating": "clean",
+        "artist_name": "Jeremy England and Daphne Chek",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/ohva-music-appreciation/id1477340049",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477340049",
+        "website": "https://anchor.fm/ohvamusic"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The 16th Minute with TechtonicPop",
+        "rss_feed_url": "https://feed.podbean.com/techtonicpop/feed.xml",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music",
+          "Business",
+          "Careers"
+        ],
+        "rating_count": 11,
+        "average_rating": 4.9,
+        "description": "Every celebrity's life is celebrated when fame is on the rise, but when those 15 Minutes of fame are over, their career can often plateau. Just because a talented musician's \"15 minutes\" ran out doesn't mean they stopped hustling. Each week, we'll cover a new artist and tell you what they're doing with their 16th minute of fame (and beyond!). Hosted by Jeremiah Neil & Monica Soriano of TechtonicPop.",
+        "itunes_id": "1463155249",
+        "content_rating": "explicit",
+        "artist_name": "Millennial Mission Media",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-16th-minute-with-techtonicpop/id1463155249",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1463155249",
+        "website": "https://techtonicpop.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Desde El Ghetto",
+        "rss_feed_url": "https://anchor.fm/s/a3f35cc/podcast/rss",
+        "categories": [
+          "Music History",
+          "Podcasts",
+          "Music"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Desde El Ghetto es un podcast donde hablamos temporada tras temporada de distintas movidas musicales.Seguinos en Instagram para estar al tanto de la movida: @desdeelghettooficial",
+        "itunes_id": "1458889041",
+        "content_rating": "clean",
+        "artist_name": "Agustin Motta",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/desde-el-ghetto/id1458889041",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1458889041",
+        "website": "https://anchor.fm/agustin-motta"
+      }
+    }
+  ]
+}

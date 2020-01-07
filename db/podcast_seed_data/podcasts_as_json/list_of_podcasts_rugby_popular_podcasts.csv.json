@@ -1,0 +1,588 @@
+{
+  "podcasts": [
+    {
+      "podcast_details": {
+        "podcast_name": "House of Rugby at the World Cup 🇯🇵",
+        "rss_feed_url": "https://feeds.simplecast.com/L_GfBp34",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 43,
+        "average_rating": 4.9,
+        "description": "James Haskell and Alex Payne and special guests do their best to discuss anything but rugby. Subscribe free to get a new episode every Wednesday. The UK's No1 rugby show, brought to you by JOE.",
+        "itunes_id": "1438018392",
+        "content_rating": "explicit",
+        "artist_name": "JOE",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/house-of-rugby/id1438018392",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1438018392",
+        "website": "https://houseofrugby.joe.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Brian Moore's Full Contact Rugby",
+        "rss_feed_url": "https://rss.art19.com/full-contact-rugby",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 25,
+        "average_rating": 4.7,
+        "description": "Brian Moore is joined by some of the biggest names in the sport to dive into every big ruck, maul, and TMO decision -- from the Rugby World Cup to the Premier 15s. Ready in time for your commute - every Monday evening.",
+        "itunes_id": "1196875127",
+        "content_rating": "clean",
+        "artist_name": "The Telegraph",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/brian-moores-full-contact-rugby/id1196875127",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1196875127",
+        "website": "https://art19.com/shows/full-contact-rugby"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The World Rugby Podcast - Rugby World Cup 2019",
+        "rss_feed_url": "https://rss.whooshkaa.com/rss/podcast/id/9072",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 4,
+        "average_rating": 3,
+        "description": "With Rugby World Cup 2019 in Japan, the World Rugby Podcast arrives at the perfect time. Featuring everything you need to know about the biggest rugby tournament on the planet alongside, expect former internationals, reviews and previews, special guests, destination city guides and lots more. Hosted by the World Rugby commentary team, you won't miss a beat.",
+        "itunes_id": "1480215364",
+        "content_rating": "clean",
+        "artist_name": "World Rugby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-world-rugby-podcast-rugby-world-cup-2019/id1480215364",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480215364",
+        "website": "https://player.whooshkaa.com/shows/the-world-rugby-podcast-rugby-world-cup-2019"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "England Rugby Podcast: O2 Inside Line",
+        "rss_feed_url": "https://rss.acast.com/englandrugby",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "The England Rugby Podcast with O2 Inside Line from England Rugby gives you exclusive insight and tales from inside the England camp. Host Vernon Kay speaks to a member of the elite set-up each week to find out what makes them tick; from their favourite music, to the moment they fell in love with the game.",
+        "itunes_id": "1340999161",
+        "content_rating": "clean",
+        "artist_name": "England Rugby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/england-rugby-podcast-o2-inside-line/id1340999161",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1340999161",
+        "website": "http://www.englandrugby.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "RTÉ Rugby World Cup Podcast",
+        "rss_feed_url": "https://www.rte.ie/radio1/podcast/podcast_therugbyshow.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "The RTÉ Sport team bring you the latest news from the world of rugby, as well as interesting features and discussions around the big issues in the sport. Hosted by Daire O'Brien, the show features big match previews and interviews with the sport's most interesting characters.",
+        "itunes_id": "778518589",
+        "content_rating": "clean",
+        "artist_name": "RTÉ Sport",
+        "itunes_type": null,
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rt%C3%A9-rugby-podcast/id778518589",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=778518589",
+        "website": "https://www.rte.ie/sport"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Earful of Dirt - The Major League Rugby Podcast",
+        "rss_feed_url": "https://feeds.captivate.fm/earful-of-dirt/",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "Leisure"
+        ],
+        "rating_count": 22,
+        "average_rating": 4.6,
+        "description": "Earful of Dirt - The Major League Rugby Podcast. Join us weekly for everything Major League Rugby. Featuring recaps, commentary, breaking news and all the rumors you can handle!",
+        "itunes_id": "1268927525",
+        "content_rating": "clean",
+        "artist_name": "Earful of Sports Media",
+        "itunes_type": "serial",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/earful-of-dirt-the-major-league-rugby-podcast/id1268927525",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1268927525",
+        "website": "https://www.earfulofdirt.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Welsh Rugby Podcast",
+        "rss_feed_url": "https://rss.acast.com/thewelshrugbypodcast",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.5,
+        "description": "Join the Wales Online team every week as they preview the big international games, plus action from the Guinness PRO14 with one eye on the rest of the sport around the world.With current and former players making an appearance too, it'll be the must listen podcast for the 15-man game.",
+        "itunes_id": "1172408342",
+        "content_rating": "clean",
+        "artist_name": "The Welsh Rugby Podcast from WalesOnline",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-welsh-rugby-podcast/id1172408342",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1172408342",
+        "website": "https://twitter.com/WelshRugbyPod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Blood & Mud Rugby Podcast",
+        "rss_feed_url": "http://rss.acast.com/bloodandmudrugby",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 8,
+        "average_rating": 5,
+        "description": "Your weekly sweary pipebomb of rugby knowledge.   All the latest rugby news plus special features. Also games,  guests, interviews and the occasional dodgy impression",
+        "itunes_id": "1052346812",
+        "content_rating": "explicit",
+        "artist_name": "bloodandmud",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/blood-mud-rugby-podcast/id1052346812",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1052346812",
+        "website": "www.bloodandmud.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Inside Women's Rugby",
+        "rss_feed_url": "https://feed.podbean.com/insidewomensrugby/feed.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Interviews with the amazing people pushing the women rugby forward.",
+        "itunes_id": "1477964986",
+        "content_rating": "clean",
+        "artist_name": "insidewomensrugby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/inside-womens-rugby/id1477964986",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477964986",
+        "website": "https://insidewomensrugby.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Indy Rugby Podcast: Japan 2019",
+        "rss_feed_url": "https://rss.acast.com/theindyrugbypodcastjapan2019",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "A podcast from The Independent covering the Rugby World Cup in Japan, bringing you the latest news, analysis and opinion. Host Jack de Menezes, reporter Samuel Lovett and chief sports writer Jonathan Liew will be joined by various guests throughout the two-month tournament, bringing you three podcasts a week until the new world champions are crowned (plus a few bonus episodes along the way).",
+        "itunes_id": "1478654663",
+        "content_rating": "clean",
+        "artist_name": "The Independent",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-indy-rugby-podcast-japan-2019/id1478654663",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478654663",
+        "website": "https://www.independent.co.uk/sport/rugby/rugby-union/international"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Thistle Scottish Rugby Podcast",
+        "rss_feed_url": "http://rss.acast.com/thethistle",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 13,
+        "average_rating": 4.9,
+        "description": "Welcome to The Thistle, the only podcast that cares about Scottish rugby. A light-hearted look at rugby union in Scotland, from three rugby fans who never quite made the grade. Expect razor sharp insight from a panel that can count amongst its achievements a Scottish Schools Cup winners medal, the captaincy of the Newcastle 2s dirt trackers, and second place at the 2016 Elie beach rugby tournament. Twitter handle: @thistlerugbypod",
+        "itunes_id": "1173814185",
+        "content_rating": "clean",
+        "artist_name": "The Thistle",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-thistle-scottish-rugby-podcast/id1173814185",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1173814185",
+        "website": "https://twitter.com/thistlerugbypod"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Rugby Bricks Podcast",
+        "rss_feed_url": "https://rugbybricks.libsyn.com/rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "Health & Fitness",
+          "Fitness"
+        ],
+        "rating_count": 10,
+        "average_rating": 5,
+        "description": "The Rugby Bricks Podcast is about speaking with some of the brightest minds,  smartest coaches and most talented athletes from all around the world. We're breaking down their habits of what's made them successful and sharing their insights, tips, and quirks from their fields to make you the best you can be whether that's on or off the pitch.",
+        "itunes_id": "1485521310",
+        "content_rating": "explicit",
+        "artist_name": "Peter Breen",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-rugby-bricks-podcast/id1485521310",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1485521310",
+        "website": "https://www.rugbybricks.com/"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "England Rugby Pod",
+        "rss_feed_url": "http://englandrugbypod.libsyn.com/rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 7,
+        "average_rating": 5,
+        "description": "Welcome to the England Rugby Pod, the rugby podcast that believes England will win the World Cup in 2019.\n\nAndy and Dan are two mates with a passion for rugby. No professional experience, no media experience just a shared love of the game and pride in the English rose. Hear their thoughts on team selections, performances, results and join them as they follow England on their march to (hopefully) glory at the 2019 Rugby World Cup in Japan.\n\nUnique player profiles will give you a little extra insight into the players that make up the England squad, their 'Lions Watch' will share the high's and low's of the 2017 Lions Tour to New Zealand but their ultimate goal is to find out what makes the worlds next number one team tick.",
+        "itunes_id": "1227038491",
+        "content_rating": "clean",
+        "artist_name": "Andy and Dan",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/england-rugby-pod/id1227038491",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1227038491",
+        "website": "http://www.englandrugbypod.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Scottish Rugby Podcast",
+        "rss_feed_url": "http://rss.acast.com/scottishrugbyblog",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 2,
+        "average_rating": 4.5,
+        "description": "The podcast that takes a sideways look at Scottish rugby. Bi weekly during the season and weekly during international windows covering the best from the Scottish Rugby Blog (www.scottishrugbyblog.co.uk). Contact podcast@scottishrugbyblog.co.uk. Theme Music \"Coyote\" by Woodentooth (http://www.woodentooth.com).",
+        "itunes_id": "1195370479",
+        "content_rating": "clean",
+        "artist_name": "The Scottish Rugby Blog",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-scottish-rugby-podcast/id1195370479",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1195370479",
+        "website": "https://www.scottishrugbyblog.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Super Rugby Podcast",
+        "rss_feed_url": "https://feed.podbean.com/thesuperrugbypodcast/feed.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.3,
+        "description": "The Super Rugby Podcast is a podcast based around the world famous Super Rugby competition which is played against 15 of the worlds best rugby teams.",
+        "itunes_id": "1453908621",
+        "content_rating": "clean",
+        "artist_name": "Super Rugby Podcast",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/super-rugby-podcast/id1453908621",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1453908621",
+        "website": "https://thesuperrugbypodcast.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Fergo and The Freak",
+        "rss_feed_url": "https://fergoandfreak.libsyn.com/rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Hosted by Andrew Ferguson and League Freak, the podcast covers different Rugby League topics, from the NRL to Super League, and how they relate to the history of the game.",
+        "itunes_id": "1457964385",
+        "content_rating": "explicit",
+        "artist_name": "Fergo and The Freak",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/fergo-and-the-freak/id1457964385",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1457964385",
+        "website": "http://leaguefreak.com/podcast"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "A Captain's Cup",
+        "rss_feed_url": "https://www.spreaker.com/show/3687865/episodes/feed",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Radio Sport's Daniel McHardy interviews every Rugby World Cup winning captain to find out what made their campaign a triumph. Each week we talk to a different captain - David Kirk, Nick Farr-Jones, Francois Pienaar, John Eales, Martin Johnson, John Smit and Richie McCaw. A Captain's Cup produced by Radio Sport, Newstalk ZB and NZ Herald",
+        "itunes_id": "1478574506",
+        "content_rating": "clean",
+        "artist_name": "Radio Sport",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/a-captains-cup/id1478574506",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478574506",
+        "website": "https://www.spreaker.com/show/a-captains-cup"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Any Sting Goes",
+        "rss_feed_url": "https://audioboom.com/channels/5000999.rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Hosted by Josh Bassett and Tom Cruse, the Any Sting Goes Podcast is a light-hearted look into the day-to-day life behind-the-scenes of professional rugby club Wasps.\nThroughout the season we'll be bringing on a series of special guests, discussing hot topics, we'll also be inviting you to get involved along the way by asking questions on social media. While we'll be adding in some competitions too!",
+        "itunes_id": "1474599712",
+        "content_rating": "clean",
+        "artist_name": "Wasps Rugby Club",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/any-sting-goes/id1474599712",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1474599712",
+        "website": "https://audioboom.com/channels/5000999"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "After The Whistle with Lewis Moody",
+        "rss_feed_url": "https://audioboom.com/channels/5001587.rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "Former England Captain Lewis Moody MBE and England International Leon Lloyd explore what it takes to build a champion mindset both in and beyond the realms of the sporting world and ask: what happens when the game stops?\nEach week with the help of a special guest they'll be exploring the difficult aspect of transition and dissecting the roles that leadership, resilience and teamwork play in personal and professional success.. and the toll it can take on your physical and mental well being.",
+        "itunes_id": "1478917372",
+        "content_rating": "clean",
+        "artist_name": "Audioboom",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/after-the-whistle-with-lewis-moody/id1478917372",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1478917372",
+        "website": "https://audioboom.com/channels/5001587"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Rugby World Cup Daily Podcast",
+        "rss_feed_url": "https://www.omnycontent.com/d/playlist/2a6b7e06-e480-48f0-8d1e-a791000e2b00/2974040f-ad15-4536-a4f5-aacc00109e8c/b6c94a40-dc44-4e47-a5e4-aacc0012deed/podcast.rss",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Your insider's guide to the Rugby World Cup. Georgina Robinson and Tom Decent bring you the inside stories, unravelling all the twists and turns, and sharing their experiences on the ground at the 2019 Rugby World Cup in Japan.",
+        "itunes_id": "1480942856",
+        "content_rating": "clean",
+        "artist_name": "The Age and Sydney Morning Herald",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/rugby-world-cup-daily-podcast/id1480942856",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1480942856",
+        "website": "https://omny.fm/shows/rugby-world-cup-daily"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Warriors Weekly Rugby Podcast",
+        "rss_feed_url": "https://rss.acast.com/glasgowwarriors",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The OFFICIAL Glasgow Warriors Podcast.\nA podcast about Glasgow Warriors by Glasgow Warriors bringing you exclusive behind the scenes interviews and information from Scotstoun Stadium every Tuesday.\nHosted by Jeremy Bone and Scotland International and Glasgow Warriors number 8 Adam Ashe.",
+        "itunes_id": "1422799473",
+        "content_rating": "clean",
+        "artist_name": "Glasgow Warriors",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/warriors-weekly-rugby-podcast/id1422799473",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1422799473",
+        "website": "http://www.glasgowwarriors.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Players' Voice Rugby Podcast",
+        "rss_feed_url": "https://feeds.transistor.fm/the-players-voice-rugby-podcast",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "Former Northampton Saints second row Christian Day travels the length and breadth of the country speaking to current and former rugby stars about life as a professional player, what they get up to away from the pitch, and the game in general.",
+        "itunes_id": "1483577532",
+        "content_rating": "clean",
+        "artist_name": "The Rugby Players Association (RPA)",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-players-voice-rugby-podcast/id1483577532",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1483577532",
+        "website": "http://www.therpa.co.uk"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Cup '19",
+        "rss_feed_url": "https://www.spreaker.com/show/3618860/episodes/feed",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News",
+          "Sports News"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Cup '19 podcast, brought to you by Suzuki. Join Ollie Ritchie and Newshub as we build up to the Rugby World Cup with The Cup '19 podcast.\n\nEach week, we'll delve deep inside the All Blacks camp as they prepare to go for an historic three-peat in Japan. With expert analysis from our team on the ground and those who know the game back to front, we'll look at just how well the All Blacks are shaping up ahead of October's global showpiece. Go to newshub.co.nz/podcasts",
+        "itunes_id": "1473765979",
+        "content_rating": "clean",
+        "artist_name": "Newshub",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-cup-19/id1473765979",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1473765979",
+        "website": "https://www.spreaker.com/show/the-cup-19"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Bill Ellis Podcast",
+        "rss_feed_url": "https://rss.acast.com/bill-ellis-podcast",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports",
+          "News"
+        ],
+        "rating_count": 1,
+        "average_rating": 5,
+        "description": "James McOnie, Mils Muliaina, and Ric Salizzo discuss the very latest in New Zealand rugby on the Bill Ellis Podcast, brought to you by RugbyPass.",
+        "itunes_id": "1477395247",
+        "content_rating": "clean",
+        "artist_name": "RugbyPass",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/bill-ellis-podcast/id1477395247",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1477395247",
+        "website": "rugbypass.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Fantasy Rugby Yanks Podcast",
+        "rss_feed_url": "https://thefantasyrugbyyanks.podbean.com/feed.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 6,
+        "average_rating": 4.8,
+        "description": "Just a couple of lovers of all things rugby talking about some pretend rugby and giving you bad advice on who to play in your teams.",
+        "itunes_id": "1441471907",
+        "content_rating": "explicit",
+        "artist_name": "TFRY",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-fantasy-rugby-yanks-podcast/id1441471907",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1441471907",
+        "website": "https://thefantasyrugbyyanks.podbean.com"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "The Official Scottish Rugby Podcast",
+        "rss_feed_url": "https://scottishrugby.podbean.com/feed.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 0,
+        "average_rating": 0,
+        "description": "The Official Scottish Rugby Podcast with former Scotland internationalists Chris Paterson, Al Kellock & Lindsey Smith & hosted by Jamie McMillan. With different guests popping in and out of the studio each week, we discuss the hot topics of the game in and out of Scotland.",
+        "itunes_id": "1450296940",
+        "content_rating": "clean",
+        "artist_name": "Scottish Rugby",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/the-official-scottish-rugby-podcast/id1450296940",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1450296940",
+        "website": "http://www.scottishrugby.org"
+      }
+    },
+    {
+      "podcast_details": {
+        "podcast_name": "Forty20 Rugby League Podcasts",
+        "rss_feed_url": "https://forty20rl.podbean.com/feed.xml",
+        "categories": [
+          "Rugby",
+          "Podcasts",
+          "Sports"
+        ],
+        "rating_count": 3,
+        "average_rating": 5,
+        "description": "The Rugby League Alternative",
+        "itunes_id": "1434352450",
+        "content_rating": "clean",
+        "artist_name": "Forty20",
+        "itunes_type": "episodic",
+        "itunes_url": "https://podcasts.apple.com/us/podcast/forty20-rugby-league-podcasts/id1434352450",
+        "itunes_subscription_url": "https://itunes.apple.com/WebObjects/DZR.woa/wa/subscribePodcast?cc=us&id=1434352450",
+        "website": "https://forty20rl.podbean.com"
+      }
+    }
+  ]
+}
