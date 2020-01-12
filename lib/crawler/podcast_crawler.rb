@@ -1,6 +1,7 @@
 module Crawler
   class PodcastCrawler
-    require 'rss'
+    require 'feedjira'
+    require 'httparty'
 
     def initialize(podcast)
       @podcast = podcast
@@ -11,21 +12,20 @@ module Crawler
 
       podcast_rss_url = podcast.rss
 
-      open(podcast_rss_url) do |rss|
-        feed = podcast_rss_feed(rss)
+      response_body = HTTParty.get(podcast_rss_url).body
+      feed = Feedjira.parse(response_body)
 
-        podcast_details_from_rss[:title] = feed.channel.title
-        podcast_details_from_rss[:description] = feed.channel.description
-        podcast_details_from_rss[:language] = feed.channel.language
-        podcast_details_from_rss[:website] = feed.channel.link
-        podcast_details_from_rss[:itunes_owner_name] = feed.channel.itunes_owner.itunes_name
-        podcast_details_from_rss[:itunes_owner_email] = feed.channel.itunes_owner.itunes_email
-        podcast_details_from_rss[:itunes_explicit] = feed.channel.itunes_explicit == 'yes' ? true : false
-        podcast_details_from_rss[:itunes_subtitle] = feed.channel.itunes_subtitle
-        podcast_details_from_rss[:itunes_summary] = feed.channel.itunes_summary
-        podcast_details_from_rss[:itunes_author] = feed.channel.itunes_author
-        podcast_details_from_rss[:itunes_image] = feed.channel.image.url
-      end
+      podcast_details_from_rss[:title] = feed.title
+      podcast_details_from_rss[:description] = feed.description
+      podcast_details_from_rss[:language] = feed.language
+      podcast_details_from_rss[:website] = feed.url
+      podcast_details_from_rss[:itunes_owner_name] = feed.itunes_owners.first.name
+      podcast_details_from_rss[:itunes_owner_email] = feed.itunes_owners.first.email
+      podcast_details_from_rss[:itunes_explicit] = feed.itunes_explicit == 'yes' ? true : false
+      podcast_details_from_rss[:itunes_subtitle] = feed.itunes_subtitle
+      podcast_details_from_rss[:itunes_summary] = feed.itunes_summary
+      podcast_details_from_rss[:itunes_author] = feed.itunes_author
+      podcast_details_from_rss[:itunes_image] = feed.itunes_image
 
       podcast.update(podcast_details_from_rss)
     end
@@ -34,26 +34,30 @@ module Crawler
       episodes = []
 
       podcast_rss_url = podcast.rss
-      open(podcast_rss_url) do |rss|
-        feed = podcast_rss_feed(rss)
 
-        episodes = feed.items.map do |item|
-          episode_details_from_rss = {}
+      response_body = HTTParty.get(podcast_rss_url).body
+      feed = Feedjira.parse(response_body)
 
-          episode_details_from_rss[:title] = item.title
-          episode_details_from_rss[:description] = item.description
-          episode_details_from_rss[:link_to_website] = item.link
-          episode_details_from_rss[:guid] = item.guid.content
-          episode_details_from_rss[:publication_date] = item.pubDate
-          episode_details_from_rss[:enclosure_url] = item.enclosure.url
-          episode_details_from_rss[:enclosure_length] = item.enclosure.length
-          episode_details_from_rss[:enclosure_type] = item.enclosure.type
-          episode_details_from_rss[:itunes_explicit] = item.itunes_explicit == 'yes' ? true : false
-          episode_details_from_rss[:itunes_duration] = item.itunes_duration.hour.hours + item.itunes_duration.minute.minutes + item.itunes_duration.second.seconds
+      episodes = feed.entries.map do |entry|
+        episode_details_from_rss = {}
 
-          podcast.episodes.create(episode_details_from_rss)
-        end
+        episode_details_from_rss[:title] = entry.title
+        episode_details_from_rss[:description] = entry&.itunes_summary
+        episode_details_from_rss[:link_to_website] = entry.url
+        episode_details_from_rss[:guid] = entry.entry_id
+        episode_details_from_rss[:publication_date] = entry.published
+        episode_details_from_rss[:enclosure_url] = entry.enclosure_url
+        episode_details_from_rss[:enclosure_length] = entry.enclosure_length
+        episode_details_from_rss[:enclosure_type] = entry.enclosure_type
+        episode_details_from_rss[:itunes_explicit] = entry.itunes_explicit == 'yes' ? true : false
+        episode_details_from_rss[:itunes_duration] = convert_time_to_seconds(entry.itunes_duration)
+
+        podcast.episodes.create(episode_details_from_rss)
       end
+
+    rescue StandardError => e
+      puts e.message
+      puts podcast.title
     end
 
     private
@@ -62,6 +66,28 @@ module Crawler
 
     def podcast_rss_feed(rss)
       @podcast_rss_feed ||= RSS::Parser.parse(rss)
+    end
+
+    def convert_time_to_seconds(time_string)
+      return nil if time_string.blank?
+
+      if time_string.count(":") == 1
+        time_string = "00:" + time_string
+
+        hours = time_string.to_datetime.hour.hours
+        minutes = time_string.to_datetime.minute.minutes
+        seconds = time_string.to_datetime.second.seconds
+
+        (hours + minutes + seconds).seconds
+      elsif time_string.count(":") == 2
+        hours = time_string.to_datetime.hour.hours
+        minutes = time_string.to_datetime.minute.minutes
+        seconds = time_string.to_datetime.second.seconds
+
+        (hours + minutes + seconds).seconds
+      else
+        time_string.to_i
+      end
     end
   end
 end
