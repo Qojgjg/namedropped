@@ -3,6 +3,9 @@ import PropTypes from 'prop-types';
 import {AsyncTypeahead} from 'react-bootstrap-typeahead';
 import GithubMenuItem from './github_menu_item';
 
+import {Menu} from 'react-bootstrap-typeahead';
+import {MenuItem} from 'react-bootstrap-typeahead';
+
 class TypeaheadSearch extends React.Component {
   state = {
     allowNew: false,
@@ -18,7 +21,7 @@ class TypeaheadSearch extends React.Component {
           isLoading={this.state.isLoading}
           onSearch={query => {
             this.setState({isLoading: true});
-            fetch(`https://api.github.com/search/users?q=${query}`)
+            fetch(`http://localhost:3000/search?q=${query}`)
               .then(resp => resp.json())
               .then(json =>
                 this.setState({
@@ -28,11 +31,17 @@ class TypeaheadSearch extends React.Component {
               );
           }}
           options={this.state.options}
-          placeholder="Search for podcasts"
-          renderMenuItemChildren={(option, props) => (
-            <GithubMenuItem key={option.id} user={option} />
+          placeholder="Search for a term in podcasts"
+          renderMenu={(results, menuProps) => (
+            <Menu {...menuProps}>
+              {results.map((result, index) => (
+                <MenuItem option={result} position={index}>
+                  {result}
+                </MenuItem>
+              ))}
+            </Menu>
           )}
-          labelKey={option => `${option.login}`}
+          labelKey={option => `${option._id}`}
         />
       </React.Fragment>
     );
