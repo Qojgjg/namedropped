@@ -30,7 +30,7 @@ class TypeaheadSearch extends React.Component {
                 );
             }}
             options={this.state.options}
-            placeholder="Search for a term in podcasts"
+            placeholder="Search through podcast episodes..."
             renderMenuItemChildren={(option, props) => (
               <EpisodeMenuItem key={option.id} episode={option} />
             )}
