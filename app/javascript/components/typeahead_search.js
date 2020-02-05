@@ -20,7 +20,7 @@ class TypeaheadSearch extends React.Component {
             isLoading={this.state.isLoading}
             onSearch={query => {
               this.setState({isLoading: true});
-              fetch(`http://localhost:3000/search?q=${query}`)
+              fetch(`${this.props.searchPath}?q=${query}`)
                 .then(resp => resp.json())
                 .then(json =>
                   this.setState({
@@ -56,6 +56,7 @@ class TypeaheadSearch extends React.Component {
 TypeaheadSearch.propTypes = {
   isLoading: PropTypes.bool,
   onSearch: PropTypes.string,
+  searchPath: PropTypes.string.isRequired,
 };
 
 export default TypeaheadSearch;
