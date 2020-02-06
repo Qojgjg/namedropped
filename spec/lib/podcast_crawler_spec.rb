@@ -1,4 +1,5 @@
 require 'rails_helper'
+require_relative '../../lib/crawler/podcast_crawler'
 
 RSpec.describe Crawler::PodcastCrawler do
   let(:podcast) { Podcast.new(title: 'The Daily', rss: 'https://rss.art19.com/the-daily', itunes_image: 'not_available', id: 1) }
@@ -71,8 +72,7 @@ RSpec.describe Crawler::PodcastCrawler do
     it 'creates an episode for each item in the feed' do
       VCR.use_cassette('the-daily-rss-feed') do
         subject.update_podcast_episodes_info
-
-        expect(podcast.episodes.count).to eq(721)
+        expect(podcast.episodes.count).to eq(809)
       end
     end
 
@@ -82,7 +82,7 @@ RSpec.describe Crawler::PodcastCrawler do
         allow(episodes).to receive(:create)
         subject.update_podcast_episodes_info
 
-        expect(episodes).to have_received(:create).exactly(721).times
+        expect(episodes).to have_received(:create).exactly(809).times
       end
     end
 
