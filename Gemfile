@@ -42,8 +42,8 @@ gem 'feedjira'
 gem 'httparty'
 
 
-gem 'elasticsearch-model', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '5.x'
-gem 'elasticsearch-rails', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '5.x'
+gem 'elasticsearch-model', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '6.x'
+gem 'elasticsearch-rails', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '6.x'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -70,6 +70,7 @@ group :test do
   gem 'webmock'
   gem 'vcr'
   gem 'database_cleaner-active_record'
+  gem 'elasticsearch-extensions'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
