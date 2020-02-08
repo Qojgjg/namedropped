@@ -103,6 +103,10 @@ RSpec.configure do |config|
   end
 
   config.around(:each) do |example|
+    unless example.metadata[:elasticsearch]
+      module Searchable; end
+    end
+
     DatabaseCleaner.cleaning do
       example.run
     end

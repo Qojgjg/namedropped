@@ -69,7 +69,7 @@ RSpec.describe Crawler::PodcastCrawler do
 
     let(:episodes) { instance_double('episodes') }
 
-    it 'creates an episode for each item in the feed', elasticsearch: true do
+    it 'creates an episode for each item in the feed' do
       VCR.use_cassette('the-daily-rss-feed') do
         subject.update_podcast_episodes_info
         expect(podcast.episodes.count).to eq(810)
