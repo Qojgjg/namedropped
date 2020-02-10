@@ -110,6 +110,12 @@ RSpec.configure do |config|
     DatabaseCleaner.cleaning do
       example.run
     end
+
+    if example.metadata[:vcr]
+      example.run
+    else
+      VCR.turned_off { example.run }
+    end
   end
 
   # Start an in-memory cluster for Elasticsearch as needed

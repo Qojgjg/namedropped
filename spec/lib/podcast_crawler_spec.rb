@@ -24,7 +24,7 @@ RSpec.describe Crawler::PodcastCrawler do
       }
     end
 
-    it 'updates the podcast with the right attributes' do
+    it 'updates the podcast with the right attributes', :vcr do
       allow(podcast).to receive(:update).with(podcast_attributes)
 
       VCR.use_cassette('the-daily-rss-feed') do
@@ -36,7 +36,7 @@ RSpec.describe Crawler::PodcastCrawler do
     context 'when the content is explicit' do
       let(:podcast) { Podcast.new(title: 'The Joe Rogan Experience', rss: 'http://joeroganexp.joerogan.libsynpro.com/rss', itunes_image: 'not_available') }
 
-      it 'sets itunes_explicit to true' do
+      it 'sets itunes_explicit to true', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
           subject.update_podcast_info
           expect(podcast.itunes_explicit).to be_truthy
@@ -69,14 +69,14 @@ RSpec.describe Crawler::PodcastCrawler do
 
     let(:episodes) { instance_double('episodes') }
 
-    it 'creates an episode for each item in the feed' do
+    it 'creates an episode for each item in the feed', :vcr do
       VCR.use_cassette('the-daily-rss-feed') do
         subject.update_podcast_episodes_info
         expect(podcast.episodes.count).to eq(810)
       end
     end
 
-    it 'sets the right attributes on each episode' do
+    it 'sets the right attributes on each episode', :vcr do
       VCR.use_cassette('the-daily-rss-feed') do
         allow(podcast).to receive(:episodes).and_return(episodes)
         allow(episodes).to receive(:create)
@@ -89,7 +89,7 @@ RSpec.describe Crawler::PodcastCrawler do
     context 'when the content is explicit' do
       let(:podcast) { Podcast.create(title: 'The Joe Rogan Experience', rss: 'http://joeroganexp.joerogan.libsynpro.com/rss', itunes_image: 'not_available') }
 
-      it 'sets itunes_explicit to true' do
+      it 'sets itunes_explicit to true', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
           subject.update_podcast_episodes_info
           expect(podcast.episodes.last.itunes_explicit).to be_truthy
