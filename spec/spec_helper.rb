@@ -107,10 +107,6 @@ RSpec.configure do |config|
       module Searchable; end
     end
 
-    DatabaseCleaner.cleaning do
-      example.run
-    end
-
     if example.metadata[:vcr]
       example.run
     else
@@ -160,6 +156,12 @@ RSpec.configure do |config|
           STDERR.puts "There was an error removing the elasticsearch index for #{model.name}: #{e.inspect}"
         end
       end
+    end
+  end
+
+  config.around(:each) do |example|
+    DatabaseCleaner.cleaning do
+      example.run
     end
   end
 end
