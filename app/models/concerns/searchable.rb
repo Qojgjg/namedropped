@@ -6,7 +6,7 @@ module Searchable
     include Elasticsearch::Model::Callbacks
 
     def as_indexed_json(_options = {})
-      as_json(only: %i[title description publication_date])
+      as_json(only: [:title, :description, :publication_date])
     end
 
     settings do
