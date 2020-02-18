@@ -2,9 +2,13 @@ require 'rails_helper'
 
 RSpec.feature 'interacting with search' do
 
-  background do
+  before do
+    podcast = Podcast.create(title: 'Reason Editors Roundtable',
+                   rss: 'rss-feed-address.com'
+                  )
     Episode.create(title: 'Nick Gillespie and the Reason Editor Roundtable',
-                   description: 'Discussing the week events'
+                   description: 'Discussing the week events',
+                   podcast: podcast
                   )
   end
 
@@ -23,6 +27,8 @@ RSpec.feature 'interacting with search' do
   def and_i_search_for_the_name_nick_gillespie
     search_input_field = find(:xpath, "/html/body/div[2]/div/div/div[1]/div[1]/input")
     search_input_field.set('Nick Gillespie')
+    sleep 1
+    find('#button-addon2').click
   end
 
   def then_i_see_results_for_episodes_mentioning_nick_gillespie
