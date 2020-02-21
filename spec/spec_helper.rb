@@ -129,6 +129,8 @@ RSpec.configure do |config|
 
   # Create indexes for all elastic searchable models
   config.before :each, elasticsearch: true do
+    WebMock.disable_net_connect!(allow_localhost: true)
+
     ActiveRecord::Base.descendants.each do |model|
       if model.respond_to?(:__elasticsearch__)
         begin
