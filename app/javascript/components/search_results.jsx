@@ -13,11 +13,12 @@ class SearchResults extends React.Component {
           <div className="my-3 p-3 ">
             <h6 className="border-bottom border-gray pb-2 mb-0">Search results for [{ this.props.searchQuery }]</h6>
               { this.props.results.map(result => (
-                <SearchResult 
-                  key={ result.id }
-                  title={ result.title }
-                  description={ result.description }
-                />
+                <div key={ result.id } >
+                  <SearchResult
+                    title={ result.title }
+                    description={ result.description }
+                  />
+                </div>
                 ))
               }
           <small className="d-block text-right mt-3">
