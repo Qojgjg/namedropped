@@ -6,7 +6,7 @@ module Searchable
     include Elasticsearch::Model::Callbacks
 
     def as_indexed_json(_options = {})
-      as_json(only: [:title, :description, :publication_date])
+      as_json(only: [:title, :description, :publication_date, :id])
     end
 
     settings do
@@ -19,7 +19,7 @@ module Searchable
 
     def self.search(query)
       search_definition =  {
-        query: { 
+        query: {
           multi_match: {
             query: query,
             fields: [:title, :description]
