@@ -28,6 +28,10 @@ module Crawler
       podcast_details_from_rss[:itunes_image] = feed.itunes_image
 
       podcast.update(podcast_details_from_rss)
+
+    rescue StandardError => e
+      puts e.message
+      puts podcast.title
     end
 
     def update_podcast_episodes_info
