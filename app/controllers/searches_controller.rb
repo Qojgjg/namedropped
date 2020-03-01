@@ -1,6 +1,7 @@
 class SearchesController < ApplicationController
   def show
     query = params[:q]
+    cookies.encrypted[:search_term] = query
 
     render json: formatted_results(query).to_json
   end
