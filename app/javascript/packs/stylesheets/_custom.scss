@@ -1,3 +1,5 @@
+$spacer: 1rem;
+
 html {
   font-size: 14px;
 }
@@ -17,4 +19,12 @@ html {
 
 body {
   padding-bottom: 70px;
+}
+
+.episode {
+  margin-top: ($spacer * 5) !important;
+}
+
+.episode-show {
+  padding-top: ($spacer * 5) !important;
 }
