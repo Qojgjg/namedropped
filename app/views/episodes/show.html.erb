@@ -1,10 +1,11 @@
 <div class="container episode">
-  <h2>This podcast mentioned <span class="badge badge-warning">|<%= @search_term %>|</span> in the episode <%= @episode.title %></h2>
+  <h2>This podcast mentioned <span class="badge badge-warning"><%= @search_term %></span> in an episode</h2>
   <div class="media episode-show">
     <img src="<%= @podcast.itunes_image %>" class="mr-3" alt="Podcast image" height="100" width="100">
     <div class="media-body">
       <h5 class="mt-0"><%= @episode.title %></h5>
       <%= @episode.description.html_safe %>
+      <p class="episode">Published: <%=@episode.publication_date.strftime("%B %d, %Y")%></p>
     </div>
   </div>
   <hr class="featurette-divider">

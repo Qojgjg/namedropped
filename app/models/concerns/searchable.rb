@@ -11,6 +11,7 @@ module Searchable
 
     settings do
       mappings dynamic: false do
+        indexes :id, type: :integer
         indexes :title, type: :text, analyzer: :english
         indexes :description, type: :text, analyzer: :english
         indexes :publication_date, type: :date
