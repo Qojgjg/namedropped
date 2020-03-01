@@ -17,6 +17,7 @@ class SearchResults extends React.Component {
                   <SearchResult
                     title={ result.title }
                     description={ result.description }
+                    episode_id={ result.id }
                   />
                 </div>
                 ))
