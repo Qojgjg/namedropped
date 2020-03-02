@@ -48,7 +48,6 @@ RSpec.feature 'interacting with search', js: true, elasticsearch: true do
   end
 
   def and_i_click_on_on_the_first_search_result
-    # find('.episode_search_result').click
     click_link('Nick Gillespie and the Reason Editor Roundtable')
   end
 
