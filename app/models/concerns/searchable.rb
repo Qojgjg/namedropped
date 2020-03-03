@@ -23,6 +23,7 @@ module Searchable
         query: {
           multi_match: {
             query: query,
+            type: :phrase,
             fields: [:title, :description]
           },
         }
