@@ -55,6 +55,7 @@ class TypeaheadSearch extends React.Component {
             labelKey={option => `${option.title}`}
             filterBy={(option, props) => ( true ) }
             ref={typeahead => (this.typeahead = typeahead)}
+            minLength={3}
           />
           {console.log(this.state.options)}
           <div className="input-group-append">
