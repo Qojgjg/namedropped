@@ -53,7 +53,7 @@ class TypeaheadSearch extends React.Component {
               <EpisodeMenuItem key={option.id} episode={option} />
             )}
             labelKey={option => `${option.title}`}
-            filterBy={["title", "description"]}
+            filterBy={(option, props) => ( true ) }
             ref={typeahead => (this.typeahead = typeahead)}
           />
           {console.log(this.state.options)}
