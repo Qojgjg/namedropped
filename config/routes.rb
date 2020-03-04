@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   root to: 'homepage#index'
-  resource :search, only: [:show]
+
+  get '/typeahead_search', to: 'searches#typeahead_search'
+  get '/search', to: 'searches#main_search'
+
   resources :episodes, only: [:show]
 end

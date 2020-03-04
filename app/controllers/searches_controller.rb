@@ -1,11 +1,16 @@
 class SearchesController < ApplicationController
-  after_action :track_action, only: :show
+  after_action :track_action, only: :typeahead_search
 
-  def show
+  def typeahead_search
     @query = params[:q]
     cookies.encrypted[:search_term] = @query
 
     render json: formatted_results.to_json
+  end
+
+  def main_search
+    @query = params[:q]
+    render search_results
   end
 
   private
