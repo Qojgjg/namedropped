@@ -35,7 +35,9 @@ class TypeaheadSearch extends React.Component {
               isLoading={this.state.isLoading}
               onSearch={query => {
                 this.setState({ isLoading: true });
-                fetch(`${this.props.typeaheadSearchPath}?q=${query}`)
+                fetch(`${this.props.typeaheadSearchPath}?q=${query}`,
+                  { headers: { 'X-CSRF-Token': document.querySelector("meta[name=csrf-token]").content } }
+                )
                   .then(resp => resp.json())
                   .then(json =>
                     this.setState({
