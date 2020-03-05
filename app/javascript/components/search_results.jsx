@@ -12,6 +12,8 @@ class SearchResults extends React.Component {
       <React.Fragment>
           <div className="my-3 p-3 ">
             <h6 className="border-bottom border-gray pb-2 mb-0">Search results for [{ this.props.searchQuery }]</h6>
+
+            { console.log(this.props.results)}
               { this.props.results.map(result => (
                 <div key={ result.id } >
                   <SearchResult
