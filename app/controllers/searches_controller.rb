@@ -27,7 +27,7 @@ class SearchesController < ApplicationController
   def formatted_results_typeahead
     results = Episode.typeahead_search(@typeahead_query)
 
-    results.each_with_index.map { |result, index| { "id" => index+1 }.merge(result.fetch("_source")) }
+    results.map { |result| result.fetch('_source') }
   end
 
   def formatted_results_main
