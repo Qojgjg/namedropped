@@ -1,11 +1,12 @@
 class SearchesController < ApplicationController
-  after_action :track_action, only: :typeahead_search
   protect_from_forgery except: :main_search
 
   def typeahead_search
     if verified_request?
       @typeahead_query = params[:q]
       cookies.encrypted[:search_term] = @typeahead_query
+
+      track_action(name: 'typeahead_search', query: @typahead_query)
 
       render json: formatted_results_typeahead.to_json
     else
@@ -15,32 +16,38 @@ class SearchesController < ApplicationController
 
   def main_search
     @main_query = params[:q]
-
     cookies.encrypted[:search_term] = @main_query
 
+    track_action(name: 'main_search', query: @main_query)
+
     @search_result_props = formatted_results_main
+
     render :show
   end
 
   private
 
-  def formatted_results_typeahead
-    results = Episode.typeahead_search(@typeahead_query)
+  attr_accessor :results
 
-    results.map { |result| result.fetch('_source') }
+  def formatted_results_typeahead
+    @results = Episode.typeahead_search(@typeahead_query)
+    format_results
   end
 
   def formatted_results_main
-    results = Episode.main_search(@main_query)
-
-    results.map { |result| result.fetch("_source") }
+    @results = Episode.main_search(@main_query)
+    format_results
   end
 
-  def track_action
-    ahoy.track "Search", request.path_parameters.merge(search_term: @query)
+  def track_action(name:, query:)
+    ahoy.track name, request.path_parameters.merge(search_term: query)
   end
 
   def verified_request?
     valid_request_origin? && any_authenticity_token_valid?
+  end
+
+  def format_results
+    results.map { |result| result.fetch("_source") }
   end
 end
