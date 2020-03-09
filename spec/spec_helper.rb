@@ -104,10 +104,6 @@ RSpec.configure do |config|
   end
 
   config.around(:each) do |example|
-    unless example.metadata[:elasticsearch]
-      module Searchable; end
-    end
-
     if example.metadata[:vcr]
       example.run
     else
