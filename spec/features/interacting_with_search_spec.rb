@@ -27,10 +27,9 @@ RSpec.feature 'interacting with search', js: true, elasticsearch: true do
   end
 
   def and_i_search_for_the_name_nick_gillespie
-    search_input_field = find(:xpath, "/html/body/div[2]/div/div/div[1]/div[1]/input")
-    search_input_field.set('Nick Gillespie')
+    fill_in "q", with: "Nick Gillespie"
     sleep 2
-    find('#button-addon2').click
+    click_button('button-addon2')
   end
 
   def then_i_see_results_for_episodes_mentioning_nick_gillespie
@@ -41,10 +40,9 @@ RSpec.feature 'interacting with search', js: true, elasticsearch: true do
   def when_i_search_for_the_name_nick_gillespie
     visit root_path
 
-    search_input_field = find(:xpath, "/html/body/div[2]/div/div/div[1]/div[1]/input")
-    search_input_field.set('Nick Gillespie')
+    fill_in "q", with: "Nick Gillespie"
     sleep 2
-    find('#button-addon2').click
+    click_button('button-addon2')
   end
 
   def and_i_click_on_on_the_first_search_result

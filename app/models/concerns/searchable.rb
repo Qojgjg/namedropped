@@ -18,8 +18,23 @@ module Searchable
       end
     end
 
-    def self.search(query)
+    def self.typeahead_search(query)
       search_definition =  {
+        query: {
+          multi_match: {
+            query: query,
+            type: :phrase,
+            fields: [:title, :description]
+          },
+        }
+      }
+
+      __elasticsearch__.search(search_definition)
+    end
+
+    def self.main_search(query)
+      search_definition =  {
+        size: 100,
         query: {
           multi_match: {
             query: query,
