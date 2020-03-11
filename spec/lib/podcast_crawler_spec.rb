@@ -126,18 +126,18 @@ RSpec.describe Crawler::PodcastCrawler do
       let(:podcast) { Podcast.new(title: 'The Joe Rogan Experience', rss: 'http://joeroganexp.joerogan.libsynpro.com/rss', itunes_image: 'not_available') }
 
       before do
-        allow(podcast).to receive(:update).and_raise(StandardError)
+        allow(podcast).to receive_message_chain(:episodes, :create).and_raise(StandardError)
       end
 
       it 'rescues the error', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
-          expect { subject.update_podcast_info }.not_to raise_error
+          expect { subject.update_podcast_episodes_info }.not_to raise_error
         end
       end
 
       it 'prints the error and the podcast title to STDOUT', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
-          expect { subject.update_podcast_info }.to output("StandardError\nThe Joe Rogan Experience\n").to_stdout
+          expect { subject.update_podcast_episodes_info }.to output("StandardError\nThe Joe Rogan Experience\n").to_stdout
         end
       end
     end
