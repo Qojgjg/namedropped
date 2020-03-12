@@ -40,6 +40,7 @@ module Crawler
       podcast_rss_url = podcast.rss
 
       response_body = HTTParty.get(podcast_rss_url).body
+
       feed = Feedjira.parse(response_body)
 
       episodes = feed.entries.map do |entry|
@@ -82,13 +83,13 @@ module Crawler
         minutes = time_string.to_datetime.minute.minutes
         seconds = time_string.to_datetime.second.seconds
 
-        (hours + minutes + seconds).seconds
+        (hours + minutes + seconds).seconds.to_i
       elsif time_string.count(":") == 2
         hours = time_string.to_datetime.hour.hours
         minutes = time_string.to_datetime.minute.minutes
         seconds = time_string.to_datetime.second.seconds
 
-        (hours + minutes + seconds).seconds
+        (hours + minutes + seconds).seconds.to_i
       else
         time_string.to_i
       end
