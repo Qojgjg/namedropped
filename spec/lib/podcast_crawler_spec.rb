@@ -88,6 +88,11 @@ RSpec.describe Crawler::PodcastCrawler do
     end
 
     let(:episodes) { instance_double('episodes') }
+    let(:__elasticsearch__) { double(:__elasticsearch__, index_document: nil) }
+
+    before do
+      allow_any_instance_of(Episode).to receive(:__elasticsearch__).and_return(__elasticsearch__)
+    end
 
     it 'creates an episode for each item in the feed', :vcr do
       VCR.use_cassette('the-daily-rss-feed') do
@@ -121,18 +126,85 @@ RSpec.describe Crawler::PodcastCrawler do
       let(:podcast) { Podcast.new(title: 'The Joe Rogan Experience', rss: 'http://joeroganexp.joerogan.libsynpro.com/rss', itunes_image: 'not_available') }
 
       before do
-        allow(podcast).to receive(:update).and_raise(StandardError)
+        allow(podcast).to receive_message_chain(:episodes, :create).and_raise(StandardError)
       end
 
       it 'rescues the error', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
-          expect { subject.update_podcast_info }.not_to raise_error
+          expect { subject.update_podcast_episodes_info }.not_to raise_error
         end
       end
 
       it 'prints the error and the podcast title to STDOUT', :vcr do
         VCR.use_cassette('joe-rogan-rss-feed') do
-          expect { subject.update_podcast_info }.to output("StandardError\nThe Joe Rogan Experience\n").to_stdout
+          expect { subject.update_podcast_episodes_info }.to output("StandardError\nThe Joe Rogan Experience\n").to_stdout
+        end
+      end
+    end
+
+    describe 'parsing of the feed' do
+      let(:reponse_body) { double(:response_body) }
+      let(:feed) { double(:feed, entries: [entry]) }
+      let(:response) { double(:response, body: response_body) }
+      let(:response_body) { double(:response_body) }
+
+      let(:title) { 'title' }
+      let(:description) { 'description' }
+      let(:summary) { nil }
+      let(:content) { nil }
+      let(:entry) { OpenStruct.new(title: title,
+                                   itunes_summary: description,
+                                   summary: summary,
+                                   content: content,
+                                   url: 'link_to_website',
+                                   entry_id: 'guid',
+                                   published: '2020-03-10 19:00:00 UTC',
+                                   enclosure_url: 'enclosure_url',
+                                   enclosure_length: '98462706',
+                                   enclosure_type: 'audio/mpeg',
+                                   itunes_explicit: false,
+                                   itunes_duration: '01:42:13'
+                                  ) }
+
+      before do
+        allow(HTTParty).to receive(:get).with(podcast.rss).and_return(response)
+        allow(Feedjira).to receive(:parse).with(response_body).and_return(feed)
+      end
+
+      it 'takes the description from the content field in the feed' do
+        episode_details_from_rss = { title: 'title',
+                                     description: 'description' ,
+                                     link_to_website: 'link_to_website',
+                                     guid: 'guid',
+                                     publication_date: '2020-03-10 19:00:00 UTC',
+                                     enclosure_url: 'enclosure_url',
+                                     enclosure_length: '98462706',
+                                     enclosure_type: 'audio/mpeg',
+                                     itunes_explicit: false,
+                                     itunes_duration: 6133
+                                   }
+
+        expect(podcast).to receive_message_chain(:episodes, :create).with(episode_details_from_rss)
+        subject.update_podcast_episodes_info
+      end
+
+      context 'when no description is present' do
+        let(:description) { nil }
+        let(:content) { 'description' }
+
+        it 'fetches the content' do
+          expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
+          subject.update_podcast_episodes_info
+        end
+
+        context 'when no content is present' do
+          let(:content) { nil }
+          let(:summary) { 'description' }
+
+          it 'fetches the summary' do
+            expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
+            subject.update_podcast_episodes_info
+          end
         end
       end
     end

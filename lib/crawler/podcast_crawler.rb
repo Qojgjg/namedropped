@@ -40,13 +40,14 @@ module Crawler
       podcast_rss_url = podcast.rss
 
       response_body = HTTParty.get(podcast_rss_url).body
+
       feed = Feedjira.parse(response_body)
 
       episodes = feed.entries.map do |entry|
         episode_details_from_rss = {}
 
         episode_details_from_rss[:title] = entry.title
-        episode_details_from_rss[:description] = entry&.itunes_summary
+        episode_details_from_rss[:description] = parse_description(entry)
         episode_details_from_rss[:link_to_website] = entry.url
         episode_details_from_rss[:guid] = entry.entry_id
         episode_details_from_rss[:publication_date] = entry.published
@@ -82,16 +83,20 @@ module Crawler
         minutes = time_string.to_datetime.minute.minutes
         seconds = time_string.to_datetime.second.seconds
 
-        (hours + minutes + seconds).seconds
+        (hours + minutes + seconds).seconds.to_i
       elsif time_string.count(":") == 2
         hours = time_string.to_datetime.hour.hours
         minutes = time_string.to_datetime.minute.minutes
         seconds = time_string.to_datetime.second.seconds
 
-        (hours + minutes + seconds).seconds
+        (hours + minutes + seconds).seconds.to_i
       else
         time_string.to_i
       end
+    end
+
+    def parse_description(entry)
+      entry&.itunes_summary || entry&.content || entry&.summary
     end
   end
 end
