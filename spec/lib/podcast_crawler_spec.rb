@@ -141,5 +141,52 @@ RSpec.describe Crawler::PodcastCrawler do
         end
       end
     end
+
+    describe 'parsing of the feed' do
+      let(:reponse_body) { double(:response_body) }
+      let(:feed) { double(:feed, entries: [entry]) }
+      let(:response) { double(:response, body: response_body) }
+      let(:response_body) { double(:response_body) }
+
+      let(:title) { 'title' }
+      let(:description) { 'description' }
+      let(:summary) { nil }
+      let(:content) { nil }
+      let(:entry) { OpenStruct.new(title: title,
+                                   itunes_summary: description,
+                                   summary: summary,
+                                   content: content,
+                                   url: 'link_to_website',
+                                   entry_id: 'guid',
+                                   published: '2020-03-10 19:00:00 UTC',
+                                   enclosure_url: 'enclosure_url',
+                                   enclosure_length: '98462706',
+                                   enclosure_type: 'audio/mpeg',
+                                   itunes_explicit: false,
+                                   itunes_duration: '01:42:13'
+                                  ) }
+
+      before do
+        allow(HTTParty).to receive(:get).with(podcast.rss).and_return(response)
+        allow(Feedjira).to receive(:parse).with(response_body).and_return(feed)
+      end
+
+      it 'takes the description from the content field in the feed' do
+        episode_details_from_rss = { title: 'title',
+                                     description: 'description' ,
+                                     link_to_website: 'link_to_website',
+                                     guid: 'guid',
+                                     publication_date: '2020-03-10 19:00:00 UTC',
+                                     enclosure_url: 'enclosure_url',
+                                     enclosure_length: '98462706',
+                                     enclosure_type: 'audio/mpeg',
+                                     itunes_explicit: false,
+                                     itunes_duration: 6133
+                                   }
+
+        expect(podcast).to receive_message_chain(:episodes, :create).with(episode_details_from_rss)
+        subject.update_podcast_episodes_info
+      end
+    end
   end
 end
