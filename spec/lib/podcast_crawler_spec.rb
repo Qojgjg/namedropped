@@ -187,6 +187,26 @@ RSpec.describe Crawler::PodcastCrawler do
         expect(podcast).to receive_message_chain(:episodes, :create).with(episode_details_from_rss)
         subject.update_podcast_episodes_info
       end
+
+      context 'when no description is present' do
+        let(:description) { nil }
+        let(:content) { 'description' }
+
+        it 'fetches the content' do
+          expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
+          subject.update_podcast_episodes_info
+        end
+
+        context 'when no content is present' do
+          let(:content) { nil }
+          let(:summary) { 'description' }
+
+          it 'fetches the summary' do
+            expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
+            subject.update_podcast_episodes_info
+          end
+        end
+      end
     end
   end
 end

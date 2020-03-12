@@ -47,7 +47,7 @@ module Crawler
         episode_details_from_rss = {}
 
         episode_details_from_rss[:title] = entry.title
-        episode_details_from_rss[:description] = entry&.itunes_summary
+        episode_details_from_rss[:description] = parse_description(entry)
         episode_details_from_rss[:link_to_website] = entry.url
         episode_details_from_rss[:guid] = entry.entry_id
         episode_details_from_rss[:publication_date] = entry.published
@@ -93,6 +93,10 @@ module Crawler
       else
         time_string.to_i
       end
+    end
+
+    def parse_description(entry)
+      entry&.itunes_summary || entry&.content || entry&.summary
     end
   end
 end
