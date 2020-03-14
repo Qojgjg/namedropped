@@ -52,8 +52,6 @@ module Importer
   end
 end
 
-# require_relative 'lib/importer/podcast_importer'
-
 # DIRECTORY_OF_FILES_WITH_PODCAST_DETAILS = './db/podcast_seed_data/podcasts_as_json'
 
 # Dir.children(DIRECTORY_OF_FILES_WITH_PODCAST_DETAILS).each do |filename|

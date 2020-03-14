@@ -1,5 +1,3 @@
-require_relative '../../lib/crawler/podcast_crawler.rb'
-
 class EpisodeFetchWorker
   include Sidekiq::Worker
 
