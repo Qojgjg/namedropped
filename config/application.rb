@@ -17,5 +17,7 @@ module Namedropped
     # the framework and any gems in your application.
     config.action_mailer.default_url_options = { host: 'namedropped.co' }
     config.action_mailer.preview_path = "#{Rails.root}/spec/mailers/previews"
+
+    config.active_job.queue_adapter = :sidekiq
   end
 end
