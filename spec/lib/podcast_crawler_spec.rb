@@ -1,5 +1,4 @@
 require 'rails_helper'
-require_relative '../../lib/crawler/podcast_crawler'
 
 RSpec.describe Crawler::PodcastCrawler do
   let(:podcast) { Podcast.new(title: 'The Daily', rss: 'https://rss.art19.com/the-daily', itunes_image: 'not_available', id: 1) }
