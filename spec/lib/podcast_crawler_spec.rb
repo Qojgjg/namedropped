@@ -148,11 +148,11 @@ RSpec.describe Crawler::PodcastCrawler do
       let(:response_body) { double(:response_body) }
 
       let(:title) { 'title' }
-      let(:description) { 'description' }
+      let(:itunes_summary) { 'description' }
       let(:summary) { nil }
       let(:content) { nil }
       let(:entry) { OpenStruct.new(title: title,
-                                   itunes_summary: description,
+                                   itunes_summary: itunes_summary,
                                    summary: summary,
                                    content: content,
                                    url: 'link_to_website',
@@ -187,23 +187,32 @@ RSpec.describe Crawler::PodcastCrawler do
         subject.update_podcast_episodes_info
       end
 
-      context 'when no description is present' do
-        let(:description) { nil }
-        let(:content) { 'description' }
+      context 'when no itunes_summary is present' do
+        let(:content) { 'description_from_content' }
 
-        it 'fetches the content' do
-          expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
-          subject.update_podcast_episodes_info
+        before do
+          allow(entry).to receive(:respond_to?).with(:itunes_summary).and_return(false)
+          allow(entry).to receive(:respond_to?).with(:content).and_return(true)
         end
 
-        context 'when no content is present' do
-          let(:content) { nil }
-          let(:summary) { 'description' }
+        it 'fetches the content' do
+          expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description_from_content'))
+          subject.update_podcast_episodes_info
+        end
+      end
 
-          it 'fetches the summary' do
-            expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description'))
-            subject.update_podcast_episodes_info
-          end
+      context 'when neither itunes_summary nor content are present' do
+        let(:summary) { 'description_from_summary' }
+
+        before do
+          allow(entry).to receive(:respond_to?).with(:itunes_summary).and_return(false)
+          allow(entry).to receive(:respond_to?).with(:content).and_return(false)
+          allow(entry).to receive(:respond_to?).with(:summary).and_return(true)
+        end
+
+        it 'fetches the summary' do
+          expect(podcast).to receive_message_chain(:episodes, :create).with(hash_including(description: 'description_from_summary'))
+          subject.update_podcast_episodes_info
         end
       end
     end
