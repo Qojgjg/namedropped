@@ -7,8 +7,7 @@ class ApplicationMailer < ActionMailer::Base
     :password => ENV['SENDGRID_PASSWORD'],
     :domain => 'namedropped.co',
     :address => 'smtp.sendgrid.net',
-    :port => 465,
-    :authentication => :plain,
-    :enable_starttls_auto => true
+    :port => 587,
+    :authentication => :plain
   }
 end
