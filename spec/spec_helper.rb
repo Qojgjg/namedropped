@@ -172,6 +172,8 @@ RSpec.configure do |config|
       example.run
     end
   end
+
+  config.after(:each) { ActionMailer::Base.deliveries.clear }
 end
 
 VCR.configure do |config|
