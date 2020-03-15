@@ -1,5 +1,5 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'from@example.com'
+  default from: "namedropped <notification@namedropped.co>"
   layout 'mailer'
 
   ActionMailer::Base.smtp_settings = {
