@@ -15,5 +15,9 @@ module Namedropped
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
+    config.action_mailer.default_url_options = { host: 'namedropped.co' }
+    config.action_mailer.preview_path = "#{Rails.root}/spec/mailers/previews"
+
+    config.active_job.queue_adapter = :sidekiq
   end
 end
