@@ -6,4 +6,10 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   validates :email, presence: true
+
+  protected
+
+  def password_required?
+    false
+  end
 end
