@@ -42,7 +42,7 @@ gem 'webpacker'
 gem 'react-rails'
 gem 'feedjira'
 gem 'httparty'
-
+gem 'scout_apm'
 
 gem 'elasticsearch-model', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '6.x'
 gem 'elasticsearch-rails', git: 'git://github.com/elastic/elasticsearch-rails.git', branch: '6.x'
