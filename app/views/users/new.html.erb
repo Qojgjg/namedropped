@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-4 order-md-2 mb-4"></div>
+    <div class="col-md-8 order-md-1">
+      <h4 class="mb-3">Get notified when your search term is namedropped in a podcast</h4>
+      <%= form_with model: @user, url: alerts_path, class: "needs-validation" do |f| %>
+        <hr class="mb-4">
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <%= f.fields_for :search_terms do |search_term_field| %>
+              <label for="search_term">Search term</label>
+              <%= search_term_field.text_field :name, class: "form-control", placeholder: @placeholder_search_term, required: "", id: 'search_term' %>
+              <small class="text-muted">The name or term you want to be notified about</small>
+            <% end %>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="email">Email address</label>
+            <%= f.email_field :email, class: "form-control", placeholder: "you@example.com", required: "", id: 'email' %>
+          </div>
+        </div>
+        <%= f.submit "Get notified", type: "submit", class: "btn btn-primary btn-lg btn-block" %>
+      <% end %>
+    </div>
+  </div>
+</div>

@@ -10,4 +10,9 @@ Rails.application.routes.draw do
 
   resources :search, only: [:show]
   resources :episodes, only: [:show]
+
+  devise_scope :user do
+    get '/alerts', to: 'users#new'
+    post '/alerts', to: 'users#create'
+  end
 end
