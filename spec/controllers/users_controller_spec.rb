@@ -31,9 +31,11 @@ RSpec.describe UsersController, :type => :controller do
   describe 'POST create' do
     let(:user) { instance_double('User', :user, search_terms: search_terms) }
     let(:search_terms) { instance_double('Search Term', :search_term, build: nil, last: double(:last, name: search_term)) }
+    let(:mail) { double(:mail, deliver_later: nil) }
 
     before do
       allow(User).to receive(:new).and_return(user)
+      allow(UserRegistrationMailer).to receive(:search_term_submitted_email).with(user, search_term).and_return(mail)
     end
 
     context 'successful submission' do
@@ -49,6 +51,11 @@ RSpec.describe UsersController, :type => :controller do
       it 'sets the flash notice' do
         post :create, params: { user: {"search_terms_attributes"=>{"0"=>{"name"=>"Rip Tide"}}, "email"=>"example@domain.com"} }
         expect(flash[:notice]).to eq("Thanks, we'll send you an email when '#{search_term}' is namedropped in a podcast.")
+      end
+
+      it 'sends an email as a confirmation' do
+        expect(UserRegistrationMailer).to receive(:search_term_submitted_email).with(user, search_term)
+        post :create, params: { user: {"search_terms_attributes"=>{"0"=>{"name"=>"Rip Tide"}}, "email"=>"example@domain.com"} }
       end
 
       it 'redirects to the root path' do

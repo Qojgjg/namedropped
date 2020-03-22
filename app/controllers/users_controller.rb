@@ -10,11 +10,12 @@ class UsersController < ApplicationController
   end
 
   def create
-    user = User.new(search_term_params)
-    @search_term = user.search_terms.last.name
+    @user = User.new(search_term_params)
+    @search_term = @user.search_terms.last.name
 
-    if user.save
+    if @user.save
       flash[:notice] = "Thanks, we'll send you an email when '#{@search_term}' is namedropped in a podcast."
+      send_confirmation_email
       redirect_to root_path
     else
       flash.now[:error] = "Could not save search term"
@@ -26,6 +27,10 @@ class UsersController < ApplicationController
 
   def track_action
     ahoy.track "Submit search term", request.path_parameters.merge(search_term: @search_term)
+  end
+
+  def send_confirmation_email
+    UserRegistrationMailer.search_term_submitted_email(@user, @search_term).deliver_later
   end
 
   def search_term_params
