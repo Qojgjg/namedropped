@@ -5,3 +5,21 @@
   </nav>
   <a class="btn btn-outline-primary" href="<%= alerts_path %>">Get notified</a>
 </div>
+
+<div class="container">
+  <% if flash[:notice] %>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+      <%= flash[:notice] %>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  <% elsif flash[:error] %>
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+      <%= flash[:error] %>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  <% end %>
+</div>
