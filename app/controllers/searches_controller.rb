@@ -4,7 +4,7 @@ class SearchesController < ApplicationController
   def typeahead_search
     if verified_request?
       @typeahead_query = params[:q]
-      cookies.encrypted[:search_term] = @typeahead_query
+      cookies[:search_term] = @typeahead_query
 
       track_action(name: 'typeahead_search', query: @typahead_query)
 
@@ -16,7 +16,7 @@ class SearchesController < ApplicationController
 
   def main_search
     @main_query = params[:q]
-    cookies.encrypted[:search_term] = @main_query
+    cookies[:search_term] = @main_query
 
     track_action(name: 'main_search', query: @main_query)
 
