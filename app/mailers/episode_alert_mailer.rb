@@ -2,7 +2,7 @@ class EpisodeAlertMailer < ApplicationMailer
   default :from => "namedropped <notification@namedropped.co>"
 
   def send_alert_email(user, search_term, episode)
-    @user = OpenStruct.new(email: 'rschultzejena@gmail.com')
+    @user = OpenStruct.new(email: 'email@domain.com')
     @search_term = search_term
     @episode = episode
 
