@@ -30,7 +30,7 @@ RSpec.describe SearchesController, :type => :controller do
       end
 
       it 'stores the query in an encrypted cookie' do
-        expect(cookies.encrypted[:search_term]).to eq(typeahead_query)
+        expect(cookies[:search_term]).to eq(typeahead_query)
       end
 
       it 'searches for the query term through Elasticsearch' do
@@ -92,7 +92,7 @@ RSpec.describe SearchesController, :type => :controller do
     end
 
     it 'stores the query in an encrypted cookie' do
-      expect(cookies.encrypted[:search_term]).to eq(main_query)
+      expect(cookies[:search_term]).to eq(main_query)
     end
 
     it 'does not verify CSRF tokens' do
