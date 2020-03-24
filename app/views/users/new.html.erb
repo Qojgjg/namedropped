@@ -3,7 +3,7 @@
     <div class="col-md-4 order-md-2 mb-4"></div>
     <div class="col-md-8 order-md-1">
       <h4 class="mb-3">Get notified when your search term is namedropped in a podcast</h4>
-      <%= form_with model: @user, url: alerts_path, class: "needs-validation" do |f| %>
+      <%= form_with model: @user, url: alerts_path, local: true, class: "needs-validation" do |f| %>
         <hr class="mb-4">
         <div class="row">
           <div class="col-md-6 mb-3">
