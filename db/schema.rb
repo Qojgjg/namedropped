@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_20_224704) do
+ActiveRecord::Schema.define(version: 2020_03_27_083225) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -114,6 +114,14 @@ ActiveRecord::Schema.define(version: 2020_03_20_224704) do
     t.float "average_rating"
     t.integer "itunes_id"
     t.index ["itunes_id"], name: "index_podcasts_on_itunes_id", unique: true
+  end
+
+  create_table "search_term_matches", force: :cascade do |t|
+    t.string "matching_episode_field"
+    t.bigint "episode_id"
+    t.bigint "search_term_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "search_terms", force: :cascade do |t|
