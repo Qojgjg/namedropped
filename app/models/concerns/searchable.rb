@@ -20,6 +20,7 @@ module Searchable
 
     def self.typeahead_search(query)
       search_definition =  {
+        sort: {publication_date: {order: :desc}},
         query: {
           multi_match: {
             query: query,
@@ -35,6 +36,7 @@ module Searchable
     def self.main_search(query)
       search_definition =  {
         size: 100,
+        sort: {publication_date: {order: :desc}},
         query: {
           multi_match: {
             query: query,
