@@ -81,8 +81,6 @@ ActiveRecord::Schema.define(version: 2020_03_30_195916) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["guid", "podcast_id"], name: "index_episodes_on_guid_and_podcast_id", unique: true
-    t.index ["guid"], name: "index_episodes_on_guid"
-    t.index ["id"], name: "index_episodes_on_id"
     t.index ["podcast_id"], name: "index_episodes_on_podcast_id"
   end
 
