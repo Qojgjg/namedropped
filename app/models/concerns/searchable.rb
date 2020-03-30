@@ -48,5 +48,27 @@ module Searchable
 
       __elasticsearch__.search(search_definition)
     end
+
+    def self.crawler_search(query, date)
+      search_definition =  {
+        size: 100,
+        query: {
+          bool: {
+            must: {
+              multi_match: {
+                query: query,
+                type: :phrase,
+                fields: [:title, :description]
+              }
+            },
+            must_not: {
+              range: { publication_date: { lt: date } }
+            }
+          }
+        }
+      }
+
+      __elasticsearch__.search(search_definition)
+    end
   end
 end
