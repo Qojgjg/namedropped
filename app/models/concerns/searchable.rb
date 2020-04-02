@@ -1,5 +1,7 @@
 module Searchable
   extend ActiveSupport::Concern
+  SEARCHABLE_FIELDS = [:title, :description]
+  RESULT_SET_SIZE = 100
 
   included do
     include Elasticsearch::Model
@@ -20,12 +22,12 @@ module Searchable
 
     def self.typeahead_search(query)
       search_definition =  {
-        sort: {publication_date: {order: :desc}},
+        sort: { publication_date: { order: :desc } },
         query: {
           multi_match: {
             query: query,
             type: :phrase,
-            fields: [:title, :description]
+            fields: SEARCHABLE_FIELDS
           },
         }
       }
@@ -35,13 +37,13 @@ module Searchable
 
     def self.main_search(query)
       search_definition =  {
-        size: 100,
-        sort: {publication_date: {order: :desc}},
+        size: RESULT_SET_SIZE,
+        sort: { publication_date: { order: :desc } },
         query: {
           multi_match: {
             query: query,
             type: :phrase,
-            fields: [:title, :description]
+            fields: SEARCHABLE_FIELDS
           },
         }
       }
@@ -51,14 +53,14 @@ module Searchable
 
     def self.crawler_search(query, date)
       search_definition =  {
-        size: 100,
+        size: RESULT_SET_SIZE,
         query: {
           bool: {
             must: {
               multi_match: {
                 query: query,
                 type: :phrase,
-                fields: [:title, :description]
+                fields: SEARCHABLE_FIELDS
               }
             },
             must_not: {
