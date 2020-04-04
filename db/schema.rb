@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_03_30_203207) do
+ActiveRecord::Schema.define(version: 2020_04_04_203942) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -122,6 +122,7 @@ ActiveRecord::Schema.define(version: 2020_03_30_203207) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "user_id"
+    t.datetime "notified_on"
     t.index ["episode_id", "search_term_id", "user_id"], name: "custom_uniqueness_index", unique: true
   end
 
