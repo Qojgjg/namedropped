@@ -1,7 +1,6 @@
 class SearchTermCrawlerService
-  def initialize(search_term, date_of_last_search_term_match)
+  def initialize(search_term)
     @search_term = search_term
-    @date_of_last_search_term_match = date_of_last_search_term_match
   end
 
   def crawl_and_store_results
@@ -10,6 +9,10 @@ class SearchTermCrawlerService
   end
 
   private
+
+  def date_of_last_search_term_match
+    @date_of_last_search_term_match ||= (search_term&.search_term_matches.last&.created_at || Date.today)
+  end
 
   def store_results
     formatted_results.each do |r|
@@ -21,7 +24,7 @@ class SearchTermCrawlerService
     @response = Episode.crawler_search(search_term.name, date_of_last_search_term_match)
   end
 
-  attr_accessor :response, :search_term, :date_of_last_search_term_match
+  attr_accessor :response, :search_term
 
   def formatted_results
     response.results.map(&:_source)

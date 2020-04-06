@@ -3,6 +3,8 @@ require 'rails_helper'
 RSpec.describe SearchTermCrawlerService do
   describe '#crawl_and_store_results' do
     let(:search_term) { double(:search_term, name: 'Nick Gillespie', id: 1, user_id: 100) }
+    let(:search_term_match) { double(:search_term_match, created_at: date_of_last_search_term_match) }
+    let(:search_term_matches) { [search_term_match] }
     let(:date_of_last_search_term_match) { double(:date) }
     let(:elasticsearch_response) { double(:elasticsearch_response, results: results) }
     let(:results) { [result] }
@@ -14,10 +16,11 @@ RSpec.describe SearchTermCrawlerService do
        podcast: {itunes_image: "image_path"}}
     end
 
-    let(:subject) { described_class.new(search_term, date_of_last_search_term_match) }
+    let(:subject) { described_class.new(search_term) }
 
     before do
       allow(Episode).to receive(:crawler_search).with(search_term.name, date_of_last_search_term_match).and_return(elasticsearch_response)
+      allow(search_term).to receive(:search_term_matches).and_return(search_term_matches)
     end
 
     it 'stores search results as search term matches' do
@@ -43,5 +46,17 @@ RSpec.describe SearchTermCrawlerService do
       end
     end
 
+    context 'when there are no previous search term matches' do
+      let(:date_of_last_search_term_match) { nil }
+
+      before do
+        allow(elasticsearch_response).to receive(:results).and_return([])
+      end
+
+      it 'performs the episode search with the date of today' do
+        expect(Episode).to receive(:crawler_search).with(search_term.name, Date.today).and_return(elasticsearch_response)
+        subject.crawl_and_store_results
+      end
+    end
   end
 end
