@@ -9,11 +9,14 @@ RSpec.describe SearchTermCrawlerService do
     let(:elasticsearch_response) { double(:elasticsearch_response, results: results) }
     let(:results) { [result] }
     let(:result) { double(:result, _source: _source) }
-    let(:_source) do {id: 1840653,
-       title: "A podcast for testing",
-       description: "Nick Gillespie and the crew",
-       publication_date: "2020-03-29T00:00:00.000Z",
-       podcast: {itunes_image: "image_path"}}
+    let(:_source) do
+      {
+        id: 1840653,
+        title: "A podcast for testing",
+        description: "Nick Gillespie and the crew",
+        publication_date: "2020-03-29T00:00:00.000Z",
+        podcast: { itunes_image: "image_path" }
+      }
     end
 
     let(:subject) { described_class.new(search_term) }
