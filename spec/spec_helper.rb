@@ -118,7 +118,7 @@ RSpec.configure do |config|
   # Start an in-memory cluster for Elasticsearch as needed
   config.before :all, elasticsearch: true do
     # Elasticsearch::Extensions::Test::Cluster.start
-    Elasticsearch::Extensions::Test::Cluster.start(port: 9250, nodes: 1, timeout: 120, version: '6.8.6') unless Elasticsearch::Extensions::Test::Cluster.running?(on: 9250)
+    Elasticsearch::Extensions::Test::Cluster.start(port: 9250, nodes: 1, timeout: 120, version: '7.6.2') unless Elasticsearch::Extensions::Test::Cluster.running?(on: 9250)
   end
 
   # Stop elasticsearch cluster after test run
