@@ -2,8 +2,11 @@ Hey,
 
 Thanks for submitting your search term. 👍
 
-We'll keep an ear open and will let you know once <%= @search_term %> is mentioned in a podcast. <br><br>If you have any questions at all, don't hesitate to get in touch.
+We'll keep an ear open and will let you know once <%= @search_term %> is mentioned on a podcast. 
 
+<br><br>The current mentions of <%= @search_term %> can be found here: https://www.namedropped.co/search?q=<%= CGI.escape(@search_term) %>
+
+<br><br>If you have any questions at all, don't hesitate to get in touch.
 Thanks,
 
 Robert from namedropped

@@ -5,7 +5,11 @@
 <body bgcolor="#ffffff">
   <div>
     <div style="font-family:sans-serif;">
-      <div>Hey,<br><br>Thanks for submitting your search term. 👍<br><br>We'll keep an ear open and will let you know once <%= @search_term %> is mentioned in a podcast. <br><br>If you have any questions at all, don't hesitate to get in touch.<br><br>Thanks,<br><br>Robert from <a href="https://www.namedropped.co">namedropped</a><br></div>
+      <div>Hey,<br><br>Thanks for submitting your search term. 👍<br><br>We'll keep an ear open and will let you know once <%= @search_term %> is mentioned on a podcast. 
+        <br><br>The current mentions of <%= @search_term %> can be found here: <br><br><a href="https://www.namedropped.co/search?q=<%= CGI.escape(@search_term) %>">Previous mentions of <%= @search_term %></a>
+
+
+        <br><br>If you have any questions at all, don't hesitate to get in touch.<br><br>Thanks,<br><br>Robert from <a href="https://www.namedropped.co">namedropped</a><br></div>
     </div>
   </div>
 </body>
