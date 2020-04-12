@@ -96,11 +96,11 @@ module Crawler
     end
 
     def get_description(entry)
-      if entry.respond_to?(:itunes_summary)
-        entry.itunes_summary
-      elsif entry.respond_to?(:content)
+      if entry.respond_to?(:content) && entry.content.present?
         entry.content
-      elsif entry.respond_to?(:summary)
+      elsif entry.respond_to?(:itunes_summary) && entry.itunes_summary.present?
+        entry.itunes_summary
+      elsif entry.respond_to?(:summary) && entry.summary.present?
         entry.summary
       end
     end
