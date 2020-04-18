@@ -103,11 +103,14 @@ RSpec.configure do |config|
     DatabaseCleaner.strategy = :truncation
   end
 
-  config.around(:each) do |example|
+  config.before(:each) do |example|
     unless example.metadata[:elasticsearch]
-      module Searchable; end
+      el = OpenStruct.new(index_document: nil)
+      allow_any_instance_of(Episode).to receive(:__elasticsearch__).and_return(el)
     end
+  end
 
+  config.around(:each) do |example|
     if example.metadata[:vcr]
       example.run
     else
