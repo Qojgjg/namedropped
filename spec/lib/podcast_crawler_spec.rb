@@ -87,11 +87,6 @@ RSpec.describe Crawler::PodcastCrawler do
     end
 
     let(:episodes) { instance_double('episodes') }
-    let(:__elasticsearch__) { double(:__elasticsearch__, index_document: nil) }
-
-    before do
-      allow_any_instance_of(Episode).to receive(:__elasticsearch__).and_return(__elasticsearch__)
-    end
 
     it 'creates an episode for each item in the feed', :vcr do
       VCR.use_cassette('the-daily-rss-feed') do
