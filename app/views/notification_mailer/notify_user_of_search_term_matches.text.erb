@@ -1,0 +1,20 @@
+Hey,
+
+[<%= @search_term %>] was namedropped on at least one podcast 🙌
+
+These podcasts mentioned [<%=@search_term %>]
+
+
+<% @search_term_matches.each do |search_term_match| %>
+  - <%= search_term_match.episode.podcast.title%>
+    <%= episode_url(search_term_match.episode) %>
+
+<% end %>
+
+If you have any questions at all, don't hesitate to get in touch.
+
+Thanks,
+
+Robert from namedropped
+- https://www.namedropped.co
+

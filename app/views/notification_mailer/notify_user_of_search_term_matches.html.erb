@@ -1,0 +1,21 @@
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+<body bgcolor="#ffffff">
+  <div>
+    <div style="font-family:sans-serif;">
+      <div>Hey,<br><br>[<%= @search_term %>] was namedropped on at least one podcast 🙌<br><br>
+        These podcasts mentioned [<%=@search_term %>]
+        <br><br>
+
+        <% @search_term_matches.each do |search_term_match| %>
+          <ul>
+            <li><a href=<%= episode_url(search_term_match.episode) %>><%= search_term_match.episode.podcast.title%></a></li>
+          </ul>
+        <% end %>
+
+<br>If you have any questions at all, don't hesitate to get in touch.<br><br>Thanks,<br><br>Robert from <a href="https://www.namedropped.co">namedropped</a><br></div>
+    </div>
+  </div>
+</body>
+</html>
