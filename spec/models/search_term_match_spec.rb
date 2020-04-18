@@ -1,11 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe SearchTermMatch, type: :model do
-  before do
-    stub_request(:put, "http://localhost:9250/episodes/_doc/1")
-    stub_request(:put, "http://localhost:9250/episodes/_doc/2")
-    stub_request(:put, "http://localhost:9250/episodes/_doc/3")
-  end
   let(:search_term) { FactoryBot.create(:search_term, created_at: 5.days.ago) }
   let(:search_term_match_one) { FactoryBot.create(:search_term_match, search_term: search_term) }
   let(:search_term_match_two) { FactoryBot.create(:search_term_match) }
