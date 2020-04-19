@@ -1,14 +1,30 @@
 class SearchTermMatchNotifierService
-  def initialize(search_term_match)
-    @search_term_match = search_term_match
+  def initialize(users_with_search_term_match_ids)
+    @users_with_search_term_match_ids = users_with_search_term_match_ids
   end
 
   def notify
-    NotificationMailer.notify_user_of_search_term_match(search_term_match).deliver_later
-    search_term_match.update(notified_on: DateTime.now)
+    users.find_each do |user|
+      SearchTerm.with_matches_due_for_notification.where(user: user).each do |search_term|
+        search_term_matches = search_term.search_term_matches.due_for_notification
+
+        enqueue_email(user, search_term, search_term_matches)
+        mark_search_term_matches_as_notified(search_term_matches)
+      end
+    end
   end
 
   private
 
-  attr_reader :search_term_match
+  def users
+    @users ||= User.where(id: @users_with_search_term_match_ids)
+  end
+
+  def mark_search_term_matches_as_notified(search_term_matches)
+    search_term_matches.update_all(notified_on: DateTime.now)
+  end
+
+  def enqueue_email(user, search_term, search_term_matches)
+    NotificationMailer.notify_user_of_search_term_matches(user, search_term, search_term_matches.to_a).deliver_later
+  end
 end
