@@ -5,6 +5,10 @@ RSpec.describe Searchable, elasticsearch: true do
     Timecop.freeze(Time.local(2020, 4, 1, 0, 0, 0))
   end
 
+  after do
+    Timecop.return
+  end
+
   let(:publication_date) { Date.today }
   let(:episode_title) { 'Check out namedropped' }
   let(:episode_description) { 'Description of the podcast about namedropped' }
