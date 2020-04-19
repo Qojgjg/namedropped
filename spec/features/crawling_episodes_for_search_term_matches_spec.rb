@@ -12,7 +12,7 @@ RSpec.feature 'crawling episodes for a search_term_match', elasticsearch: true d
   private
 
   def when_a_user_has_a_search_term
-    FactoryBot.create(:search_term, name: 'Ruby')
+    FactoryBot.create(:search_term, name: 'Ruby', created_at: 1.day.ago)
   end
 
   def and_the_cron_job_runs_the_rake_task

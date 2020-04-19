@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe SearchTermCrawlerService do
   describe '#crawl_and_store_results' do
-    let(:search_term) { double(:search_term, name: 'Nick Gillespie', id: 1, user_id: 100) }
+    let(:search_term) { double(:search_term, name: 'Nick Gillespie', id: 1, user_id: 100, created_at: 3.days.ago) }
     let(:search_term_match) { double(:search_term_match, created_at: date_of_last_search_term_match) }
     let(:search_term_matches) { [search_term_match] }
     let(:date_of_last_search_term_match) { double(:date) }
@@ -57,7 +57,7 @@ RSpec.describe SearchTermCrawlerService do
       end
 
       it 'performs the episode search with the date of today' do
-        expect(Episode).to receive(:crawler_search).with(search_term.name, Date.today).and_return(elasticsearch_response)
+        expect(Episode).to receive(:crawler_search).with(search_term.name, search_term.created_at).and_return(elasticsearch_response)
         subject.crawl_and_store_results
       end
     end

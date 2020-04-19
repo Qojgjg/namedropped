@@ -11,7 +11,7 @@ class SearchTermCrawlerService
   private
 
   def date_of_last_search_term_match
-    @date_of_last_search_term_match ||= (search_term&.search_term_matches.last&.created_at || Date.today)
+    @date_of_last_search_term_match ||= (search_term&.search_term_matches.last&.created_at || search_term.created_at)
   end
 
   def store_results
