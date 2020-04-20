@@ -13,5 +13,16 @@ RSpec.describe 'SearchTerm', type: :model do
       search_terms = SearchTerm.with_matches_due_for_notification
       expect(search_terms).to eq([search_term_one])
     end
+
+    context 'when there is one search_term with two search_term_matches' do
+      before do
+        FactoryBot.create(:search_term_match, search_term: search_term_one)
+      end
+
+      it 'returns one search_term record' do
+        search_terms = SearchTerm.with_matches_due_for_notification
+        expect(search_terms.count).to eq(1)
+      end
+    end
   end
 end
