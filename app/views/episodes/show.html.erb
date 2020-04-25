@@ -1,3 +1,6 @@
+<% title "Monitor the podcast #{@episode.podcast.title} for keywords" %>
+<% meta_tag :description, @episode.description %>
+
 <div class="container episode">
   <h2>This podcast mentioned <span class="badge badge-warning"><%= @search_term %></span> in an episode</h2>
   <div class="media episode-show">

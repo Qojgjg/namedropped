@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>namedropped</title>
+    <title>
+      <%= if content_for?(:title) then yield(:title) + ' | ' end %>
+      namedropped
+    </title>
+
+    <meta name='description' content='<%= yield_meta_tag(:description, 'Get notified when your name, business or brand get mentioned on a podcast. namedropped monitors podcasts so you can get in on the conversation about you.') %>' />
+
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
