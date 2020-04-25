@@ -25,7 +25,7 @@ class SearchResults extends React.Component {
                 ))
               }
           <small className="d-block text-right mt-3">
-            <a href="#">Get notified if [{ this.props.searchQuery }] gets mentioned in a podcast.</a>
+            <a href="/alerts">Get notified if [{ this.props.searchQuery }] gets mentioned in a podcast.</a>
           </small>
         </div>
       </React.Fragment>
